@@ -8,7 +8,7 @@
 
 Welcome to Cease Fire where we explore topics of contentions and study the Bible. Sometimes we are learning in public - right along with you - exploring the facts of a topic. 
 
-Take a Cease Fire moment with us to seek knowledge and gain wisdom. We’ll share the cold hard facts so you can always be ready to give an answer to everyone asking you a reason. 
+Take a Cease Fire moment with us to seek knowledge and gain wisdom. We’ll share the cold hard facts so you can always be ready to give an an<mark style="background: #E0CC4BA6;"></mark>swer to everyone asking you a reason. 
 
 Have an open mind and be willing to learn, even if you just can’t bring yourself to agree. 
 
@@ -91,7 +91,7 @@ The Scrolls are originally in the World English Bible (WEB) because it is a publ
 ![Logo.png](/img/user/_Assets/attachments/Logo.png)
 
 
-Obsidian Garden Sites Gallery has [Other Digital Gardens to Explore]([https://vaults.obsidian-community.com/](https://vaults.obsidian-community.com/)
+Check out Obsidian Garden Gallery for your daily dose of inspiration - Explore what others built & published with Obsidian Digital Garden -  [https://vaults.obsidian-community.com/](https://vaults.obsidian-community.com/)
 
 # External Links 
 CeaseFire Moments may reference third-party websites or resources. These links are shared for informational or reference purposes only. We do not endorse, guarantee, or assume responsibility for the content, opinions, accuracy, privacy practices, or availability of any external sites. Inclusion of a link does not imply agreement with or approval of all views, ideas, or materials found therein. Visitors access external links at their own risk.
