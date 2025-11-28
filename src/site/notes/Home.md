@@ -16,6 +16,7 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 
 | Latest Drops                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]       |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)\|24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)]]   |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]         |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]                                                                                                                            |
@@ -35,7 +36,6 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 | [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]                           |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)\|18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)]]                             |
 | [[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]                                                                                                                                      |
-| [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]                                                                                                                                          |
 
 { .block-language-dataview}
 

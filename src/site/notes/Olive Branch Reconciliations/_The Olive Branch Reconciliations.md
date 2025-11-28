@@ -4,6 +4,7 @@
 
 | Table of Content                                                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]       |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)\|24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)]]   |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]         |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]] |
