@@ -51,7 +51,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 		- but we know that when he is revealed, [[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-13#v12\|1 Cor-13#v12]], [[_The Scrolls/4. The Gospels and The Apostles/50 - Philippians/Phil-03#v20\|Phil-03#v20]]-21
 			- we <mark style="background: #D2B3FFA6;">will be</mark> like him; 
 				- for <mark style="background: #D2B3FFA6;">we will see</mark> him [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-12#v8\|Num-12#v8]]
-					- just as he is. [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40#v5\|Isa-40#v5]]
+					- just as he is. [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-40#v5\|Isa-40#v5]]
 		- <mark style="background: #E0CC4BA6;">Everyone</mark> who has <mark style="background: #04CD3EA6;">this hope</mark>[^17]  <mark style="background: #CD04BBA6;">//of seeing him just as he is//</mark> [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-14#v19\|Num-14#v19]],
 			- set on him 
 				- purifies himself[^24], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-30#v18\|Exod-30#v18]]
@@ -64,14 +64,14 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 
 - You know that 
 	- <mark style="background: #D7CD91A6;">he</mark> <mark style="background: #CD04BBA6;">//Jesus, the Messiah// </mark>was <mark style="background: #04CD3EA6;">revealed</mark> 
-		- to <mark style="background: #EB9E57A6;">take away our sins</mark>[^16],  [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-53#v5\|Isa-53#v5]], [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-17#v11\|Lev-17#v11]], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v17\|Exod-25#v17]]
+		- to <mark style="background: #EB9E57A6;">take away our sins</mark>[^16],  [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-53#v5\|Isa-53#v5]], [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-17#v11\|Lev-17#v11]], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v17\|Exod-25#v17]]
 		- and <mark style="background: #04CD3EA6;">no sin is in</mark> <mark style="background: #D7CD91A6;">him</mark>.
-			- <mark style="background: #E0CC4BA6;">Whoever</mark> <mark style="background: #04CD3EA6;">remains</mark> [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31#v33\|Jer-31#v33]],
+			- <mark style="background: #E0CC4BA6;">Whoever</mark> <mark style="background: #04CD3EA6;">remains</mark> [[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-31#v33\|Jer-31#v33]],
 				- in <mark style="background: #D7CD91A6;">him</mark> 
 					- <mark style="background: #04CD3EA6;">doesn't sin</mark>. 
 					- <mark style="background: #E0CC4BA6;">Whoever</mark> <mark style="background: #04CD3EA6;">sins</mark> 
 						- hasn't seen <mark style="background: #D7CD91A6;">him</mark> 
-						- and doesn't know <mark style="background: #D7CD91A6;">him</mark>[^22].  [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-59#v2\|Isa-59#v2]]
+						- and doesn't know <mark style="background: #D7CD91A6;">him</mark>[^22].  [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-59#v2\|Isa-59#v2]]
 #### Tabernacle language: Jesus is the [[Gate of Wisdom/Offering/Offerings\|Offerings]], [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]. Those who kept on sinning were put out of the camp. [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-16#v22\|Lev-16#v22]], [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-23#v14\|Deut-23#v14]]
 #### Jesus takes away our sin (lawlessness) (like the goat on [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]), whoever is in him does not sin (isn't lawless), those who don't know him have sin (lawlessness)
 #### The Atonement cleanses the Tabernacle which is where YHWH Dwells.
@@ -93,8 +93,8 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 							- the <mark style="background: #EB9E57A6;">works of the devil</mark>. [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-03#v15\|Gen-03#v15]], 
 		- <mark style="background: #E0CC4BA6;">Whoever</mark> <mark style="background: #04CD3EA6;">is born</mark> <mark style="background: #D7CD91A6;">of God</mark> 
 			- <mark style="background: #04CD3EA6;">doesn't commit sin</mark>, 
-				- because his seed [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-53#v10\|Isa-53#v10]]
-					- remains in him, [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-06#v13\|Isa-06#v13]]
+				- because his seed [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-53#v10\|Isa-53#v10]]
+					- remains in him, [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-06#v13\|Isa-06#v13]]
 						- and he can't sin, 
 							- because he is born of God. 
 #### Do not be lead astray from this [[Zunpublished/Good News\|Good News]]: Jesus came to destroy Unrighteousness (sinning and lawlessness) the work of the Adversary.  Righteousness (not sinning, keeping the law) is of YHWH and Jesus. 
@@ -123,7 +123,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 	- have passed out of death into life[^12], [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-30#v19\|Deut-30#v19]]
 		- <mark style="background: #EB9E57A6;">because we love the brothers</mark>. 
 	- <mark style="background: #A4A089A6;">He</mark> who <mark style="background: #04CD3EA6;">doesn't love his brother</mark> 
-		- <mark style="background: #EB9E57A6;">remains in death</mark>[^19].  [[_The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-18#v4\|Ezek-18#v4]]
+		- <mark style="background: #EB9E57A6;">remains in death</mark>[^19].  [[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-18#v4\|Ezek-18#v4]]
 		- <mark style="background: #A4A089A6;">Whoever</mark> hates his brother 
 			- is a murderer[^5], [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-09#v6\|Gen-09#v6]], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v13\|Exod-20#v13]], 
 				- and you know that no murderer 
@@ -168,7 +168,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 			- remains in him[^11],  [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-02#v2\|Num-02#v2]]
 			- and he in him.  [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v8\|Exod-25#v8]] [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v10\|Exod-25#v10]]
 			- By this we know that he remains in us[^23], 
-				- by the Spirit [[Gate of Wisdom/Ruach/Ruach\|Ruach]] which he gave us. [[_The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-36#v27\|Ezek-36#v27]],
+				- by the Spirit [[Gate of Wisdom/Ruach/Ruach\|Ruach]] which he gave us. [[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-36#v27\|Ezek-36#v27]],
 #### We have to build the dwelling place within us, it has to remain [[Gate of Wisdom/Holy\|Holy]], [[Gate of Wisdom/Clean\|Clean]], for YHWH to dwell among us, just like they did in the wilderness. By being Righteous (sinless and law abiding) we remain in him and he in us. By being Unrighteous (sinful and lawless) we can not remain in the camp and are put out with the adversary.  [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 
 

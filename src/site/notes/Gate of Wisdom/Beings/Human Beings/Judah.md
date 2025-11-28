@@ -9,7 +9,7 @@
 - Father:  [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]], [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]/[[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]] by descent
 - Mother:
 - Other Relatives of Note:
-	- [[Zunpublished/David\|David]] - 8th Great Grandson of Judah, Hebrew/Israelite and Non-Israelite by descent. His father Jesse came from Ephrath and was an Ephrathite. [[_The Scrolls/2. Nevi'im (Prophets)/09 - 1 Samuel/1 Sam-16\|1 Sam-16]]
+	- [[Zunpublished/David\|David]] - 8th Great Grandson of Judah, Hebrew/Israelite and Non-Israelite by descent. His father Jesse came from Ephrath and was an Ephrathite. [[_The Scrolls/2. Neviim (Prophets)/09 - 1 Samuel/1 Sam-16\|1 Sam-16]]
 	- [[Gate of Wisdom/Beings/Jesus\|Gate of Wisdom/Beings/Jesus]] - Great… Grandson of Judah and David, Hebrew/Israelite and Non-Israelite by descent, From the House of Judah (Jews) [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-01\|Matt-01]]
 -  
 

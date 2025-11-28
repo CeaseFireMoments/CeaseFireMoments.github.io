@@ -32,7 +32,7 @@ In [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-01#v9\|1 Jo
 
 So by now, we should know that we are to forgive, if we don’t, we won’t be forgiven ourselves. I would go as far as to say that we should forgive even if the person doesn’t come and ask for forgiveness. But is forgiving the same as forgetting?
 
-Paul writes in [[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-10#v17\|Heb-10:17]] a reference to a scripture originally found in [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31#v33\|Jer-31:33]][[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31#v34\|-34]] where the Lord said, 
+Paul writes in [[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-10#v17\|Heb-10:17]] a reference to a scripture originally found in [[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-31#v33\|Jer-31:33]][[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-31#v34\|-34]] where the Lord said, 
 > “And I shall by no means remember their sins and their lawless deeds any longer.”
 
 The only form of the word forget that I could find was in [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-01#v24\|James-01:24]] and its meaning is “to *lose* *out* of mind; by implication to *neglect.”*

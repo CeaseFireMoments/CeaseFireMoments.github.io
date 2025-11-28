@@ -14,7 +14,7 @@
 # Additional Info
 - [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v15\|Lev-19#v15]] [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-01#v17\|Deut-01#v17]]- "Ye shall do no unrighteousness in judgment [[Zunpublished/Judgment Mishpatim\|Judgment Mishpatim]]; thou shalt not respect the person of the poor, nor honour the person of the mighty."
 - [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v17\|Lev-19#v17]] Thou shalt reprove (yākaḥ) thy neighbour, and not suffer sin upon him."
-- [[_The Scrolls/2. Nevi'im (Prophets)/38 - Zechariah/Zech-07#v9\|Zech-07#v9]] "Execute true judgment (mishpāṭ-ʾĕmet)."
+- [[_The Scrolls/2. Neviim (Prophets)/38 - Zechariah/Zech-07#v9\|Zech-07#v9]] "Execute true judgment (mishpāṭ-ʾĕmet)."
 
 # Connections
 - 

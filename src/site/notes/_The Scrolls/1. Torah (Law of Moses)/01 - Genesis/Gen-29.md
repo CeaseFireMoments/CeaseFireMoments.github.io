@@ -163,7 +163,7 @@ She conceived again, and bore a son. She said, "This time I will praise Yahweh."
 - **Other Related Scriptures**:
   - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Gen-28]]8: Jacob’s journey to Haran begins, and he receives God’s covenant promise.
   - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|Gen-30]]: Continuation of Jacob’s family and dealings with Laban.
-  - [[_The Scrolls/2. Nevi'im (Prophets)/28 - Hosea/Hos-12\|Hos-12]]:12 – References Jacob’s service in Haran for a wife.
+  - [[_The Scrolls/2. Neviim (Prophets)/28 - Hosea/Hos-12\|Hos-12]]:12 – References Jacob’s service in Haran for a wife.
   - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]]: Jacob’s departure from Laban and further covenant interactions.
 
 

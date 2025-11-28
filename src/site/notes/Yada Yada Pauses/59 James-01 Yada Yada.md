@@ -54,7 +54,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 							- <mark style="background: #E6852CA6;">perfect</mark> 
 							- <mark style="background: #E6852CA6;">and complete</mark>, 
 							- <mark style="background: #E6852CA6;">lacking in nothing</mark>. [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-08#v2\|Deut-08#v2]]
- - But if any of you lacks [[Zunpublished/Wisdom\|Wisdom]],  [[_The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-03#v9\|1 Kings-03#v9]] <mark style="background: #CD04BBA6;">//Wisdom about what is good and bad//</mark>
+ - But if any of you lacks [[Zunpublished/Wisdom\|Wisdom]],  [[_The Scrolls/2. Neviim (Prophets)/11 - 1 Kings/1 Kings-03#v9\|1 Kings-03#v9]] <mark style="background: #CD04BBA6;">//Wisdom about what is good and bad//</mark>
 	 - <mark style="background: #04CD3EA6;">let him ask of God</mark>, 
 		 - who gives to all 
 			 - liberally 
@@ -69,7 +69,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 					 - that he will receive anything from the Lord. [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-66#v18\|Ps-66#v18]]
 					 - He is a 
 						 - double-minded man, 
-						 - <mark style="background: #FF9EF6A6;">unstable in all his ways</mark>. [[_The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-18#v21\|1 Kings-18#v21]]
+						 - <mark style="background: #FF9EF6A6;">unstable in all his ways</mark>. [[_The Scrolls/2. Neviim (Prophets)/11 - 1 Kings/1 Kings-18#v21\|1 Kings-18#v21]]
 
 - But let the brother 
 	- in humble circumstances 
@@ -81,7 +81,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 		- For the sun arises 
 			- with the scorching wind 
 			- and withers the grass, 
-			- and the flower in it falls, [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40#v6\|Isa-40#v6]]
+			- and the flower in it falls, [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-40#v6\|Isa-40#v6]]
 			- and the beauty of its appearance perishes[^5]. 
 	- So the rich man 
 		- will also fade away [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-103#v15\|Ps-103#v15]]
@@ -122,7 +122,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 			- Of his own will 
 				- he gave birth to us 
 					- by the word of truth, 
-						- <mark style="background: #E6852CA6;">that we should be a kind of first fruits</mark> [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-02#v3\|Jer-02#v3]]
+						- <mark style="background: #E6852CA6;">that we should be a kind of first fruits</mark> [[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-02#v3\|Jer-02#v3]]
 							- of his creatures. 
 #### [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-119#v160\|Ps-119#v160]] The sum of thy word is truth (’ĕmet)”) ; [[_The Scrolls/4. The Gospels and The Apostles/43 - John/John-17#v17\|John-17#v17]] “Sanctify them through thy truth: thy word is truth” ; [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-01#v13\|Ephes-01#v13]] “…the word of truth, the gospel of your salvation”; [[_The Scrolls/4. The Gospels and The Apostles/60 - 1 Peter/1 Pet-01#v23\|1 Pet-01#v23]] “…born again… by the word of God”
 
@@ -145,7 +145,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 						- and not only hearers, 
 							- deluding your own selves. 
 						- For if anyone is a hearer of the word 
-							- and not a doer, [[_The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-33#v32\|Ezek-33#v32]]
+							- and not a doer, [[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-33#v32\|Ezek-33#v32]]
 							- he is like a man looking at his natural face in a mirror; [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-27#v19\|Prov-27#v19]]
 								- for he sees himself, 
 								- and goes away, 
@@ -167,7 +167,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 			- to visit the fatherless and widows in their affliction, 
 			- and to keep oneself unstained by the world. [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-14#v29\|Deut-14#v29]]
 
-#### Makes me think of [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|Isa-58]] 
+#### Makes me think of [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-58\|Isa-58]] 
 
 ***
 [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James\|James]] | [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-02\|James 02 →]]

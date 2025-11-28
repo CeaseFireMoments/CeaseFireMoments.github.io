@@ -35,7 +35,7 @@ You shall not do any work. It is a statute forever throughout your generations i
 		- The root עָנָה (‘anah) commonly understood to mean "to afflict," "to humble," or "to deny oneself."
 			- Isaiah 58:3, 5, the context of fasting uses עָנָה to describe humbling or afflicting oneself during a fast.
 			- In Psalm 35:13, "I humbled my soul with fasting" uses a form of עָנָה, reinforcing the link to self-denial or fasting.
-			- Scripture technically does not command us to fast on Yom Kippur. The emphasis should be on the spiritual dynamic of humbling ourselves. [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57\|Isa-57]] [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|Isa-58]] [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
+			- Scripture technically does not command us to fast on Yom Kippur. The emphasis should be on the spiritual dynamic of humbling ourselves. [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-57\|Isa-57]] [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-58\|Isa-58]] [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
 	- The noun נַפְשֹׁתֵיכֶם (nafshoteikhem) means "your souls" or "yourselves," so the focus is on the verb עָנָה.
 		- nefesh - refers to the whole self, including physical and emotional aspects
 		- soul, self, life, creature, person

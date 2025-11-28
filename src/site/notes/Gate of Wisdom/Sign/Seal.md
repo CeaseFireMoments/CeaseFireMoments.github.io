@@ -8,7 +8,7 @@
 Signet ring; to set a seal upon, mark with a seal, to seal
 
 1. Related to [[_The Scrolls/4. The Gospels and The Apostles/41 - Mark/Mark\|Mark]]
-	1. [[_The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-09#v4\|Ezek-09#v4]]
+	1. [[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-09#v4\|Ezek-09#v4]]
 2. Holy Spirit
 	1. [[_The Scrolls/4. The Gospels and The Apostles/47 - 2 Corinthians/2 Cor-01#v21\|2 Cor-01#v21]]22
 	2. [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-01#v13\|Ephes-01#v13]]

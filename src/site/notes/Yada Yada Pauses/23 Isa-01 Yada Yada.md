@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-01-yada-yada/","tags":["#Isaiah","#YadaYadaPauses","I"]}
 ---
 
-[[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-01\|Isa-01]]
+[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-01\|Isa-01]]
 ## Observations and Notes
 
 - Judah represents the people in the [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]. Jerusalem represents the leaders, the elite, the religious leaders. Israel - descendants of those brought out of Egypt

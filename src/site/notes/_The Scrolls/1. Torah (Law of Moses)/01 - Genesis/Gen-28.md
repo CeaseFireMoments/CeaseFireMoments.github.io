@@ -114,7 +114,7 @@ then [^9]this stone, which I have set up for a pillar, will be God's house. Of a
 - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]]:2-5: God renews the covenant with Isaac, promising land and descendants, akin to the promise to Jacob in Genesis 28:13-15.
 - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|Gen-35]]:1-15: God commands Jacob to return to Bethel, where he reaffirms the covenant and renames Jacob as Israel, directly connecting to the Bethel event in Genesis 28:16-22.
 - [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-26\|Deut-26]]:5: Refers to Jacob as a “wandering Aramean,” relating to his journey to Haran in Genesis 28:10.
-- [[_The Scrolls/2. Nevi'im (Prophets)/28 - Hosea/Hos-12\|Hos-12]]:12: Mentions Jacob’s flight to Aram (Haran) and his service for a wife, referencing the events following Genesis 28:10.
+- [[_The Scrolls/2. Neviim (Prophets)/28 - Hosea/Hos-12\|Hos-12]]:12: Mentions Jacob’s flight to Aram (Haran) and his service for a wife, referencing the events following Genesis 28:10.
 - [[_The Scrolls/4. The Gospels and The Apostles/43 - John/John-01\|John-01]]:51: Jesus references Jacob’s ladder (Genesis 28:12), describing angels ascending and descending on the Son of Man, connecting the dream to Christ.
 
 

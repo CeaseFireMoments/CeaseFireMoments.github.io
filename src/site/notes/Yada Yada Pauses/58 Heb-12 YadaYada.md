@@ -121,7 +121,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 			- [^15]of just //[[Gate of Wisdom/Right Standing/Righteous\|Righteous]]// men made [[Gate of Wisdom/Perfect\|Perfect]], 
 		- to Jesus, 
 			- [^11]the mediator of a new covenant, 
-			- and to the [^6]blood of sprinkling [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-52#v15\|Isa-52:15]]
+			- and to the [^6]blood of sprinkling [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-52#v15\|Isa-52:15]]
 				- that speaks better than that of Abel. 
 	- See that you don't [^1]refuse him <mark style="background: #CD04BBA6;">//God// </mark>who speaks. [[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v35\|Acts-07:35]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v36\|Acts-07#v36]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v37\|Acts-07#v37]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v38\|Acts-07#v38]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v39\|Acts-07#v39]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v40\|Acts-07#v40]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v41\|Acts-07#v41]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v42\|Acts-07#v42]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v43\|Acts-07#v43]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v44\|Acts-07#v44]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v45\|Acts-07#v45]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v46\|Acts-07#v46]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v47\|Acts-07#v47]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v48\|Acts-07#v48]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v49\|Acts-07#v49]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v50\|Acts-07#v50]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v51\|Acts-07#v51]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v52\|Acts-07#v52]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v53\|-53]]
 		- For if they didn't escape 
@@ -133,16 +133,16 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 					- who warns from heaven, 
 					- but now he has promised, saying, 
 						- "Yet once more I will shake not only the earth, 
-						- but also the heavens." [[_The Scrolls/2. Nevi'im (Prophets)/37 - Haggai/Hag-02#v6\|Hag-02:6]]
+						- but also the heavens." [[_The Scrolls/2. Neviim (Prophets)/37 - Haggai/Hag-02#v6\|Hag-02:6]]
 							- This phrase, "Yet once more" signifies the removing of those things that are shaken, 
 								- as of things that have been made, 
 								- that those things which are not shaken may remain. [[_The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-12#v2\|Dan-12:2]]
 	- Therefore, [^7]receiving a Kingdom 
-		- that can't be shaken, [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-54#v10\|Isa-54:10]]
+		- that can't be shaken, [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-54#v10\|Isa-54:10]]
 		- let's have grace, 
 			- through which we serve God acceptably, 
 		- with reverence and awe, 
-			- for our God is a consuming fire. [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-04#v24\|Deut-04:24]], [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-09#v3\|Deut-09:3]], [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-33#v14\|Isa-33:14]]
+			- for our God is a consuming fire. [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-04#v24\|Deut-04:24]], [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-09#v3\|Deut-09:3]], [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-33#v14\|Isa-33:14]]
 
 #### Very similar to what Stephen said before being stoned. [[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07\|Acts-07]]
 

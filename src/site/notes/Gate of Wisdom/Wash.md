@@ -15,7 +15,7 @@
 - Washing Clothes
 	- [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v14\|Exod-19:14]] Then [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]] came down from the mountain to the people and consecrated them, and they washed their clothes.
 	- [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-08#v21\|Num-08:21]] The [[Zunpublished/Levites\|Levites]] purified themselves and washed their clothes; then Aaron presented them before the Lord as a presentation offering. Aaron also made atonement for them to cleanse them ceremonially.
-	- [[_The Scrolls/2. Nevi'im (Prophets)/10 - 2 Samuel/2 Sam-12#v20\|2 Sam-12:20]] Then [[Zunpublished/David\|David]] got up from the ground. He washed, anointed himself, changed his clothes, went to the Lord’s house, and worshiped. 
+	- [[_The Scrolls/2. Neviim (Prophets)/10 - 2 Samuel/2 Sam-12#v20\|2 Sam-12:20]] Then [[Zunpublished/David\|David]] got up from the ground. He washed, anointed himself, changed his clothes, went to the Lord’s house, and worshiped. 
 	- [[_The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-07#v14\|Rev-07:14]] I said to him, “Sir, you know.” Then he told me: These are the ones coming out of the great tribulation. They washed their robes and made them white in the blood of the Lamb.
 
 - [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-58#v10\|Ps-58:10]] The righteous one will rejoice when he sees the retribution; he will wash his feet in the blood of the wicked.

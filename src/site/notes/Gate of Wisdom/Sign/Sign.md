@@ -11,7 +11,7 @@
 1. Rainbow [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-09#v12\|Gen-09#v12]] -17
 2. [[Zunpublished/Circumcision\|Circumcision]] [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17#v11\|Gen-17#v11]]
 3. Blood of Lamb  [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-12#v13\|Exod-12#v13]]
-4. [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]S, Shabbats, [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]] [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-31\|Exod-31]], [[_The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-20\|Ezek-20]]
+4. [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]S, Shabbats, [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]] [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-31\|Exod-31]], [[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-20\|Ezek-20]]
 
 Hand and forehead
 
@@ -40,7 +40,7 @@ Circumcision - [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-04
 
 Signs and wonders/ Holy Spirit [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-15#v18\|Rom-15#v18]]-20, [[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-02#v3\|Heb-02#v3]]-5
 
-Covenant - Torah - Holy Spirit [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-02#v28\|Rom-02#v28]]-29, [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31#v31\|Jer-31#v31]]-34
+Covenant - Torah - Holy Spirit [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-02#v28\|Rom-02#v28]]-29, [[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-31#v31\|Jer-31#v31]]-34
 
 Marked with the chotam (seal) [[_The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-07#v4\|Rev-07#v4]]
   

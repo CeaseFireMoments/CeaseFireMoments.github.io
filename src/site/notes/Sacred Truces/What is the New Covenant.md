@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/what-is-the-new-covenant/","tags":["N","SacredTruces"]}
 ---
 
-[[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31\|Jer-31]]
+[[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-31\|Jer-31]]
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 
 # What is the New Covenant?

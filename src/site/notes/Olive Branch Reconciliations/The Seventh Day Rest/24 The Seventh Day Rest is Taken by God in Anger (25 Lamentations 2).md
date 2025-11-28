@@ -17,10 +17,10 @@ The <mark style="background: #D7CD91A6;">Lord</mark> has <mark style="background
 
 
 ## **Define**: 
-- Place of assembly = booth, [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]], or Temple [[_The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-25#v8\|2 Kings-25#v8]]-21
+- Place of assembly = booth, [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]], or Temple [[_The Scrolls/2. Neviim (Prophets)/12 - 2 Kings/2 Kings-25#v8\|2 Kings-25#v8]]-21
 - Solemn assembly = [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]], the weekly seventh day rest (Sabbath) is listed as one of the appointed times.  
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
--  The king and the priest - not a specific person - the offices of such. The Davidic line were the kings, the Aaronic line were the priests. [[_The Scrolls/2. Nevi'im (Prophets)/28 - Hosea/Hos-03#v4\|Hos-03#v4]], [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-33#v21\|Jer-33#v21]]
+-  The king and the priest - not a specific person - the offices of such. The Davidic line were the kings, the Aaronic line were the priests. [[_The Scrolls/2. Neviim (Prophets)/28 - Hosea/Hos-03#v4\|Hos-03#v4]], [[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-33#v21\|Jer-33#v21]]
 - Zion, Her, My, I = [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]] 
 - The enemy = [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]
 

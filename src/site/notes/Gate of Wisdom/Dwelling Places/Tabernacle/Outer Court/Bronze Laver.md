@@ -47,7 +47,7 @@ He sacrificed his fleshly body and died to sin, once and for all. Those trusting
 
 ## Related Scriptures
 
-[[_The Scrolls/2. Nevi'im (Prophets)/38 - Zechariah/Zech-13#v1\|Zech-13:1]] “In that day there is a fountain opened || To the house of David || And to the inhabitants of Jerusalem, || For sin and for impurity. 
+[[_The Scrolls/2. Neviim (Prophets)/38 - Zechariah/Zech-13#v1\|Zech-13:1]] “In that day there is a fountain opened || To the house of David || And to the inhabitants of Jerusalem, || For sin and for impurity. 
 #### some scholars believing they were fulfilled in the Maccabean period (2nd century BC), while others see them as still awaiting future fulfillment
 
 [[_The Scrolls/4. The Gospels and The Apostles/43 - John/John-06#v51\|John-06:51]] I am the living bread, which came down from heaven. If anyone eats this bread, he will live forever. This bread is My flesh, which I will give for the life of the world.”

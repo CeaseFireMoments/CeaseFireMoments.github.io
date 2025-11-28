@@ -4,8 +4,8 @@
 
 # Define
 - Initially describes the members of the tribe of Jacob's son, Judah
-- The men of the town of Judah anointed David as King over the House of Judah [[_The Scrolls/2. Nevi'im (Prophets)/10 - 2 Samuel/2 Sam-02\|2 Sam-02]]
-- Then after the death of Solomon,  referred to the Southern Kingdom, which was made up of ten tribes: Judah, Benjamin, and Levi. They chose to followed Rehoboam, son of Solomon, rightful heir to thrown. Eventually captured by Assyrians. [[_The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-12\|1 Kings-12]]
+- The men of the town of Judah anointed David as King over the House of Judah [[_The Scrolls/2. Neviim (Prophets)/10 - 2 Samuel/2 Sam-02\|2 Sam-02]]
+- Then after the death of Solomon,  referred to the Southern Kingdom, which was made up of ten tribes: Judah, Benjamin, and Levi. They chose to followed Rehoboam, son of Solomon, rightful heir to thrown. Eventually captured by Assyrians. [[_The Scrolls/2. Neviim (Prophets)/11 - 1 Kings/1 Kings-12\|1 Kings-12]]
 - Southern Tribes of Israel (the country) became known as ""The Jews"" (2 Kings 14, 16)
 - Eventually, the term "[[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]" diminishes in reference to the northern kingdom as a distinct entity. The term "[[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]," derived from "Judah," becomes more prominent.  
 

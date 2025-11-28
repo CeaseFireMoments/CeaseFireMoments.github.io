@@ -58,6 +58,6 @@ I commanded the Levites that they should purify themselves, and that they should
 
 ## Other Notes:
 
-- At this point, we've looked at every scripture which has come before this as the current Bible is laid out. We haven't seen anything about burdens on the Sabbath day. However, Jeremiah lived and prophesied ~180 years before Nehemiah. Jeremiah records YHWH talking to this subject in [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-17\|Jer-17]] which Nehemiah would have known about. We will cover that when we get there. 
+- At this point, we've looked at every scripture which has come before this as the current Bible is laid out. We haven't seen anything about burdens on the Sabbath day. However, Jeremiah lived and prophesied ~180 years before Nehemiah. Jeremiah records YHWH talking to this subject in [[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-17\|Jer-17]] which Nehemiah would have known about. We will cover that when we get there. 
 
 # [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

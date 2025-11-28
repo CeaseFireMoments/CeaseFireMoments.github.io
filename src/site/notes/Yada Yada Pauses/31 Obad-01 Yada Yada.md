@@ -5,10 +5,10 @@
 
 # Obadiah 1
 
-[[_The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obadiah\|_The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obadiah]]
+[[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obadiah\|_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obadiah]]
 ***
 
-For reading purposes [[_The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|Obad-01]] 
+For reading purposes [[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01\|Obad-01]] 
 # Setting
 ## Who:
 - Author: [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]
@@ -27,7 +27,7 @@ For reading purposes [[_The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|
 - The specific actions of Edom condemned (gloating, looting, standing at the crossroads to cut down fugitives, handing over survivors) are not narrated in a single historical passage of Scripture. 2 Kings 25 and 2 Chronicles 36 describe the fall of Jerusalem but do not mention Edom. Instead, they are prophetically summarized in Obadiah itself, with parallel echoes and partial historical corroboration in the following passages:
 	- [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-137#v7\|Ps-137#v7]] Remember, O LORD, against the Edomites the day of Jerusalem, how they said, ‘Lay it bare, lay it bare, down to its foundations!’”
 	- [[_The Scrolls/3. Ketuvim (Writings)/25 - Lamentations/Lam-04#v21\|Lam-04#v21]] Rejoice and be glad, O daughter of Edom... The cup shall pass to you as well; you shall become drunk and strip yourself bare.
-	- [[_The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-35#v1\|Ezek-35#v1]] Because you cherished perpetual enmity and gave over the people of Israel to the power of the sword...
+	- [[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-35#v1\|Ezek-35#v1]] Because you cherished perpetual enmity and gave over the people of Israel to the power of the sword...
 
 ## When:
 - Date Authored: Between 589 and 550 BC (most likely 586–582 BC)
@@ -85,7 +85,7 @@ For reading purposes [[_The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|
 			- Friends who eat your bread 
 				- lay a snare under you.[^7] 
 				- There is no understanding in <mark style="background: #B2A23AA6;">him</mark> <mark style="background: #CD04BBA6;">//Edom//</mark>, ."
-#### Who will bring <mark style="background: #B2A23AA6;">me</mark> down to the ground - [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-49#v16\|Jer-49#v16]] (same time as Obadiah) exact same phrase spoken about Edom. King of Babylon [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-14#v13\|Isa-14#v13]] (100 years later): ‘I will ascend to heaven… I will make myself like the Most High.’ But you are brought down to Sheol, to the depths of the pit.”
+#### Who will bring <mark style="background: #B2A23AA6;">me</mark> down to the ground - [[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-49#v16\|Jer-49#v16]] (same time as Obadiah) exact same phrase spoken about Edom. King of Babylon [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-14#v13\|Isa-14#v13]] (100 years later): ‘I will ascend to heaven… I will make myself like the Most High.’ But you are brought down to Sheol, to the depths of the pit.”
 -
 	- "Won't <mark style="background: #D7CD91A6;">I</mark> <mark style="background: #CD04BBA6;">\\YHWH\\ </mark>
 		- <mark style="background: #D2B3FFA6;">in that day</mark>", says Yahweh, 
@@ -149,7 +149,7 @@ For reading purposes [[_The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|
 				- so will all the nations drink continually. 
 				- Yes, they <mark style="background: #CD04BBA6;">//nations// </mark>will drink, swallow down, 
 					- and will be as though they had not been. 
-####  "all the nations shall drink continually" extends the judgment from Edom to all other nations, culminating in their destruction ("as though they had never been"). (e.g., [[_The Scrolls/2. Nevi'im (Prophets)/36 - Zephaniah/Zeph-01\|Zeph-01]]:14-18; [[_The Scrolls/2. Nevi'im (Prophets)/29 - Joel/Joel-03#v12\|Joel-03#v12]])
+####  "all the nations shall drink continually" extends the judgment from Edom to all other nations, culminating in their destruction ("as though they had never been"). (e.g., [[_The Scrolls/2. Neviim (Prophets)/36 - Zephaniah/Zeph-01\|Zeph-01]]:14-18; [[_The Scrolls/2. Neviim (Prophets)/29 - Joel/Joel-03#v12\|Joel-03#v12]])
 - 
 	- But in <mark style="background: #4DA6EDA6;">Mount Zion</mark>, 
 		- there will be those <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]<mark style="background: #CD04BBA6;">//</mark> 
@@ -195,7 +195,7 @@ For reading purposes [[_The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|
 - and the kingdom will be <mark style="background: #D7CD91A6;">Yahweh</mark>'s.
 
 ***
-[[_The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obadiah\|_The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obadiah]]
+[[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obadiah\|_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obadiah]]
 
 
 # Connections

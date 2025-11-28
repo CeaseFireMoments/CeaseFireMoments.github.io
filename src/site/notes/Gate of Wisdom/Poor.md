@@ -44,7 +44,7 @@ a djective, nominative, plural, masculineFORM
 
 ### Hebrew Scripture
 
-- [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57#v15\|Isa-57#v15]]- they dwell in the high and holy places
+- [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-57#v15\|Isa-57#v15]]- they dwell in the high and holy places
 - [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-16#v19\|Prov-16#v19]]
 - [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-29#v23\|Prov-29#v23]]- upholds honor
-- [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v2\|Isa-66#v2]]YHWH/God looks intently upon
+- [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-66#v2\|Isa-66#v2]]YHWH/God looks intently upon

@@ -4,7 +4,7 @@
 
 # Davidic Covenant
 
-[[_The Scrolls/2. Nevi'im (Prophets)/10 - 2 Samuel/2 Sam-07\|2 Sam-07]]
+[[_The Scrolls/2. Neviim (Prophets)/10 - 2 Samuel/2 Sam-07\|2 Sam-07]]
 
 1. I will make your name great as the greates on earth
 2. I will give you rest from all your enemies

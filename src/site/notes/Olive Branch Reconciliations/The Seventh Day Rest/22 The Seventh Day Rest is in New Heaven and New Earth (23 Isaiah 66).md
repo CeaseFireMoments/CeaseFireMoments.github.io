@@ -6,7 +6,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Isaiah 66:21-24 [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v23\|Isa-66#v23]]
+# Scripture: Isaiah 66:21-24 [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-66#v23\|Isa-66#v23]]
 
 "<mark style="background: #E6852CA6;">For</mark> as <mark style="background: #4DA6EDA6;">the new heavens</mark> and <mark style="background: #4DA6EDA6;">the new </mark>earth, which<mark style="background: #D7CD91A6;"> I </mark>will make, shall <mark style="background: #4DA6EDA6;">remain before</mark> <mark style="background: #D7CD91A6;">me</mark>," says <mark style="background: #D7CD91A6;">Yahweh</mark>, "so <mark style="background: #E0CC4BA6;">your</mark> <mark style="background: #DDCC5EA6;">offspring</mark> and <mark style="background: #E0CC4BA6;">your</mark> <mark style="background: #04CD3EA6;">name shall remain</mark>. 
 
@@ -30,7 +30,7 @@ It shall happen that <mark style="background: #A284CDA6;">from one new moon to a
 	- loathsome to all: the objects of ultimate horror, loathing, and disgust to all the redeemed
 
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
-- Your - [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]], [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]], [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31\|Jer-31]] [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-32\|Jer-32]]
+- Your - [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]], [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]], [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] [[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-31\|Jer-31]] [[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-32\|Jer-32]]
 	- In verses 18-21 YHWH describes gathering all nations and tongues to see his glory and make them [[priests\|priests]] and for [[Zunpublished/Levites\|Levites]]
 	- the principle of enduring “seed” applies also to the believing remnant and to all who are incorporated into the promises through the Messiah [[_The Scrolls/4. The Gospels and The Apostles/48 - Galatians/Gal-03#v28\|Gal-03#v28]]-29 and [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-09\|Rom-09]], [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-10\|Rom-10]], and [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-11\|Rom-11]] 
 - All Flesh - All mankind except those who have transgressed against YHWH
@@ -53,7 +53,7 @@ It shall happen that <mark style="background: #A284CDA6;">from one new moon to a
 - On New Moons and [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]
 
 ## **<mark style="background: #EB9E57A6;">Why</mark>**: 
-- For ... Redeemed: because the new heaven and new earth are indestructible and eternal the promises in [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v18\|Isa-66#v18]]-21 (enduring seed, gentile priests, universal worship) will endure forever. 
+- For ... Redeemed: because the new heaven and new earth are indestructible and eternal the promises in [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-66#v18\|Isa-66#v18]]-21 (enduring seed, gentile priests, universal worship) will endure forever. 
 - For ... Transgressors: because of transgression against YWHW, the worm will never die, the fire never be quenched, and they will be forever loathsome.  
 
 # Findings
@@ -63,7 +63,7 @@ It shall happen that <mark style="background: #A284CDA6;">from one new moon to a
 - However, at the time of Fulfillment of this prophecy:
 	- Isaiah 66:18–21 explicitly says that from “all nations and tongues” some will be brought as an offering to the Lord and even taken as “priests and Levites”.
 	- “All flesh” (Jew and Gentile alike) comes to worship (66:23)
-	- Not every physical descendant, but those who are circumcised in heart, who tremble at God’s word (Isa 66:2, 5), and who have been cleansed and given a new heart ([[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v17\|Isa-66#v17]]–18; [[_The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-36#v24\|Ezek-36#v24]]–28; [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-11#v26\|Rom-11#v26]].
+	- Not every physical descendant, but those who are circumcised in heart, who tremble at God’s word (Isa 66:2, 5), and who have been cleansed and given a new heart ([[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-66#v17\|Isa-66#v17]]–18; [[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-36#v24\|Ezek-36#v24]]–28; [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-11#v26\|Rom-11#v26]].
 	- Every believer (Jew or Gentile) is incorporated into the true Israel through faith in the Messiah ([[_The Scrolls/4. The Gospels and The Apostles/48 - Galatians/Gal-03#v28\|Gal-03#v28]]–29; [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-02#v28\|Rom-02#v28]]–29; [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-02#v11\|Ephes-02#v11]]–22; [[_The Scrolls/4. The Gospels and The Apostles/60 - 1 Peter/1 Pet-02#v9\|1 Pet-02#v9]]–10).
 ## It is a Jewish thing: 
 - YWHW makes it very clear in Isaiah 66 this is NOT a "Jewish" thing and that ALL flesh will worship him on the New Moons and the Seventh Day Rest-Weekly Sabbath.

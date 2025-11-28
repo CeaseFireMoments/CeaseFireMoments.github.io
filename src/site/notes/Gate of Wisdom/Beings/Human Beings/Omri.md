@@ -67,7 +67,7 @@
 	- Tribute of Jeru bowing at Shalmanesar's feet ![Israel as the House of Omri.png](/img/user/_Assets/attachments/Israel%20as%20the%20House%20of%20Omri.png)
 		- The divine symbols of the god Shamash (the winged disk) and the goddess Ishtar (the star) hover above the scene. It
 		- Cuneiform translation: "The tribute of Jehu, son of Omri: I received from him silver, gold, a golden bowl..."
-		- [[_The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-09\|2 Kings-09]] and [[_The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-10\|2 Kings-10]]
+		- [[_The Scrolls/2. Neviim (Prophets)/12 - 2 Kings/2 Kings-09\|2 Kings-09]] and [[_The Scrolls/2. Neviim (Prophets)/12 - 2 Kings/2 Kings-10\|2 Kings-10]]
 
 
 

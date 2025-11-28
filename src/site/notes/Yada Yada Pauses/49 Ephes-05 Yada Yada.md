@@ -77,8 +77,8 @@
 										- and arise out of the dead, 
 										- and the Christ shall shine upon thee.'
 ##### Reproving section sounds just like Colossians 3 [[_The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Col-03\|Col-03]] Bringing order to chaos.
-##### Isaiah 26:19 [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-26#v19\|Isa-26:19]] part of a song of trust in God’s salvation, emphasizing hope and restoration. It speaks prophetically of resurrection, where the dead will live again, rising from the dust in a manner likened to dew bringing life. Speaks of a future resurrection of God’s people. 
-##### Isaiah 60:1: [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60#v1\|Isa-60:1]] speaks about a light has come and darkness covering the earth, but nations will come to your light.
+##### Isaiah 26:19 [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-26#v19\|Isa-26:19]] part of a song of trust in God’s salvation, emphasizing hope and restoration. It speaks prophetically of resurrection, where the dead will live again, rising from the dust in a manner likened to dew bringing life. Speaks of a future resurrection of God’s people. 
+##### Isaiah 60:1: [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-60#v1\|Isa-60:1]] speaks about a light has come and darkness covering the earth, but nations will come to your light.
 <mark style="background: #CD04BBA6;">//Because Christ shines upon thee ...//</mark>
 - See, then, how exactly ye walk, 
 	- not as unwise, 
