@@ -20,7 +20,7 @@ Jesus said he was meek in Matthew 11:29
 - those who rest in obedience to God’s ways.
 ## Notes
 
-Other places this word is used: Righteous inherit eternal life. Those on the right hand inherit the kingdom; Followers inheart the promises. Some inherit a blessing. He that overcomes inherits all things.
+Other places this word is used: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] inherit eternal life. Those on the right hand inherit the kingdom; Followers inheart the promises. Some inherit a blessing. He that overcomes inherits all things.
  
 
 Meek, to be unimportant. They have no power to do anything about it.

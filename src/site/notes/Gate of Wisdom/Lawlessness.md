@@ -15,9 +15,9 @@
 - [[Gate of Wisdom/Sin\|Sin]]
 - [[Gate of Wisdom/Transgression\|Transgression]]
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
-- [[Gate of Wisdom/Righteousness\|Righteousness]]
+- [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]
 - [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
-- [[Zunpublished/Unrighteousness\|Unrighteousness]]
+- [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]
 
 # Additional Info
 

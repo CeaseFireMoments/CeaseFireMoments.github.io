@@ -10,7 +10,7 @@
 	- ʿāwōn (עָוֹן): Noun meaning "iniquity, punishment, guilt." Denotes both the twisted perversity of sin (disobedience) and the consequent chastisement or torment from YAH (e.g., Exodus 34:7; Psalm 32:5).
 - Greek: 
 	- kolasis (κόλασις): Noun meaning "punishment, correction, torment." Refers to corrective or penal infliction for moral failings, including eternal consequences for unrepentant disobedience (e.g., Matthew 25:46).
-	- dikē (δίκη): Noun meaning "justice, judgment, punishment, vengeance." Indicates rightful retribution or execution of penalty as a result of violating God's righteous standards (e.g., Acts 25:15; Jude 1:15).
+	- dikē (δίκη): Noun meaning "justice, judgment, punishment, vengeance." Indicates rightful retribution or execution of penalty as a result of violating God's [[Gate of Wisdom/Right Standing/Righteous\|righteous]] standards (e.g., Acts 25:15; Jude 1:15).
 	- orgē (ὀργή): Noun meaning "wrath, anger, indignation, vengeance." Describes God's punitive response to ungodliness and disobedience, often leading to future judgment (e.g., Romans 1:18; 1 Thessalonians 1:10).
 	- enochos (ἔνοχος): Adjective meaning "liable, guilty, bound (to punishment)." Conveys being subject to or deserving of penalty due to sin against YAH's commands (e.g., Matthew 5:21-22; James 2:10).
 

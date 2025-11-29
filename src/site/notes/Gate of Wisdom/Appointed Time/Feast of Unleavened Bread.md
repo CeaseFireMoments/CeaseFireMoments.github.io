@@ -16,7 +16,7 @@ In the same way the plagues took place at the time of Exodus, they take place in
 
 Have you left Egypt/the world in haste? Have you cleaned your temple of the leaven/sin?
 
-## Called into [[Gate of Wisdom/Righteousness\|Righteousness]]: 
+## Called into [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]: 
 
 As we observe this appointed time of God's, we are to remember God provides for us. We are to clean out all the lawlessness (sin) in our houses. Just as he prepared a way through the wilderness into the promised land for the Israelites, he has prepared a way into righteousness and the Holy Place through his son, Jesus. Jesus has paid the ransom for those have faith in him and obey. On this day we remember his triumphant descent - the original Holy Saturday.
 

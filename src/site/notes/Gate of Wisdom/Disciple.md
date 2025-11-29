@@ -13,3 +13,6 @@ Matthew 28 - It is interesting to note, this is the only scripture with this par
 μαθητεύσατε (mathēteusate). 
 
 The original word is a verb. Verbs are words which show an action. It’s something done. It would be a correct sentence to say, “Disciple (v) the disciple (n).”
+
+# Related Words
+- [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]

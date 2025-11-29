@@ -184,7 +184,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]                                                  |
 | [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]                               |
 | [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]                                                         |
-| [[Gate of Wisdom/Righteousness\|Righteousness]]                                                                |
+| [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]                                                 |
 | [[Gate of Wisdom/Ruach/Ruach\|Ruach]]                                                                          |
 | [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]                                                             |
 | [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]                                                           |
@@ -225,6 +225,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Unclean\|Unclean]]                                                                            |
 | [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                  |
 | [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]                                                     |
+| [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]                                             |
 | [[Gate of Wisdom/Vain\|Vain]]                                                                                  |
 | [[Gate of Wisdom/Wash\|Wash]]                                                                                  |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                   |

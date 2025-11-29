@@ -18,8 +18,8 @@
 	- [[_The Scrolls/2. Neviim (Prophets)/10 - 2 Samuel/2 Sam-12#v20\|2 Sam-12:20]] Then [[Zunpublished/David\|David]] got up from the ground. He washed, anointed himself, changed his clothes, went to the Lord’s house, and worshiped. 
 	- [[_The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-07#v14\|Rev-07:14]] I said to him, “Sir, you know.” Then he told me: These are the ones coming out of the great tribulation. They washed their robes and made them white in the blood of the Lamb.
 
-- [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-58#v10\|Ps-58:10]] The righteous one will rejoice when he sees the retribution; he will wash his feet in the blood of the wicked.
-- [[_The Scrolls/4. The Gospels and The Apostles/56 - Titus/Titus-03#v5\|Titus-03:5]] he saved us—not by works of [[Gate of Wisdom/Righteousness\|Righteousness]]s that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit.
+- [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-58#v10\|Ps-58:10]] The [[Gate of Wisdom/Right Standing/Righteous\|righteous]] one will rejoice when he sees the retribution; he will wash his feet in the blood of the wicked.
+- [[_The Scrolls/4. The Gospels and The Apostles/56 - Titus/Titus-03#v5\|Titus-03:5]] he saved us—not by works of [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]s that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit.
 - [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-04#v6\|Rom-04:6]] Likewise, David also speaks of the blessing of the person to whom God credits righteousness apart from works:
 
 

@@ -46,7 +46,7 @@
 
   
 
-8\. Matthew 25:37 \`Then shall the righteous answer him, saying, Lord, when did we see thee **hunger** ing, **and** we nourished? or **thirst** ing, **and** we gave to drink?
+8\. Matthew 25:37 \`Then shall the [[Gate of Wisdom/Right Standing/Righteous\|righteous]] answer him, saying, Lord, when did we see thee **hunger** ing, **and** we nourished? or **thirst** ing, **and** we gave to drink?
 
   
 

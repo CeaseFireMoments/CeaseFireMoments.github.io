@@ -849,7 +849,7 @@ Burnt Offering: The offerer laid hands on the animal (Lev. 1:4), symbolizing the
 Jesus: Jesus took on humanity’s sins, acting as a substitute for sinners.
 Isaiah 53:5-6 (quoted in the New Testament context, e.g., 1 Pet. 2:24): “The Lord hath laid on him the iniquity of us all,” paralleling the laying of hands in the burnt offering.
 
-2 Corinthians 521: God “hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him,” reflecting the substitutionary nature of Jesus’ death, akin to the burnt offering’s role in atonement.
+2 Corinthians 521: God “hath made him to be sin for us, who knew no sin; that we might be made the [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]] of God in him,” reflecting the substitutionary nature of Jesus’ death, akin to the burnt offering’s role in atonement.
 
 # Connections
 

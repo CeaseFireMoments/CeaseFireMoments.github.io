@@ -38,3 +38,9 @@
 - Often appears with **injustice, deceit, violence** (Gen 6:11–13).    
 - Leads to divine judgment (Rom 1:18).    
 - Connected to **unrighteous gain** (Ezek 22; Luke 16:9).
+
+# Unrighteous Characteristics
+[[Anger\|Anger]]
+[[Gate of Wisdom/Lust\|Lust]]
+[[Murder\|Murder]]
+[[Way of Death\|Way of Death]]

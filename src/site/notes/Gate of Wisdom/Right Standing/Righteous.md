@@ -40,6 +40,8 @@ A closely related word is צְדָקָה (tsedaqah), often translated as "[[Gate
 - Job 29:14 [[_The Scrolls/3. Ketuvim (Writings)/18 - Job/Job-29#v14\|Job-29:14]] - Righteous ness I have put on, and it clotheth me, As a robe and a diadem //turban// my justice.
 - Other places this word is used: Righteous inherit eternal life. Those on the right hand inherit the kingdom; Followers inheart the promises. Some inherit a blessing. He that overcomes inherits all things.
 - Sin is the opposite of Righteousness.
+- In the Septuagint, tsedeq is most commonly translated as δικαιοσύνη (dikaiosynē/Righteousness), which means "righteousness," "justice," or "uprightness." This Greek term captures the idea of moral integrity and adherence to divine or ethical standards. For example, in Isaiah 1:26, where tsedeq is used to describe a city of righteousness, the LXX uses dikaiosynē.
+
 
 ## Translated
 - justice, rightness, right, integrity, purity of life
@@ -78,6 +80,43 @@ A closely related word is צְדָקָה (tsedaqah), often translated as "[[Gate
 - Righteousness tied to justice (Isa 5:7).    
 - Righteousness as fruit of faith (Hab 2:4; Rom 1:17).    
 - The Messiah as the Righteous One (Isa 53:11; Acts 3:14).
+
+# Righteous Characteristics
+- Keeps and Teaches the commandments - Matthew 5 
+- Righteous  abound above that of the scribes  and Pharisees  Matthew 5 
+- not to swear //make an oath or promise// at all Matthew 5 
+	 - let your word be Yes, Yes, or No, No,  Matthew 5 
+- not to resist the evil Matthew 5 
+- to him who is asking of thee be giving, and him who is willing to borrow from thee thou mayest not turn away. Matthew 5 
+- Love your enemies,  Matthew 5 
+- bless those cursing you Matthew 5 
+- do good to those hating you Matthew 5 
+- pray for those ac Matthew 5 cusing you falsely Matthew 5 
+ - be perfect ,
+- kindness, //alms // done with the right heart - not to be seen by man Matthew 5 
+- forgive men their trespasses Matthew 6 
+- But thou,  //disciples// fasting,  Matthew 6 
+	 - anoint thy head, 
+	 - and wash thy face,
+	 - that thou  //disciples// mayest not appear to men fast  ing, 
+	 - but to thy Father who [is] in secret , 
+- treasure up to yourselves  //disciples// treasures in heaven:  Matthew 6 
+
+- [[Agape\|Agape]]
+- [[Gate of Wisdom/Alms\|Alms]]
+- [[Gate of Wisdom/Fast\|Fast]]
+- [[Gate of Wisdom/Judge\|Judge]]
+- [[Light of the World\|Light of the World]]
+- [[Gate of Wisdom/Meek\|Meek]]
+- [[Gate of Wisdom/Merciful\|Merciful]]
+- [[Gate of Wisdom/Mourn\|Mourn]]
+- [[Gate of Wisdom/Peacemaker\|Peacemaker]]
+- [[Gate of Wisdom/Perfect\|Perfect]]
+- [[Gate of Wisdom/Poor\|Poor]]
+- [[Gate of Wisdom/Pray\|Pray]]
+- [[Zunpublished/Salt\|Salt]]
+- [[Zunpublished/Written Torah\|Written Torah]]
+- [[Way of Life
 # Scriptures
 
 
