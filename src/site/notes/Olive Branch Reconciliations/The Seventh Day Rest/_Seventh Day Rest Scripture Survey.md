@@ -33,7 +33,7 @@ Let's see what scripture says about that starting at the very beginning and then
 - Isaiah 66:23 [[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]]
 - Jeremiah 17:21-27 [[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]
 - Lamentations 2:6 [[Olive Branch Reconciliations/The Seventh Day Rest/24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)\|24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)]]
-- Ezekiel 20:12–24
+- Ezekiel 20:12–24 [[Olive Branch Reconciliations/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]
 - Ezekiel 22:8, 26
 - Ezekiel 23:38  
 - Ezekiel 44:24 
