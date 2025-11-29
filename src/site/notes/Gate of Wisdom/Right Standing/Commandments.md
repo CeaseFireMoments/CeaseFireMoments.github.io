@@ -5,9 +5,9 @@
 # Related words
 
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
-- [[Gate of Wisdom/Righteousness\|Righteousness]]
+- [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]
 - [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
-- [[Zunpublished/Unrighteousness\|Unrighteousness]]
+- [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]
 - [[Gate of Wisdom/Clean\|Clean]]
 - [[Gate of Wisdom/Unclean\|Unclean]]
 - [[Gate of Wisdom/Holy\|Holy]]

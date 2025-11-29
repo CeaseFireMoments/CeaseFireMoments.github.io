@@ -13,7 +13,12 @@ Meaning
 - correct in thinking
 - sinless
 ## Hebrew
-- Tsadaq צַדִּיק (pronounced tsaddiq or tzaddik). This word comes from the root צָדַק (tsadaq), which means "to be just," "to be righteous," or "to be in the right." The term tsaddiq is used to describe a person who is upright, just, or godly, often in relation to God’s covenant and law.
+- Tsadaq צַדִּיק (pronounced tsaddiq or tzaddik). This word comes from the root צָדַק (tsadaq), which means "to be just," "to be righteous," or "to be in the right." 
+- The term tsaddiq is used to describe a person who is upright, just, or godly, often in relation to God’s covenant and law.
+- Used of one whose conduct aligns with God’s standards (e.g., Gen 6:9; Deut 16:20; Prov 12:17).  
+	- Often contrasted with the wicked (רָשָׁע).
+	-  Tsedeq is more abstract and tied to moral or legal standards; tsedaqah is more concrete, often involving specific actions or behaviors.
+	- Tsedeq can have a judicial or objective tone, while tsedaqah carries a relational or ethical warmth, particularly in caring for others.
 
 The Hebrew word tsaddiq carries the following meanings, derived from its usage across the Old Testament:
 - Moral uprightness: A tsaddiq is someone who lives in accordance with God’s standards, often involving obedience to the Torah (God’s law).
@@ -21,13 +26,14 @@ The Hebrew word tsaddiq carries the following meanings, derived from its usage a
 - Covenantal faithfulness: Being tsaddiq often implies being in right standing with God, faithful to His covenant, as seen in figures like Noah, Abraham (Genesis 15:6, where righteousness is tied to faith), and David.
 - Contrasted with the wicked: The tsaddiq is frequently set against the rasha (wicked), highlighting a life aligned with God’s will versus one that defies it.
 
-A closely related word is צְדָקָה (tsedaqah), often translated as "righteousness" or "justice." While tsaddiq refers to a righteous person, tsedaqah can denote the quality or act of righteousness. 
-
+A closely related word is צְדָקָה (tsedaqah), often translated as "[[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]" or "justice." While tsaddiq refers to a righteous person, tsedaqah can denote the quality or act of righteousness. 
 
 ## Greek
 
 δικαιοσύνη   Root δικη punishment; penalty; justice
 
+-  One who acts in accordance with God’s justice (Matt 1:19; Rom 1:17; 1 John 2:29).
+	- Frequently contrasted with “lawless,” “sinner,” or “ungodly.”
 - Greek word for Justice; fairness
 - righteous+ness= Heb. tsedaqah- right relationship; being in right relationship with God and with others
 - Romans 6:18-20 [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-06#v18\|Rom-06:18]][[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-06#v19\|Rom-06#v19]][[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-06#v20\|-20]]  - being made free of sin, we became the servants of righteousness. 
@@ -40,19 +46,53 @@ A closely related word is צְדָקָה (tsedaqah), often translated as "righte
 - correctness of thinking, feeling, and acting
 
 # Related words
-- [[Gate of Wisdom/Righteousness\|Righteousness]]
+- [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]] Tsedaqah (צְדָקָה)
+	- both deriving from the root צ-ד-ק (ts-d-q), which conveys the idea of righteousness, justice, or moral uprightness
+	- Key Differences- Focus: 
+		- Righteous - Tsedeq emphasizes the quality or standard of righteousness/justice, while 
+		- Righteousness - tsedaqah often focuses on the practice or expression of righteousness, especially in acts of compassion or charity.
+- upright (Heb. יָשָׁר – Prov 14:2)**
+- [[Gate of Wisdom/Holy\|Holy]] (Lev 19:2)
+- blameless (Gen 17:1; Phil 2:15)
+- godly (1 Tim 6:11; Titus 2:12)
+- just (same Greek root in NT)
+- [[Gate of Wisdom/Lawlessness\|Lawlessness]]
 
 # Additional Info
 - Those who hunger and thirst after righteousness shall be filled - [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 - those who are persecuted for righteousness sake has the kingdom of heaven -  [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 - Must exceed that of the scribes and pharisees or will not enter the kingdom of heaven - Matthew 5  [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 - Seek it first and “all these” will be added - Matthew 6 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
+- The righteous are described as: 
+    - Keeping God’s [[Gate of Wisdom/Right Standing/Commandments\|Commandments]] (Deut 6:25; 1 John 3:7)
+    - Hating evil (Ps 97:10)
+    - Trusting God (Ps 32:10–11)       
+    - Vindicated by God (Ps 34:15–17)
+- OT emphasizes conduct and covenant loyalty.    
+- NT emphasizes new birth and obedience as marks of righteousness (1 John 2:29; 3:7).
 
 # Connections
 - [[Noah\|Noah]] was righteous Genesis 6:9
 - [[John the Baptist\|John the Baptist]] was righteous
-
+- Righteous vs. Wicked: a primary biblical contrast (Ps 1; Prov 10–15).    
+- Righteousness tied to justice (Isa 5:7).    
+- Righteousness as fruit of faith (Hab 2:4; Rom 1:17).    
+- The Messiah as the Righteous One (Isa 53:11; Acts 3:14).
 # Scriptures
+
+
+[[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-02\|1 John-02]]
+[[_The Scrolls/4. The Gospels and The Apostles/60 - 1 Peter/1 Pet-03\|1 Pet-03]]
+[[_The Scrolls/4. The Gospels and The Apostles/60 - 1 Peter/1 Pet-04\|1 Pet-04]]
+[[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]
+[[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
+[[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-03\|Ezek-03]]
+[[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-18\|Ezek-18]]
+[[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-33\|Ezek-33]]
+[[Sacred Truces/Matthew 5 Sermon on the Mount v 5 The Resting Ones\|Matthew 5 Sermon on the Mount v 5 The Resting Ones]]
+[[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]
+[[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-03\|Rom-03]]
+
 Below is a list of every occurrence of the Hebrew word צַדִּיק (tsaddiq) in the Old Testament, with scripture references and the corresponding verses translated into English, based on the Masoretic Text. The translations aim to reflect the Hebrew text accurately, using a literal approach similar to standard English Bible translations (e.g., KJV, ESV). Only verses containing tsaddiq are included, without commentary.
 
 1. Genesis 6:9  
@@ -558,4 +598,3 @@ Below is a list of every occurrence of the Hebrew word צַדִּיק (tsaddiq) 
 
 167. Habakkuk 1:13  
     Your eyes are too pure to look on evil, and you cannot look at wrong. Why do you idly look at traitors and remain silent when the wicked swallows up...
-
