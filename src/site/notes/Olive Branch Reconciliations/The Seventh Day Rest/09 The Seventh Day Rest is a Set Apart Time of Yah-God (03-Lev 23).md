@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Leviticus 23:2-3
+# Scripture: [Leviticus 23:2-3](https://www.biblegateway.com/passage/?search=Leviticus%2023&version=WEB;TLV;OJB)
 
 "Speak to the <mark style="background: #E0CC4BA6;">children of Israel</mark>, and tell <mark style="background: #E0CC4BA6;">them</mark>, 'The <mark style="background: #04CD3EA6;">set feasts of Yahweh</mark>, which <mark style="background: #E0CC4BA6;">you</mark> shall proclaim to be <mark style="background: #04CD3EA6;">holy convocations</mark>, even <mark style="background: #04CD3EA6;">these are my set feasts</mark>. "'<mark style="background: #D2B3FFA6;">Six days</mark> shall <mark style="background: #04CD3EA6;">work</mark> be done, but on <mark style="background: #D2B3FFA6;">the seventh day</mark> is a <mark style="background: #04CD3EA6;">Sabbath of solemn rest</mark>, a holy convocation; you shall <mark style="background: #04CD3EA6;">do no kind of work</mark>. It is a <mark style="background: #04CD3EA6;">Sabbath to Yahweh</mark> in all <mark style="background: #E0CC4BA6;">your</mark> <mark style="background: #4DA6EDA6;">dwellings</mark>. 
 ## **Define**: 

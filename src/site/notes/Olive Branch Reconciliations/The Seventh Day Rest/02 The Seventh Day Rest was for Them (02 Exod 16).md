@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Exodus 16:21-30 
+# Scripture: [Exodus 16:21-30](https://www.biblegateway.com/passage/?search=Exodus%2016&version=WEB;TLV;OJB) 
 
 <mark style="background: #E0CC4BA6;">They</mark> gathered it <mark style="background: #D2B3FFA6;">morning by morning</mark>, <mark style="background: #E0CC4BA6;">everyone</mark> according to <mark style="background: #E0CC4BA6;">his</mark> eating. <mark style="background: #D2B3FFA6;">When the sun grew hot</mark>, it melted.
 
@@ -34,7 +34,7 @@ So the <mark style="background: #E0CC4BA6;">people</mark> <mark style="backgroun
 
 ## **Who**:
 -  They - They gathered ...  
-	- the whole congregation of Israel [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-16#v10\|Exod-16:10]]
+	- the whole congregation of Israel (Exod-16:10)
 		- The first reference to the congregation of Israel is found in Exodus 12, before they are brought out of Egypt. 
 			- Verse 3 God says, "Tell all the congregation of Israel that on the tenth day of this month, each man is to take a lamb for his family one lamb for the household" (TLV)			
 			- Verse 38 says, "Also a mixed multitude went up with them," there were those who were not native born who came out of Egypt with the native born Hebrews.			-

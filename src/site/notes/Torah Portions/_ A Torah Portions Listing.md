@@ -3,6 +3,7 @@
 ---
 
 
+- [[Torah Portions/2025.12.06 Shabbat Reading\|2025.12.06 Shabbat Reading]]
 - [[Torah Portions/2025.11.29 Shabbat Reading\|2025.11.29 Shabbat Reading]]
 - [[Torah Portions/2025.11.22 Shabbat Reading\|2025.11.22 Shabbat Reading]]
 - [[Torah Portions/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]

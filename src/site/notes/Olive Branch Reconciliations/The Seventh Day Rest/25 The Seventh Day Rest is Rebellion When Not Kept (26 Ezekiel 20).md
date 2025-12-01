@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Ezekiel 20:12–26 [[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-20\|Ezek-20]]
+# Scripture: [Ezekiel 20:12–26](https://www.biblegateway.com/passage/?search=Ezekiel%2020&version=WEB;TLV;OJB) 
 
 <mark style="background: #D7CD91A6;">I </mark><mark style="background: #04CD3EA6;">gave</mark> <mark style="background: #E0CC4BA6;">them</mark> <mark style="background: #D7CD91A6;">my</mark> <mark style="background: #61A273A6;">statutes</mark>, and <mark style="background: #04CD3EA6;">showed</mark> them <mark style="background: #D7CD91A6;">my</mark> <mark style="background: #61A273A6;">ordinances</mark>, <mark style="background: #CFA57FA6;">which if a man does</mark>, <mark style="background: #CFA57FA6;">he will live</mark> <mark style="background: #61A273A6;">in them</mark>. Moreover also <mark style="background: #D7CD91A6;">I</mark> <mark style="background: #04CD3EA6;">gave</mark> <mark style="background: #E0CC4BA6;">them</mark> <mark style="background: #D7CD91A6;">my</mark> <mark style="background: #A284CDA6;">Sabbaths</mark>, <mark style="background: #E6852CA6;">to be a sign between</mark> <mark style="background: #D7CD91A6;">me</mark> and <mark style="background: #E0CC4BA6;">them</mark>, that <mark style="background: #E0CC4BA6;">they</mark> <mark style="background: #EB9E57A6;">might know</mark> that <mark style="background: #D7CD91A6;">I am Yahweh who sanctifies</mark> <mark style="background: #E0CC4BA6;">them</mark>. 
 
@@ -25,15 +25,15 @@ Moreover also <mark style="background: #D7CD91A6;">I </mark><mark style="backgro
 ## **Define**: 
 - [[Gate of Wisdom/Sign/Sign\|Sign]] = OT אוֹת
 - [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]] = [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
-- "Name's sake" - [[Gate of Wisdom/Name\|Name]] In biblical thought, God’s “name” is virtually identical with His revealed character, His glory, His holiness, and His presence. To act “for the sake of His name” means to act so that His reputation, holiness, and glory will not be profaned among the nations. [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-32#v12\|Exod-32#v12]]
+- "Name's sake" - [[Gate of Wisdom/Name\|Name]] In biblical thought, God’s “name” is virtually identical with His revealed character, His glory, His holiness, and His presence. To act “for the sake of His name” means to act so that His reputation, holiness, and glory will not be profaned among the nations. Exod-32#v12
 - To the end - in order that, so that
 - Idioms:
 	- for a sign between Me and between you” A visible covenant marker/token that testifies to the relationship (like a wedding ring or national flag)
 	- “My eye had pity on them from destroying them” Anthropomorphic idiom: God “spared” or “relented” out of compassion (the eye “pities” instead of looking in wrath)
 	- “I withdrew My hand” Idiomatic for “I held back from striking / I refrained from carrying out judgment”
 	- “I lifted My hand to them” Standard oath formula = “I swore to them” (raising the hand to heaven when taking an oath)
-	- “statutes not good and judgments by which they could not live” judicially handed them over: God “gave them over” to the cruel, death-dealing laws of the pagans. [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-12#v29\|Deut-12#v29]]-31, [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-81#v11\|Ps-81#v11]]-12, [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-01#v24\|Rom-01#v24]]-28
-	- “in their causing to pass through every opener of the womb” Standard biblical idiom for child sacrifice. God’s holy law commanded that every firstborn belong to Him and be redeemed ([[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-13#v12\|Exod-13#v12]]-15, [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-18#v15\|Num-18#v15]]-16). The nations’ “statute” was that the firstborn must be killed and burned.
+	- “statutes not good and judgments by which they could not live” judicially handed them over: God “gave them over” to the cruel, death-dealing laws of the pagans. 
+	- “in their causing to pass through every opener of the womb” Standard biblical idiom for child sacrifice. God’s holy law commanded that every firstborn belong to Him and be redeemed . The nations’ “statute” was that the firstborn must be killed and burned.
 	- “that I might devastate / make them desolate / appall them” To fill them with horror and desolate shock at the consequences of their sin (so they finally recognize Yahweh)
 
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:

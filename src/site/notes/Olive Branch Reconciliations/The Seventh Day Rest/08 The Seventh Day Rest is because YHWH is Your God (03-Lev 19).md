@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Leviticus 19:3, 30
+# Scripture: [Leviticus 19:3, 30](https://www.biblegateway.com/passage/?search=Leviticus%2019&version=WEB;TLV;OJB)
 
 ###### v3 
 "'<mark style="background: #E0CC4BA6;">Each one of you</mark> shall respect <mark style="background: #E0CC4BA6;">his</mark> <mark style="background: #B2A23AA6;">mother and his father</mark>. <mark style="background: #E0CC4BA6;">You</mark> shall <mark style="background: #04CD3EA6;">keep my Sabbaths</mark>. <mark style="background: #A4A089A6;">I am Yahweh</mark> <mark style="background: #E0CC4BA6;">your</mark> <mark style="background: #A4A089A6;">God</mark>. 

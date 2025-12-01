@@ -5,7 +5,7 @@
 **The** common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Genesis 2:2-3 (WEB)
+# Scripture: [Genesis 2:2-3](https://www.biblegateway.com/passage/?search=Genesis%202&version=WEB;TLV;OJB) 
 
 On <mark style="background: #D2B3FFA6;">the seventh day</mark> <mark style="background: #E0CC4BA6;">God</mark> finished <mark style="background: #E0CC4BA6;">his</mark> work which <mark style="background: #E0CC4BA6;">he</mark> had done; and <mark style="background: #E0CC4BA6;">he</mark> <mark style="background: #04CD3EA6;">rested</mark> <mark style="background: #D2B3FFA6;">on the seventh day</mark> from all <mark style="background: #E0CC4BA6;">his</mark> work which <mark style="background: #E0CC4BA6;">he</mark> had done.
 
@@ -63,7 +63,7 @@ On <mark style="background: #D2B3FFA6;">the seventh day</mark> <mark style="back
 - At this point, "Jews" do not exist yet. 
 ## Jesus replaced the Sabbath:
 - At this point, Jesus had not replaced the Sabbath.
-- Many believe Jesus is "The Word" as stated in [[_The Scrolls/4. The Gospels and The Apostles/43 - John/John-01\|John-01]]. The belief is Jesus is the Logos Word through whom Yah/God created everything. Given this premise - Jesus would have also rested on Day 7. 
+- Many believe Jesus is "The Word" as stated in [John 1](https://www.biblegateway.com/passage/?search=John%201&version=WEB;TLV;OJB) . The belief is Jesus is the Logos Word through whom Yah/God created everything. Given this premise - Jesus would have also rested on Day 7. 
 
 ## Other Notes:
 - There isn't indication as to whether human also rested. 

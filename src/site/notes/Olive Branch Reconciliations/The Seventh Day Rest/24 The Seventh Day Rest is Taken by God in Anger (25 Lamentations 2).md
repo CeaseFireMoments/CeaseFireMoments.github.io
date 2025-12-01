@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Lamentations 2:6-7, 22 [[_The Scrolls/3. Ketuvim (Writings)/25 - Lamentations/Lam-02\|Lam-02]]
+# Scripture: [Lamentations 2:6-7, 22](https://www.biblegateway.com/passage/?search=Lamentations%202&version=WEB;TLV;OJB)
 
 ###### v6 
 <mark style="background: #D7CD91A6;">He</mark> has <mark style="background: #4AB867A6;">violently taken away</mark> <mark style="background: #D7CD91A6;">his</mark> <mark style="background: #258FE5A6;">tabernacle</mark>, <mark style="background: #4DA6EDA6;">as if it were a garden</mark>. <mark style="background: #D7CD91A6;">He</mark> has <mark style="background: #4AB867A6;">destroyed</mark> <mark style="background: #D7CD91A6;">his</mark> <mark style="background: #258FE5A6;">place of assembly</mark>. <mark style="background: #D7CD91A6;">Yahweh</mark> has caused <mark style="background: #A284CDA6;">solemn assembly</mark> and <mark style="background: #A284CDA6;">Sabbath</mark> <mark style="background: #4AB867A6;">to be forgotten</mark> in <mark style="background: #4DA6EDA6;">Zion</mark>. In <mark style="background: #EB9E57A6;">the indignation of</mark> <mark style="background: #D7CD91A6;">his</mark> <mark style="background: #EB9E57A6;">anger</mark>, <mark style="background: #D7CD91A6;">he</mark> <mark style="background: #EB9E57A6;">has despised</mark> <mark style="background: #E0CC4BA6;">the king and the priest</mark>. 
@@ -17,16 +17,16 @@ The <mark style="background: #D7CD91A6;">Lord</mark> has <mark style="background
 
 
 ## **Define**: 
-- Place of assembly = booth, [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]], or Temple [[_The Scrolls/2. Neviim (Prophets)/12 - 2 Kings/2 Kings-25#v8\|2 Kings-25#v8]]-21
+- Place of assembly = booth, [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]], or Temple 2 Kings-25#v8-21
 - Solemn assembly = [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]], the weekly seventh day rest (Sabbath) is listed as one of the appointed times.  
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
--  The king and the priest - not a specific person - the offices of such. The Davidic line were the kings, the Aaronic line were the priests. [[_The Scrolls/2. Neviim (Prophets)/28 - Hosea/Hos-03#v4\|Hos-03#v4]], [[_The Scrolls/2. Neviim (Prophets)/24 - Jeremiah/Jer-33#v21\|Jer-33#v21]]
+-  The king and the priest - not a specific person - the offices of such. The Davidic line were the kings, the Aaronic line were the priests. 
 - Zion, Her, My, I = [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]] 
 - The enemy = [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]
 
 ## **<mark style="background: #04CD3EA6;">What</mark>**: 
 - YHWH has:
-	- violently taken away his tabernacle as if a garden [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-03#v24\|Gen-03#v24]]
+	- violently taken away his tabernacle as if a garden 
 	- destroyed his place of assembly (booth, tabernacle, temple)
 	- caused the appointed times and Sabbath to be forgotten in Jerusalem
 	- despised the king and the priest
@@ -44,10 +44,10 @@ The <mark style="background: #D7CD91A6;">Lord</mark> has <mark style="background
 
 ## **<mark style="background: #EB9E57A6;">Why</mark>**: 
 -  YWHW was angry:
-	- [[_The Scrolls/3. Ketuvim (Writings)/25 - Lamentations/Lam-01#v5\|Lam-01#v5]] - adversaries had become Jerusalem's master
-	- [[_The Scrolls/3. Ketuvim (Writings)/25 - Lamentations/Lam-01#v8\|Lam-01#v8]] - Jerusalem had become and unclean thing because of multitude of transgressions
-	- [[_The Scrolls/3. Ketuvim (Writings)/25 - Lamentations/Lam-01#v18\|Lam-01#v18]] Jerusalem had rebelled against YHWH's commandment
-	- [[_The Scrolls/3. Ketuvim (Writings)/25 - Lamentations/Lam-04#v13\|Lam-04#v13]] had been lead into sin and transgressions by her prophets and her priests
+	- Lam-01#v5 - adversaries had become Jerusalem's master
+	- Lam-01#v8 - Jerusalem had become and unclean thing because of multitude of transgressions
+	- Lam-01#v18 Jerusalem had rebelled against YHWH's commandment
+	- Lam-04#v13 had been lead into sin and transgressions by her prophets and her priests
 
 # Findings
 

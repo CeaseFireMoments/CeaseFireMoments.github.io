@@ -6,7 +6,7 @@ The common belief is the Seventh Day Rest (later known as [Sabbath](https://ceas
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation.
 
-# Scripture: Exodus 23:10-12
+# Scripture: [Exodus 23:10-12](https://www.biblegateway.com/passage/?search=Exodus%2023&version=WEB;TLV;OJB)
 
 "For six years you shall sow your land, and shall gather in its increase, but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the animal of the field shall eat. In the same way, you shall deal with your vineyard and with your olive grove. 
 
