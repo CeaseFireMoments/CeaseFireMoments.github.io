@@ -17,7 +17,7 @@
 - [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
 - [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
-- [[Gate of Wisdom/Righteousness\|Righteousness]]
+- [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]
 - [[Gate of Wisdom/Ruach/Ruach\|Ruach]]
 - [[Sacred Truces/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]
 - [[Sacred Truces/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]

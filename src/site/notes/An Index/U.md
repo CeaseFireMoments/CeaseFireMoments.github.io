@@ -10,5 +10,6 @@
 - [[Gate of Wisdom/Unclean\|Unclean]]
 - [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 - [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
+- [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]
 
 { .block-language-dataview}

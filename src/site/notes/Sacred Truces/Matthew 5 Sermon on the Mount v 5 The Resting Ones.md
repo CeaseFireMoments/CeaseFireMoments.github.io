@@ -10,7 +10,7 @@ The meek, we have a vision of what meek means today, but it doesn’t necessaril
 
 This word carries with it the idea of someone who is gentle, humble, but it doesn’t mean someone who is timid, or someone others “walk all over”.
 
-This same word is translated as righteous, the righteous inherit eternal life. The meek consider themselves as unimportant.
+This same word is translated as [[Gate of Wisdom/Right Standing/Righteous\|righteous]], the righteous inherit eternal life. The meek consider themselves as unimportant.
 
 Jesus said he was meek. Matthew writes that the Messiah comes as meek.
 

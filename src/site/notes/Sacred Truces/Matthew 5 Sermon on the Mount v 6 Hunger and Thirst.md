@@ -20,7 +20,7 @@ Righteousness – righteousness isn’t just being in right standing with YHWH/G
 
 When we are not being active about this, we notice all is not well in YHWH/Gods world and we know YHWH/God is going to do something about it. This is not a place you want to be, so you will be actively seeking righteousness, keeping right relationship with both YHWH/God and others.
 
-Righteous is about justice and fairness. When we seek to be righteous, we become the servants of righteousness (Romans 6). Job (29) put on righteousness and it clothed him as a robe and turbine. Later in Matthew, Jesus will say his disciples righteousness must exceed the religious leaders of that time.
+[[Gate of Wisdom/Right Standing/Righteous\|Righteous]] is about justice and fairness. When we seek to be righteous, we become the servants of righteousness (Romans 6). Job (29) put on righteousness and it clothed him as a robe and turbine. Later in Matthew, Jesus will say his disciples righteousness must exceed the religious leaders of that time.
 
 The opposite of righteousness is sin.
 

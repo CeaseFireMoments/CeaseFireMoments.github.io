@@ -24,7 +24,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 	- Deceived: those who practice sin / children of the devil
 	- Savior: the Son of God (Jesus, the Messiah)
 ## What:
-- **Main Storyline:** Contrast between the children of God and the children of the devil; living in [[Gate of Wisdom/Righteousness\|Righteousness]] and love versus sin and hatred; The Messiah revealed to take away sin and destroy the works of the devil.
+- **Main Storyline:** Contrast between the children of God and the children of the devil; living in [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]] and love versus sin and hatred; The Messiah revealed to take away sin and destroy the works of the devil.
 ## When:
 - Date Authored:
 - Date takes place:
@@ -78,7 +78,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 
 - Little children, 
 	- let <mark style="background: #A4A089A6;">no one</mark> <mark style="background: #04CD3EA6;">lead you astray</mark>. 
-		- <mark style="background: #E0CC4BA6;">He</mark> who does [[Gate of Wisdom/Righteousness\|Righteousness]] [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v25\|Deut-06#v25]]
+		- <mark style="background: #E0CC4BA6;">He</mark> who does [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]] [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v25\|Deut-06#v25]]
 			- is [[Gate of Wisdom/Right Standing/Righteous\|Righteous]][^4], 
 				- even as <mark style="background: #D7CD91A6;">he</mark> <mark style="background: #CD04BBA6;">//Jesus// </mark>is righteous. 
 		- He who sins[^14] 

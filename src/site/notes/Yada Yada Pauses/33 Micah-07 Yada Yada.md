@@ -91,7 +91,7 @@ For reading purposes [[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-07\|Mi
 		- until he pleads my case, 
 			- and executes judgment for me[^15]. 
 		- He will bring me out to the light. 
-			- I will see his [[Gate of Wisdom/Righteousness\|Righteousness]]. 
+			- I will see his [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]. 
 	- <mark style="background: #D2B3FFA6;">Then my enemy will see it</mark>, 
 		- and shame will cover her who said to me, 
 			- where is Yahweh your God? 

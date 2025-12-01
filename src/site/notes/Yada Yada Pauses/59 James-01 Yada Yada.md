@@ -133,7 +133,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 		- <mark style="background: #04CD3EA6;">slow to speak</mark>, [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-10#v19\|Prov-10#v19]]
 		- and <mark style="background: #04CD3EA6;">slow to anger</mark>; 
 			- for the <mark style="background: #04CD3EA6;">anger</mark> of man [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-14#v29\|Prov-14#v29]]
-				- <mark style="background: #EB9E57A6;">doesn't produce </mark>the [[Gate of Wisdom/Righteousness\|Righteousness]] of God[^1]. 
+				- <mark style="background: #EB9E57A6;">doesn't produce </mark>the [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]] of God[^1]. 
 			- Therefore <mark style="background: #CD04BBA6;">//because anger fails to produce righteousness//</mark>, 
 				- putting away 
 					- all filthiness 

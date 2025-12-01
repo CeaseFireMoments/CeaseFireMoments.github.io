@@ -4,6 +4,8 @@
 
 | Table of Content                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]                                       |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 5 The Resting Ones\|Matthew 5 Sermon on the Mount v 5 The Resting Ones]]                                         |
 | [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]                                                                 |
 | [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]                                       |
 | [[Sacred Truces/What is the New Covenant\|What is the New Covenant]]                                                                                             |
@@ -26,8 +28,6 @@
 | [[Sacred Truces/Please pass the salt\|Please pass the salt]]                                                                                                     |
 | [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]                               |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness\|Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness]]         |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]                                       |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 5 The Resting Ones\|Matthew 5 Sermon on the Mount v 5 The Resting Ones]]                                         |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount vs 4 The Weeping\|Matthew 5 Sermon on the Mount vs 4 The Weeping]]                                                 |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 3 Humble of Spirit\|Matthew 5 Sermon on the Mount v 3 Humble of Spirit]]                                         |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 1-2 Beatitudes\|Matthew 5 Sermon on the Mount v 1-2 Beatitudes]]                                                 |
