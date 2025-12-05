@@ -54,7 +54,7 @@ Let's see what scripture says about that starting at the very beginning and then
 - At this time the inhabitants of Jerusalem - those living in the city would later become known as "Jews." They were the remnant of Judah from the tribe of Judah, Benjamin, and some Levites known as the [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
 ## Jesus replaced the Sabbath:
 - Not yet.
-- Note: YHWH has made it very clear that HE has set apart these Sabbaths and that if man does so, it is an abomination. The only way the Sabbath could be replaced is by YHWH.
+- Note: YHWH has made it very clear that HE has set apart these Sabbaths and that if man does not do so, it is an abomination. The only way the Sabbath could be replaced is by YHWH.
 
 ## Other Notes:
 - Spoken of outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
