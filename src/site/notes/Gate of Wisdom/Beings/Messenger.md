@@ -8,6 +8,7 @@
     - mal’akh ’elohim – “angel of God” (Genesis 21:17; 31:11)
     - mal’akh panav – “angel of His presence” (Isaiah 63:9)
 -  “one sent” – always a messenger acting with the authority of the sender (Exodus 23:20–21; Judges 6:11–12; 13:3).  
+- Greek = angelos (ἄγγελος) - Context decides whether it is a human messenger, an ordinary angel, or the unique “Angel of the LORD/YHWH.”
 
 # Related words
 - [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]]

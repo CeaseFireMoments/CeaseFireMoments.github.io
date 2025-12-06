@@ -9,9 +9,9 @@
 	- It is by the word and the spirit that we experience New Creation blessing in our lives the biblical holidays are not just meant to be mere remembrances. The Hebrew word for a holiday is Chag, it literally comes from the Hebrew word which means Circle. It happens every year it comes around but they are not just meant to be remembrances, they're meant to be reoccurrences. What God did at this time in season he wants to do again in your life today. They're meant to be reoccurrences in the sense they are prophetic, they are for us. When we come into alignment with the times and the seasons, there is a revelation and there is a release of of spiritual truth and blessing into our lives. There is something prophetic about it that we can step into what God did for them he wants to do for us because he is the same yesterday, today, and forever.
 
 # Related words
-- [[Gate of Wisdom/Appointed Time/Feast\|Feast]]
-- [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
-- [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]
+- Three (3) [[Gate of Wisdom/Appointed Time/Feast\|Feast]]
+- Nine (9) [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
+- Eight (8) (or 59/year) [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]
 
 # Additional Info
 - The broadest, most common biblical category.
@@ -19,7 +19,14 @@
 - Explicit biblical references using only this term:
     - Leviticus 23:2, 4, 37, 44 (“These are the appointed feasts/mo‘adim of the LORD”)
     - This is the exact word used in Lamentations 2:6–7, 22 and Hosea 9:5 that God caused to cease.
-- 7 annual + weekly Sabbath + Passover/Unleavened Bread + Firstfruits + Weeks/Pentecost + Trumpets + Day of Atonement + Tabernacles (and its 8th day).
+- 7 annual:
+	- weekly [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] 
+	- [[Zunpublished/Passover\|Passover]]/[[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]] 
+	- [[Zunpublished/First Fruits\|First Fruits]] 
+	- Weeks/[[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]
+	- [[Zunpublished/Feast of Trumpets\|Feast of Trumpets]] 
+	- [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]] 
+	- [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]] (and its 8th day).
 # Summary
 
 Exodus 31  - Shabbatot [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
