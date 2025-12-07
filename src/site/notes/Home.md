@@ -16,18 +16,18 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 
 | Latest Drops                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]                                 |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                     |
+| [[Olive Branch Reconciliations/Scripture Surveys\|Scripture Surveys]]                                                                                                                                            |
+| [[Gate of Wisdom/image\|image]]                                                                                                                                                                                  |
 | [[Torah Portions/2025.12.06 Shabbat Reading\|2025.12.06 Shabbat Reading]]                                                                                                                                        |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]     |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                     |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)\|26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)]] |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]                     |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)\|24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)]]                 |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]                       |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]]               |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]                                         |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]                                                                                       |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 5 The Resting Ones\|Matthew 5 Sermon on the Mount v 5 The Resting Ones]]                                                                                         |
-| [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]                                                                                                                                               |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]                                                                                                                                          |
 | [[Gate of Wisdom/Common\|Common]]                                                                                                                                                                                |
 | [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]                                                                                                                                             |
@@ -63,6 +63,8 @@ The ancient Mediterranean symbol of peace used in truces or diplomatic gestures 
 The biblical story of Noah's Ark, with the dove returning with an olive leaf, signifies the end of the flood, representing hope, renewal of life, and reconciliation.
 
 In these Ceasefire Moments facts will be gathered and presented. How they are utilized and interpreted will be up to each individual. Verify and check out the resources as well as the information. Comparing references. But keep in mind, it's a time to seek common ground. 
+
+[[Olive Branch Reconciliations/Scripture Surveys\|Scripture Surveys]]
 
 ## [[Fireside Banquets/_Fireside Banquets\|_Fireside Banquets]]
 

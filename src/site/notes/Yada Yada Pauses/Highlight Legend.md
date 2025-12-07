@@ -15,6 +15,7 @@
 	- <mark style="background: #D7CD91A6;">YHWH or Yeshua/Jesus</mark>
 	- <mark style="background: #DDCC5EA6;">Seed</mark>
 	- <mark style="background: #BAAC50A6;">Tree</mark>
+	- <mark style="background: #E53E3E;">Adversary</mark>
 - <mark style="background: #04CD3EA6;">What</mark>
 	- <mark style="background: #94DEA9A6;">Consequence</mark>
 	- <mark style="background: #77C58DA6;">Good News</mark>
