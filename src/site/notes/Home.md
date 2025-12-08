@@ -16,6 +16,13 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 
 | Latest Drops                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/Beast\|Beast]]                                                                                                                                                                                  |
+| [[Gate of Wisdom/Sign/Sign\|Sign]]                                                                                                                                                                               |
+| [[Gate of Wisdom/Worship\|Worship]]                                                                                                                                                                              |
+| [[Gate of Wisdom/Beings/Antichrist\|Antichrist]]                                                                                                                                                                 |
+| [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                                                                                                                           |
+| [[Olive Branch Reconciliations/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]                                                    |
+| [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]                                                                                      |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]                                 |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                     |
 | [[Olive Branch Reconciliations/Scripture Surveys\|Scripture Surveys]]                                                                                                                                            |
@@ -29,13 +36,6 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 | [[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]]               |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]                                         |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]                                                                                                                                          |
-| [[Gate of Wisdom/Common\|Common]]                                                                                                                                                                                |
-| [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]                                                                                                                                             |
-| [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                                                                                                                   |
-| [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]                                                                                                                                                             |
-| [[Gate of Wisdom/Burden\|Burden]]                                                                                                                                                                                |
-| [[Torah Portions/2025.11.22 Shabbat Reading\|2025.11.22 Shabbat Reading]]                                                                                                                                        |
-| [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]                                                                                                                                                                |
 
 { .block-language-dataview}
 

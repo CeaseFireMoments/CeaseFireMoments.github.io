@@ -4,6 +4,7 @@
 
 
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs\|Cave of the Patriarchs]]
+- [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
 - [[The Heralds Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]
 - [[Sacred Truces/Happy New Year! In April\|Happy New Year! In April]]
 - [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]]

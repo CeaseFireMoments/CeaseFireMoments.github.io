@@ -159,7 +159,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 
 - If anyone among you thinks 
 	- himself to be religious 
-		- while he doesn't bridle his [[Zunpublished/tongue\|tongue]], [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-34#v13\|Ps-34#v13]]
+		- while he doesn't bridle his [[Zunpublished/Tongue\|Tongue]], [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-34#v13\|Ps-34#v13]]
 			- but deceives his heart, 
 	- this man's religion is worthless. 
 	- Pure religion and undefiled 

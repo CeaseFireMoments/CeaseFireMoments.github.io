@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/sign/mark/","tags":["#GateWisdom","Sign","M","nothome"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/sign/mark/","tags":["#GateWisdom","Sign","M"]}
 ---
 
 # Define
-- ### TAV תָּו [[Gate of Wisdom/Sign/Mark\|Mark]]
+- ### TAV תָּו 
 
 Desire, a mark
-Paleo- Hebrew alphabet cross shapped figure
+Paleo- Hebrew alphabet cross shaped figure
 
 1. [[_The Scrolls/3. Ketuvim (Writings)/18 - Job/Job-13#v35\|Job-13#v35]]
 2. [[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-09#v3\|Ezek-09#v3]]-4

@@ -3,8 +3,10 @@
 ---
 
 
+- [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]
+- [[Gate of Wisdom/Beast\|Beast]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Beer Lahai Roi\|Beer Lahai Roi]]
 - [[Gate of Wisdom/Bekah\|Bekah]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Bel\|Bel]]

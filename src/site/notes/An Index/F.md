@@ -3,6 +3,7 @@
 ---
 
 
+- [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
 - [[The Heralds Messages/Fascism\|Fascism]]
 - [[Sacred Truces/Fascism\|Fascism]]
 - [[Gate of Wisdom/Fast\|Fast]]

@@ -34,6 +34,6 @@ The connection is implicit: just as Shavuot celebrated the covenant through the 
 - [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
 - [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]]
 - [[Gate of Wisdom/Ruach/Ruach\|Ruach]]
-- [[Zunpublished/Tongues\|Tongues]]
+- [[Zunpublished/Tongue\|Tongue]]
 - 
 - 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/sign/sign/","tags":["thebrain","GateWisdom","nothome","S","Sign"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/sign/sign/","tags":["thebrain","GateWisdom","S","Sign"]}
 ---
 
 ### Define
