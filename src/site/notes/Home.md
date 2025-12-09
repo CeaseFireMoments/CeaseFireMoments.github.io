@@ -16,6 +16,7 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 
 | Latest Drops                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Torah Portions/2025.12.16 Shabbat Reading\|2025.12.16 Shabbat Reading]]                                                                                                                                        |
 | [[Gate of Wisdom/Beast\|Beast]]                                                                                                                                                                                  |
 | [[Gate of Wisdom/Sign/Sign\|Sign]]                                                                                                                                                                               |
 | [[Gate of Wisdom/Worship\|Worship]]                                                                                                                                                                              |
@@ -35,7 +36,6 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 | [[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]                       |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]]               |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]                                         |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]                                                                                                                                          |
 
 { .block-language-dataview}
 
