@@ -54,6 +54,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]
 - [[Gate of Wisdom/mount\|mount]]
 - [[Gate of Wisdom/Mourn\|Mourn]]
+- [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]
 - [[Gate of Wisdom/Sermon on the Mount\|Sermon on the Mount]]

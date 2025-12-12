@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/new-moon/","tags":["#GateWisdom","AppointedTime","N","M"]}
+---
+
+# Define
+- Hebrew: chodesh (חֹדֶשׁ)  month; new moon (the day the lunar month begins)
+- Greek: noumēnia (νουμηνία) new moon; the first day of the month (in the lunar calendar)
+
+# Related words
+- renew / be new: chadash (חָדַשׁ)
+- month: chodesh (חֹדֶשׁ)
+- new moon day: rosh chodesh (רֹאשׁ חֹדֶשׁ)
+- [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
+
+# Additional Info
+- First day of the lunar month
+- Marked by trumpet blowing (shofar / chatsotserah)
+- Special sacrifices required (Num 28:11–15)
+- Regular day for appointed feasts and offerings (Ezek 46:1, 3, 6)
+
+# Connections
+- Numbers 10:10; 28:11–15
+- 1 Samuel 20:5, 18, 24
+- 2 Kings 4:23
+- Isaiah 66:23
+- Ezekiel 46:1, 3, 6
+- Amos 8:5
+- Colossians 2:16 (noumēnia)

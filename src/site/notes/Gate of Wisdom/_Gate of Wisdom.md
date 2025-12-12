@@ -162,6 +162,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Name\|Name]]                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]                                                      |
+| [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]                                                           |
 | [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]                                                        |
 | [[Gate of Wisdom/Offering/Offerings\|Offerings]]                                                               |
 | [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]                                                              |

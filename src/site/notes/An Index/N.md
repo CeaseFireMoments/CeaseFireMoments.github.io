@@ -20,6 +20,7 @@
 - [[Gate of Wisdom/Name\|Name]]
 - [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]
 - [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
+- [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]
 - [[Sacred Truces/Old, New, and Renewed\|Old, New, and Renewed]]
 - [[Sacred Truces/What is the New Covenant\|What is the New Covenant]]
 

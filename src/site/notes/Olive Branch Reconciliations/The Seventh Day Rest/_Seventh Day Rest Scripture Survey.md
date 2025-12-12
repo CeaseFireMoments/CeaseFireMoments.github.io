@@ -37,7 +37,7 @@ Let's see what scripture says about that starting at the very beginning and then
 - Ezekiel 22:8, 26 [[Olive Branch Reconciliations/The Seventh Day Rest/26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)\|26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)]]
 - Ezekiel 23:38  [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]
 - Ezekiel 44:24 [[Olive Branch Reconciliations/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]
-- Ezekiel 45:17
+- Ezekiel 45:17 [[Olive Branch Reconciliations/The Seventh Day Rest/29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)\|29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)]]
 - Ezekiel 46:1-12
 - Hosea 2:11
 - Amos 8:5

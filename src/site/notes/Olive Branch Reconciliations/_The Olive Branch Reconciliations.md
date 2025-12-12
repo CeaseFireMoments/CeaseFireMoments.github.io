@@ -4,9 +4,10 @@
 
 | Table of Content                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                     |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)\|29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)]]                                       |
 | [[Olive Branch Reconciliations/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]                                                    |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]                                 |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                     |
 | [[Olive Branch Reconciliations/Scripture Surveys\|Scripture Surveys]]                                                                                                                                            |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]     |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)\|26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)]] |
