@@ -4,7 +4,7 @@
 
 
 - [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]
-- [[Olive Branch Reconciliations/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]
+- [[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]
 - [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]
 - [[Yada Yada Pauses/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]
 - [[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]

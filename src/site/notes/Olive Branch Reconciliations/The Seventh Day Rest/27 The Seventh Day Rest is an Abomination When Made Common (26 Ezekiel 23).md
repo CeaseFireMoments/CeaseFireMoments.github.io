@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/27-the-seventh-day-rest-is-an-abomination-when-made-common-26-ezekiel-23/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
 ---
 
-The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
-Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
+The Seventh-Day rest—a call to cease—remains one of the Bible’s most disputed and divisive themes. In a world—and a assembly of believers —accustomed to constant striving, the seventh day still asks a disruptive question: What does it mean to stop because YHWH/God said to?
+
+The Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] or Shabbat), sits at the crossroads of devotion, doctrine, and dispute. For some, it is a creation-rooted rhythm meant for all humanity; for others, a covenant sign given uniquely to Israel; for many Christians, a shadow fulfilled and set aside in Christ. Pastors, theologians, rabbis, historians, and everyday believers often speak past one another, each convinced the matter is settled—yet rarely at peace about it.
+
+This series approaches the Seventh Day Rest as a ceasefire moment: a pause not only from labor, but from inherited assumptions and theological hostilities. Rather than beginning with denominational conclusions, we begin where Scripture begins—listening carefully from Genesis to Revelation. The aim is not to win an argument, but to quiet the noise long enough to let the biblical text speak for itself, and to see whether the call to rest has always been less about identity markers and more about trusting YHWH’s word, submitting to His authority, remembering His works, and entering the rest He Himself sanctified..
 # Scripture: [Ezekiel 23:36-39](https://www.biblegateway.com/passage/?search=Ezekiel%2023&version=TLV;OJB) 
 
 <mark style="background: #D7CD91A6;">Yahweh</mark> said moreover to <mark style="background: #E0CC4BA6;">me</mark>: "<mark style="background: #E0CC4BA6;">Son of man</mark>, will <mark style="background: #E0CC4BA6;">you</mark> <mark style="background: #94DEA9A6;">judge</mark> <mark style="background: #B2A23AA6;">Oholah and Oholibah</mark>? <mark style="background: #D2B3FFA6;">Then</mark> <mark style="background: #04CD3EA6;">declare</mark> <mark style="background: #B2A23AA6;">to them</mark> <mark style="background: #B2A23AA6;">their</mark> <mark style="background: #4FA466A6;">abominations</mark>. 
