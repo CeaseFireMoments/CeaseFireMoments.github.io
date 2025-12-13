@@ -39,7 +39,7 @@
 				- [[Zunpublished/Tongue\|Tongue]]s glōssan
 				- [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]s, [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]s (goy)
 		- All who dwell on the earth will worship him, 
-			- Everyone whose name has not been written from the foundation of the world in the book of life of [[Zunpublished/the Lamb\|the Lamb]] who has been killed. 
+			- Everyone whose name has not been written from the foundation of the world in the book of life of [[Gate of Wisdom/Beings/The Lamb\|The Lamb]] who has been killed. 
 
 ## Second Beast - [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
 ### [Revelation 13:11-18](https://www.biblegateway.com/passage/?search=Revelation%2013%3A11-18&version=WEB;TLV;OJB)

@@ -16,8 +16,13 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 
 | Latest Drops                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]                                  |
 | [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]                                                                                      |
+| [[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is (66 Rev-14)\|02 Mark of the Beast is (66 Rev-14)]]                                                                                      |
+| [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                                                                                                                     |
+| [[Gate of Wisdom/Beast\|Beast]]                                                                                                                                                                                  |
+| [[Gate of Wisdom/Torment\|Torment]]                                                                                                                                                                              |
+| [[Gate of Wisdom/image\|image]]                                                                                                                                                                                  |
+| [[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]                                  |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]]               |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]                       |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)\|24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)]]                 |
@@ -29,13 +34,8 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 | [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                     |
 | [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                                                                                                                   |
 | [[Torah Portions/2025.12.16 Shabbat Reading\|2025.12.16 Shabbat Reading]]                                                                                                                                        |
-| [[Gate of Wisdom/Beast\|Beast]]                                                                                                                                                                                  |
 | [[Gate of Wisdom/Sign/Sign\|Sign]]                                                                                                                                                                               |
 | [[Gate of Wisdom/Worship\|Worship]]                                                                                                                                                                              |
-| [[Gate of Wisdom/Beings/Antichrist\|Antichrist]]                                                                                                                                                                 |
-| [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                                                                                                                           |
-| [[Olive Branch Reconciliations/Scripture Surveys\|Scripture Surveys]]                                                                                                                                            |
-| [[Gate of Wisdom/image\|image]]                                                                                                                                                                                  |
 
 { .block-language-dataview}
 

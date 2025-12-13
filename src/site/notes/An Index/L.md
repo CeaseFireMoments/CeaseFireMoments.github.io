@@ -14,6 +14,7 @@
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets\|Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets]]
 - [[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]
 - [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]
+- [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]
 - [[Olive Branch Reconciliations/The Law in Matthew 5\|The Law in Matthew 5]]
 - [[Sacred Truces/The Life – Convergence of Jewish and Christian Faiths\|The Life – Convergence of Jewish and Christian Faiths]]
 

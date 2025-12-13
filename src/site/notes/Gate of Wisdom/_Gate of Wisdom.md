@@ -222,10 +222,12 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]                                                          |
 | [[Gate of Wisdom/Ten Words\|Ten Words]]                                                                        |
 | [[Gate of Wisdom/The Dragons Prophecy\|The Dragons Prophecy]]                                                  |
+| [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                   |
 | [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]                                |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                    |
 | [[Gate of Wisdom/Timeline\|Timeline]]                                                                          |
 | [[Gate of Wisdom/Torah\|Torah]]                                                                                |
+| [[Gate of Wisdom/Torment\|Torment]]                                                                            |
 | [[Gate of Wisdom/Transgression\|Transgression]]                                                                |
 | [[Gate of Wisdom/Unclean\|Unclean]]                                                                            |
 | [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                  |

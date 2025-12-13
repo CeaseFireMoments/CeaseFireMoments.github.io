@@ -12,7 +12,7 @@
 		- Any attempt by humans to make another צֶלֶם (whether of YHWH or of any other god or ruler) is high treason — an attempt to dethrone the Creator and set up a rival representative.
 
 - Greek:  eikōn (εἰκών) 
-	- - An image, likeness, portrait, statue, resemblance
+	- An image, likeness, portrait, statue, resemblance
 	- It carries the idea of something that represents or copies the original (a visible form or reproduction).
 	- In classical Greek it was commonly used for statues of gods, emperors, etc.
 	- Same word used in Genesis 1:26-27 for “image of God” (humanity made in God’s εἰκών) and in Colossians 1:15 for Christ as the “image (εἰκών) of the invisible God.” and In Revelation 14:9,11 for as the "beast and his "image (εἰκών)."

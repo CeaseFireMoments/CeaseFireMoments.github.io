@@ -3,10 +3,16 @@
 ---
 
 # Define
-- ### TAV תָּו 
+- Hebrew: 
+	- TAV (תָּו)  Desire, a mark or sign
+		- Paleo- Hebrew alphabet cross shaped figure
+		- Ezekiel 9:4-6, a protective mark on foreheads, written as an ancient X or cross-like tav
+	- ot (אוֹת) Sign/mark
+		- e.g., Exodus 13:9 for God's law as a sign on hand/forehead. 
+		- link it to Deuteronomy 6:8 (binding God's words on hand/forehead).
+- Conceptually related to Greek: Engraved or stamped mark, imprint, brand (e.g., on coins, seals, or slaves; implies ownership or allegiance). Unique to Revelation in the NT.
 
-Desire, a mark
-Paleo- Hebrew alphabet cross shaped figure
+
 
 1. [[_The Scrolls/3. Ketuvim (Writings)/18 - Job/Job-13#v35\|Job-13#v35]]
 2. [[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-09#v3\|Ezek-09#v3]]-4

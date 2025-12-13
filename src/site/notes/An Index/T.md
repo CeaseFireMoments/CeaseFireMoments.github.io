@@ -19,6 +19,7 @@
 - [[Sacred Truces/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]
 - [[Gate of Wisdom/Timeline\|Timeline]]
 - [[Gate of Wisdom/Torah\|Torah]]
+- [[Gate of Wisdom/Torment\|Torment]]
 - [[Sacred Truces/Traditional Teaching vs Scripture - Isaiah 66\|Traditional Teaching vs Scripture - Isaiah 66]]
 
 { .block-language-dataview}
