@@ -9,7 +9,7 @@ The [[Gate of Wisdom/Sign/Mark\|Mark]] of the [[Gate of Wisdom/Beast\|Beast]] is
 This series approaches the Mark of the Beast as another _ceasefire moment_: a deliberate pause from panic, speculation, and inherited interpretations. Rather than beginning with modern technologies or popular theories, we return to Scripture itself—letting biblical language, symbols, and patterns interpret one another. By tracing the theme from Genesis through Revelation, we ask whether the mark is primarily about external control or inward allegiance, about commerce and coercion, or about worship, loyalty, and obedience to competing authorities.
 
 Revelation 13:16–18 [[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]
-Revelation 14:9–11 [[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is (66 Rev-14)\|02 Mark of the Beast is (66 Rev-14)]]
+Revelation 14:9–11 [[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]
 Revelation 14:12
 Revelation 16:2
 Revelation 19:20
