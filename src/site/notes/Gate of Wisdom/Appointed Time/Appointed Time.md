@@ -4,7 +4,7 @@
 
 # Define
 - Hebrew: mo‘ed / mo‘adim (מוֹעֵד / מֹעֲדִים) - “appointed time”, “appointed place”, “meeting”
-- The divinely fixed sacred times when God “meets” with His people
+- The divinely fixed sacred times when YHWH “meets” with His people
 - Typically translated as Appointed feast(s), set feast(s), appointed time(s), solemn assembly
 	- It is by the word and the spirit that we experience New Creation blessing in our lives the biblical holidays are not just meant to be mere remembrances. The Hebrew word for a holiday is Chag, it literally comes from the Hebrew word which means Circle. It happens every year it comes around but they are not just meant to be remembrances, they're meant to be reoccurrences. What God did at this time in season he wants to do again in your life today. They're meant to be reoccurrences in the sense they are prophetic, they are for us. When we come into alignment with the times and the seasons, there is a revelation and there is a release of of spiritual truth and blessing into our lives. There is something prophetic about it that we can step into what God did for them he wants to do for us because he is the same yesterday, today, and forever.
 
