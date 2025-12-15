@@ -7,7 +7,7 @@ The Seventh-Day rest—a call to cease—remains one of the Bible’s most dispu
 
 The Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] or Shabbat), sits at the crossroads of devotion, doctrine, and dispute. For some, it is a creation-rooted rhythm meant for all humanity; for others, a covenant sign given uniquely to Israel; for many Christians, a shadow fulfilled and set aside in Christ. Pastors, theologians, rabbis, historians, and everyday believers often speak past one another, each convinced the matter is settled—yet rarely at peace about it.
 
-This series approaches the Seventh Day Rest as a ceasefire moment: a pause not only from labor, but from inherited assumptions and theological hostilities. Rather than beginning with denominational conclusions, we begin where Scripture begins—listening carefully from Genesis to Revelation. The aim is not to win an argument, but to quiet the noise long enough to let the biblical text speak for itself, and to see whether the call to rest has always been less about identity markers and more about trusting YHWH’s word, submitting to His authority, remembering His works, and entering the rest He Himself sanctified..
+This series approaches the Seventh Day Rest as a ceasefire moment: a pause not only from labor, but from inherited assumptions and theological hostilities. Rather than beginning with denominational conclusions, we begin where Scripture begins—listening carefully from Genesis to Revelation. The aim is not to win an argument, but to quiet the noise long enough to let the biblical text speak for itself, and to see whether the call to rest has always been less about identity markers and more about trusting YHWH’s word, submitting to His authority, remembering His works, and entering the rest He Himself sanctified.
 
 # The Scriptures (Old Testament)
 
@@ -43,7 +43,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Ezekiel 45:17   
 - Ezekiel 46:1-12 [[Olive Branch Reconciliations/The Seventh Day Rest/29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)\|29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)]]
 - Hosea 2:11 [[Olive Branch Reconciliations/The Seventh Day Rest/30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)\|30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)]]
-- 1 Kings 12:32–33     
+- 1 Kings 12:32–33   [[Olive Branch Reconciliations/The Seventh Day Rest/31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)\|31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)]]
 - Psalm 104:19 
 - 1 Chronicles 23:31 / 2 Chronicles 2:4 / 2 Chronicles 8:13 / Ezra 3:5 
 - Amos 8:5      

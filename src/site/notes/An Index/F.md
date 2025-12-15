@@ -4,8 +4,8 @@
 
 
 - [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
-- [[The Heralds Messages/Fascism\|Fascism]]
 - [[Sacred Truces/Fascism\|Fascism]]
+- [[The Heralds Messages/Fascism\|Fascism]]
 - [[Gate of Wisdom/Fast\|Fast]]
 - [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]
 - [[Gate of Wisdom/Appointed Time/Feast\|Feast]]
@@ -15,10 +15,11 @@
 - [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]
 - [[Gate of Wisdom/Foreigner\|Foreigner]]
 - [[Gate of Wisdom/Forgive\|Forgive]]
-- [[The Heralds Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]
 - [[Sacred Truces/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]
+- [[The Heralds Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]
 - [[Gate of Wisdom/Consequence/Disobedience/Forgiveness\|Forgiveness]]
 - [[The Heralds Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]
+- [[Gate of Wisdom/Rider of the White Horse\|Rider of the White Horse]]
 - [[Sacred Truces/Video Scripture Survey Christian Spring Holidays\|Video Scripture Survey Christian Spring Holidays]]
 
 { .block-language-dataview}

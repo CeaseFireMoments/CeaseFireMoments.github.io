@@ -14,12 +14,17 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these CeaseFire Moments, we hope you learn something.
 
+If you follow us on [our word press site](https://calltoceasefire.wordpress.com/), you'll receive notification via email of new content. Or follow us on [X](https://x.com/CalltoCeaseFire) or [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/) for new content in your feed. 
+
+
 | Latest Drops                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                     |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)\|30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)]]                     |
-| [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]                                                                                      |
+| [[Olive Branch Reconciliations/Mark of the Beast/03 Mark of the Beast Brings Wrath of God (66 Rev-16)\|03 Mark of the Beast Brings Wrath of God (66 Rev-16)]]                                                    |
 | [[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]                      |
+| [[Gate of Wisdom/Rider of the White Horse\|Rider of the White Horse]]                                                                                                                                            |
+| [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]                                                                                      |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)\|31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)]]                       |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)\|30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)]]                     |
 | [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                                                                                                                     |
 | [[Gate of Wisdom/Beast\|Beast]]                                                                                                                                                                                  |
 | [[Gate of Wisdom/Torment\|Torment]]                                                                                                                                                                              |
@@ -34,8 +39,6 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 | [[Olive Branch Reconciliations/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]                                 |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)\|29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)]]                                       |
 | [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                                                                                                                   |
-| [[Torah Portions/2025.12.16 Shabbat Reading\|2025.12.16 Shabbat Reading]]                                                                                                                                        |
-| [[Gate of Wisdom/Sign/Sign\|Sign]]                                                                                                                                                                               |
 
 { .block-language-dataview}
 

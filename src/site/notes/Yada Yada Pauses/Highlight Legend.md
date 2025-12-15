@@ -29,6 +29,7 @@
 - <mark style="background: #4DA6EDA6;">Where</mark>
 	- <mark style="background: #397CB2A6;">Dwelling Place</mark>
 	- <mark style="background: #258FE5A6;">Tabernacle or Tabernacle Elements</mark>
+	- <mark style="background: #E68989;">Adversarial Place</mark>
 - Why
 	- <mark style="background: #E6852CA6;">Why Purpose</mark>
 	- <mark style="background: #EB9E57A6;">Why Reason</mark>

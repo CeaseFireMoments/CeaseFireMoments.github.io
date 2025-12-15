@@ -16,6 +16,7 @@
 - [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]
 - [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
 - [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]
+- [[Gate of Wisdom/Rider of the White Horse\|Rider of the White Horse]]
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
 - [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]
 - [[Gate of Wisdom/Ruach/Ruach\|Ruach]]

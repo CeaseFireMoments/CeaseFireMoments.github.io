@@ -12,6 +12,8 @@ This series approaches the Mark of the Beast as another _ceasefire moment_: a de
 
 - <mark style="background: #A4A089A6;">Another angel</mark>, a third, followed them <mark style="background: #CD04BBA6;">//the other angels//</mark>, saying with a great voice, "<mark style="background: #CFA57FA6;">If</mark> <mark style="background: #B2A23AA6;">anyone</mark> worships <mark style="background: #E53E3E;">the beast</mark> and <mark style="background: #E53E3E;">his</mark> [[Gate of Wisdom/image\|image]], and <mark style="background: #04CD3EA6;">receives a</mark> [[Gate of Wisdom/Sign/Mark\|Mark]] <mark style="background: #04CD3EA6;">on his forehead, or on his hand</mark>,  <mark style="background: #CFA57FA6;">he also</mark> <mark style="background: #94DEA9A6;">will drink of the wine of the wrath of God</mark>, which is prepared unmixed in the cup of his anger. <mark style="background: #94DEA9A6;">He will be tormented with fire and sulfur</mark> <mark style="background: #4DA6EDA6;">in the presence of the holy angels</mark>, and <mark style="background: #4DA6EDA6;">in the presence of</mark> [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]. <mark style="background: #04CD3EA6;">The smoke of their torment</mark> <mark style="background: #D2B3FFA6;">goes up forever and ever</mark>. <mark style="background: #B2A23AA6;">They</mark> <mark style="background: #94DEA9A6;">have no rest day and night</mark>, <mark style="background: #B2A23AA6;">those who worship the beast and his image</mark>, and <mark style="background: #B2A23AA6;">whoever receives the mark of his name</mark>. 
 
+###### v12 
+Here is the perseverance of the saints, those who keep the commandments of God, and the faith of Jesus." 
 
 # **Define**: 
 - [[Gate of Wisdom/Worship\|Worship]] - bow down in reverence
@@ -68,6 +70,24 @@ This series approaches the Mark of the Beast as another _ceasefire moment_: a de
 ## Other Notes:
 - Reminds me of what is written in [Isaiah 66:24](https://www.biblegateway.com/passage/?search=isa%2066%3A22-24&version=WEB;TLV;OJB) 
 	- “And it will come to pass, that from one New Moon to another, and from one Shabbat to another, all flesh will come to bow down before Me,” says Adonai. “As they leave, they will look on the corpses of the people who rebelled against Me. For their worm will not die, and their fire will not be quenched, and they will be a horror to all flesh.” (TLV) See also: [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
+- Similar language outside of Revelation:
+	- Genesis 19:24 Then the LORD rained down burning sulfur on Sodom and Gomorrah—from the LORD out of the heavens.
+	- Isaiah 34:9-10 Edom’s streams will be turned into pitch, her dust into burning sulfur; her land will become blazing pitch! It will not be quenched night or day; its smoke will rise forever. From generation to generation it will lie desolate; no one will ever pass through it again.
+	- Ezekiel 38:22 I will execute judgment on him with plague and bloodshed; I will pour down torrents of rain, hailstones and burning sulfur on him and on his troops and on the many nations with him.
+	- Psalm 11:6 On the wicked he will rain fiery coals and burning sulfur; a scorching wind will be their lot.
+	- Luke 17:29 But the day Lot left Sodom, fire and sulfur rained down from heaven and destroyed them all.
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Connections
 
