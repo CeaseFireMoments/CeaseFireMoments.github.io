@@ -17,28 +17,28 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 If you follow us on [our word press site](https://calltoceasefire.wordpress.com/), you'll receive notification via email of new content. Or follow us on [X](https://x.com/CalltoCeaseFire) or [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/) for new content in your feed. 
 
 
-| Latest Drops                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/Mark of the Beast/03 Mark of the Beast Brings Wrath of God (66 Rev-16)\|03 Mark of the Beast Brings Wrath of God (66 Rev-16)]]                                                    |
-| [[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]                      |
-| [[Gate of Wisdom/Rider of the White Horse\|Rider of the White Horse]]                                                                                                                                            |
-| [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]                                                                                      |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)\|31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)]]                       |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)\|30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)]]                     |
-| [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                                                                                                                     |
-| [[Gate of Wisdom/Beast\|Beast]]                                                                                                                                                                                  |
-| [[Gate of Wisdom/Torment\|Torment]]                                                                                                                                                                              |
-| [[Gate of Wisdom/image\|image]]                                                                                                                                                                                  |
-| [[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]                                  |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]]               |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]                       |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)\|24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)]]                 |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]                     |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)\|26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)]] |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]     |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]                                 |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)\|29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)]]                                       |
-| [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                                                                                                                   |
+| Latest Drops                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]                                  |
+| [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]                                                                                  |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)\|32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)]]                       |
+| [[Olive Branch Reconciliations/Mark of the Beast/03 Mark of the Beast Brings Wrath of God (66 Rev-16)\|03 Mark of the Beast Brings Wrath of God (66 Rev-16)]]                                                |
+| [[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]                  |
+| [[Gate of Wisdom/Rider of the White Horse\|Rider of the White Horse]]                                                                                                                                        |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)\|31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)]]                   |
+| [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                                                                                                                 |
+| [[Gate of Wisdom/Beast\|Beast]]                                                                                                                                                                              |
+| [[Gate of Wisdom/Torment\|Torment]]                                                                                                                                                                          |
+| [[Gate of Wisdom/image\|image]]                                                                                                                                                                              |
+| [[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]                              |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]] |
+| [[Torah Portions/2025.12.16 Shabbat Reading\|2025.12.16 Shabbat Reading]]                                                                                                                                    |
+| [[Gate of Wisdom/Sign/Sign\|Sign]]                                                                                                                                                                           |
+| [[Gate of Wisdom/Worship\|Worship]]                                                                                                                                                                          |
+| [[Gate of Wisdom/Beings/Antichrist\|Antichrist]]                                                                                                                                                             |
+| [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                                                                                                                       |
+| [[Olive Branch Reconciliations/Scripture Surveys\|Scripture Surveys]]                                                                                                                                        |
+| [[Torah Portions/2025.12.06 Shabbat Reading\|2025.12.06 Shabbat Reading]]                                                                                                                                    |
 
 { .block-language-dataview}
 

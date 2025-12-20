@@ -4,10 +4,12 @@
 
 | Table of Content                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]                                      |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)\|32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)]]                           |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                     |
 | [[Olive Branch Reconciliations/Mark of the Beast/03 Mark of the Beast Brings Wrath of God (66 Rev-16)\|03 Mark of the Beast Brings Wrath of God (66 Rev-16)]]                                                    |
 | [[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]                      |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)\|31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)]]                       |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                     |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)\|30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)]]                     |
 | [[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]                                  |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]                                         |

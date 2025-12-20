@@ -7,6 +7,7 @@
 - [[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]
 - [[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]
 - [[Olive Branch Reconciliations/Mark of the Beast/03 Mark of the Beast Brings Wrath of God (66 Rev-16)\|03 Mark of the Beast Brings Wrath of God (66 Rev-16)]]
+- [[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]
 - [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]
 - [[Yada Yada Pauses/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]
 - [[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]

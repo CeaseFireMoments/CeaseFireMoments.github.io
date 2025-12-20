@@ -11,6 +11,6 @@ This series approaches the Mark of the Beast as another _ceasefire moment_: a de
 Revelation 13:16–18 [[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]
 Revelation 14:9–11 [[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]
 Revelation 16:2  [[Olive Branch Reconciliations/Mark of the Beast/03 Mark of the Beast Brings Wrath of God (66 Rev-16)\|03 Mark of the Beast Brings Wrath of God (66 Rev-16)]]
-Revelation 19:20  [[Zunpublished/04 Mark of the Beast is (66 Rev-19)\|04 Mark of the Beast is (66 Rev-19)]]
+Revelation 19:20  [[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]
 Revelation 20:4
 
