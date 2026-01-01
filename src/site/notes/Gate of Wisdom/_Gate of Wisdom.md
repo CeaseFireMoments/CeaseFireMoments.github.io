@@ -102,6 +102,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Sources/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]]  |
 | [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]                                                        |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                                              |
+| [[Gate of Wisdom/Beings/Heavenly Beings/God\|God]]                                                             |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]] |
 | [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]                                                          |
 | [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]]                                                     |
@@ -213,6 +214,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]             |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Son of Man\|Son of Man]]                                               |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Sons of God\|Sons of God]]                                             |
+| [[Gate of Wisdom/Soul\|Soul]]                                                                                  |
 | [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]                                         |
 | [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]                                                               |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]                                           |
@@ -222,10 +224,12 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/temptation\|temptation]]                                                                      |
 | [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]                                                          |
 | [[Gate of Wisdom/Ten Words\|Ten Words]]                                                                        |
+| [[Gate of Wisdom/Testimony\|Testimony]]                                                                        |
 | [[Gate of Wisdom/The Dragons Prophecy\|The Dragons Prophecy]]                                                  |
 | [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                   |
 | [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]                                |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                    |
+| [[Gate of Wisdom/The Word\|The Word]]                                                                          |
 | [[Gate of Wisdom/Timeline\|Timeline]]                                                                          |
 | [[Gate of Wisdom/Torah\|Torah]]                                                                                |
 | [[Gate of Wisdom/Torment\|Torment]]                                                                            |
@@ -240,6 +244,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Worship\|Worship]]                                                                            |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]                                                   |
 | [[Gate of Wisdom/Yehoshua\|Yehoshua]]                                                                          |
+| [[Gate of Wisdom/Beings/Heavenly Beings/YHWH\|YHWH]]                                                           |
 | [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]                                               |
 | [[Gate of Wisdom/Offering/Zevah\|Zevah]]                                                                       |
 

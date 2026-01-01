@@ -17,6 +17,7 @@
 - [[Gate of Wisdom/temptation\|temptation]]
 - [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
 - [[Gate of Wisdom/Ten Words\|Ten Words]]
+- [[Gate of Wisdom/Testimony\|Testimony]]
 - [[Sacred Truces/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]
 - [[Gate of Wisdom/Timeline\|Timeline]]
 - [[Gate of Wisdom/Torah\|Torah]]

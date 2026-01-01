@@ -323,7 +323,7 @@
 
 - [[Gate of Wisdom/Beings/Heavenly Beings/Christ\|Christ]]
 - [[Lord\|Lord]]
-- [[God\|God]] [[YHWH\|YHWH]] 
+- [[Gate of Wisdom/Beings/Heavenly Beings/God\|God]] [[Gate of Wisdom/Beings/Heavenly Beings/YHWH\|YHWH]] 
 - things
 - [[Gate of Wisdom/Beings/Jesus\|Gate of Wisdom/Beings/Jesus]]
 - [[saints\|saints]]

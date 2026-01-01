@@ -12,5 +12,5 @@ Revelation 13:16–18 [[Olive Branch Reconciliations/Mark of the Beast/01 Mark o
 Revelation 14:9–11 [[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]
 Revelation 16:2  [[Olive Branch Reconciliations/Mark of the Beast/03 Mark of the Beast Brings Wrath of God (66 Rev-16)\|03 Mark of the Beast Brings Wrath of God (66 Rev-16)]]
 Revelation 19:20  [[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]
-Revelation 20:4
+Revelation 20:4 [[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]
 

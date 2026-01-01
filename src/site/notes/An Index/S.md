@@ -80,6 +80,7 @@
 - [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Son of Man\|Son of Man]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Sons of God\|Sons of God]]
+- [[Gate of Wisdom/Soul\|Soul]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]
