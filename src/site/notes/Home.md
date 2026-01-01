@@ -19,6 +19,7 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest ... (13-14 Chronicles)\|33 The Seventh Day Rest ... (13-14 Chronicles)]]                                                                                          |
 | [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]                                                                                                                   |
 | [[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]] |
 | [[Torah Portions/2025.01.03 Shabbat Reading\|2025.01.03 Shabbat Reading]]                                                                                                                                                                     |
@@ -38,7 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/Torment\|Torment]]                                                                                                                                                                                                           |
 | [[Gate of Wisdom/image\|image]]                                                                                                                                                                                                               |
 | [[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]                                                               |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]                                  |
 
 { .block-language-dataview}
 
