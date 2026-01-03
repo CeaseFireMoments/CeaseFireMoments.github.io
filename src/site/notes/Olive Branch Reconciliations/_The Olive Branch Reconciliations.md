@@ -4,8 +4,8 @@
 
 | Table of Content                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest ... (13-14 Chronicles)\|33 The Seventh Day Rest ... (13-14 Chronicles)]]                                                                                          |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                                                  |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]                                    |
 | [[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]] |
 | [[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]                                                                   |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)\|32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)]]                                                        |

@@ -40,8 +40,8 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]                                                 |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]  |
 | [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]                                                      |
-| [[Gate of Wisdom/Good News/Atonement\|Atonement]]                                                              |
 | [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                               |
+| [[Gate of Wisdom/Good News/Atonement\|Atonement]]                                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]]                                                           |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]                                            |
 | [[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]]                                                |
@@ -99,6 +99,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Foreigner\|Foreigner]]                                                                        |
 | [[Gate of Wisdom/Forgive\|Forgive]]                                                                            |
 | [[Gate of Wisdom/Consequence/Disobedience/Forgiveness\|Forgiveness]]                                           |
+| [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]                                             |
 | [[Gate of Wisdom/Sources/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]]  |
 | [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]                                                        |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                                              |

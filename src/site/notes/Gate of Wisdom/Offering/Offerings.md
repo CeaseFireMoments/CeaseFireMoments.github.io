@@ -36,6 +36,7 @@ Scroll down for brief overview of each. Follow the link for an indepth look.
 *  [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] - Korban Pesach
 * [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]] - Sin offering made for national sins.
 * [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
+* [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]
 # Related words
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 
