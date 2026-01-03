@@ -10,4 +10,58 @@ body {
     //  h1 {
     //   color: black;
     //  }
+
+    /* ===== Base highlight ===== */
+mark {
+  padding: 0.12em 0.25em;
+  border-radius: 0.25em;
+  color: #111;
+  font-weight: 500;
+}
+
+/* ===== META ===== */
+span:contains("[thought]") + mark { background:#d9d9d9; }
+span:contains("[note]") + mark { background:#ededed; }
+span:contains("[general]") + mark { background:#fff3a0; }
+
+/* ===== PEOPLE / AGENTS ===== */
+span:contains("[who1]") + mark { background:#cfe2ff; }
+span:contains("[who2]") + mark { background:#b6d4fe; }
+span:contains("[who3]") + mark { background:#9ec5fe; }
+span:contains("[divine]") + mark { background:#ffe28a; }
+span:contains("[seed]") + mark { background:#c9f0c1; }
+span:contains("[tree]") + mark { background:#d2b48c; }
+span:contains("[adversary]") + mark { background:#ffb3b3; }
+
+/* ===== CONCEPTS / ACTIONS ===== */
+span:contains("[what1]") + mark { background:#e2f0d9; }
+span:contains("[cons]") + mark { background:#ffd6cc; }
+span:contains("[goodnews]") + mark { background:#c7f0d8; }
+span:contains("[instruction]") + mark { background:#dbe5f1; }
+span:contains("[offering]") + mark { background:#fce5cd; }
+span:contains("[righteous]") + mark { background:#d9ead3; }
+span:contains("[unrighteous]") + mark { background:#f4cccc; }
+span:contains("[separation]") + mark { background:#ead1dc; }
+span:contains("[abomination]") + mark { background:#ea9999; }
+
+/* ===== TIME ===== */
+span:contains("[appointed]") + mark { background:#ffe5b4; }
+
+/* ===== PLACE ===== */
+span:contains("[dwelling]") + mark { background:#e8f0fe; }
+span:contains("[tabernacle]") + mark { background:#e1d5e7; }
+span:contains("[adversarial]") + mark { background:#f4cccc; }
+
+/* ===== LOGIC ===== */
+span:contains("[purpose]") + mark { background:#ffd966; }
+span:contains("[reason]") + mark { background:#f9cb9c; }
+span:contains("[condition]") + mark { background:#f4b6b6; }
+
+/* ===== MEANS ===== */
+span:contains("[ruach]") + mark { background:#d0e0e3; }
+span:contains("[fruit]") + mark { background:#b6d7a8; }
+
+/* ===== CONNECTION ===== */
+span:contains("[connect]") + mark { background:#e6b8af; }
+
 }
