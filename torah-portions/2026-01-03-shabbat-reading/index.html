@@ -2133,7 +2133,7 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-01-03T14:59:42.591Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-01-03T14:59:42.591Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-01-03T14:59:42.591Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-01-03T15:30:45.771Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-01-03T15:30:45.771Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-01-03T15:30:45.771Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
 <h1 data-note-icon="">2026.01.03 Shabbat Reading</h1>
@@ -2145,12 +2145,373 @@ CTRL + K
 </div>
 </div>
 </header>
-<h1 id="the-fear-of-the-lord-darkness-deliverance-and-redemption-light-and-peace" tabindex="-1">The Fear of the Lord: Darkness, Deliverance and Redemption, Light and Peace</h1>
+<h1 id="the-fear-of-the-lord" tabindex="-1">The Fear of the Lord</h1>
+<ul>
+<li>Darkness</li>
+<li>Deliverance and Redemption</li>
+<li>Light and Peace</li>
+</ul>
 <h1 id="a-href-https-www-biblegateway-com-passage-search-gen-2042-3-a18-43-3-a23-and-amp-version-web-tlv-ojb-target-blank-class-external-link-gen-42-18-43-23-a" tabindex="-1"><a href="https://www.biblegateway.com/passage/?search=Gen%2042%3A18-43%3A23&amp;version=WEB;TLV;OJB" target="_blank" class="external-link">Gen 42:18-43:23</a></h1>
+<h2 id="genesis-43" tabindex="-1">Genesis 43</h2>
+<h3 id="who" tabindex="-1">Who:</h3>
+<ul>
+<li>
+<p><strong>Author:</strong> <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/moses/">Moses</a></p>
+</li>
+<li>
+<p><strong>Audience:</strong> The children of <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/israel/">Israel</a></p>
+</li>
+<li>
+<p><strong>Characters and People Groups:</strong></p>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/jacob/">Jacob</a> (Israel)</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/judah/">Judah</a></li>
+<li>Benjamin</li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Joseph</a></li>
+<li>The man (Joseph, the ruler in Egypt)</li>
+<li>The steward (ruler of Joseph's house)</li>
+<li>Simeon</li>
+<li>The brothers (sons of Jacob)</li>
+<li>The Egyptians</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/hebrew/">Hebrew</a>s</li>
+</ul>
+</li>
+<li>
+<p><strong>Symbolic Roles:</strong></p>
+<ul>
+<li><strong>Deceiver:</strong> The brothers (in their fear and past actions)</li>
+<li><strong>Deceived:</strong> The brothers (regarding Joseph's identity and the money in the sacks)</li>
+<li><strong>Savior:</strong> Joseph (providing food and mercy, though unrecognized)</li>
+</ul>
+</li>
+</ul>
+<h3 id="what" tabindex="-1">What:</h3>
+<ul>
+<li><strong>Main Storyline:</strong> The famine continues, forcing Jacob's sons to return to Egypt for food; Judah persuades Jacob to send Benjamin; they bring gifts and double money; Joseph invites them to his house, releases Simeon, and hosts a meal where Benjamin receives five times as much food, and they feast with him.</li>
+</ul>
+<h3 id="when" tabindex="-1">When:</h3>
+<ul>
+<li><strong>Date Authored:</strong> Not specified in the text</li>
+<li><strong>Date takes place:</strong> During the years of famine in Egypt (second year)</li>
+</ul>
+<h3 id="where" tabindex="-1">Where:</h3>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/dwelling-places/realm-of-humans/canaan/">Canaan</a> (land of Jacob's family) — modern day Israel/Palestine region</li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Egypt</a> (where Joseph rules and the brothers travel to buy food) — modern day Egypt</li>
+</ul>
+<h3 id="connections" tabindex="-1">Connections</h3>
+<ul>
+<li>
+<p><strong>Repeated Words:</strong> (words repeated more than four times, alphabetic order)</p>
+<ul>
+<li>brother (6)</li>
+<li>food (5)</li>
+<li>hand (5)</li>
+<li>man (7)</li>
+<li>money (5)</li>
+<li>sacks (5)</li>
+</ul>
+</li>
+<li>
+<p><strong>Other Related Scriptures:</strong></p>
+<ul>
+<li>Genesis 42 (the first journey to Egypt and the money returned in sacks)</li>
+<li>Genesis 44 (the continuation with the cup in Benjamin's sack and Judah's plea)</li>
+<li>Genesis 45 (Joseph reveals himself to his brothers)</li>
+</ul>
+</li>
+</ul>
 <h1 id="a-href-https-www-biblegateway-com-passage-search-isa-2050-3-a10-52-3-a11-and-amp-version-web-tlv-ojb-target-blank-class-external-link-isa-50-10-52-11-a" tabindex="-1"><a href="https://www.biblegateway.com/passage/?search=Isa%2050%3A10-52%3A11&amp;version=WEB;TLV;OJB" target="_blank" class="external-link">Isa 50:10-52:11</a></h1>
+<h2 id="isaiah-50" tabindex="-1">Isaiah 50</h2>
+<h3 id="who-1" tabindex="-1">Who:</h3>
+<ul>
+<li>
+<p><strong>Author:</strong> <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/isaiah/">Isaiah</a></p>
+</li>
+<li>
+<p><strong>Audience:</strong> The people of Israel (<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/house-of-jacob/">House of Jacob</a>), particularly the faithful remnant and those in exile</p>
+</li>
+<li>
+<p>Characters and People Groups:**</p>
+<ul>
+<li>The Servant of the LORD</li>
+<li>The Lord GOD (Adonai YHWH)</li>
+<li>The children of Israel / Jacob</li>
+<li>The adversaries / oppressors</li>
+<li>Those who fear the LORD</li>
+<li>Those who walk in darkness</li>
+</ul>
+</li>
+<li>
+<p><strong>Symbolic Roles:</strong></p>
+<ul>
+<li><strong>Deceiver:</strong> (not prominent)</li>
+<li><strong>Deceived:</strong> Those who kindle their own fire and walk by their own sparks (self-deceived)</li>
+<li><strong>Savior:</strong> The Servant of the LORD (who willingly suffers and trusts in God)</li>
+</ul>
+</li>
+</ul>
+<h3 id="what-1" tabindex="-1">What:</h3>
+<ul>
+<li><strong>Main Storyline:</strong> The Servant of the LORD speaks of his obedient submission to God despite suffering and humiliation, affirms God’s help, contrasts the fate of those who trust in their own light with those who fear the LORD, and warns the people that their own efforts will lead to sorrow.</li>
+</ul>
+<h3 id="when-1" tabindex="-1">When:</h3>
+<ul>
+<li><strong>Date Authored:</strong> Not specified in the text (traditionally during Isaiah’s ministry, 8th century BC)</li>
+<li><strong>Date takes place:</strong> Prophetic, speaking to present and future Israel</li>
+</ul>
+<h3 id="where-1" tabindex="-1">Where:</h3>
+<ul>
+<li><a class="internal-link is-unresolved" href="/404" target="">Mount Zion</a> / <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/dwelling-places/realm-of-humans/jerusalem/">Jerusalem</a> (implied context of Israel’s spiritual condition) — modern day Israel (Jerusalem area)</li>
+<li>Place of exile / captivity (implied for the suffering Servant and people) — <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/dwelling-places/realm-of-humans/babylon/">Babylon</a> (modern day Iraq)</li>
+</ul>
+<h3 id="connections-1" tabindex="-1">Connections</h3>
+<ul>
+<li>
+<p><strong>Repeated Words:</strong></p>
+<ul>
+<li>Lord (7)</li>
+<li>face (5)</li>
+</ul>
+</li>
+<li>
+<p><strong>Other Related Scriptures:</strong></p>
+<ul>
+<li>Isaiah 49 (the Servant’s mission to Israel and the nations)</li>
+<li>Isaiah 51 (comfort to those who fear the LORD and follow righteousness)</li>
+<li>Isaiah 52–53 (the Suffering Servant exalted and despised)</li>
+<li>Psalm 22 (suffering and trust in God while being mocked)</li>
+<li>Psalm 69 (suffering of the righteous servant)</li>
+</ul>
+</li>
+</ul>
+<h2 id="isaiah-51" tabindex="-1">Isaiah 51</h2>
+<h3 id="who-2" tabindex="-1">Who:</h3>
+<ul>
+<li>
+<p><strong>Author:</strong> Isaiah</p>
+</li>
+<li>
+<p><strong>Audience:</strong> The people of Israel (those who pursue righteousness, who seek the LORD), the faithful remnant, those in fear and affliction</p>
+</li>
+<li>
+<p><strong>Characters and People Groups:</strong></p>
+<ul>
+<li>The LORD (YHWH)</li>
+<li>The arm of the LORD</li>
+<li>Zion</li>
+<li>Jerusalem</li>
+<li>The people of Israel / children of Abraham</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/abraham/">Abraham</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/sarah/">Sarah</a></li>
+<li>The redeemed of the LORD</li>
+<li>Those who know righteousness</li>
+<li>The adversaries / oppressors</li>
+</ul>
+</li>
+<li>
+<p><strong>Symbolic Roles:</strong></p>
+<ul>
+<li><strong>Deceiver:</strong> (not prominent)</li>
+<li><strong>Deceived:</strong> (not prominent)</li>
+<li><strong>Savior:</strong> The LORD / the arm of the LORD (who brings comfort, righteousness, salvation, and deliverance)</li>
+</ul>
+</li>
+</ul>
+<h3 id="what-2" tabindex="-1">What:</h3>
+<ul>
+<li><strong>Main Storyline:</strong> The LORD calls His people to listen and look to Him for comfort and salvation; He reminds them of His power as Creator, His covenant faithfulness to Abraham and Sarah, His promise to make Zion fruitful again, and His assurance that the cup of wrath will be taken from them and given to their oppressors.</li>
+</ul>
+<h3 id="when-2" tabindex="-1">When:</h3>
+<ul>
+<li><strong>Date Authored:</strong> Not specified in the text (traditionally during Isaiah’s ministry, 8th century BC)</li>
+<li><strong>Date takes place:</strong> Prophetic, addressing present affliction and future redemption</li>
+</ul>
+<h3 id="where-2" tabindex="-1">Where:</h3>
+<ul>
+<li>Zion / Jerusalem (the city to be comforted and restored) — modern day Israel (Jerusalem area)</li>
+<li>Place of captivity / exile (implied setting of the afflicted people) — Babylon (modern day Iraq)</li>
+</ul>
+<h3 id="connections-2" tabindex="-1">Connections</h3>
+<ul>
+<li>
+<p><strong>Repeated Words:</strong></p>
+<ul>
+<li>LORD (10)</li>
+<li>people (6)</li>
+<li>righteousness (5)</li>
+<li>Zion (5)</li>
+</ul>
+</li>
+<li>
+<p><strong>Other Related Scriptures:</strong></p>
+<ul>
+<li>Isaiah 50 (the obedient Servant and the call to trust the LORD)</li>
+<li>Isaiah 52 (awakening of Zion and the announcement of good news)</li>
+<li>Isaiah 49 (the Servant’s mission and Zion’s restoration)</li>
+<li>Isaiah 40:1–2 (comfort, comfort my people, says your God)</li>
+<li>Genesis 17–18 (promise to Abraham and Sarah)</li>
+</ul>
+</li>
+</ul>
+<h2 id="isaiah-52" tabindex="-1">Isaiah 52</h2>
+<h3 id="who-3" tabindex="-1">Who:</h3>
+<ul>
+<li>
+<p><strong>Author:</strong> Isaiah</p>
+</li>
+<li>
+<p><strong>Audience:</strong> The people of Israel (Zion/Jerusalem), the captive daughter of Zion, the exiles, those awaiting redemption</p>
+</li>
+<li>
+<p><strong>Characters and People Groups:</strong></p>
+<ul>
+<li>The LORD (YHWH)</li>
+<li>Zion</li>
+<li>Jerusalem</li>
+<li>The captive daughter of Zion</li>
+<li>My people</li>
+<li>The Servant (my servant)</li>
+<li>The uncircumcised <a class="internal-link is-unresolved" href="/404" target="">Uncircumcision</a> and the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/unclean/">Unclean</a></li>
+<li>The watchmen</li>
+<li>The nations</li>
+<li>Kings</li>
+</ul>
+</li>
+<li>
+<p><strong>Symbolic Roles:</strong></p>
+<ul>
+<li><strong>Deceiver:</strong> (not prominent)</li>
+<li><strong>Deceived:</strong> (not prominent)</li>
+<li><strong>Savior:</strong> The LORD (who redeems without money, bares His holy arm, brings salvation); The Servant (who will be exalted after suffering, sprinkling many nations)</li>
+</ul>
+</li>
+</ul>
+<h3 id="what-3" tabindex="-1">What:</h3>
+<ul>
+<li><strong>Main Storyline:</strong> The LORD calls Zion and Jerusalem to awake, put on strength and beautiful garments, shake off dust and chains, for they will be redeemed without money and purified; the good news of peace and salvation is announced with beautiful feet upon the mountains; watchmen rejoice as the LORD comforts His people and redeems Jerusalem; the nations see His salvation; the people are called to depart from uncleanness; the chapter introduces the Servant who will deal prudently, be highly exalted after astonishing suffering and marring, and cause kings to shut their mouths in astonishment as they see and consider what was not told them.</li>
+</ul>
+<h3 id="when-3" tabindex="-1">When:</h3>
+<ul>
+<li><strong>Date Authored:</strong> Not specified in the text (traditionally during Isaiah’s ministry, 8th century BC)</li>
+<li><strong>Date takes place:</strong> Prophetic, addressing present captivity/exile and future deliverance/redemption</li>
+</ul>
+<h3 id="where-3" tabindex="-1">Where:</h3>
+<ul>
+<li>Zion / Jerusalem (the holy city to awake and be restored) — modern day Israel (Jerusalem area)</li>
+<li>Babylon (implied place of captivity from which they depart) — modern day Iraq</li>
+</ul>
+<h3 id="connections-3" tabindex="-1">Connections</h3>
+<ul>
+<li>
+<p><strong>Repeated Words:</strong></p>
+<ul>
+<li>awake (2, but emphatic repetition)</li>
+<li>LORD (multiple occurrences, central)</li>
+<li>people (5+)</li>
+</ul>
+</li>
+<li>
+<p><strong>Other Related Scriptures:</strong></p>
+<ul>
+<li>Isaiah 51 (continued call to awake, comfort of Zion, cup of wrath removed)</li>
+<li>Isaiah 53 (continuation of the Suffering Servant, his humiliation and exaltation)</li>
+<li>Isaiah 40:9 (good tidings, publish salvation, Zion's messenger)</li>
+<li>Isaiah 49 (Servant’s mission and Zion’s restoration)</li>
+<li>Nahum 1:15 / Romans 10:15 (beautiful feet of him who brings good tidings)</li>
+<li>2 Corinthians 6:17 / Revelation 18:4 (come out from among them, be separate)</li>
+</ul>
+</li>
+</ul>
 <h1 id="a-href-https-www-biblegateway-com-passage-search-luke-201-3-a68-79-and-amp-version-web-tlv-ojb-target-blank-class-external-link-luke-1-68-79-a" tabindex="-1"><a href="https://www.biblegateway.com/passage/?search=Luke%201%3A68-79&amp;version=WEB;TLV;OJB" target="_blank" class="external-link">Luke 1:68-79</a></h1>
-<h1 id="psalm-36-psalm-36" tabindex="-1">[Psalm 36](Psalm 36)</h1>
-<p>Testing the highlighting I just uploaded [divine]<mark>Yah</mark> is [righteous]<mark>good</mark> all the [appointed]<mark>time</mark></p>
+<h2 id="luke-1" tabindex="-1">Luke 1</h2>
+<h3 id="who-4" tabindex="-1">Who:</h3>
+<ul>
+<li>
+<p><strong>Author:</strong> <a class="internal-link is-unresolved" href="/404" target="">Luke</a></p>
+</li>
+<li>
+<p><strong>Audience:</strong> Theophilus (most excellent Theophilus), and broader Gentile/Christian believers seeking certainty in the things taught</p>
+</li>
+<li>
+<p><strong>Characters and People Groups:</strong></p>
+<ul>
+<li>Luke (the author)</li>
+<li>Theophilus</li>
+<li>Zacharias (Zechariah)</li>
+<li>Elisabeth (Elizabeth)</li>
+<li>Gabriel (the angel)</li>
+<li>Mary</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/jesus/">Jesus</a> (the unborn Son)</li>
+<li>John (the unborn and newborn son)</li>
+<li>Herod (king of Judea)</li>
+<li>The people (of Israel, worshipers, neighbors, relatives)</li>
+<li>The Lord GOD (the Most High)</li>
+</ul>
+</li>
+<li>
+<p><strong>Symbolic Roles:</strong></p>
+<ul>
+<li><strong>Deceiver:</strong> (not prominent)</li>
+<li><strong>Deceived:</strong> (not prominent)</li>
+<li><strong>Savior:</strong> The Lord (who redeems His people, fulfills promises, brings salvation through the coming Messiah); Jesus (the Son of the Most High, who will reign forever)</li>
+</ul>
+</li>
+</ul>
+<h3 id="what-4" tabindex="-1">What:</h3>
+<ul>
+<li><strong>Main Storyline:</strong> Luke dedicates his orderly account to Theophilus for certainty; the angel Gabriel announces the birth of John the Baptist to the priest Zacharias in the temple (Zacharias doubts and is made mute); Elisabeth conceives; Gabriel announces the virgin birth of Jesus to Mary in Nazareth; Mary visits Elisabeth, where John leaps in the womb and Mary praises God (Magnificat); John is born, named, and Zacharias regains speech and prophesies (Benedictus); John grows strong in the wilderness.</li>
+</ul>
+<h3 id="when-4" tabindex="-1">When:</h3>
+<ul>
+<li><strong>Date Authored:</strong> Not specified in the text (traditionally around AD 60–90)</li>
+<li><strong>Date takes place:</strong> In the days of <a class="internal-link is-unresolved" href="/404" target="">Herod</a> king of Judea (announcement and births of John and Jesus)</li>
+</ul>
+<h3 id="where-4" tabindex="-1">Where:</h3>
+<ul>
+<li>Temple of the Lord (Jerusalem, where Zacharias serves) — modern day Israel (Jerusalem)</li>
+<li>Hill country of Judea (where Elisabeth lives and Mary visits) — modern day Israel (Judean hills)</li>
+<li>Nazareth of Galilee (where Mary lives) — modern day Israel (northern Israel, Nazareth)</li>
+<li>Wilderness (where John grows) — modern day Israel (Judean wilderness)</li>
+</ul>
+<h3 id="connections-4" tabindex="-1">Connections</h3>
+<ul>
+<li>
+<p><strong>Repeated Words:</strong></p>
+<ul>
+<li>child (7)</li>
+<li>father (6)</li>
+<li>God (18+)</li>
+<li>holy (6+)</li>
+<li>house (7)</li>
+<li>Lord (10+)</li>
+<li>mercy (5)</li>
+<li>people (7)</li>
+<li>son (10)</li>
+<li>spirit (7)</li>
+<li>word (5)</li>
+</ul>
+</li>
+<li>
+<p><strong>Numbers Mentioned:</strong></p>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/numbers/06/">06</a> — in the sixth month (v. 26, 36)</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/numbers/08/">08</a> — on the eighth day (v. 59)</li>
+</ul>
+</li>
+<li>
+<p><strong>Other Related Scriptures:</strong></p>
+<ul>
+<li>Acts 1:1 (Luke’s dedication to Theophilus in the sequel)</li>
+<li>Malachi 4:5–6 (John coming in the spirit and power of Elijah)</li>
+<li>1 Samuel 2:1–10 (Hannah’s song, parallel to Mary’s Magnificat)</li>
+<li>Isaiah 7:14 (virgin shall conceive)</li>
+<li>Genesis 18:14 (nothing too hard for the LORD, parallel to nothing impossible with God)</li>
+<li>Matthew 1:18–25 (announcement to Joseph, complementary virgin birth account)</li>
+</ul>
+</li>
+</ul>
+<h2 id="a-href-https-www-biblegateway-com-passage-search-psalm-2036-and-amp-version-web-tlv-ojb-target-blank-class-external-link-psalm-36-a" tabindex="-1"><a href="https://www.biblegateway.com/passage/?search=psalm%2036&amp;version=WEB;TLV;OJB" target="_blank" class="external-link">Psalm 36</a></h2>
 </main>
 <aside>
 <div class="sidebar">
@@ -2192,15 +2553,91 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#the-fear-of-the-lord-darkness-deliverance-and-redemption-light-and-peace">The Fear of the Lord: Darkness, Deliverance and Redemption, Light and Peace</a>
+<li><a href="#the-fear-of-the-lord">The Fear of the Lord</a>
 </li>
 <li><a href="#a-href-https-www-biblegateway-com-passage-search-gen-2042-3-a18-43-3-a23-and-amp-version-web-tlv-ojb-target-blank-class-external-link-gen-42-18-43-23-a">Gen 42:18-43:23</a>
+<ol>
+<li><a href="#genesis-43">Genesis 43</a>
+<ol>
+<li><a href="#who">Who:</a>
+</li>
+<li><a href="#what">What:</a>
+</li>
+<li><a href="#when">When:</a>
+</li>
+<li><a href="#where">Where:</a>
+</li>
+<li><a href="#connections">Connections</a>
+</li>
+</ol>
+</li>
+</ol>
 </li>
 <li><a href="#a-href-https-www-biblegateway-com-passage-search-isa-2050-3-a10-52-3-a11-and-amp-version-web-tlv-ojb-target-blank-class-external-link-isa-50-10-52-11-a">Isa 50:10-52:11</a>
+<ol>
+<li><a href="#isaiah-50">Isaiah 50</a>
+<ol>
+<li><a href="#who-1">Who:</a>
+</li>
+<li><a href="#what-1">What:</a>
+</li>
+<li><a href="#when-1">When:</a>
+</li>
+<li><a href="#where-1">Where:</a>
+</li>
+<li><a href="#connections-1">Connections</a>
+</li>
+</ol>
+</li>
+<li><a href="#isaiah-51">Isaiah 51</a>
+<ol>
+<li><a href="#who-2">Who:</a>
+</li>
+<li><a href="#what-2">What:</a>
+</li>
+<li><a href="#when-2">When:</a>
+</li>
+<li><a href="#where-2">Where:</a>
+</li>
+<li><a href="#connections-2">Connections</a>
+</li>
+</ol>
+</li>
+<li><a href="#isaiah-52">Isaiah 52</a>
+<ol>
+<li><a href="#who-3">Who:</a>
+</li>
+<li><a href="#what-3">What:</a>
+</li>
+<li><a href="#when-3">When:</a>
+</li>
+<li><a href="#where-3">Where:</a>
+</li>
+<li><a href="#connections-3">Connections</a>
+</li>
+</ol>
+</li>
+</ol>
 </li>
 <li><a href="#a-href-https-www-biblegateway-com-passage-search-luke-201-3-a68-79-and-amp-version-web-tlv-ojb-target-blank-class-external-link-luke-1-68-79-a">Luke 1:68-79</a>
+<ol>
+<li><a href="#luke-1">Luke 1</a>
+<ol>
+<li><a href="#who-4">Who:</a>
 </li>
-<li><a href="#psalm-36-psalm-36">[Psalm 36](Psalm 36)</a>
+<li><a href="#what-4">What:</a>
+</li>
+<li><a href="#when-4">When:</a>
+</li>
+<li><a href="#where-4">Where:</a>
+</li>
+<li><a href="#connections-4">Connections</a>
+</li>
+</ol>
+</li>
+<li><a href="#a-href-https-www-biblegateway-com-passage-search-psalm-2036-and-amp-version-web-tlv-ojb-target-blank-class-external-link-psalm-36-a">Psalm 36</a>
+</li>
+</ol>
 </li>
 </ol>
 </nav>
