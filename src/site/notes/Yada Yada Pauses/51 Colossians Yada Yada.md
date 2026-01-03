@@ -222,7 +222,7 @@
             - the Saints and Faithful Brothers in Colossae
             - Saints and Faithful Brothers in Laodicea
             - Saints and Faithful Brothers in Hierapolis
-- **[[_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke\|Luke]]**
+- **[[_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke\|_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke]]**
     - dearly loved physician
     - sends his greetings
     - Note: Author of Luke and most likely of Acts
