@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>33 The Seventh Day Rest ... (13-14 Chronicles)</title>
+<title>Free Will Offering</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -945,6 +945,10 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/offering/free-will-offering/">Free Will Offering </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/offering/grain-offering/">Grain Offering </a>
 </div>
 </div>
@@ -1579,7 +1583,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/olive-branch-reconciliations/the-seventh-day-rest/33-the-seventh-day-rest-13-14-chronicles/">33 The Seventh Day Rest ... (13-14 Chronicles) </a>
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/olive-branch-reconciliations/the-seventh-day-rest/33-the-seventh-day-rest-is-a-day-for-offerings-13-14-chronicles-15-ezra/">33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra) </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -2129,81 +2133,45 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-01-02T01:17:10.965Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-01-02T01:17:10.965Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-01-02T01:17:10.965Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-01-03T00:43:59.210Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-01-03T00:43:59.210Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-01-03T00:43:59.210Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
-<h1 data-note-icon="">33 The Seventh Day Rest ... (13-14 Chronicles)</h1>
+<h1 data-note-icon="">Free Will Offering</h1>
 <div class="header-meta">
 <div class="header-tags">
 <a class="tag" onclick="toggleTagSearch(this)">
-##OliveBranch
+##GateWisdom
 </a>
 <a class="tag" onclick="toggleTagSearch(this)">
-##Sabbath
+#F
 </a>
 <a class="tag" onclick="toggleTagSearch(this)">
-#SeventhDayRest
+#Offering
 </a>
 </div>
 </div>
 </header>
-<p>The Seventh-Day rest—a call to cease—remains one of the Bible’s most disputed and divisive themes. In a world—and a assembly of believers —accustomed to constant striving, the seventh day still asks a disruptive question: What does it mean to stop because YHWH/God said to?</p>
-<p>The Seventh Day Rest (later known as <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/sabbath/">Sabbath</a> or Shabbat), sits at the crossroads of devotion, doctrine, and dispute. For some, it is a creation-rooted rhythm meant for all humanity; for others, a covenant sign given uniquely to Israel; for many Christians, a shadow fulfilled and set aside in Christ. Pastors, theologians, rabbis, historians, and everyday believers often speak past one another, each convinced the matter is settled—yet rarely at peace about it.</p>
-<p>This series approaches the Seventh Day Rest as a ceasefire moment: a pause not only from labor, but from inherited assumptions and theological hostilities. Rather than beginning with denominational conclusions, we begin where Scripture begins—listening carefully from Genesis to Revelation. The aim is not to win an argument, but to quiet the noise long enough to let the biblical text speak for itself, and to see whether the call to rest has always been less about identity markers and more about trusting YHWH’s word, submitting to His authority, remembering His works, and entering the rest He Himself sanctified..</p>
-<h1 id="scripture-a-href-https-www-biblegateway-com-passage-search-1-20-chronicles-2023-3-a31-2-c-202-20-chronicles-202-3-a4-2-c-202-20-chronicles-208-3-a13-2-c-20-ezra-203-3-a5-and-amp-version-tlv-ojb-web-target-blank-class-external-link-1-chronicles-23-31-2-chronicles-2-4-2-chronicles-8-13-ezra-3-5-a" tabindex="-1">Scripture <a href="https://www.biblegateway.com/passage/?search=1%20Chronicles%2023%3A31%2C%202%20Chronicles%202%3A4%2C%202%20Chronicles%208%3A13%2C%20Ezra%203%3A5&amp;version=TLV;OJB;WEB" target="_blank" class="external-link">1 Chronicles 23:31 / 2 Chronicles 2:4 / 2 Chronicles 8:13 / Ezra 3:5</a></h1>
-<h4 id="note-these-scriptures-do-not-refer-to-the-seventh-day-rest-specifically-however-it-is-a-part-of-the-gate-of-wisdom-appointed-time-sabbath-s-sabbath-s-which-is-mentioned-they-all-have-a-similar-theme-so-instead-of-doing-them-individually-we-ve-grouped-them-together-here" tabindex="-1">Note: These scriptures do not refer to the Seventh Day Rest specifically, however, it is a part of the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/sabbath-s/">SabbathS</a> which is mentioned. They all have a similar theme so instead of doing them individually, we've grouped them together here.</h4>
-<p>1 Chronicles 23:31 and to <mark style="background:#67cD83A6">offer all burnt offerings</mark> <mark style="background:#d7cD91A6">to Yahweh</mark> <mark style="background:#a284CDA6">on the Sabbaths</mark>, <mark style="background:#a284CDA6">on the new moons</mark>, and <mark style="background:#a284CDA6">on the set feasts</mark>, <mark style="background:#4fa466A6">in number according to the ordinance concerning them</mark>, <mark style="background:#d2b3FFA6">continually</mark> <mark style="background:#258FE5A6">before Yahweh</mark>;</p>
-<p>2 Chronicles 2:4 Behold,<mark style="background:#e0cC4BA6"> I am</mark> <mark style="background:#258FE5A6">about to build a house</mark> for <mark style="background:#d7cD91A6">the name of Yahweh my God</mark>, to <mark style="background:#04cD3EA6">dedicate it</mark> <mark style="background:#d7cD91A6">to him</mark>, <mark style="background:#67cD83A6">to burn</mark> <mark style="background:#258FE5A6">before him</mark> <mark style="background:#67cD83A6">incense of sweet spices</mark>, <mark style="background:#d2b3FFA6">for the continual</mark> <mark style="background:#67cD83A6">show bread</mark>, and <mark style="background:#67cD83A6">for the burnt offerings</mark> <mark style="background:#d2b3FFA6">morning and evening</mark>, on the <mark style="background:#a284CDA6">Sabbaths</mark>, <mark style="background:#a284CDA6">on the new moons</mark>, and on <mark style="background:#a284CDA6">the set feasts </mark><mark style="background:#d7cD91A6">of Yahweh our God</mark>. <mark style="background:#61a273A6">This is an ordinance</mark> <mark style="background:#d2b3FFA6">forever</mark> <mark style="background:#b2a23AA6">to Israel</mark>.</p>
-<p>2 Chronicles 8:13 even <mark style="background:#04cD3EA6">as the duty</mark> <mark style="background:#d2b3FFA6">of every day</mark> <mark style="background:#61a273A6">required</mark>, <mark style="background:#67cD83A6">offering</mark> <mark style="background:#61a273A6">according to the commandment of Moses</mark> <mark style="background:#a284CDA6">on the Sabbaths</mark>, <mark style="background:#a284CDA6">on the new moons</mark>, <mark style="background:#a284CDA6">and on the set feasts</mark>, <mark style="background:#a284CDA6">three times per year</mark>, <mark style="background:#a284CDA6">during the feast of unleavened bread</mark>, <mark style="background:#a284CDA6">during the feast of weeks</mark>, and <mark style="background:#a284CDA6">during the feast of booths.</mark></p>
-<p>Ezra 3:5 and <mark style="background:#d2b3FFA6">afterward the continual</mark> <mark style="background:#67cD83A6">burnt offering</mark>, <mark style="background:#67cD83A6">the offerings</mark> of <mark style="background:#a284CDA6">the new moons</mark>, of all <mark style="background:#a284CDA6">the set feasts</mark> <mark style="background:#d7cD91A6">of Yahweh</mark> <mark style="background:#04cD3EA6">that were consecrated</mark>, <mark style="background:#a4a089A6">and of everyone who </mark><mark style="background:#67cD83A6">willingly offered</mark> <mark style="background:#67cD83A6">a free will offering</mark> <mark style="background:#d7cD91A6">to Yahweh</mark>.</p>
-<h2 id="strong-define-strong" tabindex="-1"><strong>Define</strong>:</h2>
+<h1 id="define" tabindex="-1">Define</h1>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/burnt-offering/">Burnt Offering</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/sabbath-s/">SabbathS</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/appointed-time/">Appointed Time</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/feast/">Feast</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/name/">Name</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commandments/">Commandments</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/feast-of-unleavened-bread/">Feast of Unleavened Bread</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/shavuot/">Shavuot</a> = feast of weeks</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/sukkot/">Sukkot</a> = feast of booths</li>
+<li>
+<p>Hebrew: nᵊdāḇâ (נְדָבָה) - a voluntary offering; a gift or sacrifice presented to the LORD from a willing heart, without obligation</p>
+</li>
+<li>
+<p>Greek: nᵊḏāḇâ (נְדָבָה) is not translated in the Septuagint with a single consistent Greek term; most often rendered as hekousios (ἑκούσιος) or prothymos (πρόθυμος) in contexts like Exodus 35–36, but no fixed Greek noun equivalent appears.</p>
+</li>
 </ul>
-<h2 id="strong-mark-style-background-e0-cc-4-ba-6-who-mark-strong" tabindex="-1"><strong><mark style="background:#e0cC4BA6">Who</mark></strong>:</h2>
+<h1 id="related-words" tabindex="-1">Related words</h1>
 <ul>
-<li></li>
+<li>nāḏîḇ (נָדִיב) – willing, generous, noble</li>
+<li>nāḏaḇ (נָדַב) – to offer willingly, volunteer</li>
 </ul>
-<h2 id="strong-mark-style-background-04-cd-3-ea-6-what-mark-strong" tabindex="-1"><strong><mark style="background:#04cD3EA6">What</mark></strong>:</h2>
-<ul>
-<li></li>
-</ul>
-<h2 id="strong-mark-style-background-d2-b3-ffa-6-when-mark-strong" tabindex="-1"><strong><mark style="background:#d2b3FFA6">When</mark></strong>:</h2>
-<ul>
-<li></li>
-</ul>
-<h2 id="strong-mark-style-background-eb-9-e57-a6-why-mark-strong" tabindex="-1"><strong><mark style="background:#eb9E57A6">Why</mark></strong>:</h2>
-<ul>
-<li></li>
-</ul>
-<h1 id="findings" tabindex="-1">Findings</h1>
-<h2 id="the-sabbath-is-not-for-a-and-quot-christian-and-quot" tabindex="-1">The Sabbath is not for a &quot;Christian&quot;:</h2>
-<ul>
-<li>Christians do not exist yet.</li>
-</ul>
-<h2 id="it-is-a-jewish-thing" tabindex="-1">It is a Jewish thing:</h2>
-<ul>
-<li>The &quot;Jews&quot; (followers of Judaism) referred to in the New Testament do not exist yet.</li>
-</ul>
-<h2 id="jesus-replaced-the-sabbath" tabindex="-1">Jesus replaced the Sabbath:</h2>
-<ul>
-<li>Not yet.</li>
-</ul>
-<h2 id="other-notes" tabindex="-1">Other Notes:</h2>
-<ul>
-<li>Given outside the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/ten-words/">Ten Words</a> aka <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/ten-commandments/">Ten Commandments</a></li>
-</ul>
+<h1 id="additional-info" tabindex="-1">Additional Info</h1>
 <h1 id="connections" tabindex="-1">Connections</h1>
-<h2 id="olive-branch-reconciliations-the-seventh-day-rest-seventh-day-rest-scripture-survey-seventh-day-rest-scripture-survey" tabindex="-1"><a class="internal-link" target="" data-note-icon="" href="/olive-branch-reconciliations/the-seventh-day-rest/seventh-day-rest-scripture-survey/">_Seventh Day Rest Scripture Survey</a></h2>
+<ul>
+<li>First appears: Exodus 35:29</li>
+<li>Regulated as <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/peace-offering/">peace offering</a>: Leviticus 7:16; 22:18–23; Numbers 15:3</li>
+<li>Post-exilic use: Ezra 3:5; 8:28</li>
+</ul>
 </main>
 <aside>
 <div class="sidebar">
@@ -2245,39 +2213,13 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#scripture-a-href-https-www-biblegateway-com-passage-search-1-20-chronicles-2023-3-a31-2-c-202-20-chronicles-202-3-a4-2-c-202-20-chronicles-208-3-a13-2-c-20-ezra-203-3-a5-and-amp-version-tlv-ojb-web-target-blank-class-external-link-1-chronicles-23-31-2-chronicles-2-4-2-chronicles-8-13-ezra-3-5-a">Scripture 1 Chronicles 23:31 / 2 Chronicles 2:4 / 2 Chronicles 8:13 / Ezra 3:5</a>
-<ol>
-<li><a href="#note-these-scriptures-do-not-refer-to-the-seventh-day-rest-specifically-however-it-is-a-part-of-the-gate-of-wisdom-appointed-time-sabbath-s-sabbath-s-which-is-mentioned-they-all-have-a-similar-theme-so-instead-of-doing-them-individually-we-ve-grouped-them-together-here">Note: These scriptures do not refer to the Seventh Day Rest specifically, however, it is a part of the [[Gate of Wisdom/Appointed Time/SabbathS|SabbathS]] which is mentioned. They all have a similar theme so instead of doing them individually, we've grouped them together here.</a>
+<li><a href="#define">Define</a>
 </li>
-<li><a href="#strong-define-strong">Define:</a>
+<li><a href="#related-words">Related words</a>
 </li>
-<li><a href="#strong-mark-style-background-e0-cc-4-ba-6-who-mark-strong">Who:</a>
-</li>
-<li><a href="#strong-mark-style-background-04-cd-3-ea-6-what-mark-strong">What:</a>
-</li>
-<li><a href="#strong-mark-style-background-d2-b3-ffa-6-when-mark-strong">When:</a>
-</li>
-<li><a href="#strong-mark-style-background-eb-9-e57-a6-why-mark-strong">Why:</a>
-</li>
-</ol>
-</li>
-<li><a href="#findings">Findings</a>
-<ol>
-<li><a href="#the-sabbath-is-not-for-a-and-quot-christian-and-quot">The Sabbath is not for a "Christian":</a>
-</li>
-<li><a href="#it-is-a-jewish-thing">It is a Jewish thing:</a>
-</li>
-<li><a href="#jesus-replaced-the-sabbath">Jesus replaced the Sabbath:</a>
-</li>
-<li><a href="#other-notes">Other Notes:</a>
-</li>
-</ol>
+<li><a href="#additional-info">Additional Info</a>
 </li>
 <li><a href="#connections">Connections</a>
-<ol>
-<li><a href="#olive-branch-reconciliations-the-seventh-day-rest-seventh-day-rest-scripture-survey-seventh-day-rest-scripture-survey">[[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey|_Seventh Day Rest Scripture Survey]]</a>
-</li>
-</ol>
 </li>
 </ol>
 </nav>
@@ -2285,9 +2227,11 @@ On this page
 </div>
 <div class="backlinks">
 <div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/" data-note-icon="" class="backlink">Home</a>
-</div><div class="backlink-card"><i icon-name="link"></i><a href="/olive-branch-reconciliations/the-seventh-day-rest/seventh-day-rest-scripture-survey/" data-note-icon="" class="backlink">_Seventh Day Rest Scripture Survey</a>
-</div><div class="backlink-card"><i icon-name="link"></i><a href="/olive-branch-reconciliations/the-olive-branch-reconciliations/" data-note-icon="" class="backlink">_The Olive Branch Reconciliations</a>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/an-index/f/" data-note-icon="" class="backlink">F</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/offering/offerings/" data-note-icon="" class="backlink">Offerings</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/gate-of-wisdom/" data-note-icon="" class="backlink">_Gate of Wisdom</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/" data-note-icon="" class="backlink">Home</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/olive-branch-reconciliations/the-seventh-day-rest/33-the-seventh-day-rest-is-a-day-for-offerings-13-14-chronicles-15-ezra/" data-note-icon="" class="backlink">33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)</a>
 </div></div>
 </div>
 </div>
