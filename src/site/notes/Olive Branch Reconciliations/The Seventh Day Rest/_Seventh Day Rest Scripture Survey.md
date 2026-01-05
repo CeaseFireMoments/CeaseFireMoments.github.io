@@ -40,7 +40,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Ezekiel 22:8, 26 [[Olive Branch Reconciliations/The Seventh Day Rest/26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)\|26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)]]
 - Ezekiel 23:38  [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]
 - Ezekiel 44:24 [[Olive Branch Reconciliations/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]
-- Ezekiel 45:17   
+- Ezekiel 45:17 [[Zunpublished/34 The Seventh Day Rest (26 Ezekiel 45)\|34 The Seventh Day Rest (26 Ezekiel 45)]]
 - Ezekiel 46:1-12 [[Olive Branch Reconciliations/The Seventh Day Rest/29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)\|29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)]]
 - Hosea 2:11 [[Olive Branch Reconciliations/The Seventh Day Rest/30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)\|30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)]]
 - 1 Kings 12:32–33   [[Olive Branch Reconciliations/The Seventh Day Rest/31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)\|31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)]]
