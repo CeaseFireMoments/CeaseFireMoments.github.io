@@ -93,14 +93,14 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Elohim\|Elohim]]                                                       |
 | [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                              |
 | [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                         |
-| [[Gate of Wisdom/Fast\|Fast]]                                                                                  |
+| [[Gate of Wisdom/F/Fast\|Fast]]                                                                                |
 | [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]                                                          |
 | [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                 |
 | [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]                                   |
 | [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]                         |
 | [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]                                           |
-| [[Gate of Wisdom/Foreigner\|Foreigner]]                                                                        |
-| [[Gate of Wisdom/Forgive\|Forgive]]                                                                            |
+| [[Gate of Wisdom/F/Foreigner\|Foreigner]]                                                                      |
+| [[Gate of Wisdom/F/Forgive\|Forgive]]                                                                          |
 | [[Gate of Wisdom/Consequence/Disobedience/Forgiveness\|Forgiveness]]                                           |
 | [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]                                             |
 | [[Gate of Wisdom/Sources/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]]  |

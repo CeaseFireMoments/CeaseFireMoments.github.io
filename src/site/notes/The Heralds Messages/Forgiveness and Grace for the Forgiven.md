@@ -3,7 +3,7 @@
 ---
 
 
-We watched “The Green Mile” last night, it made me think about forgiveness. It’s really interesting how forgiveness seems to work. Let me ask you something, which of these three guys from the movie do you think DESERVE forgiveness, which do you think you could more easily [[Gate of Wisdom/Forgive\|Forgive]], and which would be the hardest to forgive?
+We watched “The Green Mile” last night, it made me think about forgiveness. It’s really interesting how forgiveness seems to work. Let me ask you something, which of these three guys from the movie do you think DESERVE forgiveness, which do you think you could more easily [[Gate of Wisdom/F/Forgive\|Forgive]], and which would be the hardest to forgive?
 
 1. Percy Wetmore, a sadistic and unpopular guard who deliberately sabotages an execution. Instead of wetting the sponge used to conduct electricity, he leaves it dry, causing excruciating pain to the inmate, Eduard “Del” Delacroix. {Side note, his last name is WET-MORE, haha, sorry had to point that out.}
 2. William “Wild Bill” Wharton, a violent prisoner (duh – WAR-TON?), due to be executed for multiple murders committed during a robbery. At one point he seizes John Coffey’s arm and John psychically senses that Wharton is the true killer of the two girls, the crime for which John was wrongly convicted and sentenced to death.

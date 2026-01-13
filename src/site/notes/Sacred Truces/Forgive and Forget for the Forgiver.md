@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/forgive-and-forget-for-the-forgiver/"}
 ---
 
-Are [[Gate of Wisdom/Forgive\|Forgive]] and forget the same thing? Can we forgive without forgetting? Can we forget without forgiving?
+Are [[Gate of Wisdom/F/Forgive\|Forgive]] and forget the same thing? Can we forgive without forgetting? Can we forget without forgiving?
 
 When the disciples asked Jesus to teach them to pray, one of the lines was: [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v12\|Matt-06:12]] 
 > ‘And forgive us our debts *\[fig., sins\]*, in the same way as \_we \_ also forgive our debtors *\[fig., the ones having sinned against us\]*.
