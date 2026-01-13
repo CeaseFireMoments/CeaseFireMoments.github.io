@@ -21,7 +21,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 
 ## **Define**: 
 - [[Gate of Wisdom/Abomination/Abomination\|Abomination]] = something morally disgusting, detestable, or abhorrent, especially in ritual or ethical contexts before God
-- [[Gate of Wisdom/Holy\|Holy]] = set apart for service to YHWH
+- [[Gate of Wisdom/H/Holy\|Holy]] = set apart for service to YHWH
 - [[Gate of Wisdom/C/Common\|Common]] = Something that is not set apart for God; ordinary, non-sacred, accessible to anyone. 
 - [[Gate of Wisdom/C/Clean\|Clean]] = Ritually and morally pure; permitted to approach God’s presence or be used in sacred service.
 - [[Gate of Wisdom/Unclean\|Unclean]] = Ritually impure; defiling; must be kept away from the sanctuary and holy things until purified

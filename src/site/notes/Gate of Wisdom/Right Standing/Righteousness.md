@@ -34,7 +34,7 @@ But, according to his promise, we look for new heavens and a new earth, in which
 - justice/judgment (מִשְׁפָּט; κρίσις)
 - faithfulness (אֱמוּנָה)
 - truth (Ps 85:10–11)
-- holiness (Rom 6:19) [[Gate of Wisdom/Holy\|Holy]]
+- holiness (Rom 6:19) [[Gate of Wisdom/H/Holy\|Holy]]
 - [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]
 
 # Additional Info

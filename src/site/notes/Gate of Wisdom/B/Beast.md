@@ -33,7 +33,7 @@
 		- Who is able to make war with him?”
 			- The ability to make war for forty-two (42) months was given to him
 			- Against
-				- The [[Gate of Wisdom/Holy\|Holy]] People of Elohim (and to overcome them)
+				- The [[Gate of Wisdom/H/Holy\|Holy]] People of Elohim (and to overcome them)
 				- Tribes
 				- People
 				- [[Zunpublished/Tongue\|Tongue]]s glōssan

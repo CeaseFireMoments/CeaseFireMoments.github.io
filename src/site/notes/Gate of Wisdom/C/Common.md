@@ -3,7 +3,7 @@
 ---
 
 # Define
-- Something that is not set apart for God; ordinary, non-sacred, accessible to anyone. To “profane” something holy is to make it common again. Direct opposite of [[Gate of Wisdom/Holy\|Holy]]
+- Something that is not set apart for God; ordinary, non-sacred, accessible to anyone. To “profane” something holy is to make it common again. Direct opposite of [[Gate of Wisdom/H/Holy\|Holy]]
 - Hebrew: ḥōl (חֹל) common, profane
 
 - Greek: 
@@ -11,7 +11,7 @@
 	- Secondary word (especially later): koinós (κοινός) – “common, ordinary” - then “defiled/profane”
 
 # Related words
-- [[Gate of Wisdom/Holy\|Holy]]
+- [[Gate of Wisdom/H/Holy\|Holy]]
 - [[Gate of Wisdom/C/Clean\|Clean]]
 - [[Gate of Wisdom/Unclean\|Unclean]]
 

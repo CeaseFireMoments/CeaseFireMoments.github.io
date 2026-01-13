@@ -154,7 +154,7 @@ For reading purposes [[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01\|O
 	- But in <mark style="background: #4DA6EDA6;">Mount Zion</mark>, 
 		- there will be those <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]<mark style="background: #CD04BBA6;">//</mark> 
 			- who escape, 
-			- and it <mark style="background: #CD04BBA6;">//</mark>[[Zunpublished/Mount Zion\|Mount Zion]]<mark style="background: #CD04BBA6;">//</mark> will be [[Gate of Wisdom/Holy\|Holy]]. 
+			- and it <mark style="background: #CD04BBA6;">//</mark>[[Zunpublished/Mount Zion\|Mount Zion]]<mark style="background: #CD04BBA6;">//</mark> will be [[Gate of Wisdom/H/Holy\|Holy]]. 
 			- The [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]] 
 				- will possess their possessions[^6]. 
 		- The house of Jacob 

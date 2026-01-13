@@ -10,7 +10,7 @@
 - [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]
 - [[Gate of Wisdom/C/Clean\|Clean]]
 - [[Gate of Wisdom/Unclean\|Unclean]]
-- [[Gate of Wisdom/Holy\|Holy]]
+- [[Gate of Wisdom/H/Holy\|Holy]]
 - [[Gate of Wisdom/Good News/Atonement\|Atonement]]
 - [[Gate of Wisdom/Ransom\|Ransom]]
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]

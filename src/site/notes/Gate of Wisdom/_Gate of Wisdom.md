@@ -113,14 +113,14 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]                                                     |
 | [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]                                                 |
 | [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]                                                          |
-| [[Gate of Wisdom/Holy\|Holy]]                                                                                  |
+| [[Gate of Wisdom/H/Holy\|Holy]]                                                                                |
 | [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]                                           |
 | [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]]                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]                                        |
 | [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]                                          |
 | [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]                                          |
-| [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]]                                                          |
-| [[Gate of Wisdom/Hunger and Thirst\|Hunger and Thirst]]                                                        |
+| [[Gate of Wisdom/H/Humble in Spirit\|Humble in Spirit]]                                                        |
+| [[Gate of Wisdom/H/Hunger and Thirst\|Hunger and Thirst]]                                                      |
 | [[Gate of Wisdom/Idiom\|Idiom]]                                                                                |
 | [[Gate of Wisdom/image\|image]]                                                                                |
 | [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]]                                              |

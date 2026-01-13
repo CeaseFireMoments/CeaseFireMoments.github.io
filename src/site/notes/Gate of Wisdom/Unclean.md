@@ -12,7 +12,7 @@
 
 # Related words
 - [[Gate of Wisdom/C/Common\|Common]]
-- [[Gate of Wisdom/Holy\|Holy]]
+- [[Gate of Wisdom/H/Holy\|Holy]]
 - [[Gate of Wisdom/C/Clean\|Clean]]
 
 # Additional Info

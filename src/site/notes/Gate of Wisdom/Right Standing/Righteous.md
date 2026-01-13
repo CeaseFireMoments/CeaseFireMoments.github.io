@@ -54,7 +54,7 @@ A closely related word is צְדָקָה (tsedaqah), often translated as "[[Gate
 		- Righteous - Tsedeq emphasizes the quality or standard of righteousness/justice, while 
 		- Righteousness - tsedaqah often focuses on the practice or expression of righteousness, especially in acts of compassion or charity.
 - upright (Heb. יָשָׁר – Prov 14:2)**
-- [[Gate of Wisdom/Holy\|Holy]] (Lev 19:2)
+- [[Gate of Wisdom/H/Holy\|Holy]] (Lev 19:2)
 - blameless (Gen 17:1; Phil 2:15)
 - godly (1 Tim 6:11; Titus 2:12)
 - just (same Greek root in NT)

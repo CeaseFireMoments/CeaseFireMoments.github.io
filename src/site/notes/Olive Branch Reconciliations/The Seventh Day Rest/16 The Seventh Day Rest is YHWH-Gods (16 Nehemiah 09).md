@@ -18,7 +18,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - True Laws [[Gate of Wisdom/Torah\|Torah]] instruction or teaching
 - Statues [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] Laws without explicit rationales, often ritual or symbolic (e.g., dietary laws, festivals).
 - Commandments [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] General commandments, often moral or religious duties (e.g., love God, keep commandments).
-- [[Gate of Wisdom/Holy\|Holy]] "set apart," "separate," or "consecrated" for a special purpose. 
+- [[Gate of Wisdom/H/Holy\|Holy]] "set apart," "separate," or "consecrated" for a special purpose. 
 - [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] cease, desist, rest, a solemn rest day
 ## **Who**:
 - You =  YHWH

@@ -44,7 +44,7 @@ Here is the perseverance of the saints, those who keep the commandments of God, 
 
 ## <mark style="background: #4DA6EDA6;">Where:</mark>
 - Torment is
-	- in the presence of the [[Gate of Wisdom/Holy\|Holy]] angels
+	- in the presence of the [[Gate of Wisdom/H/Holy\|Holy]] angels
 	- in the presence of The Lamb
 ## **<mark style="background: #EB9E57A6;">Why</mark>**: 
 - Said as a warning

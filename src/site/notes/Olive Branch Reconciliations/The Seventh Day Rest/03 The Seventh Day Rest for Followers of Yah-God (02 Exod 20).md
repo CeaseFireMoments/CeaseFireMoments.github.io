@@ -16,7 +16,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 
 ## **Define**: 
 - Remember zakhor (זָכוֹר )  - to remember," "to recall," or "to keep in mind." It carries the sense of actively bearing in mind or observing with intentionality, emphasizing both remembrance and action. The imperative form in this verse is a command, urging consciously remember and uphold the sanctity.
-- [[Gate of Wisdom/Holy\|Holy]] - kadosh (קָדוֹשׁ), which means "set apart," "separate," or "consecrated" for a special purpose. 
+- [[Gate of Wisdom/H/Holy\|Holy]] - kadosh (קָדוֹשׁ), which means "set apart," "separate," or "consecrated" for a special purpose. 
 	- In Scriptures, it signifies something that is distinct from the common or profane, dedicated to God's service, or possessing a unique sanctity. 
 	- The concept of kadosh applies to Yah, people, places, things, and time, distinguishing them as unique and separate from ordinary things. 
 - "Commandments" - devarim דְּבָרִים (plural of דָּבָר, davar) means "words," "things," or "matters." 

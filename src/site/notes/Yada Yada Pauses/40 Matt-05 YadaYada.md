@@ -36,7 +36,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 ### Verses 3-12 - Also in Luke 6
 
 - Happy/[[Gate of Wisdom/B/Blessed\|Blessed]]  are:
-	- [[Gate of Wisdom/Poor\|Poor]] // [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]] // in spirit <mark style="background: #CD04BBA6;">//the life principle, breath, life, soul//</mark>
+	- [[Gate of Wisdom/Poor\|Poor]] // [[Gate of Wisdom/H/Humble in Spirit\|Humble in Spirit]] // in spirit <mark style="background: #CD04BBA6;">//the life principle, breath, life, soul//</mark>
 	- <mark style="background: #A8ADB8A6;">FOR/BECAUSE</mark> theirs <mark style="background: #CD04BBA6;">// poor in spirit //</mark> is the [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]] <mark style="background: #CD04BBA6;">//where God reigns//</mark>
 
 #### Down further in this passage, Jesus refers to the least and the greatest in the reign of heavens - so this does not seem to mean the poor in spirit will reign exclusively - but that they will be a part of the reign of the heavens.
@@ -70,7 +70,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 
 ![](https://app.thebrain.com/notes-image-request/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/7bb79d4a-ca55-4e85-ad47-06611ba54add.webp)
 
-- Those hungering and thirsting <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Hunger and Thirst\|Hunger and Thirst]] <mark style="background: #CD04BBA6;">//</mark>
+- Those hungering and thirsting <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/H/Hunger and Thirst\|Hunger and Thirst]] <mark style="background: #CD04BBA6;">//</mark>
 - for [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]ness
 - shall be filled. <mark style="background: #CD04BBA6;">//satisfied Luke 6//</mark>
 
