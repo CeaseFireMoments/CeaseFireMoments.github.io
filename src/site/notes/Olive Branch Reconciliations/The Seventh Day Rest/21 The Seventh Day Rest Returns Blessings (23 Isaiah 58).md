@@ -33,7 +33,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 	- turn away from doing your own way on the Seventh Day/[[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
 	- turn from doing your own will, desires, business on YHWH's set apart/[[Gate of Wisdom/H/Holy\|Holy]] day
 	- call the Sabbath a delight
-	- call the set apart things of YHWH honorable [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+	- call the set apart things of YHWH honorable [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 	- Honor the set apart Seventh day/Sabbath
 	- NOT doing your own ways
 	- NOT finding your own pleasure

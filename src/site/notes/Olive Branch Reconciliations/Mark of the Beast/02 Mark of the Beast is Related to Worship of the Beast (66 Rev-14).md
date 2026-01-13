@@ -16,7 +16,7 @@ This series approaches the Mark of the Beast as another _ceasefire moment_: a de
 Here is the perseverance of the saints, those who keep the commandments of God, and the faith of Jesus." 
 
 # **Define**: 
-- [[Gate of Wisdom/Worship\|Worship]] - bow down in reverence
+- [[Gate of Wisdom/W/Worship\|Worship]] - bow down in reverence
 - [[Gate of Wisdom/I/image\|image]] - an image, likeness, portrait, statue, resemblance
 - [[Gate of Wisdom/Sign/Mark\|Mark]]  - sign, engraving, imprint
 - [[Gate of Wisdom/T/Torment\|Torment]] - 

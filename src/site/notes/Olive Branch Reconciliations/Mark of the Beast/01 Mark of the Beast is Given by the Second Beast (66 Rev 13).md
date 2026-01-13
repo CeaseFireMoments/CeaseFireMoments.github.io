@@ -18,7 +18,7 @@ Everyone "knows" about the "Mark of the [[Gate of Wisdom/B/Beast\|Beast]]", even
 - [[Gate of Wisdom/Sign/Sign\|Sign]] - miracle, token, a signal (literally or figuratively),
 - [[Gate of Wisdom/I/image\|image]] A visible, physical representative that embodies and exercises the authority of the original
 - [[Gate of Wisdom/Sign/Mark\|Mark]] - Desire, a mark, seems to be an actual mark (like a wedding ring). 
-- [[Gate of Wisdom/Worship\|Worship]] - to bow down, prostrate oneself, do obeisance, do reverence (especially in an act of submission or adoration).
+- [[Gate of Wisdom/W/Worship\|Worship]] - to bow down, prostrate oneself, do obeisance, do reverence (especially in an act of submission or adoration).
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
 - People
 	- "My own people" - Elohim's people, who dwell on the earth

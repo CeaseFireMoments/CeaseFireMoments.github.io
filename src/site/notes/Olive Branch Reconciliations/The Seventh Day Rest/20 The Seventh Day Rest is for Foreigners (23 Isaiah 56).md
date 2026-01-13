@@ -19,7 +19,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 ## **Define**: 
 - the man - any human being
 - does this - keeps the Sabbath without profaning it and keeps from doing evil
-- profaning - to profane, defile, desecrate, treat as common (treat it as an ordinary day instead of a set-apart day) [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+- profaning - to profane, defile, desecrate, treat as common (treat it as an ordinary day instead of a set-apart day) [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 - evil - bad, wicked, displeasing, harmful, any act contrary to what God says is good.
 - [[Gate of Wisdom/F/Foreigner\|Foreigner]] - literally “son of a foreigner”
 	- A Foreigner was someone who was not a native born Israelite who wanted to follow Yahweh / God. In the New Testament these would be Gentiles who wanted to follow Jesus.

@@ -23,7 +23,7 @@ I commanded the Levites that they should purify themselves, and that they should
 ## **Define**: 
 - Profane chalal ( חָלַל) - Root Meaning: "to pierce, to wound, to bore through" figuratively: to break, to violate, to make common. To treat as common what God has set apart as holy.
 - Sanctify qadash ( קָדַשׁ) - to set apart, to make [[Gate of Wisdom/H/Holy\|Holy]], to consecrate. To set apart from the common and dedicate to God making something or someone holy
-- [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+- [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 
 ## **Who**:
 -  [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]], nobles of Judah, Nehemiah's servants, Levities - all those who had separated themselves from the peoples of the lands to the law of God, followers of YHWH

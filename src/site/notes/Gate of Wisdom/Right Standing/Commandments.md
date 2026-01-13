@@ -9,7 +9,7 @@
 - [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
 - [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]
 - [[Gate of Wisdom/C/Clean\|Clean]]
-- [[Gate of Wisdom/Unclean\|Unclean]]
+- [[Gate of Wisdom/U/Unclean\|Unclean]]
 - [[Gate of Wisdom/H/Holy\|Holy]]
 - [[Gate of Wisdom/Good News/Atonement\|Atonement]]
 - [[Gate of Wisdom/R/Ransom\|Ransom]]

@@ -242,16 +242,16 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/T/Torah\|Torah]]                                                                              |
 | [[Gate of Wisdom/T/Torment\|Torment]]                                                                          |
 | [[Gate of Wisdom/T/Transgression\|Transgression]]                                                              |
-| [[Gate of Wisdom/Unclean\|Unclean]]                                                                            |
-| [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                  |
+| [[Gate of Wisdom/U/Unclean\|Unclean]]                                                                          |
+| [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                |
 | [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]                                                     |
 | [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]                                             |
-| [[Gate of Wisdom/Vain\|Vain]]                                                                                  |
-| [[Gate of Wisdom/Wash\|Wash]]                                                                                  |
+| [[Gate of Wisdom/V/Vain\|Vain]]                                                                                |
+| [[Gate of Wisdom/W/Wash\|Wash]]                                                                                |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                   |
-| [[Gate of Wisdom/Worship\|Worship]]                                                                            |
+| [[Gate of Wisdom/W/Worship\|Worship]]                                                                          |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]                                                   |
-| [[Gate of Wisdom/Yehoshua\|Yehoshua]]                                                                          |
+| [[Gate of Wisdom/Y/Yehoshua\|Yehoshua]]                                                                        |
 | [[Gate of Wisdom/Beings/Heavenly Beings/YHWH\|YHWH]]                                                           |
 | [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]                                               |
 | [[Gate of Wisdom/Offering/Zevah\|Zevah]]                                                                       |

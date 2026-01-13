@@ -13,10 +13,10 @@
 # Related words
 - [[Gate of Wisdom/H/Holy\|Holy]]
 - [[Gate of Wisdom/C/Clean\|Clean]]
-- [[Gate of Wisdom/Unclean\|Unclean]]
+- [[Gate of Wisdom/U/Unclean\|Unclean]]
 
 # Additional Info
-- [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+- [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 - The verb (to make common) חִלֵּל in Piel appears 160× in the OT, almost always with the sense “to take something holy and treat it as ordinary.”
 - In the NT, βέβηλος is used for Esau who “treated his birthright as common/profane”  [[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12#v16\|Heb-12#v16]] 
 

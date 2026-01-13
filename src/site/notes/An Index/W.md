@@ -11,10 +11,10 @@
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]
 - [[Gate of Wisdom/W/The Word\|The Word]]
 - [[Gate of Wisdom/S/Timeline\|Timeline]]
-- [[Gate of Wisdom/Wash\|Wash]]
+- [[Gate of Wisdom/W/Wash\|Wash]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]
 - [[Sacred Truces/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]
 - [[Sacred Truces/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]
-- [[Gate of Wisdom/Worship\|Worship]]
+- [[Gate of Wisdom/W/Worship\|Worship]]
 
 { .block-language-dataview}

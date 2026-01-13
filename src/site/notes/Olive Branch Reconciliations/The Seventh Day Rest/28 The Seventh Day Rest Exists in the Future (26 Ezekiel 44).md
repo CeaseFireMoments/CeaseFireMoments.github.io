@@ -17,8 +17,8 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - [[Gate of Wisdom/H/Holy\|Holy]] - Something that is distinct set-apart, dedicated to God's service, or possessing a unique sanctity
 - [[Gate of Wisdom/C/Common\|Common]] - Something that is not set apart for God; ordinary, non-sacred, accessible to anyone
 - [[Gate of Wisdom/C/Clean\|Clean]] - Ritually and morally pure; permitted to approach God’s presence or be used in sacred service.
-- [[Gate of Wisdom/Unclean\|Unclean]] - Ritually impure; defiling; must be kept away from the sanctuary and holy things until purified
-- [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+- [[Gate of Wisdom/U/Unclean\|Unclean]] - Ritually impure; defiling; must be kept away from the sanctuary and holy things until purified
+- [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]], [[Gate of Wisdom/Appointed Time/Feast\|Feast]], [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]
