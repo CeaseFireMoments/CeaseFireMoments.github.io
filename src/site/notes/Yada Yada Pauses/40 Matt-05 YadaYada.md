@@ -6,7 +6,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/
 
 ## SETTING:
 
-- A long the [[Gate of Wisdom/Sea of Galilee\|Sea of Galilee]] “He went about all of Galilee”[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04#v21\|Matt-04#v21]]
+- A long the [[Gate of Wisdom/G/Sea of Galilee\|Sea of Galilee]] “He went about all of Galilee”[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04#v21\|Matt-04#v21]]
 - On the west side of the Jordan [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v25\|Matt-05#v25]]
 - Up on a mount (Matthew 5:1)
 - Teaching the taught ones/ disciples - Not necessarily only the 12 we know by name. ([[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v1\|Matt-05#v1]])

@@ -31,7 +31,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 	- This is the only place this is recorded and it is right before discussion on building elements of the Tabernacle which would require fire. 
 ## **When**:
 - The tablets of stone ([[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]) have been given, the [[Zunpublished/Covenant\|Covenant]] cut, the [[Gate of Wisdom/Ten Words\|Ten Words]] (aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]) spoken.
-- But just before Moses is about to give the directions on how to build the [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]], the [[Gate of Wisdom/Seventh Day\|Seventh Day]] Rest is addressed again.
+- But just before Moses is about to give the directions on how to build the [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]], the [[Gate of Wisdom/D/Seventh Day\|Seventh Day]] Rest is addressed again.
 
 ## **Why**: 
 - The Sabbath is always referenced "rest TO God."

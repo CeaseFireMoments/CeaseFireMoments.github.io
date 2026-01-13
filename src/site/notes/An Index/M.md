@@ -61,7 +61,7 @@
 - [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]
-- [[Gate of Wisdom/Sermon on the Mount\|Sermon on the Mount]]
+- [[Gate of Wisdom/M/Sermon on the Mount\|Sermon on the Mount]]
 - [[Olive Branch Reconciliations/The Law in Matthew 5\|The Law in Matthew 5]]
 
 { .block-language-dataview}

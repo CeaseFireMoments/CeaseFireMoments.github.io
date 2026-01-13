@@ -44,7 +44,7 @@ I <mark style="background: #04CD3EA6;">saw thrones</mark>, and <mark style="back
 	- for a thousand years
 ## **<mark style="background: #D2B3FFA6;">When</mark>**:
 - For a thousand years
-- After Revelation 20:1–3: [[Gate of Wisdom/Beings/Satan\|Satan]], [[Gate of Wisdom/Beings/Devil\|Devil]], [[Gate of Wisdom/Serpent\|Serpent]], [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]], is bound for a thousand years.
+- After Revelation 20:1–3: [[Gate of Wisdom/Beings/Satan\|Satan]], [[Gate of Wisdom/Beings/Devil\|Devil]], [[Gate of Wisdom/S/Serpent\|Serpent]], [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]], is bound for a thousand years.
 - At the beginning of the thousand year reign period Revelation 20:4: they reign with Christ for a thousand years.
 - Part of the first resurrection Revelation 20:5
 - Before the second resurrection Revelation 20:5

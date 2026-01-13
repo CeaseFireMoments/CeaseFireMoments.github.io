@@ -203,13 +203,13 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]                                                           |
 | [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]                                                            |
 | [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                         |
-| [[Gate of Wisdom/Save\|Save]]                                                                                  |
+| [[Gate of Wisdom/S/Save\|Save]]                                                                                |
 | [[Gate of Wisdom/Beings/Saviors\|Saviors]]                                                                     |
-| [[Gate of Wisdom/Sea of Galilee\|Sea of Galilee]]                                                              |
+| [[Gate of Wisdom/G/Sea of Galilee\|Sea of Galilee]]                                                            |
 | [[Gate of Wisdom/Sign/Seal\|Seal]]                                                                             |
-| [[Gate of Wisdom/Sermon on the Mount\|Sermon on the Mount]]                                                    |
-| [[Gate of Wisdom/Serpent\|Serpent]]                                                                            |
-| [[Gate of Wisdom/Seventh Day\|Seventh Day]]                                                                    |
+| [[Gate of Wisdom/M/Sermon on the Mount\|Sermon on the Mount]]                                                  |
+| [[Gate of Wisdom/S/Serpent\|Serpent]]                                                                          |
+| [[Gate of Wisdom/D/Seventh Day\|Seventh Day]]                                                                  |
 | [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]                                                             |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Shedim\|Shedim]]                                                       |
 | [[Gate of Wisdom/Shem\|Shem]]                                                                                  |
