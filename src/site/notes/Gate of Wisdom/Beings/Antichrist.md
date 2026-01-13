@@ -3,9 +3,9 @@
 ---
 
 
-The term “antichrist” appears only in 1–2 John and refers both to a spirit already at work and to many individuals; the singular end-time figure is never called “the Antichrist” in Revelation but is generally identified with the first [[Gate of Wisdom/Beast\|Beast]] and the “man of lawlessness.”
+The term “antichrist” appears only in 1–2 John and refers both to a spirit already at work and to many individuals; the singular end-time figure is never called “the Antichrist” in Revelation but is generally identified with the first [[Gate of Wisdom/B/Beast\|Beast]] and the “man of lawlessness.”
 
-John never calls the Antichrist the beast, however, traits John ascribes to “the Antichrist” (ὁ ἀντίχριστος) is fulfilled in the person of the first [[Gate of Wisdom/Beast\|Beast]] (the beast of the sea) of Revelation 13. 
+John never calls the Antichrist the beast, however, traits John ascribes to “the Antichrist” (ὁ ἀντίχριστος) is fulfilled in the person of the first [[Gate of Wisdom/B/Beast\|Beast]] (the beast of the sea) of Revelation 13. 
 - Singular - "The Antichrist"
 	- Future; 1 John 2:18 "…that the Antichrist is coming”
 	- Present, Future; 1 John 2:22 “This is the Antichrist”
@@ -53,7 +53,7 @@ Paul never calls the man of lawlessness the Antichrist or beast, however, the de
 # Related words
 - “the lawless one” (2 Thess 2:8)
 - “the son of destruction/perdition” (2 Thess 2:3)
-- “[[Gate of Wisdom/Beast\|Beast]]” (Revelation 13 and 19)
+- “[[Gate of Wisdom/B/Beast\|Beast]]” (Revelation 13 and 19)
 - “the man of sin/lawlessness” (2 Thess 2:3)
 
 # Additional Info
@@ -63,7 +63,7 @@ Paul never calls the man of lawlessness the Antichrist or beast, however, the de
 
 # Connections
 - The spirit of antichrist (1 John 4:3)
-- The [[Gate of Wisdom/Beast\|Beast]] from the sea (Rev 13:1–10)
+- The [[Gate of Wisdom/B/Beast\|Beast]] from the sea (Rev 13:1–10)
 - The man of lawlessness / son of destruction (2 Thess 2:3–10)
 - The little horn (Dan 7:8, 20–21, 24–25)
 - The coming prince / willful king (Dan 8:23–25; 9:26–27; 11:36–45)

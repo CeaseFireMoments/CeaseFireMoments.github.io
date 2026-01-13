@@ -4,7 +4,7 @@
 
 The Mark of the Beast—few biblical images provoke more fear, speculation, and division than this one. In a world shaped by fear of being deceived, this study asks a quieter but sharper question: What does Scripture say truly marks a person as belonging to YHWH/God—or to something else?
 
-The [[Gate of Wisdom/Sign/Mark\|Mark]] of the [[Gate of Wisdom/Beast\|Beast]] is one of the most recognizable—and most contested—ideas in the Bible. Feared by some, sensationalized by others, and often reduced to headlines, rumors, or end-time charts, it has become a symbol loaded with certainty but rarely examined with patience. Believers, skeptics, scholars, futurists, historicists, and casual observers alike all claim to “know” what the mark is, when it appears, and how to avoid it—yet their conclusions frequently contradict one another.
+The [[Gate of Wisdom/Sign/Mark\|Mark]] of the [[Gate of Wisdom/B/Beast\|Beast]] is one of the most recognizable—and most contested—ideas in the Bible. Feared by some, sensationalized by others, and often reduced to headlines, rumors, or end-time charts, it has become a symbol loaded with certainty but rarely examined with patience. Believers, skeptics, scholars, futurists, historicists, and casual observers alike all claim to “know” what the mark is, when it appears, and how to avoid it—yet their conclusions frequently contradict one another.
 
 This series approaches the Mark of the Beast as another _ceasefire moment_: a deliberate pause from panic, speculation, and inherited interpretations. Rather than beginning with modern technologies or popular theories, we return to Scripture itself—letting biblical language, symbols, and patterns interpret one another. By tracing the theme from Genesis through Revelation, we ask whether the mark is primarily about external control or inward allegiance, about commerce and coercion, or about worship, loyalty, and obedience to competing authorities.
 
@@ -23,7 +23,7 @@ Here is the perseverance of the saints, those who keep the commandments of God, 
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
 - Third [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]] - messenger, heavenly being
 - Them - the other messengers
-- Anyone who worships the [[Gate of Wisdom/Beast\|Beast]] and his [[Gate of Wisdom/image\|image]]
+- Anyone who worships the [[Gate of Wisdom/B/Beast\|Beast]] and his [[Gate of Wisdom/image\|image]]
 - [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]
 
 ## **<mark style="background: #04CD3EA6;">What</mark>**: 
@@ -64,7 +64,7 @@ Here is the perseverance of the saints, those who keep the commandments of God, 
 - Taken voluntarily with full knowledge of what it is: relates to worship of the beast and it's image, seems voluntary?
 - Mandatory and must be refused with full knowledge of the consequence if not taken: whether it is mandatory or can be refused or not isn't indicated in this scripture. 
 ## Representation of allegiance to the Antichrist
-- Definition of "[[Gate of Wisdom/Beings/Antichrist\|Antichrist]]" = False Anointed One, aka [[Gate of Wisdom/Beast\|Beast]]
+- Definition of "[[Gate of Wisdom/Beings/Antichrist\|Antichrist]]" = False Anointed One, aka [[Gate of Wisdom/B/Beast\|Beast]]
 - Clearly associated with worshipping the beast and it's image.
 
 ## Other Notes:

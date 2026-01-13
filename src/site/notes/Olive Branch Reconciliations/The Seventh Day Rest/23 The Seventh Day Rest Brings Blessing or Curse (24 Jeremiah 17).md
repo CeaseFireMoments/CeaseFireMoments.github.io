@@ -22,7 +22,7 @@ But <mark style="background: #B2A23AA6;">they</mark> <mark style="background: #4
 
 
 ## **Define**: 
-- [[Gate of Wisdom/Burden\|Burden]]  =maśśāʾ The term refers to literal loads carried through the city gates on the Sabbath. It is strictly concrete: do not lift, bring in, or carry loads.
+- [[Gate of Wisdom/B/Burden\|Burden]]  =maśśāʾ The term refers to literal loads carried through the city gates on the Sabbath. It is strictly concrete: do not lift, bring in, or carry loads.
 - [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]], [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 - [[Gate of Wisdom/Holy\|Holy]]
 - YHWH's House = Temple or [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]

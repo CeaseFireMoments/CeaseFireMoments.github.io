@@ -86,7 +86,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 	- So the rich man 
 		- will also fade away [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-103#v15\|Ps-103#v15]]
 			- in his pursuits. 
-- [[Gate of Wisdom/Blessed\|Blessed]] <mark style="background: #CD04BBA6;">//ashrê, makarios//</mark> is a person 
+- [[Gate of Wisdom/B/Blessed\|Blessed]] <mark style="background: #CD04BBA6;">//ashrê, makarios//</mark> is a person 
 	- who endures [[Gate of Wisdom/temptation\|temptation]] <mark style="background: #CD04BBA6;">//peirasmos//</mark> [^2], 
 		- for when he has been approved, 
 			- he will receive the crown of life[^3], 

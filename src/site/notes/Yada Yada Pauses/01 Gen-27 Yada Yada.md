@@ -11,7 +11,7 @@
 # Setting and Main Storyline:
 
 - **Setting**: Isaac’s household, likely in a tent or dwelling in the land of Canaan.
-- **Main Storyline**: Isaac, old and blind, intends to bless his elder son Esau. Esau had previously given his [[Gate of Wisdom/Birthright\|Birthright]] away to Jacob. Rebekah overhears and schemes with Jacob to deceive Isaac, securing the [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] for Jacob instead. Esau discovers the deception, becomes enraged, and plans to kill Jacob, prompting Rebekah to send Jacob away.
+- **Main Storyline**: Isaac, old and blind, intends to bless his elder son Esau. Esau had previously given his [[Gate of Wisdom/B/Birthright\|Birthright]] away to Jacob. Rebekah overhears and schemes with Jacob to deceive Isaac, securing the [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] for Jacob instead. Esau discovers the deception, becomes enraged, and plans to kill Jacob, prompting Rebekah to send Jacob away.
 
 # Where and When:
 
@@ -86,7 +86,7 @@
 												- before his death." 
 #### Rebekah has indicated this was a command from her. Interesting how the text indicates "his son" and "her son". 
 
-#### Later in v 36 Esau indicates Jacob cheated him twice. First he will get  the [[Gate of Wisdom/Birthright\|Birthright]], Jacob was rightly entitled to that because Esau gave it to him [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v29\|Gen-25:29]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v30\|Gen-25#v30]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v31\|Gen-25#v31]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v32\|Gen-25#v32]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v33\|Gen-25#v33]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v34\|-34]]. But because of Rebekah's command, Jacob will also get the [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]], through deception of Isaac. 
+#### Later in v 36 Esau indicates Jacob cheated him twice. First he will get  the [[Gate of Wisdom/B/Birthright\|Birthright]], Jacob was rightly entitled to that because Esau gave it to him [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v29\|Gen-25:29]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v30\|Gen-25#v30]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v31\|Gen-25#v31]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v32\|Gen-25#v32]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v33\|Gen-25#v33]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v34\|-34]]. But because of Rebekah's command, Jacob will also get the [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]], through deception of Isaac. 
 
 - Jacob said 
 	- to Rebekah 
@@ -276,7 +276,7 @@
 	- He <mark style="background: #CD04BBA6;">//Esau//</mark> said, 
 		- "Isn't he rightly named Jacob? 
 			- For he has supplanted me these two times <mark style="background: #CD04BBA6;">//both the birthright and the blessing//</mark>. 
-				- He <mark style="background: #CD04BBA6;">//Jacob//</mark> <mark style="background: #94DEA9A6;">took away</mark> my [[Gate of Wisdom/Birthright\|Birthright]]. 
+				- He <mark style="background: #CD04BBA6;">//Jacob//</mark> <mark style="background: #94DEA9A6;">took away</mark> my [[Gate of Wisdom/B/Birthright\|Birthright]]. 
 				- See, now he <mark style="background: #CD04BBA6;">//Jacob//</mark> has <mark style="background: #94DEA9A6;">taken away</mark> my  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]." 
 					- He <mark style="background: #CD04BBA6;">//Esau//</mark> said, 
 						- "Haven't you <mark style="background: #CD04BBA6;">//Isaac//</mark> reserved a blessing for me?" 

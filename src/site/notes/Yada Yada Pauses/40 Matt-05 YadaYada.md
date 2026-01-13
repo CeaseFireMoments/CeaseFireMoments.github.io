@@ -35,7 +35,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 
 ### Verses 3-12 - Also in Luke 6
 
-- Happy/[[Gate of Wisdom/Blessed\|Blessed]]  are:
+- Happy/[[Gate of Wisdom/B/Blessed\|Blessed]]  are:
 	- [[Gate of Wisdom/Poor\|Poor]] // [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]] // in spirit <mark style="background: #CD04BBA6;">//the life principle, breath, life, soul//</mark>
 	- <mark style="background: #A8ADB8A6;">FOR/BECAUSE</mark> theirs <mark style="background: #CD04BBA6;">// poor in spirit //</mark> is the [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]] <mark style="background: #CD04BBA6;">//where God reigns//</mark>
 

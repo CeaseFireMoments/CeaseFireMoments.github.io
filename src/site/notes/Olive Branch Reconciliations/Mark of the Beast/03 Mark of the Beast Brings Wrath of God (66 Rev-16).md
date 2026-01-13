@@ -48,7 +48,7 @@ This series approaches the Mark of the Beast as another _ceasefire moment_: a de
 - Taken voluntarily with full knowledge of what it is: unknown by this scripture
 - Mandatory and must be refused with full knowledge of the consequence if not taken: unknown by this scripture
 ## Representation of allegiance to the Antichrist
--  The term “antichrist” appears only in 1–2 John and refers both to a spirit already at work and to many individuals; the singular end-time figure is never called “the Antichrist” in Revelation but is generally identified with the first [[Gate of Wisdom/Beast\|Beast]] and the “man of lawlessness.”
+-  The term “antichrist” appears only in 1–2 John and refers both to a spirit already at work and to many individuals; the singular end-time figure is never called “the Antichrist” in Revelation but is generally identified with the first [[Gate of Wisdom/B/Beast\|Beast]] and the “man of lawlessness.”
 	- See "[[Gate of Wisdom/Beings/Antichrist\|Antichrist]]" = False Anointed One
 	- See [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
 ## Other Notes:

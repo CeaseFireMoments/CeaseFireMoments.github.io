@@ -166,7 +166,7 @@ The boys grew.
 		- "First, sell me your birthright."  
 	- Esau said, 
 		- "Behold, I am about to die. 
-			- What good is the [[Gate of Wisdom/Birthright\|Birthright]] to me?"
+			- What good is the [[Gate of Wisdom/B/Birthright\|Birthright]] to me?"
 	- Jacob said, 
 		- "Swear to me first." 
 			- He //Esau// swore to him //Jacob//. 

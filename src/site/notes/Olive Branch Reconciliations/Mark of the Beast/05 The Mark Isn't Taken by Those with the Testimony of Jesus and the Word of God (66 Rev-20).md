@@ -20,8 +20,8 @@ I <mark style="background: #04CD3EA6;">saw thrones</mark>, and <mark style="back
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
 -  I - John, the writer
 - They - believers (saints), especially those who remain faithful through persecution, based on the context of the original language as well as other references (1 Cor 6:2-3, Matt-19:28, Rev 3:21, Dan 7:22).
-- The [[Gate of Wisdom/Beast\|Beast]]
-- The Image of the [[Gate of Wisdom/Beast\|Beast]]
+- The [[Gate of Wisdom/B/Beast\|Beast]]
+- The Image of the [[Gate of Wisdom/B/Beast\|Beast]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Christ\|Christ]]
 
 ## **<mark style="background: #04CD3EA6;">What</mark>**: 
@@ -71,7 +71,7 @@ I <mark style="background: #04CD3EA6;">saw thrones</mark>, and <mark style="back
 - Taken voluntarily with full knowledge of what it is: This scripture doesn't indicate anything about those who took the mark. 
 - Mandatory and must be refused with full knowledge of the consequence if not taken: This scripture indicates they refused the mark and worshiping the beast which led to their beheading.
 ## Representation of allegiance to the Antichrist
--  The term “antichrist” appears only in 1–2 John and refers both to a spirit already at work and to many individuals; the singular end-time figure is never called “the Antichrist” in Revelation but is generally identified with the first [[Gate of Wisdom/Beast\|Beast]] and the “man of lawlessness.”
+-  The term “antichrist” appears only in 1–2 John and refers both to a spirit already at work and to many individuals; the singular end-time figure is never called “the Antichrist” in Revelation but is generally identified with the first [[Gate of Wisdom/B/Beast\|Beast]] and the “man of lawlessness.”
 	- See "[[Gate of Wisdom/Beings/Antichrist\|Antichrist]]" = False Anointed One
 	- See [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
 - It appears to be connected to worshiping the Beast and the Image of the Beast.

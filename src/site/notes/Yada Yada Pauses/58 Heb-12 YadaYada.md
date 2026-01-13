@@ -86,7 +86,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 	- lest there be any man 
 		- who falls short 
 			- of the grace of God, 
-	- [^2]lest any root of [[Gate of Wisdom/Bitterness\|Bitterness]]   [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-29#v18\|Deut-29:18]][[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-29#v19\|Deut-29#v19]][[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-29#v20\|-20]]
+	- [^2]lest any root of [[Gate of Wisdom/B/Bitterness\|Bitterness]]   [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-29#v18\|Deut-29:18]][[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-29#v19\|Deut-29#v19]][[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-29#v20\|-20]]
 		- springing up trouble you, 
 			- and many be defiled by it, 
 	- lest there be any sexually immoral person, 

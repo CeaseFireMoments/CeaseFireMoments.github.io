@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/mark-of-the-beast/01-mark-of-the-beast-is-given-by-the-second-beast-66-rev-13/","tags":["M","#OliveBranch","Markofthebeast"]}
 ---
 
-Everyone "knows" about the "Mark of the [[Gate of Wisdom/Beast\|Beast]]", even non-Christians. Let's explore this concept and see if there is anything new we can learn about it.
+Everyone "knows" about the "Mark of the [[Gate of Wisdom/B/Beast\|Beast]]", even non-Christians. Let's explore this concept and see if there is anything new we can learn about it.
 
 # Scripture: [Revelation 13:16–18](https://www.biblegateway.com/passage/?search=Revelation%2013%3A16%E2%80%9318&version=WEB;TLV;OJB) 
 
@@ -22,7 +22,7 @@ Everyone "knows" about the "Mark of the [[Gate of Wisdom/Beast\|Beast]]", even n
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
 - People
 	- "My own people" - Elohim's people, who dwell on the earth
-- [[Gate of Wisdom/Beast\|Beast]]s
+- [[Gate of Wisdom/B/Beast\|Beast]]s
 	- First Beast: From the sea ([Revelation 13:1-10](https://www.biblegateway.com/passage/?search=Revelation%2013%3A1-10&version=WEB;TLV;OJB)) who was wounded and lived.  
 	- Second Beast: From the earth. 
 	- Image of the beast: Image of the first beast. Given breath by the second beast.
@@ -75,7 +75,7 @@ Everyone "knows" about the "Mark of the [[Gate of Wisdom/Beast\|Beast]]", even n
 	- The second beast "causes all" to be given a mark
 	- Not able to buy and sell without taking it.
 ## Representation of allegiance to the Antichrist
-- The term “antichrist” appears only in 1–2 John and refers both to a spirit already at work and to many individuals; the singular end-time figure is never called “the Antichrist” in Revelation but is generally identified with the first [[Gate of Wisdom/Beast\|Beast]] and the “man of lawlessness.”
+- The term “antichrist” appears only in 1–2 John and refers both to a spirit already at work and to many individuals; the singular end-time figure is never called “the Antichrist” in Revelation but is generally identified with the first [[Gate of Wisdom/B/Beast\|Beast]] and the “man of lawlessness.”
 	- See "[[Gate of Wisdom/Beings/Antichrist\|Antichrist]]" = False Anointed One
 	- See [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
 

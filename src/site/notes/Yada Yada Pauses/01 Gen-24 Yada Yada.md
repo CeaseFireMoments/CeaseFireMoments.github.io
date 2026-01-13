@@ -181,9 +181,9 @@ And the man //the servant//,
 	- when the camels have finished drinking, 
 	- that the man taketh 
 		- a golden ring 
-			- (whose weight \is] [[Gate of Wisdom/Bekah\|Bekah]]
+			- (whose weight \is] [[Gate of Wisdom/B/Bekah\|Bekah]]
 		- and two bracelets for her hands 
-			- (whose weight \is] [[Zunpublished/Ten\|Ten]] [[Gate of Wisdom/Bekah\|Bekah]] in gold
+			- (whose weight \is] [[Zunpublished/Ten\|Ten]] [[Gate of Wisdom/B/Bekah\|Bekah]] in gold
 	- and saith, 
 		- `Whose daughter [art] thou? 
 			- declare to me, I pray thee, 

@@ -48,22 +48,22 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]]                                                |
 | [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]]                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]]                                                            |
-| [[Gate of Wisdom/Beast\|Beast]]                                                                                |
+| [[Gate of Wisdom/B/Beast\|Beast]]                                                                              |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Beer Lahai Roi\|Beer Lahai Roi]]                              |
-| [[Gate of Wisdom/Bekah\|Bekah]]                                                                                |
+| [[Gate of Wisdom/B/Bekah\|Bekah]]                                                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Bel\|Bel]]                                                             |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Beney Elohim\|Beney Elohim]]                                           |
 | [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]                                                      |
 | [[Gate of Wisdom/Beings/Human Beings/Benoni\|Benoni]]                                                          |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]]                                              |
-| [[Gate of Wisdom/Birthright\|Birthright]]                                                                      |
-| [[Gate of Wisdom/Bitterness\|Bitterness]]                                                                      |
-| [[Gate of Wisdom/Blessed\|Blessed]]                                                                            |
+| [[Gate of Wisdom/B/Birthright\|Birthright]]                                                                    |
+| [[Gate of Wisdom/B/Bitterness\|Bitterness]]                                                                    |
+| [[Gate of Wisdom/B/Blessed\|Blessed]]                                                                          |
 | [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]                                                    |
-| [[Gate of Wisdom/Bronze\|Bronze]]                                                                              |
+| [[Gate of Wisdom/B/Bronze\|Bronze]]                                                                            |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]                           |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]                           |
-| [[Gate of Wisdom/Burden\|Burden]]                                                                              |
+| [[Gate of Wisdom/B/Burden\|Burden]]                                                                            |
 | [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]                                                     |
 | [[Gate of Wisdom/Dwelling Places/The Camp/Camp\|Camp]]                                                         |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Canaan\|Canaan]]                                              |

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/beings/false-prophet/","tags":["#GateWisdom","Being","F","P"]}
 ---
 
-Explicitly called ho pseudoprophētēs (ὁ ψευδοπροφήτης) three times in Revelation (16:13; 19:20; 20:10) and identified as the second [[Gate of Wisdom/Beast\|Beast]] of Revelation 13 (the beast from the earth).
+Explicitly called ho pseudoprophētēs (ὁ ψευδοπροφήτης) three times in Revelation (16:13; 19:20; 20:10) and identified as the second [[Gate of Wisdom/B/Beast\|Beast]] of Revelation 13 (the beast from the earth).
 
 # Define
 - ### Hebrew
