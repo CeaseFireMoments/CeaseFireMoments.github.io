@@ -63,7 +63,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Not yet.
 
 ## Other Notes:
-- Ezekiel 23 takes place approximately 890 years after the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]  were given.
+- Ezekiel 23 takes place approximately 890 years after the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]  were given.
 
 # Connections
 

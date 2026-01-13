@@ -40,7 +40,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 
 ## **What**: 
 - Yah-God is giving the Words-Things-Matters, ALL the people witnessed this. The words have not been written down yet.
-	- The Words are known today as the "[[Gate of Wisdom/Ten Commandments\|Ten Commandments]]". The Hebrew word is Devarim - meaning "words," "things," or "matters." 
+	- The Words are known today as the "[[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]". The Hebrew word is Devarim - meaning "words," "things," or "matters." 
 	- In Exodus:19:5  Yah-God calls this his covenant (berit (בְּרִית) - refers to a binding agreement, treaty, or covenant)
 - Be mindful to keep the Seventh Day set-apart to serving Yah-God. (Remember = zakhor (זָכוֹר), to actively recall, commemorate, or be mindful of something.)
 - Work six days.

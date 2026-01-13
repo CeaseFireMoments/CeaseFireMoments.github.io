@@ -85,7 +85,7 @@ It shall happen that <mark style="background: #A284CDA6;">from one new moon to a
 - Because this is prophecy to be fulfilled later and because it explicitly indicates it is at the time of the New Heaven and New Earth - When would Jesus replace the Sabbath? YHWH specifically states here: It shall happen that <mark style="background: #A284CDA6;">from one new moon to another</mark>, and <mark style="background: #A284CDA6;">from one Sabbath to another</mark>, <mark style="background: #B2A23AA6;">all flesh</mark> <mark style="background: #61A273A6;">will come to worship before me</mark>," says <mark style="background: #D7CD91A6;">Yahweh</mark>. 
 
 ## Other Notes:
-- Given outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
+- Given outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 
 # Connections
 

@@ -41,6 +41,6 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Not yet. 
 
 ## Other Notes:
-- This is given outside the [[Gate of Wisdom/Ten Words\|Ten Words]].
+- This is given outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]].
 
 # [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

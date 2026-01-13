@@ -57,7 +57,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Not yet.
 
 ## Other Notes:
-- This is given outside the [[Gate of Wisdom/Ten Words\|Ten Words]].
+- This is given outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]].
 - Interesting the land has to and gets a rest as well. 
 - The next text talks about the Seventh - Seventh Year (49 years) marking the 50th year as a year of Jubilee. 
 - There are SEVERE penalties for not giving the land it's rest laid out in Leviticus 26, the whole chapter is about this, but zooming into vs 27-45: 

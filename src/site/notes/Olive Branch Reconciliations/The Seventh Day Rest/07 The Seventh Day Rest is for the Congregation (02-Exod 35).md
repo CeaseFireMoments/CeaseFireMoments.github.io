@@ -30,7 +30,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Do not kindle a fire in your dwellings.
 	- This is the only place this is recorded and it is right before discussion on building elements of the Tabernacle which would require fire. 
 ## **When**:
-- The tablets of stone ([[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]) have been given, the [[Zunpublished/Covenant\|Covenant]] cut, the [[Gate of Wisdom/Ten Words\|Ten Words]] (aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]) spoken.
+- The tablets of stone ([[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]) have been given, the [[Zunpublished/Covenant\|Covenant]] cut, the [[Gate of Wisdom/T/Ten Words\|Ten Words]] (aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]) spoken.
 - But just before Moses is about to give the directions on how to build the [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]], the [[Gate of Wisdom/D/Seventh Day\|Seventh Day]] Rest is addressed again.
 
 ## **Why**: 
@@ -47,6 +47,6 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Not yet.
 
 ## Other Notes:
-- This is given outside the [[Gate of Wisdom/Ten Words\|Ten Words]].
+- This is given outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]].
 
 # [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

@@ -12,7 +12,7 @@
 
 # Related words
 - [[Zunpublished/Lawless\|Lawless]]
-- [[Gate of Wisdom/Sin\|Sin]]
+- [[Gate of Wisdom/S/Sin\|Sin]]
 - [[Gate of Wisdom/Transgression\|Transgression]]
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
 - [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]

@@ -64,7 +64,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 	- If it is prophecy already fulfilled in Jesus and His church and Jesus replaced the Sabbath - why is the Sabbath still being kept in Ezekiel's prophecy?
 
 ## Other Notes:
-- Being addressed outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]] 
+- Being addressed outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]] 
 - Exists in the future - after the Messiah comes
 - Revelation 21–22 clearly borrows imagery from Ezekiel 40–48 (the city gates named after the 12 tribes, the river of life, the tree of life, no more curse, God’s glory as the light), but John presents this as still future.
 

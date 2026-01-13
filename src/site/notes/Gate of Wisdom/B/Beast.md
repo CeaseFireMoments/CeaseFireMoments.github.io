@@ -22,7 +22,7 @@
 	- Speaking great things
 	- Blasphemy was given to him, against
 		- ton Theon/[[Gate of Wisdom/Beings/Heavenly Beings/Elohim\|Elohim]]
-		- name [[Gate of Wisdom/Shem\|Shem]]
+		- name [[Gate of Wisdom/S/Shem\|Shem]]
 		- [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]] Mishkan
 		- Those who dwell in [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]] gives the best the dragon's power, dragon's throne, and dragon's authority

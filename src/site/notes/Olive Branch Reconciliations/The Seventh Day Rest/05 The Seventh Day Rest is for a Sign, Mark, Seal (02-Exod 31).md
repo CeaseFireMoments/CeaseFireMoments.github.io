@@ -64,7 +64,7 @@ When <mark style="background: #A4A089A6;">he</mark> finished speaking with <mark
 - Not yet. 
 
 ## Other Notes:
-- This is given outside the [[Gate of Wisdom/Ten Words\|Ten Words]].
+- This is given outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]].
 - The tablets are called the tablets of the covenant.
 
 

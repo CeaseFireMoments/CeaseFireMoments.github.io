@@ -212,15 +212,15 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/D/Seventh Day\|Seventh Day]]                                                                  |
 | [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]                                                             |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Shedim\|Shedim]]                                                       |
-| [[Gate of Wisdom/Shem\|Shem]]                                                                                  |
+| [[Gate of Wisdom/S/Shem\|Shem]]                                                                                |
 | [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]                                                |
 | [[Gate of Wisdom/Sign/Sign\|Sign]]                                                                             |
-| [[Gate of Wisdom/Sin\|Sin]]                                                                                    |
+| [[Gate of Wisdom/S/Sin\|Sin]]                                                                                  |
 | [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]                                                         |
 | [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]             |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Son of Man\|Son of Man]]                                               |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Sons of God\|Sons of God]]                                             |
-| [[Gate of Wisdom/Soul\|Soul]]                                                                                  |
+| [[Gate of Wisdom/S/Soul\|Soul]]                                                                                |
 | [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]                                         |
 | [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]                                                               |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]                                           |
@@ -228,10 +228,10 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]  |
 | [[Gate of Wisdom/Beings/Human Beings/teacher\|teacher]]                                                        |
 | [[Gate of Wisdom/Ruach/Gift/Teaching\|Teaching]]                                                               |
-| [[Gate of Wisdom/Tefillos\|Tefillos]]                                                                          |
-| [[Gate of Wisdom/temptation\|temptation]]                                                                      |
-| [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]                                                          |
-| [[Gate of Wisdom/Ten Words\|Ten Words]]                                                                        |
+| [[Gate of Wisdom/T/Tefillos\|Tefillos]]                                                                        |
+| [[Gate of Wisdom/T/temptation\|temptation]]                                                                    |
+| [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]                                                        |
+| [[Gate of Wisdom/T/Ten Words\|Ten Words]]                                                                      |
 | [[Gate of Wisdom/Testimony\|Testimony]]                                                                        |
 | [[Gate of Wisdom/The Dragons Prophecy\|The Dragons Prophecy]]                                                  |
 | [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                   |

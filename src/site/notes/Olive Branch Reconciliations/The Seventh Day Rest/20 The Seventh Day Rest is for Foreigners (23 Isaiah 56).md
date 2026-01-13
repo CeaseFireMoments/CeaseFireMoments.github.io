@@ -72,7 +72,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Not yet.
 
 ## Other Notes:
-- Given outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
+- Given outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 - Isaiah 56 is the [[Zunpublished/Gospel\|Gospel]] in the Old Testament—God’s salvation is near, so all who keep covenant by faith (even outsiders) are welcomed into His house, while hypocritical leaders face judgment.
 - Inclusion of ALL - the whosoever's was fulfilled by Jesus, the Messiah. Acts-08:27 
 

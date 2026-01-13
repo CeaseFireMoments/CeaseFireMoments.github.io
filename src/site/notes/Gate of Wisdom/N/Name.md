@@ -3,12 +3,12 @@
 ---
 
 # Define
-- See [[Gate of Wisdom/Shem\|Shem]]
+- See [[Gate of Wisdom/S/Shem\|Shem]]
 - Essence of who someone is.
 - Reputation.
 
 # Related words
-- [[Gate of Wisdom/Shem\|Shem]]
+- [[Gate of Wisdom/S/Shem\|Shem]]
 
 # Additional Info
 

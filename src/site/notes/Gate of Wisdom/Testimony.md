@@ -5,7 +5,7 @@
 # Define
 - Hebrew:  ēdût (עֵדוּת)
 	- testimony, witness (especially divine testimony or covenant witness)
-	    - Exodus 31:18 – "[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]" (לֻחֹת הָעֵדֻת) (commonly referred to as [[Gate of Wisdom/Ten Words\|Ten Words]] or [[Gate of Wisdom/Ten Commandments\|Ten Commandments]])
+	    - Exodus 31:18 – "[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]" (לֻחֹת הָעֵדֻת) (commonly referred to as [[Gate of Wisdom/T/Ten Words\|Ten Words]] or [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]])
 	    - Psalm 119:88 – "according to your testimony" (כְּעֵדְוָתֶךָ)
 
 - Greek: martyria (martyria) 

@@ -74,7 +74,7 @@ v12: <mark style="background: #D2B3FFA6;">When</mark> <mark style="background: #
 	- If it is prophecy already fulfilled in Jesus and His church and Jesus replaced the Sabbath - why is the Sabbath still being kept in Ezekiel's prophecy?
 
 ## Other Notes:
-- Being addressed outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]] 
+- Being addressed outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]] 
 - Exists in the future - after the Messiah comes
 
 # Connections

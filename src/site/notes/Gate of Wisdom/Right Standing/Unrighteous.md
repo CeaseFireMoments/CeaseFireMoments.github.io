@@ -11,7 +11,7 @@
 - Contrasts directly with **δίκαιος** ([[Gate of Wisdom/Right Standing/Righteous\|Righteous]])
 
 # Related words
-- chattā’āh (חַטָּאָה): [[Gate of Wisdom/Sin\|Sin]]
+- chattā’āh (חַטָּאָה): [[Gate of Wisdom/S/Sin\|Sin]]
 - pesha‘ (פֶּשַׁע): [[Gate of Wisdom/Transgression\|Transgression]], rebellion, often associated with the wicked (rāshā‘)
 - anomia (ἀνομία) [[Gate of Wisdom/L/Lawlessness\|Lawlessness]], iniquity, often parallel to unrighteousness
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]

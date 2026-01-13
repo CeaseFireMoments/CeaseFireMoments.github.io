@@ -19,7 +19,7 @@ Let’s come to a common understanding as to what ‘pray’ means. Strong’s s
 > 
 > [Strong's Concordance](https://www.blueletterbible.org/lexicon/g4336/kjv/tr/0-1/)
 
-I’m not sure this definition fits exactly with what people tend to think of when they think of prayer. For those listening at the time, True tefillah ([[Gate of Wisdom/Tefillos\|Tefillos]]/[[Gate of Wisdom/P/Prayer\|Prayer]] )  wouldn't look like what we commonly see today. The “hypocrites” would pray standing so they could be seen. It isn’t presumed to mean we can not pray while standing. It is to mean we shouldn't pray to be heard or seen in a manner which says to everyone, “Hey, look at me I am a good Christian because I am praying.”
+I’m not sure this definition fits exactly with what people tend to think of when they think of prayer. For those listening at the time, True tefillah ([[Gate of Wisdom/T/Tefillos\|Tefillos]]/[[Gate of Wisdom/P/Prayer\|Prayer]] )  wouldn't look like what we commonly see today. The “hypocrites” would pray standing so they could be seen. It isn’t presumed to mean we can not pray while standing. It is to mean we shouldn't pray to be heard or seen in a manner which says to everyone, “Hey, look at me I am a good Christian because I am praying.”
 
 > <sup>6 </sup> But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you.
 > 

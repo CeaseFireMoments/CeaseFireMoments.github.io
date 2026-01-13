@@ -64,7 +64,7 @@ The <mark style="background: #D7CD91A6;">Lord</mark> has <mark style="background
 - Noting this describes YHWH taken away the Sabbath due to his anger as a consequence of sin and transgressions by his people.
 
 ## Other Notes:
-- Spoken of outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
+- Spoken of outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 - Causing it to be forgot is a punishment.
 
 

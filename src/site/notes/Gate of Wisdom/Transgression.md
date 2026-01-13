@@ -3,7 +3,7 @@
 ---
 
 # Define
-- Hebrew: peshaʿ(פֶּשַׁע) rebellion, revolt, willful breaking of covenant, treason against God; a deliberate, willful [[Gate of Wisdom/Sin\|Sin]] involving defiance of God’s authority.
+- Hebrew: peshaʿ(פֶּשַׁע) rebellion, revolt, willful breaking of covenant, treason against God; a deliberate, willful [[Gate of Wisdom/S/Sin\|Sin]] involving defiance of God’s authority.
 	- peshaʿ is the strongest of the three main Hebrew words for sin
 	- It almost always describes sin against God, not merely against people, and carries the sense of breaking covenant loyalty
 
@@ -15,7 +15,7 @@
 # Related words
 - [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
 - [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]
-- [[Gate of Wisdom/Sin\|Sin]]
+- [[Gate of Wisdom/S/Sin\|Sin]]
 
 # Additional Info
 

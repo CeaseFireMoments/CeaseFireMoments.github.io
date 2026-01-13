@@ -3,12 +3,12 @@
 ---
 
 # Define
-- Witness or Testimony- Are more accurate to what God called what we have come to know as [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]. The other instructions found in the Torah He referred to as Right Rulings. We’ll talk more about these later.
+- Witness or Testimony- Are more accurate to what God called what we have come to know as [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]. The other instructions found in the Torah He referred to as Right Rulings. We’ll talk more about these later.
 
 # Related words
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]
-- [[Gate of Wisdom/Ten Words\|Ten Words]]
-- [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
+- [[Gate of Wisdom/T/Ten Words\|Ten Words]]
+- [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]
 
 # Additional Info

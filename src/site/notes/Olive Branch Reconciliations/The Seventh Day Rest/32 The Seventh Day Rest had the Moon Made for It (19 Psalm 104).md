@@ -39,7 +39,7 @@ He appointed the moon for seasons.
 - Not yet.
 
 ## Other Notes:
-- The moon was created for the Seventh Day before the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]] existed.
+- The moon was created for the Seventh Day before the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]] existed.
 - If the moon is made for appointed times, such as the Seventh Day Rest, what is it's purpose if Jesus replaced the Seventh Day Rest?
 
 # Connections

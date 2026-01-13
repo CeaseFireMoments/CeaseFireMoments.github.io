@@ -108,7 +108,7 @@ But <mark style="background: #B2A23AA6;">they</mark> <mark style="background: #4
 - Not yet.
 
 ## Other Notes:
-- Given outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
+- Given outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 
 # Connections
 

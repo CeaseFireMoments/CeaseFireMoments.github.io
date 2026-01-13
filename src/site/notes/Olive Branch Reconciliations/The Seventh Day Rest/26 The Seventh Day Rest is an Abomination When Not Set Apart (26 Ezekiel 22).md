@@ -60,7 +60,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Note: YHWH has made it very clear that HE has set apart these Sabbaths and that if man does not do so, it is an abomination. The only way the Sabbath could be replaced is by YHWH.
 
 ## Other Notes:
-- Spoken of outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
+- Spoken of outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 
 # Connections
 

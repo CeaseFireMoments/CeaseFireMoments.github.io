@@ -87,4 +87,4 @@ John 11 - I said this for the benefit of the people standing her that they may b
 - [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
 - [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
 - [[Gate of Wisdom/P/Prayer\|Prayer]]
-- [[Gate of Wisdom/Tefillos\|Tefillos]]
+- [[Gate of Wisdom/T/Tefillos\|Tefillos]]

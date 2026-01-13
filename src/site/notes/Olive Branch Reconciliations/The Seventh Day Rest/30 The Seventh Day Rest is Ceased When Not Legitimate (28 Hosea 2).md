@@ -53,7 +53,7 @@ I will lay waste her vines and her fig trees, about which she has said, 'These a
 - Not yet.
 
 ## Other Notes:
-- Spoke about outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
+- Spoke about outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 - There are two forms of thought here, either way YHWH disapproves:
 	- This is not referring to YHWH's appointed times but festivals established by the House of Judah, thus why they are referred to as "hers". 
 	- They are referring to YHWH's appointed times but the House of Judah had corrupted them by doing them on days established by her, ways established by her, or worshipping other gods on them.

@@ -18,4 +18,4 @@ In Jewish thought this refers to the 613 commandments in the Torah (first five b
 Yah’s Mitzvot let us know what is right in the eyes of Yah. Deuteronomy 13:19
 
 # Connections
-- [[Gate of Wisdom/Tefillos\|Tefillos]]
+- [[Gate of Wisdom/T/Tefillos\|Tefillos]]

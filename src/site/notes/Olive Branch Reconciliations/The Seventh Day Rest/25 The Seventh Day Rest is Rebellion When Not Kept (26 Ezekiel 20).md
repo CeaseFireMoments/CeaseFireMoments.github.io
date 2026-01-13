@@ -113,7 +113,7 @@ Moreover also <mark style="background: #D7CD91A6;">I </mark><mark style="backgro
 - Not yet.
 
 ## Other Notes:
-- Referenced outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
+- Referenced outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 - Read down through the "Why" section, notice the progression? 
 	- So that they might know:
 		- "I am YHWH who sanctifies them"

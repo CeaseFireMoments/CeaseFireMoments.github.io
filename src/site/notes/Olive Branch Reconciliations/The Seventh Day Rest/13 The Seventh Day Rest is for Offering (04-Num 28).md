@@ -46,7 +46,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Not yet.
 
 ## Other Notes:
-- Given outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka Ten Commandments
+- Given outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka Ten Commandments
 - No longer a Set-Apart place **by YHWH** to make offerings
 
 # [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

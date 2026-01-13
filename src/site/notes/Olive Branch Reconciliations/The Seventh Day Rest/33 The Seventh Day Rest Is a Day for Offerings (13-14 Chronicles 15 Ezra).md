@@ -71,7 +71,7 @@ Ezra 3:5 and <mark style="background: #D2B3FFA6;">afterward the continual</mark
 - Not yet.
 
 ## Other Notes:
-- Given outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
+- Given outside the [[Gate of Wisdom/T/Ten Words\|Ten Words]] aka [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 - All of these passages are referencing about 480 years after the ordinances were given at Mt. Sinai.
 
 # Connections
