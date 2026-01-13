@@ -207,9 +207,9 @@ For reading purposes [[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01\|O
 	- Amos 9:12
 
 
-[^1]: [[Gate of Wisdom/Idiom\|Idiom]] “house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble” – meaning total, consuming destruction of the enemy
+[^1]: [[Gate of Wisdom/I/Idiom\|Idiom]] “house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble” – meaning total, consuming destruction of the enemy
 
-[^2]: [[Gate of Wisdom/Idiom\|Idiom]] “thou that dwellest in the clefts of the rock” – meaning living in impregnable mountain strongholds (pride in natural defenses)
+[^2]: [[Gate of Wisdom/I/Idiom\|Idiom]] “thou that dwellest in the clefts of the rock” – meaning living in impregnable mountain strongholds (pride in natural defenses)
 
 [^3]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] And saviours shall come up on mount Zion… and the kingdom shall be the LORD's.
 
@@ -219,6 +219,6 @@ For reading purposes [[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01\|O
 
 [^6]: [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]] But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions
 
-[^7]: [[Gate of Wisdom/Idiom\|Idiom]] Lay a snare under you - meaning betrayed and deeply injured by allies
+[^7]: [[Gate of Wisdom/I/Idiom\|Idiom]] Lay a snare under you - meaning betrayed and deeply injured by allies
 
 [^8]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] YHWH's holy Mountain = Jerusalem

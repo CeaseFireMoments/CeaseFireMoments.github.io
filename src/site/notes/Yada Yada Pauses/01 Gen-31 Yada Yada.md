@@ -398,7 +398,7 @@ For reading purposes: [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31
 
 [^2]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]] stole from her father
 
-[^3]: [[Gate of Wisdom/Idiom\|Idiom]]  deceived - tricked - literal meaning: “stole the heart/mind of Laban” Idiomatic Hebrew for deceiving someone by concealing intentions
+[^3]: [[Gate of Wisdom/I/Idiom\|Idiom]]  deceived - tricked - literal meaning: “stole the heart/mind of Laban” Idiomatic Hebrew for deceiving someone by concealing intentions
 
 [^4]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] was given livestock
 
@@ -410,9 +410,9 @@ For reading purposes: [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31
 
 [^8]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]pitched his tent in the mountain
 
-[^10]: [[Gate of Wisdom/Idiom\|Idiom]] "countenance…not toward him as before” – facial expression changed, showing disfavor
+[^10]: [[Gate of Wisdom/I/Idiom\|Idiom]] "countenance…not toward him as before” – facial expression changed, showing disfavor
 
-[^11]: [[Gate of Wisdom/Idiom\|Idiom]] “custom of women is upon me” – menstrual period
+[^11]: [[Gate of Wisdom/I/Idiom\|Idiom]] “custom of women is upon me” – menstrual period
 
 [^12]: [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] was deceived by Laban just as he deceived [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]
 

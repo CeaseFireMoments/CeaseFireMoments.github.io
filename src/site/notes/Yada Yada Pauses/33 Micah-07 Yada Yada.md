@@ -166,19 +166,19 @@ Micah 7:18-20 - [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-1
 
 
 
-[^1]: [[Gate of Wisdom/Idiom\|Idiom]] thou wilt cast all their sins into the depths of the sea – meaning: complete and irreversible removal of guilt
+[^1]: [[Gate of Wisdom/I/Idiom\|Idiom]] thou wilt cast all their sins into the depths of the sea – meaning: complete and irreversible removal of guilt
 
-[^2]: [[Gate of Wisdom/Idiom\|Idiom]] They shall lick the dust like a serpent – meaning: utter humiliation and defeat
+[^2]: [[Gate of Wisdom/I/Idiom\|Idiom]] They shall lick the dust like a serpent – meaning: utter humiliation and defeat
 
-[^3]: [[Gate of Wisdom/Idiom\|Idiom]] they shall lay their hand upon their mouth – meaning: silenced in astonishment and shame
+[^3]: [[Gate of Wisdom/I/Idiom\|Idiom]] they shall lay their hand upon their mouth – meaning: silenced in astonishment and shame
 
-[^4]: [[Gate of Wisdom/Idiom\|Idiom]] she that is mine enemy shall see it, and shame shall cover her – meaning: public humiliation and disgrace
+[^4]: [[Gate of Wisdom/I/Idiom\|Idiom]] she that is mine enemy shall see it, and shame shall cover her – meaning: public humiliation and disgrace
 
-[^5]: [[Gate of Wisdom/Idiom\|Idiom]] the best of them is as a brier: the most upright is sharper than a thorn hedge – meaning: even the best among them are harmful and painful
+[^5]: [[Gate of Wisdom/I/Idiom\|Idiom]] the best of them is as a brier: the most upright is sharper than a thorn hedge – meaning: even the best among them are harmful and painful
 
-[^6]: [[Gate of Wisdom/Idiom\|Idiom]] they wrap it up – meaning: they conspire together to accomplish evil
+[^6]: [[Gate of Wisdom/I/Idiom\|Idiom]] they wrap it up – meaning: they conspire together to accomplish evil
 
-[^7]: [[Gate of Wisdom/Idiom\|Idiom]] Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: there is no cluster to eat: my soul desired the firstripe fruit – meaning: complete desolation and lack of any good thing
+[^7]: [[Gate of Wisdom/I/Idiom\|Idiom]] Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: there is no cluster to eat: my soul desired the firstripe fruit – meaning: complete desolation and lack of any good thing
 
 [^8]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] In that day… he shall come even to thee… from mountain to mountain
 

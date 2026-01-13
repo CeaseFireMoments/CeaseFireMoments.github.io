@@ -208,7 +208,7 @@ chief Magdiel, and chief Iram. These are the chiefs of Edom, according to their 
         
 
 
-[^1]: [[Gate of Wisdom/Idiom\|Idiom]] “Esau is Edom”** — Identification idiom emphasizing the founding of the nation of Edom by Esau.
+[^1]: [[Gate of Wisdom/I/Idiom\|Idiom]] “Esau is Edom”** — Identification idiom emphasizing the founding of the nation of Edom by Esau.
 
 [^2]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] hill country of seir
 

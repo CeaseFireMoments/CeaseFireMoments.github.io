@@ -109,7 +109,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 				- that we should love one another; 
 				- unlike Cain, [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-04#v8\|Gen-04#v8]],
 					- who was of the evil one, [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-03#v19\|Gen-03#v19]]
-					- and killed his brother[^20] <mark style="background: #CD04BBA6;">//</mark>[[Zunpublished/Abel\|Abel]]<mark style="background: #CD04BBA6;">//</mark>. 
+					- and killed his brother[^20] <mark style="background: #CD04BBA6;">//</mark>[[Abel\|Abel]]<mark style="background: #CD04BBA6;">//</mark>. 
 						- Why did he kill him? 
 						- <mark style="background: #EB9E57A6;">Because</mark> his <mark style="background: #A4A089A6;">deeds were evil</mark>, 
 							- and <mark style="background: #E0CC4BA6;">his brother's righteous</mark>.

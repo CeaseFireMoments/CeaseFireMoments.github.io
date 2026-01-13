@@ -414,6 +414,6 @@
 
 [^4]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]given from [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] to [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] who he thinks is [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]] - during his blessing, he blesses everyone who blesses Jacob.
 
-[^5]: [[Gate of Wisdom/Idiom\|Idiom]] bless you before Yahweh before my death = Refers to invoking a formal, covenantal blessing with divine authority, a significant act in patriarchal culture.
+[^5]: [[Gate of Wisdom/I/Idiom\|Idiom]] bless you before Yahweh before my death = Refers to invoking a formal, covenantal blessing with divine authority, a significant act in patriarchal culture.
 
-[^6]: [[Gate of Wisdom/Idiom\|Idiom]] The days of mourning for my father are at hand = cultural phrase for anticipating a parent’s passing and the subsequent freedom to act (in this case, to kill Jacob)
+[^6]: [[Gate of Wisdom/I/Idiom\|Idiom]] The days of mourning for my father are at hand = cultural phrase for anticipating a parent’s passing and the subsequent freedom to act (in this case, to kill Jacob)

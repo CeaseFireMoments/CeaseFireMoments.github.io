@@ -269,9 +269,9 @@ For reading purposes [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\
 	- Genesis 31:3
 	- Hosea 12:3-4
 
-[^1]: [[Gate of Wisdom/Idiom\|Idiom]] I will appease him with the present – cover his face (pacify anger through gift)
+[^1]: [[Gate of Wisdom/I/Idiom\|Idiom]] I will appease him with the present – cover his face (pacify anger through gift)
 
-[^2]: [[Gate of Wisdom/Idiom\|Idiom]] sent messengers before him – sent ahead to announce or prepare the way
+[^2]: [[Gate of Wisdom/I/Idiom\|Idiom]] sent messengers before him – sent ahead to announce or prepare the way
 
 [^3]: [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Deliver me, I pray thee, from the hand of my brother... for thou saidst, I will surely do thee good, and make thy seed as the sand of the sea
 
@@ -283,4 +283,4 @@ For reading purposes [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\
 
 [^7]: [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Yah makes same promise as he made to [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]] offspring as the sand of the sea which can not be counted.
 
-[^8]: [[Gate of Wisdom/Idiom\|idiom]] Face = idiomatically the seat of identity, presence, favor
+[^8]: [[Gate of Wisdom/I/Idiom\|Idiom]] Face = idiomatically the seat of identity, presence, favor

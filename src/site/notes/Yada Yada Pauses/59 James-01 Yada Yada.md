@@ -190,8 +190,8 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 
 [^5]: [[Zunpublished/Symbolic Death\|Symbolic Death]] and the rich in his humiliation, because like a flower of the grass he will pass away
 
-[^6]: [[Gate of Wisdom/Idiom\|Idiom]] But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind (meaning: unstable, double-minded person)
+[^6]: [[Gate of Wisdom/I/Idiom\|Idiom]] But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind (meaning: unstable, double-minded person)
 
-[^7]: [[Gate of Wisdom/Idiom\|Idiom]] Every good gift and every perfect gift is from above, coming down from the Father of lights (meaning: God as source of all good, unchanging)
+[^7]: [[Gate of Wisdom/I/Idiom\|Idiom]] Every good gift and every perfect gift is from above, coming down from the Father of lights (meaning: God as source of all good, unchanging)
 
 [^8]: [[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]] Fruit of Spirit

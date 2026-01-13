@@ -232,4 +232,4 @@ She saith also
 
 [^3]: [[Zunpublished/Seed\|Seed]] Abraham's - part of the [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]] Covenant
 
-[^4]: [[Gate of Wisdom/Idiom\|Idiom]] Meaning: A solemn oath-taking gesture, signifying a binding commitment.
+[^4]: [[Gate of Wisdom/I/Idiom\|Idiom]] Meaning: A solemn oath-taking gesture, signifying a binding commitment.

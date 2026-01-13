@@ -221,13 +221,13 @@ For east of reading [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|
 
 
 
-[^1]: [[Gate of Wisdom/Idiom\|Idiom]] “Israel heard of it” – understated report of grave sin
+[^1]: [[Gate of Wisdom/I/Idiom\|Idiom]] “Israel heard of it” – understated report of grave sin
 
-[^2]: [[Gate of Wisdom/Idiom\|Idiom]] Ben-oni... Benjamin” – son of my sorrow... son of the right hand
+[^2]: [[Gate of Wisdom/I/Idiom\|Idiom]] Ben-oni... Benjamin” – son of my sorrow... son of the right hand
 
-[^3]: [[Gate of Wisdom/Idiom\|Idiom]] Allon Bacuth” (v8) – Oak of Weeping (name of burial tree)
+[^3]: [[Gate of Wisdom/I/Idiom\|Idiom]] Allon Bacuth” (v8) – Oak of Weeping (name of burial tree)
 
-[^4]: [[Gate of Wisdom/Idiom\|Idiom]] [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] Put away the foreign gods” – remove idols from household
+[^4]: [[Gate of Wisdom/I/Idiom\|Idiom]] [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] Put away the foreign gods” – remove idols from household
 
 [^5]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]] Outside the tabernacle, altar built at Bethel; pillar set up, drink offering and oil poured
 

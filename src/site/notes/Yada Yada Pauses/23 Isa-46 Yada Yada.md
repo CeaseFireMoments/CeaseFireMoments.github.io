@@ -140,10 +140,10 @@
 
 [^8]: [[Zunpublished/Order\|Order]] God is bringing order to the chaos of disobedience
 
-[^9]: [[Gate of Wisdom/Idiom\|Idiom]] “Bel bows down, Nebo stoops” = The Babylonian gods are depicted as collapsing or failing, symbolizing their powerlessness. This imagery reflects a common Hebrew way of describing the defeat of false gods.
+[^9]: [[Gate of Wisdom/I/Idiom\|Idiom]] “Bel bows down, Nebo stoops” = The Babylonian gods are depicted as collapsing or failing, symbolizing their powerlessness. This imagery reflects a common Hebrew way of describing the defeat of false gods.
 
-[^10]: [[Gate of Wisdom/Idiom\|Idiom]] Their idols were upon the beasts, and upon the cattle =  Idols are a burden carried by animals, implying the futility and encumbrance of idolatry. This reflects the era’s use of physical imagery to mock false worship.
+[^10]: [[Gate of Wisdom/I/Idiom\|Idiom]] Their idols were upon the beasts, and upon the cattle =  Idols are a burden carried by animals, implying the futility and encumbrance of idolatry. This reflects the era’s use of physical imagery to mock false worship.
 
-[^11]: [[Gate of Wisdom/Idiom\|Idiom]] Show yourselves men = A call to act with courage or resolve, possibly an idiomatic exhortation to take responsibility or stand firm in faith, common in Hebrew prophetic rhetoric.
+[^11]: [[Gate of Wisdom/I/Idiom\|Idiom]] Show yourselves men = A call to act with courage or resolve, possibly an idiomatic exhortation to take responsibility or stand firm in faith, common in Hebrew prophetic rhetoric.
 
-[^12]: [[Gate of Wisdom/Idiom\|Idiom]] My counsel shall stand = God’s plan is unchangeable and enduring, a common Hebrew expression to emphasize divine sovereignty and reliability.
+[^12]: [[Gate of Wisdom/I/Idiom\|Idiom]] My counsel shall stand = God’s plan is unchangeable and enduring, a common Hebrew expression to emphasize divine sovereignty and reliability.

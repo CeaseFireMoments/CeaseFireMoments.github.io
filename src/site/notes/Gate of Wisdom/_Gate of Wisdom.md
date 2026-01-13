@@ -121,8 +121,8 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]                                          |
 | [[Gate of Wisdom/H/Humble in Spirit\|Humble in Spirit]]                                                        |
 | [[Gate of Wisdom/H/Hunger and Thirst\|Hunger and Thirst]]                                                      |
-| [[Gate of Wisdom/Idiom\|Idiom]]                                                                                |
-| [[Gate of Wisdom/image\|image]]                                                                                |
+| [[Gate of Wisdom/I/Idiom\|Idiom]]                                                                              |
+| [[Gate of Wisdom/I/image\|image]]                                                                              |
 | [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]]                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]                                                            |
 | [[Gate of Wisdom/Covenant/Isaacic\|Isaacic]]                                                                   |

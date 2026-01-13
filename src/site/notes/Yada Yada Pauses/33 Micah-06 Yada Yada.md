@@ -170,17 +170,17 @@ For reading purposes [[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-06\|Mi
 
 [^1]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] "to do justly"  "love mercy" "walk humbly with your God"
 
-[^2]: [[Gate of Wisdom/Idiom\|Idiom]] statutes of Omri... works of Ahab" - northern kingdom's syncretistic policies
+[^2]: [[Gate of Wisdom/I/Idiom\|Idiom]] statutes of Omri... works of Ahab" - northern kingdom's syncretistic policies
 
-[^3]: [[Gate of Wisdom/Idiom\|Idiom]] "shall I count pure" - ironic divine question on false weights
+[^3]: [[Gate of Wisdom/I/Idiom\|Idiom]] "shall I count pure" - ironic divine question on false weights
 
-[^4]: [[Gate of Wisdom/Idiom\|Idiom]]"house of wickedness" - household/treasury built on injustice
+[^4]: [[Gate of Wisdom/I/Idiom\|Idiom]]"house of wickedness" - household/treasury built on injustice
 
-[^5]: [[Gate of Wisdom/Idiom\|Idiom]] "rivers of oil" - hyperbolic extravagance of offerings
+[^5]: [[Gate of Wisdom/I/Idiom\|Idiom]] "rivers of oil" - hyperbolic extravagance of offerings
 
-[^6]: [[Gate of Wisdom/Idiom\|Idiom]] "firstborn for my transgression, fruit of my body for sin of my soul" - child sacrifice (forbidden, ironic hyperbole)
+[^6]: [[Gate of Wisdom/I/Idiom\|Idiom]] "firstborn for my transgression, fruit of my body for sin of my soul" - child sacrifice (forbidden, ironic hyperbole)
 
-[^7]: [[Gate of Wisdom/Idiom\|Idiom]]"foundations of the earth" - enduring creation as eternal witness to covenant
+[^7]: [[Gate of Wisdom/I/Idiom\|Idiom]]"foundations of the earth" - enduring creation as eternal witness to covenant
 
 [^8]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]] [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] "burnt offerings... calves a year old" (implied altar)
 

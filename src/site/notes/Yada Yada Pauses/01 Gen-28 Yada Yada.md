@@ -249,6 +249,6 @@
 
 [^7]: [[Gate of Wisdom/Offering/Offerings\|Offerings]] Jacob vows to give a tenth to God.
 
-[^8]: [[Gate of Wisdom/Idiom\|Idiom]] The phrases “house of God” and “gate of heaven” are idiomatic, signifying a sacred place of divine encounter.
+[^8]: [[Gate of Wisdom/I/Idiom\|Idiom]] The phrases “house of God” and “gate of heaven” are idiomatic, signifying a sacred place of divine encounter.
 
-[^9]: [[Gate of Wisdom/Idiom\|Idiom]]  - Setting up a pillar was a cultural practice but also idiomatically represented a memorial or commitment to God, symbolizing a covenantal agreement.
+[^9]: [[Gate of Wisdom/I/Idiom\|Idiom]]  - Setting up a pillar was a cultural practice but also idiomatically represented a memorial or commitment to God, symbolizing a covenantal agreement.

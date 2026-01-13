@@ -224,9 +224,9 @@
   - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]]: Jacob’s departure from Laban and further covenant interactions.
 
 
-[^1]: [[Gate of Wisdom/Idiom\|Idiom]] “Fulfill her week” – Refers to completing the bridal week of celebration, a customary period for a marriage feast.
+[^1]: [[Gate of Wisdom/I/Idiom\|Idiom]] “Fulfill her week” – Refers to completing the bridal week of celebration, a customary period for a marriage feast.
 
-[^2]: [[Gate of Wisdom/Idiom\|Idiom]] “Leah’s eyes were delicate” – Likely means weak or unattractive eyes, possibly implying physical or emotional frailty.
+[^2]: [[Gate of Wisdom/I/Idiom\|Idiom]] “Leah’s eyes were delicate” – Likely means weak or unattractive eyes, possibly implying physical or emotional frailty.
 
 [^3]: [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] YHWH’s involvement in opening Leah’s womb, implying covenantal care for Jacob’s line. Birth of children (Reuben, Simeon, Levi, Judah)  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]] [[Zunpublished/Life\|Life]]
 

@@ -10,20 +10,20 @@ This series approaches the Mark of the Beast as another _ceasefire moment_: a de
 
 # Scripture:  [Revelation 14:9-11](https://www.biblegateway.com/passage/?search=Revelation%2014%3A9-11&version=WEB;TLV;OJB): 
 
-- <mark style="background: #A4A089A6;">Another angel</mark>, a third, followed them <mark style="background: #CD04BBA6;">//the other angels//</mark>, saying with a great voice, "<mark style="background: #CFA57FA6;">If</mark> <mark style="background: #B2A23AA6;">anyone</mark> worships <mark style="background: #E53E3E;">the beast</mark> and <mark style="background: #E53E3E;">his</mark> [[Gate of Wisdom/image\|image]], and <mark style="background: #04CD3EA6;">receives a</mark> [[Gate of Wisdom/Sign/Mark\|Mark]] <mark style="background: #04CD3EA6;">on his forehead, or on his hand</mark>,  <mark style="background: #CFA57FA6;">he also</mark> <mark style="background: #94DEA9A6;">will drink of the wine of the wrath of God</mark>, which is prepared unmixed in the cup of his anger. <mark style="background: #94DEA9A6;">He will be tormented with fire and sulfur</mark> <mark style="background: #4DA6EDA6;">in the presence of the holy angels</mark>, and <mark style="background: #4DA6EDA6;">in the presence of</mark> [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]. <mark style="background: #04CD3EA6;">The smoke of their torment</mark> <mark style="background: #D2B3FFA6;">goes up forever and ever</mark>. <mark style="background: #B2A23AA6;">They</mark> <mark style="background: #94DEA9A6;">have no rest day and night</mark>, <mark style="background: #B2A23AA6;">those who worship the beast and his image</mark>, and <mark style="background: #B2A23AA6;">whoever receives the mark of his name</mark>. 
+- <mark style="background: #A4A089A6;">Another angel</mark>, a third, followed them <mark style="background: #CD04BBA6;">//the other angels//</mark>, saying with a great voice, "<mark style="background: #CFA57FA6;">If</mark> <mark style="background: #B2A23AA6;">anyone</mark> worships <mark style="background: #E53E3E;">the beast</mark> and <mark style="background: #E53E3E;">his</mark> [[Gate of Wisdom/I/image\|image]], and <mark style="background: #04CD3EA6;">receives a</mark> [[Gate of Wisdom/Sign/Mark\|Mark]] <mark style="background: #04CD3EA6;">on his forehead, or on his hand</mark>,  <mark style="background: #CFA57FA6;">he also</mark> <mark style="background: #94DEA9A6;">will drink of the wine of the wrath of God</mark>, which is prepared unmixed in the cup of his anger. <mark style="background: #94DEA9A6;">He will be tormented with fire and sulfur</mark> <mark style="background: #4DA6EDA6;">in the presence of the holy angels</mark>, and <mark style="background: #4DA6EDA6;">in the presence of</mark> [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]. <mark style="background: #04CD3EA6;">The smoke of their torment</mark> <mark style="background: #D2B3FFA6;">goes up forever and ever</mark>. <mark style="background: #B2A23AA6;">They</mark> <mark style="background: #94DEA9A6;">have no rest day and night</mark>, <mark style="background: #B2A23AA6;">those who worship the beast and his image</mark>, and <mark style="background: #B2A23AA6;">whoever receives the mark of his name</mark>. 
 
 ###### v12 
 Here is the perseverance of the saints, those who keep the commandments of God, and the faith of Jesus." 
 
 # **Define**: 
 - [[Gate of Wisdom/Worship\|Worship]] - bow down in reverence
-- [[Gate of Wisdom/image\|image]] - an image, likeness, portrait, statue, resemblance
+- [[Gate of Wisdom/I/image\|image]] - an image, likeness, portrait, statue, resemblance
 - [[Gate of Wisdom/Sign/Mark\|Mark]]  - sign, engraving, imprint
 - [[Gate of Wisdom/Torment\|Torment]] - 
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
 - Third [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]] - messenger, heavenly being
 - Them - the other messengers
-- Anyone who worships the [[Gate of Wisdom/B/Beast\|Beast]] and his [[Gate of Wisdom/image\|image]]
+- Anyone who worships the [[Gate of Wisdom/B/Beast\|Beast]] and his [[Gate of Wisdom/I/image\|image]]
 - [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]
 
 ## **<mark style="background: #04CD3EA6;">What</mark>**: 

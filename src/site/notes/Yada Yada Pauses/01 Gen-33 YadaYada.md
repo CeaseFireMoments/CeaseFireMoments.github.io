@@ -174,7 +174,7 @@ For reading purposes [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\
 
 
 
-[^1]: [[Gate of Wisdom/Idiom\|Idiom]] have seen thy face, as though I had seen the face of God” – meaning receiving gracious acceptance as if from God Himself
+[^1]: [[Gate of Wisdom/I/Idiom\|Idiom]] have seen thy face, as though I had seen the face of God” – meaning receiving gracious acceptance as if from God Himself
 
 [^2]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]] Generic altar outside temple Jacob erected there an altar
 

@@ -153,9 +153,9 @@ For reading purposes: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/
 - [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]
 - [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-01#v17\|Deut-01#v17]]
 
-[^1]: [[Gate of Wisdom/Idiom\|Idiom]] Cleanse your hands... purify your hearts – ritual and moral purification; outward actions and inward motives must both be made clean.
+[^1]: [[Gate of Wisdom/I/Idiom\|Idiom]] Cleanse your hands... purify your hearts – ritual and moral purification; outward actions and inward motives must both be made clean.
 
-[^2]: [[Gate of Wisdom/Idiom\|Idiom]] the spirit that dwelleth in us lusteth to envy – the human spirit he caused to dwell in us has a strong tendency toward envy or jealousy.
+[^2]: [[Gate of Wisdom/I/Idiom\|Idiom]] the spirit that dwelleth in us lusteth to envy – the human spirit he caused to dwell in us has a strong tendency toward envy or jealousy.
 
 [^3]: [[Gate of Wisdom/Consequence/Disobedience/Chaos\|Chaos]] From whence come wars and fightings among you? come they not hence
 
