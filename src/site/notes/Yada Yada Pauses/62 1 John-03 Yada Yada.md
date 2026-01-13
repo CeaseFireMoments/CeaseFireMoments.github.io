@@ -57,7 +57,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 				- purifies himself[^24], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-30#v18\|Exod-30#v18]]
 					- even as he is pure.  [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-24#v3\|Ps-24#v3]]-4,  [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-29#v43\|Exod-29#v43]]
 		- <mark style="background: #E0CC4BA6;">Everyone</mark> who sins 
-			- also commits [[Gate of Wisdom/Lawlessness\|Lawlessness]]. 
+			- also commits [[Gate of Wisdom/L/Lawlessness\|Lawlessness]]. 
 			- Sin is lawlessness[^3]. [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-09#v7\|Deut-09#v7]]
 #### Sin = lawlessness
 #### Tabernacle language: Those outside the camp do not know YHWH, those in the camp keep his ways. They have to have an [[Gate of Wisdom/Offering/Offerings\|Offerings]] and cleansing [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]in order to enter into the Tabernacle.

@@ -7,7 +7,7 @@
 - [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
 - [[The Heralds Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]
 - [[Sacred Truces/Happy New Year! In April\|Happy New Year! In April]]
-- [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]]
+- [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness\|Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets\|Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 8 Pure at Heart\|Matthew 5 Sermon on the Mount v 8 Pure at Heart]]

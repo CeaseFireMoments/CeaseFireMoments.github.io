@@ -6,7 +6,7 @@
 - 
 
 # Related words
-- [[Gate of Wisdom/Kipper\|Kipper]]
+- [[Gate of Wisdom/K/Kipper\|Kipper]]
 - [[Gate of Wisdom/Ransom\|Ransom]]
 
 # Additional Info

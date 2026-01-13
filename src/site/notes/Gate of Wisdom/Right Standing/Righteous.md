@@ -58,7 +58,7 @@ A closely related word is צְדָקָה (tsedaqah), often translated as "[[Gate
 - blameless (Gen 17:1; Phil 2:15)
 - godly (1 Tim 6:11; Titus 2:12)
 - just (same Greek root in NT)
-- [[Gate of Wisdom/Lawlessness\|Lawlessness]]
+- [[Gate of Wisdom/L/Lawlessness\|Lawlessness]]
 
 # Additional Info
 - Those who hunger and thirst after righteousness shall be filled - [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]

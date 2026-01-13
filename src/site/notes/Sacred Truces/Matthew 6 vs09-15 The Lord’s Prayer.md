@@ -98,7 +98,7 @@ It could be a stretch maybe? Regardless, if we walk in oneness with Yah/God, all
 Previously published on WordPress https://calltoceasefire.wordpress.com/2024/01/07/matthew-69-15-the-lords-prayer/
 
 # Connections
-- [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]]
+- [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]]
 - [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
 - [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
 - [[Gate of Wisdom/Prayer\|Prayer]]

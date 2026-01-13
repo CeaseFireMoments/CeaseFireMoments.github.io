@@ -7,7 +7,7 @@
 
 # Related words
 - [[Gate of Wisdom/Good News/Atonement\|Atonement]]
-- [[Gate of Wisdom/Kipper\|Kipper]]
+- [[Gate of Wisdom/K/Kipper\|Kipper]]
 - [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
 - [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]
 

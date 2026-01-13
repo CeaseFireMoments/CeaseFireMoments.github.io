@@ -13,7 +13,7 @@
 # Related words
 - chattā’āh (חַטָּאָה): [[Gate of Wisdom/Sin\|Sin]]
 - pesha‘ (פֶּשַׁע): [[Gate of Wisdom/Transgression\|Transgression]], rebellion, often associated with the wicked (rāshā‘)
-- anomia (ἀνομία) [[Gate of Wisdom/Lawlessness\|Lawlessness]], iniquity, often parallel to unrighteousness
+- anomia (ἀνομία) [[Gate of Wisdom/L/Lawlessness\|Lawlessness]], iniquity, often parallel to unrighteousness
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
 - [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]
 - [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]

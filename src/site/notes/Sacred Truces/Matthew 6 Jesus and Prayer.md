@@ -48,7 +48,7 @@ So from this we can see Jesus is telling us not to stammer, stutter, talk foolis
 
 Surprised by this at all? There are many churches who might be. But we are going to be concerned with what other’s do, we are going to be concerned with what we, ourselves do.
 
-This brings us to the [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]], we’ll cover it in another blog at another time ([[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]). For now, let’s just sit with what Jesus said about prayer:
+This brings us to the [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]], we’ll cover it in another blog at another time ([[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]). For now, let’s just sit with what Jesus said about prayer:
 
 - Don’t pray to draw attention to yourself.
 - Do it privately, not to be showy, and not to do it so other’s will give you accolades for praying.
