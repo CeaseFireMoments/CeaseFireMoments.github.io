@@ -19,11 +19,12 @@
 - [[Gate of Wisdom/T/temptation\|temptation]]
 - [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 - [[Gate of Wisdom/T/Ten Words\|Ten Words]]
-- [[Gate of Wisdom/Testimony\|Testimony]]
+- [[Gate of Wisdom/T/Testimony\|Testimony]]
 - [[Sacred Truces/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]
-- [[Gate of Wisdom/Timeline\|Timeline]]
-- [[Gate of Wisdom/Torah\|Torah]]
-- [[Gate of Wisdom/Torment\|Torment]]
+- [[Gate of Wisdom/S/Timeline\|Timeline]]
+- [[Gate of Wisdom/T/Torah\|Torah]]
+- [[Gate of Wisdom/T/Torment\|Torment]]
 - [[Sacred Truces/Traditional Teaching vs Scripture - Isaiah 66\|Traditional Teaching vs Scripture - Isaiah 66]]
+- [[Gate of Wisdom/T/Transgression\|Transgression]]
 
 { .block-language-dataview}

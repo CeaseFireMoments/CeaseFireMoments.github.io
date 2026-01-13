@@ -20,7 +20,7 @@ Common terms expressing “unrighteousness”:
 
 - [[Gate of Wisdom/S/Sin\|Sin]] (ἁμαρτία; חטא)    
 - iniquity    
-- [[Gate of Wisdom/Transgression\|Transgression]]    
+- [[Gate of Wisdom/T/Transgression\|Transgression]]    
 - [[Gate of Wisdom/L/Lawlessness\|Lawlessness]] (ἀνομία)
 
 ## **Additional Info**

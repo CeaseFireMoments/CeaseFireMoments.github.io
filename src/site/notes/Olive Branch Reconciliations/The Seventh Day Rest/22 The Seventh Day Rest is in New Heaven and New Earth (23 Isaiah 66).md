@@ -26,7 +26,7 @@ It shall happen that <mark style="background: #A284CDA6;">from one new moon to a
 	- enduring “name” means Israel will never lose her covenant identity or be blotted out.
 - New Moon - Specific [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]s were to be made at the beginning of each month.  Num-28#v11-15
 - Sabbath = Weekly [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] - Seventh Day Rest. 
-- [[Gate of Wisdom/Transgression\|Transgression]] - willful breaking of covenant, not keeping YHWH's ways.
+- [[Gate of Wisdom/T/Transgression\|Transgression]] - willful breaking of covenant, not keeping YHWH's ways.
 - Idioms:
 	- worm shall not die: unending, conscious torment and corruption in judgment
 	- fire not quenched: irreversible, unending punishment, frequently used in Scripture for final judgment

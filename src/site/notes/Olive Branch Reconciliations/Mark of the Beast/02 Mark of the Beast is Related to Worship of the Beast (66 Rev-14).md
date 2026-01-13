@@ -19,7 +19,7 @@ Here is the perseverance of the saints, those who keep the commandments of God, 
 - [[Gate of Wisdom/Worship\|Worship]] - bow down in reverence
 - [[Gate of Wisdom/I/image\|image]] - an image, likeness, portrait, statue, resemblance
 - [[Gate of Wisdom/Sign/Mark\|Mark]]  - sign, engraving, imprint
-- [[Gate of Wisdom/Torment\|Torment]] - 
+- [[Gate of Wisdom/T/Torment\|Torment]] - 
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
 - Third [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]] - messenger, heavenly being
 - Them - the other messengers

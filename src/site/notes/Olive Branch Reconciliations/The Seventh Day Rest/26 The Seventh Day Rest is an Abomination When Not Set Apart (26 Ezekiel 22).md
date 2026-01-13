@@ -28,7 +28,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Profane = ḥillēl (חָלַל) literally to make common/ordinary something that is holy
 - [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]] - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 - [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
-- Law = [[Gate of Wisdom/Torah\|Torah]] instruction or teaching
+- Law = [[Gate of Wisdom/T/Torah\|Torah]] instruction or teaching
 
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
 -  You = the city of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]], it's inhabitance and it's priests. Manly the [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]

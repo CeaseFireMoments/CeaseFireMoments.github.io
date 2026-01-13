@@ -15,7 +15,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 ## **Define**: 
 - [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]] - Where YHWH god is, where he rules from
 - Ordinances - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] Civil or judicial laws with clear rationales, governing social interactions (e.g., laws on property, justice).
-- True Laws [[Gate of Wisdom/Torah\|Torah]] instruction or teaching
+- True Laws [[Gate of Wisdom/T/Torah\|Torah]] instruction or teaching
 - Statues [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] Laws without explicit rationales, often ritual or symbolic (e.g., dietary laws, festivals).
 - Commandments [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] General commandments, often moral or religious duties (e.g., love God, keep commandments).
 - [[Gate of Wisdom/H/Holy\|Holy]] "set apart," "separate," or "consecrated" for a special purpose. 

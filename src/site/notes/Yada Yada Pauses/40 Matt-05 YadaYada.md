@@ -27,7 +27,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 	- <mark style="background: #D7CD91A6;">his</mark> [[Gate of Wisdom/D/Disciple\|Disciple]] came to <mark style="background: #D7CD91A6;">him</mark>
 	- opened <mark style="background: #D7CD91A6;">his</mark> mouth
 	- was teaching them // [[Gate of Wisdom/D/Disciple\|Disciple]]//
-	- gave them this [[Gate of Wisdom/Torah\|Torah]] (teaching), )
+	- gave them this [[Gate of Wisdom/T/Torah\|Torah]] (teaching), )
 #### Them = he had moved away from the crowds and went up on the mountain and sat down. This was not taught to the crowds. In Luke 6:20 Looking at his disciples he said to them...
 
 #### “he went up on the mountain” are a verbatim quotation of Exodus 19:3 Matthew seems to be pointing back to Moses, connecting Jesus as the new Moses. And the law of the Torah with the law of the new covenant.

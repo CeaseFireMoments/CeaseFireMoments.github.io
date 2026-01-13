@@ -15,8 +15,8 @@ This series approaches the Mark of the Beast as another _ceasefire moment_: a de
 I <mark style="background: #04CD3EA6;">saw thrones</mark>, and <mark style="background: #B2A23AA6;">they</mark> <mark style="background: #04CD3EA6;">sat on them</mark>, and <mark style="background: #04CD3EA6;">judgment was given to them</mark>. I <mark style="background: #04CD3EA6;">saw the souls</mark> <mark style="background: #04CD3EA6;">of those who had been beheaded </mark><mark style="background: #EB9E57A6;">for the testimony of Jesus</mark>, and <mark style="background: #EB9E57A6;">for the word of God</mark>, and <mark style="background: #EB9E57A6;">such as didn't worship</mark> <mark style="background: #E53E3E;">the beast</mark> <mark style="background: #E53E3E;">nor his image</mark>, and <mark style="background: #EB9E57A6;">didn't receive the mark</mark> on <mark style="background: #4DA6EDA6;">their forehead and on their hand</mark>. <mark style="background: #B2A23AA6;">They</mark> <mark style="background: #04CD3EA6;">lived and reigned</mark> with Christ <mark style="background: #D2B3FFA6;">for a thousand years</mark>. 
 # **Define**: 
 - [[Gate of Wisdom/S/Soul\|Soul]] - psychē (ψυχή) – meaning the conscious, personal existence of the martyrs.
-- [[Gate of Wisdom/Testimony\|Testimony]] = Witness
-- [[Gate of Wisdom/The Word\|The Word]] = message or revelation from [[Gate of Wisdom/Beings/Heavenly Beings/YHWH\|YHWH]], [[Gate of Wisdom/Beings/Heavenly Beings/God\|God]]
+- [[Gate of Wisdom/T/Testimony\|Testimony]] = Witness
+- [[Gate of Wisdom/W/The Word\|The Word]] = message or revelation from [[Gate of Wisdom/Beings/Heavenly Beings/YHWH\|YHWH]], [[Gate of Wisdom/Beings/Heavenly Beings/God\|God]]
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
 -  I - John, the writer
 - They - believers (saints), especially those who remain faithful through persecution, based on the context of the original language as well as other references (1 Cor 6:2-3, Matt-19:28, Rev 3:21, Dan 7:22).

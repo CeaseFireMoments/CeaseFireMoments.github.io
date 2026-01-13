@@ -7,7 +7,7 @@
 	- Three major Hebrew sin-words
 		- ḥaṭṭāʾt = “sin” – missing the mark
 		- ʿāwōn = “iniquity” – crookedness, guilt, perversion
-		- pesha = “[[Gate of Wisdom/Transgression\|Transgression]]/rebellion” – deliberate revolt
+		- pesha = “[[Gate of Wisdom/T/Transgression\|Transgression]]/rebellion” – deliberate revolt
 
 - Greek: 
 	- Most common LXX rendering of חַטָּאת: ἁμαρτία (hamartia) – “sin, failure to hit the target” (the primary NT word for sin; used over 170 times).  
@@ -17,7 +17,7 @@
 
 # Related words
 - [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
-- [[Gate of Wisdom/Transgression\|Transgression]]
+- [[Gate of Wisdom/T/Transgression\|Transgression]]
 - [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]
 
 # Additional Info
