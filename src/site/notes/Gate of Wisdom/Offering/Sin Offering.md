@@ -47,7 +47,7 @@ These are for breaking commandments which should not be done. Not the commandmen
 
 The priests sins affected all the people and he had to bring a greater offering.
 
-For unintentional sins against God's [[Gate of Wisdom/Mitzvot\|Mitzvot]]/commandments. These were acts without intent, unwittingly. Once the sin is made known, being accountable for what was done, although it was not done on purpose. The sin would be breaking one of the "shall not" commands. Doing something God said not to do. The offering was brought to the entrance to the Tent of Meeting, confession of the sin is made, the offering brought by the Priest to make atonement, and then the offender is restored.
+For unintentional sins against God's [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]/commandments. These were acts without intent, unwittingly. Once the sin is made known, being accountable for what was done, although it was not done on purpose. The sin would be breaking one of the "shall not" commands. Doing something God said not to do. The offering was brought to the entrance to the Tent of Meeting, confession of the sin is made, the offering brought by the Priest to make atonement, and then the offender is restored.
 
 The Law for burnt-offering, for present, and for sin-offering, and for guilt-offering and for consecrations, and for a sacrifice of the peace-offerings ... (Leviticus 7:37)
 

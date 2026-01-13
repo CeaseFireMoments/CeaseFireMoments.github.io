@@ -9,6 +9,7 @@
 - [[Gate of Wisdom/L/Lawlessness\|Lawlessness]]
 - [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]
+- [[Gate of Wisdom/L/Lust\|Lust]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 14-16 Light of the World\|Matthew 5 Sermon on the Mount v 14-16 Light of the World]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets\|Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets]]

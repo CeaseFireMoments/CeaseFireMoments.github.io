@@ -146,17 +146,17 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]                                                              |
 | [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]]                                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                                                     |
-| [[Gate of Wisdom/Lust\|Lust]]                                                                                  |
+| [[Gate of Wisdom/L/Lust\|Lust]]                                                                                |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]]                                                |
 | [[Gate of Wisdom/Sign/Mark\|Mark]]                                                                             |
-| [[Gate of Wisdom/Meek\|Meek]]                                                                                  |
-| [[Gate of Wisdom/Memorial\|Memorial]]                                                                          |
-| [[Gate of Wisdom/Merciful\|Merciful]]                                                                          |
+| [[Gate of Wisdom/M/Meek\|Meek]]                                                                                |
+| [[Gate of Wisdom/M/Memorial\|Memorial]]                                                                        |
+| [[Gate of Wisdom/M/Merciful\|Merciful]]                                                                        |
 | [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]]                                                       |
 | [[Gate of Wisdom/Beings/Messenger\|Messenger]]                                                                 |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Messiah\|Messiah]]                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]                                                            |
-| [[Gate of Wisdom/Mitzvot\|Mitzvot]]                                                                            |
+| [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]                                                                          |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Morning Star\|Morning Star]]                                           |
 | [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]]                                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]                                                            |

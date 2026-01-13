@@ -24,7 +24,7 @@ C an be a verb (something done) or a noun (something given).
 
 ## Notes
 
-1. C haracteristic of the [[Gate of Wisdom/Merciful\|Merciful]]
+1. C haracteristic of the [[Gate of Wisdom/M/Merciful\|Merciful]]
 2. G reek-speaking Jews used this word almost exclusively to refer to offering charity to needy people.
 3. T o Jews this carried with it the meaning of “charity in the spirit of uprightness or justice ” [ALMS - JewishEncyclopedia.com](https://www.jewishencyclopedia.com/articles/1295-alms).
 4. I t was believed to atone for sin and deliver from death (Daniel 4:27?name=Daniel%204)).

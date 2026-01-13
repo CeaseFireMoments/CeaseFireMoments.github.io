@@ -30,7 +30,7 @@
 	- Mishpatim (the judgments) [[Zunpublished/Judgment Mishpatim\|Judgment Mishpatim]]
 	- Chukot (The Statutes) [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 	- Edut (The Testimonies) 
-	- Mitzvot (The Commands) [[Gate of Wisdom/Mitzvot\|Mitzvot]]
+	- Mitzvot (The Commands) [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]
 	- Torot (The law/ codes)
 ## Common Translations:
 

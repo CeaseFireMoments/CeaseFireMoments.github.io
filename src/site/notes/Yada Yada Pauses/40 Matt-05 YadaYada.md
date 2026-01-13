@@ -57,7 +57,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 
 ![](https://app.thebrain.com/notes-image-request/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/8477d5d2-f1b7-4639-8177-642e6c47dea9.webp)
 
-- [[Gate of Wisdom/Meek\|Meek]] <mark style="background: #CD04BBA6;">//resting ones//</mark>
+- [[Gate of Wisdom/M/Meek\|Meek]] <mark style="background: #CD04BBA6;">//resting ones//</mark>
 - shall inherit the land <mark style="background: #CD04BBA6;">//earth//</mark>
 
 #### Inherit - 1 Samuel 2:8 - sets them with princes.. throne of honor
@@ -84,7 +84,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 
 ![](https://app.thebrain.com/notes-image-request/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/2f60fd9d-cd10-4b45-ad7c-8c719232fb9b.webp)
 
-- [[Gate of Wisdom/Merciful\|Merciful]] /[[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]]
+- [[Gate of Wisdom/M/Merciful\|Merciful]] /[[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]]
 - shall find kindness //obtain mercy (merciful obtain mercy - same word, different form//
 
 ###### Flashback - Proverbs 19:17; Proverbs 11:17

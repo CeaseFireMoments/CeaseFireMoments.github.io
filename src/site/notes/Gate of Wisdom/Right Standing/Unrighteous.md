@@ -41,6 +41,6 @@
 
 # Unrighteous Characteristics
 [[Anger\|Anger]]
-[[Gate of Wisdom/Lust\|Lust]]
+[[Gate of Wisdom/L/Lust\|Lust]]
 [[Murder\|Murder]]
 [[Way of Death\|Way of Death]]

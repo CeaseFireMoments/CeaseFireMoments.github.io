@@ -100,7 +100,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 	- But each one is <mark style="background: #04CD3EA6;">tempted</mark> <mark style="background: #CD04BBA6;">//peirazō//</mark>
 		- when he is drawn away 
 			- <mark style="background: #7FC1CFA6;">by his own lust and enticed</mark>.
-				- Then the [[Gate of Wisdom/Lust\|Lust]] <mark style="background: #CD04BBA6;">//epithymia//</mark>, 
+				- Then the [[Gate of Wisdom/L/Lust\|Lust]] <mark style="background: #CD04BBA6;">//epithymia//</mark>, 
 					- when it has conceived, 
 					- bears sin. [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-07#v14\|Ps-07#v14]]
 						- The sin, 
