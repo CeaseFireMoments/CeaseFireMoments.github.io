@@ -9,7 +9,7 @@
 - [[Sacred Truces/Day of Atonement for Christians\|Day of Atonement for Christians]]
 - [[Gate of Wisdom/Beings/Human Beings/deacons\|deacons]]
 - [[Gate of Wisdom/Beings/Devil\|Devil]]
-- [[Gate of Wisdom/Disciple\|Disciple]]
+- [[Gate of Wisdom/D/Disciple\|Disciple]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]
 - [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]

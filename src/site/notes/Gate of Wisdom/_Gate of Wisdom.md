@@ -84,12 +84,12 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]                                           |
 | [[Gate of Wisdom/Beings/Human Beings/deacons\|deacons]]                                                        |
 | [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                         |
-| [[Gate of Wisdom/Disciple\|Disciple]]                                                                          |
+| [[Gate of Wisdom/D/Disciple\|Disciple]]                                                                        |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]                                                       |
 | [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]                                                     |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]                                                      |
-| [[Gate of Wisdom/elder\|elder]]                                                                                |
+| [[Gate of Wisdom/E/elder\|elder]]                                                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Elohim\|Elohim]]                                                       |
 | [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                              |
 | [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                         |

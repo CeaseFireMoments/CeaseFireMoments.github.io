@@ -24,9 +24,9 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 - <mark style="background: #D7CD91A6;">he</mark> //[[Gate of Wisdom/Beings/Jesus\|Jesus]]//
 	- went up to the [[Gate of Wisdom/mount\|mount]]
 		- sat down,
-	- <mark style="background: #D7CD91A6;">his</mark> [[Gate of Wisdom/Disciple\|Disciple]] came to <mark style="background: #D7CD91A6;">him</mark>
+	- <mark style="background: #D7CD91A6;">his</mark> [[Gate of Wisdom/D/Disciple\|Disciple]] came to <mark style="background: #D7CD91A6;">him</mark>
 	- opened <mark style="background: #D7CD91A6;">his</mark> mouth
-	- was teaching them // [[Gate of Wisdom/Disciple\|Disciple]]//
+	- was teaching them // [[Gate of Wisdom/D/Disciple\|Disciple]]//
 	- gave them this [[Gate of Wisdom/Torah\|Torah]] (teaching), )
 #### Them = he had moved away from the crowds and went up on the mountain and sat down. This was not taught to the crowds. In Luke 6:20 Looking at his disciples he said to them...
 
