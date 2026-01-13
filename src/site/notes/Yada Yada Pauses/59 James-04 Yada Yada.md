@@ -82,7 +82,7 @@ For reading purposes: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/
 			- and he will exalt you. 
 				- Don't speak against one another, [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 					- brothers. 
-					- He who speaks against a brother and [[Gate of Wisdom/Judge\|Judge]] his brother,
+					- He who speaks against a brother and [[Gate of Wisdom/J/Judge\|Judge]] his brother,
 						- speaks against the law \\[[Gate of Wisdom/Torah\|Torah]] \\ and judges the law. 
 							- But if you judge the law, 
 								- you are not a doer of the law, 

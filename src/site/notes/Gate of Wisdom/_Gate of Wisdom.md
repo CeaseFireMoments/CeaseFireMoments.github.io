@@ -136,7 +136,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]                                                                |
 | [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]                                |
 | [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]                                                            |
-| [[Gate of Wisdom/Judge\|Judge]]                                                                                |
+| [[Gate of Wisdom/J/Judge\|Judge]]                                                                              |
 | [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                 |
 | [[Gate of Wisdom/Beings/Human Beings/Keturah\|Keturah]]                                                        |
 | [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]                                 |

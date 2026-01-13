@@ -14,7 +14,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]
 - [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]
 - [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]
-- [[Gate of Wisdom/Judge\|Judge]]
+- [[Gate of Wisdom/J/Judge\|Judge]]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]
 - [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]

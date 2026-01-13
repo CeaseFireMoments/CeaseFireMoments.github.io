@@ -105,7 +105,7 @@ A closely related word is צְדָקָה (tsedaqah), often translated as "[[Gate
 - [[Agape\|Agape]]
 - [[Gate of Wisdom/A/Alms\|Alms]]
 - [[Gate of Wisdom/F/Fast\|Fast]]
-- [[Gate of Wisdom/Judge\|Judge]]
+- [[Gate of Wisdom/J/Judge\|Judge]]
 - [[Light of the World\|Light of the World]]
 - [[Gate of Wisdom/Meek\|Meek]]
 - [[Gate of Wisdom/Merciful\|Merciful]]
