@@ -7,7 +7,7 @@
 
 1. C ompassionate
 2. M erciful - showing pity or mercy towards, gracious
-3. M ercy - [[Gate of Wisdom/Alms\|Alms]] -giving, charity}
+3. M ercy - [[Gate of Wisdom/A/Alms\|Alms]] -giving, charity}
 
 ## Notes
 

@@ -19,7 +19,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Sacrifices = [[Gate of Wisdom/Offering/Offerings\|Offerings]], commanded by YHWH (e.g., Leviticus 1–7)
 - Vain = empty, worthless
 - Incense = a symbol of prayer and devotion
-- [[Gate of Wisdom/Abomination\|Abomination]] = morally disgusting, detestable, or abhorrent
+- [[Gate of Wisdom/Abomination/Abomination\|Abomination]] = morally disgusting, detestable, or abhorrent
 - New moon, [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]] , convocations = God-ordained festivals and assemblies (which includes the Seventh Day Rest, see Num. 28–29; Lev. 23) - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]],
 
 ## **Who**:

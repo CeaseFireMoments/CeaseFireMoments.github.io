@@ -17,6 +17,7 @@
 - [[Sacred Truces/Old, New, and Renewed\|Old, New, and Renewed]]
 - [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- [[Gate of Wisdom/overseer\|overseer]]
 - [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]]
 - [[Gate of Wisdom/Offering/Peace Offering\|Peace Offering]]
 - [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]

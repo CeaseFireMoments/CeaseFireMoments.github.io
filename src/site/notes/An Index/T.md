@@ -13,6 +13,8 @@
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]
+- [[Gate of Wisdom/Beings/Human Beings/teacher\|teacher]]
+- [[Gate of Wisdom/Ruach/Gift/Teaching\|Teaching]]
 - [[Gate of Wisdom/Tefillos\|Tefillos]]
 - [[Gate of Wisdom/temptation\|temptation]]
 - [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]

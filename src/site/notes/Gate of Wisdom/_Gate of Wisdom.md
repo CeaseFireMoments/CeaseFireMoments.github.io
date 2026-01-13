@@ -24,18 +24,19 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]]                                                            |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Aarons Staff\|Aarons Staff]]                  |
 | [[Gate of Wisdom/Beings/Human Beings/Abimelech\|Abimelech]]                                                    |
-| [[Gate of Wisdom/Abomination\|Abomination]]                                                                    |
+| [[Gate of Wisdom/Abomination/Abomination\|Abomination]]                                                        |
 | [[Gate of Wisdom/Abomination/Abomination of the Desolation\|Abomination of the Desolation]]                    |
 | [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]                                                        |
 | [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]]                                                               |
 | [[Gate of Wisdom/Beings/Adversary\|Adversary]]                                                                 |
 | [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]                                                              |
-| [[Gate of Wisdom/Alms\|Alms]]                                                                                  |
+| [[Gate of Wisdom/A/Alms\|Alms]]                                                                                |
 | [[Gate of Wisdom/Beings/Human Beings/Ambassador\|Ambassador]]                                                  |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]]                                                         |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Angel of the Lord\|Angel of the Lord]]                                 |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Angel of Yahweh\|Angel of Yahweh]]                                     |
 | [[Gate of Wisdom/Beings/Antichrist\|Antichrist]]                                                               |
+| [[Gate of Wisdom/Beings/Human Beings/apostle\|apostle]]                                                        |
 | [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]                                               |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]                                                 |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]  |
@@ -81,12 +82,14 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]                                                     |
 | [[Gate of Wisdom/Covenant/Davidic\|Davidic]]                                                                   |
 | [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]                                           |
+| [[Gate of Wisdom/Beings/Human Beings/deacons\|deacons]]                                                        |
 | [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                         |
 | [[Gate of Wisdom/Disciple\|Disciple]]                                                                          |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]                                                       |
 | [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]                                                     |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]                                                      |
+| [[Gate of Wisdom/elder\|elder]]                                                                                |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Elohim\|Elohim]]                                                       |
 | [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                              |
 | [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                         |
@@ -169,7 +172,9 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Offering/Offerings\|Offerings]]                                                               |
 | [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]                                                              |
 | [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]                               |
+| [[Gate of Wisdom/overseer\|overseer]]                                                                          |
 | [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]]                                               |
+| [[Zunpublished/Pastor\|Pastor]]                                                                                |
 | [[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]]                                                              |
 | [[Gate of Wisdom/Offering/Peace Offering\|Peace Offering]]                                                     |
 | [[Gate of Wisdom/Peacemaker\|Peacemaker]]                                                                      |
@@ -221,6 +226,8 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]                                           |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]            |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]  |
+| [[Gate of Wisdom/Beings/Human Beings/teacher\|teacher]]                                                        |
+| [[Gate of Wisdom/Ruach/Gift/Teaching\|Teaching]]                                                               |
 | [[Gate of Wisdom/Tefillos\|Tefillos]]                                                                          |
 | [[Gate of Wisdom/temptation\|temptation]]                                                                      |
 | [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]                                                          |

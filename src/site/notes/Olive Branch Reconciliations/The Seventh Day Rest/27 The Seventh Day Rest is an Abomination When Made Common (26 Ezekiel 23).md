@@ -21,7 +21,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 
 ## **Define**: 
 - Moreover - gam (גַּם) also,” “too,” “even,” “likewise. In normal biblical Hebrew usage, גַּם simply adds another item to the list; it is neutral about whether the new item is more severe, less severe, or just another example.
-- [[Gate of Wisdom/Abomination\|Abomination]]
+- [[Gate of Wisdom/Abomination/Abomination\|Abomination]]
 - [[Zunpublished/Adultery\|Adultery]]
 - Profane - [[Gate of Wisdom/Common\|Common]]
 - [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]

@@ -124,7 +124,7 @@
 ***
 [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isaiah\|_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isaiah]] | [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
 
-[^1]: [[Gate of Wisdom/Abomination\|Abomination]] Idols
+[^1]: [[Gate of Wisdom/Abomination/Abomination\|Abomination]] Idols
 
 [^2]: [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Spiritual Death\|Spiritual Death]] Separated from God because of being [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
 

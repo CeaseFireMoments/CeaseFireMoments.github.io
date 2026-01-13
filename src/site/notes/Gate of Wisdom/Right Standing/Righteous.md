@@ -103,7 +103,7 @@ A closely related word is צְדָקָה (tsedaqah), often translated as "[[Gate
 - treasure up to yourselves  //disciples// treasures in heaven:  Matthew 6 
 
 - [[Agape\|Agape]]
-- [[Gate of Wisdom/Alms\|Alms]]
+- [[Gate of Wisdom/A/Alms\|Alms]]
 - [[Gate of Wisdom/Fast\|Fast]]
 - [[Gate of Wisdom/Judge\|Judge]]
 - [[Light of the World\|Light of the World]]

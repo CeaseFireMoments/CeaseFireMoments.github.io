@@ -29,16 +29,8 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/The Word\|The Word]]                                                                                                                                                                                                         |
 | [[Gate of Wisdom/Testimony\|Testimony]]                                                                                                                                                                                                       |
 | [[Gate of Wisdom/Soul\|Soul]]                                                                                                                                                                                                                 |
-| [[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]                                                                   |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)\|32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)]]                                                        |
-| [[Olive Branch Reconciliations/Mark of the Beast/03 Mark of the Beast Brings Wrath of God (66 Rev-16)\|03 Mark of the Beast Brings Wrath of God (66 Rev-16)]]                                                                                 |
-| [[Gate of Wisdom/Rider of the White Horse\|Rider of the White Horse]]                                                                                                                                                                         |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)\|31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)]]                                                    |
-| [[Gate of Wisdom/Torment\|Torment]]                                                                                                                                                                                                           |
-| [[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13)\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]                                                               |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]                                  |
-| [[Torah Portions/2025.12.16 Shabbat Reading\|2025.12.16 Shabbat Reading]]                                                                                                                                                                     |
-| [[Gate of Wisdom/Worship\|Worship]]                                                                                                                                                                                                           |
 
 { .block-language-dataview}
 
