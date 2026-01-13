@@ -9,7 +9,7 @@
 
 
 # Related words
-- [[Gate of Wisdom/Name\|Name]]
+- [[Gate of Wisdom/N/Name\|Name]]
 
 # Additional Info
 

@@ -29,7 +29,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - [[Zunpublished/Covenant\|Covenant]] - YHWH's covenant with [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]], given at [[Zunpublished/Mount Sinai\|Mount Sinai]]. Revealed in Moses [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]], promised to Abraham [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]], and renewed in the Servant (Isa 42:6; 49:8).
 	- [[Sacred Truces/What is the New Covenant\|What is the New Covenant]] Fulfillment Heb-08, Eph 02 
 - [[Gate of Wisdom/M/Memorial\|Memorial]] - permanent remembrance or enduring name in God’s house.
-- [[Gate of Wisdom/Name\|Name]] name, reputation, fame, memorial, renown, identity. To have a name with God is to have recognition, covenant belonging, and honor.
+- [[Gate of Wisdom/N/Name\|Name]] name, reputation, fame, memorial, renown, identity. To have a name with God is to have recognition, covenant belonging, and honor.
 
 ## **Who**:
 -  The man, any human, including the eunuch and foreigner who:

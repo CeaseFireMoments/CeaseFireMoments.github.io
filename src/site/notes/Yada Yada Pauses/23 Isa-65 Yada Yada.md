@@ -15,7 +15,7 @@
 	- who didn't seek me. [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-10#v20\|Rom-10:20]]
 - I said, 'See me, see me,' 
 	- to a nation 
-		- that was not called by my [[Gate of Wisdom/Name\|Name]]. 
+		- that was not called by my [[Gate of Wisdom/N/Name\|Name]]. 
 - I have spread out my hands all day 
 	- to a rebellious people, 
 		- who walk in a way 

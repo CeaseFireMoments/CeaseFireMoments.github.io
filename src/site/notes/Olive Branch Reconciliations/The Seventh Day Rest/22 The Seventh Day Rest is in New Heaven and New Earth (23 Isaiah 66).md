@@ -22,7 +22,7 @@ It shall happen that <mark style="background: #A284CDA6;">from one new moon to a
 	- The core, primitive meaning of the root _H-D-Sh_ is to renew, repair, or restore something to its former, intended condition or vigor.
 - New [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]s and a New Earth = renewed cosmos free from curse and decay  Rev-21 & 22
 - Offspring/[[Zunpublished/Seed\|Seed]] = often used covenantally for the continuing line
-- [[Gate of Wisdom/Name\|Name]] = reputation, identity, renown; 
+- [[Gate of Wisdom/N/Name\|Name]] = reputation, identity, renown; 
 	- enduring “name” means Israel will never lose her covenant identity or be blotted out.
 - New Moon - Specific [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]s were to be made at the beginning of each month.  Num-28#v11-15
 - Sabbath = Weekly [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] - Seventh Day Rest. 

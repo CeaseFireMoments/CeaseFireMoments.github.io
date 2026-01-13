@@ -27,7 +27,7 @@ Ezra 3:5 and <mark style="background: #D2B3FFA6;">afterward the continual</mark
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 - [[Gate of Wisdom/Appointed Time/Feast\|Feast]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
-- [[Gate of Wisdom/Name\|Name]]
+- [[Gate of Wisdom/N/Name\|Name]]
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 - [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]] 
 - [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]] = feast of weeks

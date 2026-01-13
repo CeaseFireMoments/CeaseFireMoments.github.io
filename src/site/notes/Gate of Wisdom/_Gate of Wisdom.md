@@ -160,11 +160,11 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Morning Star\|Morning Star]]                                           |
 | [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]]                                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]                                                            |
-| [[Gate of Wisdom/mount\|mount]]                                                                                |
-| [[Gate of Wisdom/Mourn\|Mourn]]                                                                                |
+| [[Gate of Wisdom/M/mount\|mount]]                                                                              |
+| [[Gate of Wisdom/M/Mourn\|Mourn]]                                                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]                                                     |
 | [[Gate of Wisdom/Beings/Nahum\|Nahum]]                                                                         |
-| [[Gate of Wisdom/Name\|Name]]                                                                                  |
+| [[Gate of Wisdom/N/Name\|Name]]                                                                                |
 | [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]                                                      |
 | [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]                                                           |
@@ -172,7 +172,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Offering/Offerings\|Offerings]]                                                               |
 | [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]                                                              |
 | [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]                               |
-| [[Gate of Wisdom/overseer\|overseer]]                                                                          |
+| [[Gate of Wisdom/O/overseer\|overseer]]                                                                        |
 | [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]]                                               |
 | [[Zunpublished/Pastor\|Pastor]]                                                                                |
 | [[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]]                                                              |

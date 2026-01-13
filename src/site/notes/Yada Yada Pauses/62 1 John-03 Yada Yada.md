@@ -160,7 +160,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 										- and <mark style="background: #04CD3EA6;">do the things that are pleasing in his //YHWH//. sight</mark>. [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v2\|Deut-28#v2]], 
 
 - This is his commandment, <mark style="background: #CD04BBA6;">//singular//</mark>
-	- that we should believe in the [[Gate of Wisdom/Name\|Name]] 
+	- that we should believe in the [[Gate of Wisdom/N/Name\|Name]] 
 		- of his Son, Jesus Christ, 
 	- and love one another[^29], [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v18\|Lev-19#v18]],
 		- even as he //YHWH// commanded. [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v5\|Deut-06#v5]],  [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-31#v18\|Exod-31#v18]]

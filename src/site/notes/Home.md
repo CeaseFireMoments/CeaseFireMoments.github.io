@@ -19,7 +19,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Torah Portions/2026.01.17 Shabbat Reading\|2026.01.17 Shabbat Reading]]                                                                                                                                                                     |
 | [[Torah Portions/2026.01.10 Shabbat Reading\|2026.01.10 Shabbat Reading]]                                                                                                                                                                     |
 | [[Torah Portions/2026.01.03 Shabbat Reading\|2026.01.03 Shabbat Reading]]                                                                                                                                                                     |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]                                    |

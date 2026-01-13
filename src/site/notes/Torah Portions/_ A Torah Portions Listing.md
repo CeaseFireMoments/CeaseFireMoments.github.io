@@ -6,7 +6,6 @@ The Torah Portion Schedule is based on the 3 year rotating schedule found [here]
 
 
 
-- [[Torah Portions/2026.01.17 Shabbat Reading\|2026.01.17 Shabbat Reading]]
 - [[Torah Portions/2026.01.10 Shabbat Reading\|2026.01.10 Shabbat Reading]]
 - [[Torah Portions/2026.01.03 Shabbat Reading\|2026.01.03 Shabbat Reading]]
 - [[Torah Portions/2025.12.16 Shabbat Reading\|2025.12.16 Shabbat Reading]]

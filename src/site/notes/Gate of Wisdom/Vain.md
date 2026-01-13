@@ -38,4 +38,4 @@ T he Hebrew term שָׁוְא (shav') is a multifaceted word that captures the e
 #### 3 Mapped Links
 
 [[Gate of Wisdom/Shem\|Shem]]
-[[Gate of Wisdom/Name\|Name]]
+[[Gate of Wisdom/N/Name\|Name]]

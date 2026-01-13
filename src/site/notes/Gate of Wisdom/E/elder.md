@@ -15,7 +15,7 @@
 
 
 # Related words
-- [[Gate of Wisdom/overseer\|overseer]] episkopos (ἐπίσκοπος) The word itself is a noun meaning “overseer” or “guardian,” describing the function of watching over, shepherding, and caring for the flock of YHWH
+- [[Gate of Wisdom/O/overseer\|overseer]] episkopos (ἐπίσκοπος) The word itself is a noun meaning “overseer” or “guardian,” describing the function of watching over, shepherding, and caring for the flock of YHWH
 
 # Additional Info
 

@@ -28,7 +28,7 @@ Moreover also <mark style="background: #D7CD91A6;">I </mark><mark style="backgro
 ## **Define**: 
 - [[Gate of Wisdom/Sign/Sign\|Sign]] = OT אוֹת
 - [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]] = [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
-- "Name's sake" - [[Gate of Wisdom/Name\|Name]] In biblical thought, God’s “name” is virtually identical with His revealed character, His glory, His holiness, and His presence. To act “for the sake of His name” means to act so that His reputation, holiness, and glory will not be profaned among the nations. Exod-32#v12
+- "Name's sake" - [[Gate of Wisdom/N/Name\|Name]] In biblical thought, God’s “name” is virtually identical with His revealed character, His glory, His holiness, and His presence. To act “for the sake of His name” means to act so that His reputation, holiness, and glory will not be profaned among the nations. Exod-32#v12
 - To the end - in order that, so that
 - Idioms:
 	- for a sign between Me and between you” A visible covenant marker/token that testifies to the relationship (like a wedding ring or national flag)

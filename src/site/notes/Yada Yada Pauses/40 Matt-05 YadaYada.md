@@ -22,7 +22,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 
 - <mark style="background: #A8ADB8A6;">And</mark> having seen the mu<mark style="background: #E0CC4BA6;"></mark>ltitudes //[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04\|Matt-04]]//
 - <mark style="background: #D7CD91A6;">he</mark> //[[Gate of Wisdom/Beings/Jesus\|Jesus]]//
-	- went up to the [[Gate of Wisdom/mount\|mount]]
+	- went up to the [[Gate of Wisdom/M/mount\|mount]]
 		- sat down,
 	- <mark style="background: #D7CD91A6;">his</mark> [[Gate of Wisdom/D/Disciple\|Disciple]] came to <mark style="background: #D7CD91A6;">him</mark>
 	- opened <mark style="background: #D7CD91A6;">his</mark> mouth
@@ -46,7 +46,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 #### Blog: [Matthew 5:3 Humble of Spirit – CalltoCeaseFire](https://calltoceasefire.wordpress.com/2023/09/22/matthew-53-humble-of-spirit/)
  
 
-- [[Gate of Wisdom/Mourn\|Mourn]] <mark style="background: #CD04BBA6;">//literal transalation of Hebrew: “Blessed are the weeping ones”//</mark>
+- [[Gate of Wisdom/M/Mourn\|Mourn]] <mark style="background: #CD04BBA6;">//literal transalation of Hebrew: “Blessed are the weeping ones”//</mark>
 - shall be comforted //comfort will reach//
 
 ###### Flashback - Isaiah 61:2-3; Pslams 126:5-6; Isaiah 66:10; Isaiah 30:19;

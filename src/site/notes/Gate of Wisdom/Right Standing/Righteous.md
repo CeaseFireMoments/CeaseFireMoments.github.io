@@ -109,7 +109,7 @@ A closely related word is צְדָקָה (tsedaqah), often translated as "[[Gate
 - [[Light of the World\|Light of the World]]
 - [[Gate of Wisdom/M/Meek\|Meek]]
 - [[Gate of Wisdom/M/Merciful\|Merciful]]
-- [[Gate of Wisdom/Mourn\|Mourn]]
+- [[Gate of Wisdom/M/Mourn\|Mourn]]
 - [[Gate of Wisdom/Peacemaker\|Peacemaker]]
 - [[Gate of Wisdom/Perfect\|Perfect]]
 - [[Gate of Wisdom/Poor\|Poor]]

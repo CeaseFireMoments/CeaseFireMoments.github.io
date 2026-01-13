@@ -17,7 +17,7 @@
 - [[Sacred Truces/Happy New Year! In April\|Happy New Year! In April]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]
-- [[Gate of Wisdom/Name\|Name]]
+- [[Gate of Wisdom/N/Name\|Name]]
 - [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]
 - [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
 - [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]
