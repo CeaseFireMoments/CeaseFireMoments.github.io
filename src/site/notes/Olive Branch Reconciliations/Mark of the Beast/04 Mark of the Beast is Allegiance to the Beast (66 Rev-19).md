@@ -21,7 +21,7 @@ This series approaches the Mark of the Beast as another _ceasefire moment_: a de
 - Kings, captains, mighty men, horses they ride, their armies, the rest
 - All men, both free and slave, small and great
 - The beast [[Gate of Wisdom/B/Beast\|Beast]]
-- Him who sat on the horse - [[Gate of Wisdom/Rider of the White Horse\|Rider of the White Horse]]
+- Him who sat on the horse - [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]
 - Rider's army
 - [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
 - Those who received the mark of the beast and those who worshiped his image

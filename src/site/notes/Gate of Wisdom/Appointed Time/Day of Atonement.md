@@ -3,7 +3,7 @@
 ---
 
 # Define
-- See [[Gate of Wisdom/Ransom\|Ransom]]
+- See [[Gate of Wisdom/R/Ransom\|Ransom]]
 - Atonement is considered by many to be a made up word by Tyndale - at one ment. 
 	- The Hebrew word is kaphar {כפר} meaning "to cover," "to purge." 	- 
 - Its noun form is kippurim (כִּפֻּרִים), specifically refers to the Day of Atonement.

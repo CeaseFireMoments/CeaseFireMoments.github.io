@@ -12,7 +12,7 @@
 - [[Gate of Wisdom/Unclean\|Unclean]]
 - [[Gate of Wisdom/H/Holy\|Holy]]
 - [[Gate of Wisdom/Good News/Atonement\|Atonement]]
-- [[Gate of Wisdom/Ransom\|Ransom]]
+- [[Gate of Wisdom/R/Ransom\|Ransom]]
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 
 These terms, rooted in Hebrew, reflect different aspects of divine law, though their distinctions are not always clear-cut in English translations or even in the Hebrew text. Today, we become accustom to lumping these all as "commandments" or "laws." but when they were originally given, this was not that case. They were also not divided into moral, ceremonial, etc. Below is the Hebrew concept:
@@ -42,7 +42,7 @@ Many commands lack specific penalties in Deuteronomy, with consequences often ti
 		- Social: Defeat by enemies, oppression (28:25-33).
 		- Economic: Loss of crops, livestock, wealth (28:38-42).
 		Spiritual/National: Exile, scattering among nations (28:64-68).
-[[Gate of Wisdom/Ransom\|Ransom]]: Atonement is rarely specified in Deuteronomy, except for cases like the heifer ritual (Deut. 21:1-9) or purification processes (e.g., Deut. 23:11, Lev. 14:1-32 for leprosy). Most violations lack explicit atonement instructions in Deuteronomy, often implying repentance or adherence to general sacrificial laws in Leviticus.
+[[Gate of Wisdom/R/Ransom\|Ransom]]: Atonement is rarely specified in Deuteronomy, except for cases like the heifer ritual (Deut. 21:1-9) or purification processes (e.g., Deut. 23:11, Lev. 14:1-32 for leprosy). Most violations lack explicit atonement instructions in Deuteronomy, often implying repentance or adherence to general sacrificial laws in Leviticus.
 [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 
 ### Notes

@@ -12,7 +12,7 @@
 
 # Related words
 - [[Zunpublished/Redeem\|Redeem]]
-- [[Gate of Wisdom/Ransom\|Ransom]]
+- [[Gate of Wisdom/R/Ransom\|Ransom]]
 - [[Gate of Wisdom/Save\|Save]]
 
 Isa 43:1–3 “I have redeemed thee (גָּאַל), I have called thee by thy name… I gave Egypt for thy ransom (כֹּפֶר)… I will save thee (יָשַׁע)”

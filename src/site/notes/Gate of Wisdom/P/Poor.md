@@ -23,7 +23,7 @@ a djective, nominative, plural, masculineFORM
 
 1. M atthew 5:3; Luke 6:20 - In spirit theirs is the kingdom of heaven;
 2. M atthew 5:3 - only place in NT Scriptures where the phrase “poor in spirit ” is used. [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
-3. M atthew 5:3 - [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
+3. M atthew 5:3 - [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]
 4. M atthew 11:5; Luke 7:22 - have the gospel preached to them
 5. M atthew 19:21; Luke 18:22 - give to them
 6. M atthew 26:9 -11; Mark 14:5 - 7; John 12:5 - 8 - give to them, will have the them with you always

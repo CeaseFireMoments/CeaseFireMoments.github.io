@@ -29,7 +29,7 @@
     - Jesus ascended into heaven (Acts 1:9–11).
     - Vision of heaven opened and the throne of God (Rev 4:1–2).
 # Related Words
-- [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
+- [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]
 - [[Gate of Wisdom/Good News/Kingdom of Heaven\|Kingdom of Heaven]]
 - [[Zunpublished/Kingdom on Earth\|Kingdom on Earth]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]

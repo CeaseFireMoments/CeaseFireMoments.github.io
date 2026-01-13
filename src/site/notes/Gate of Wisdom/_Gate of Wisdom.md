@@ -190,12 +190,12 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]]                                             |
 | [[Gate of Wisdom/P/Pure\|Pure]]                                                                                |
 | [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                                          |
-| [[Gate of Wisdom/Ransom\|Ransom]]                                                                              |
+| [[Gate of Wisdom/R/Ransom\|Ransom]]                                                                            |
 | [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]                                                        |
 | [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]                                             |
-| [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]                                                  |
+| [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]                                                |
 | [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]                               |
-| [[Gate of Wisdom/Rider of the White Horse\|Rider of the White Horse]]                                          |
+| [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]                                        |
 | [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]                                                         |
 | [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]                                                 |
 | [[Gate of Wisdom/Ruach/Ruach\|Ruach]]                                                                          |

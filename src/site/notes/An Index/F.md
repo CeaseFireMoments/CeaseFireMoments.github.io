@@ -20,7 +20,7 @@
 - [[Gate of Wisdom/Consequence/Disobedience/Forgiveness\|Forgiveness]]
 - [[The Heralds Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]
 - [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]
-- [[Gate of Wisdom/Rider of the White Horse\|Rider of the White Horse]]
+- [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]
 - [[Sacred Truces/Video Scripture Survey Christian Spring Holidays\|Video Scripture Survey Christian Spring Holidays]]
 
 { .block-language-dataview}

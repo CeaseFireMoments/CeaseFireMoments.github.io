@@ -9,7 +9,7 @@
 
 
 # Related words
-- [[Gate of Wisdom/Ransom\|Ransom]]
+- [[Gate of Wisdom/R/Ransom\|Ransom]]
 - [[Gate of Wisdom/Good News/Atonement\|Atonement]]
 
 # Additional Info

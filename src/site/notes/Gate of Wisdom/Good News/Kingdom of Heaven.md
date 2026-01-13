@@ -7,7 +7,7 @@
 - Kingdom of God
 - malkhut hashamayim (mal-KHOOT ha-sha-MAH-yeem)
 # Related words
-- Kingdom of God is also referred to as the [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
+- Kingdom of God is also referred to as the [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]
 
 # Additional Info

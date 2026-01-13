@@ -17,7 +17,7 @@ malkhut hashamayim (mal-KHOOT ha-sha-MAH-yeem)
 - [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]
 # Additional Info
 - Jesus’s message was: "Repent, for the kingdom of heaven is at hand." 
-- Kingdom of God is also referred to as the [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]] 
+- Kingdom of God is also referred to as the [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]] 
 
 It is not a future place, it is a present state of being.
 
