@@ -11,9 +11,9 @@
 	- Secondary word: koinós (κοινός) – “common/defiled” (Mark 7:2; Acts 10:14)
 
 # Related words
-- [[Gate of Wisdom/Common\|Common]]
+- [[Gate of Wisdom/C/Common\|Common]]
 - [[Gate of Wisdom/Holy\|Holy]]
-- [[Gate of Wisdom/Clean\|Clean]]
+- [[Gate of Wisdom/C/Clean\|Clean]]
 
 # Additional Info
 - Sources of uncleanness:

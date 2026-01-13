@@ -73,11 +73,11 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Children of God\|Children of God]]                                                     |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Christ\|Christ]]                                                       |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]                                |
-| [[Gate of Wisdom/Clean\|Clean]]                                                                                |
+| [[Gate of Wisdom/C/Clean\|Clean]]                                                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/cloud of witnesses\|cloud of witnesses]]                               |
 | [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]                                                   |
 | [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                       |
-| [[Gate of Wisdom/Common\|Common]]                                                                              |
+| [[Gate of Wisdom/C/Common\|Common]]                                                                            |
 | [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]]                                                       |
 | [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]                                                     |
 | [[Gate of Wisdom/Covenant/Davidic\|Davidic]]                                                                   |

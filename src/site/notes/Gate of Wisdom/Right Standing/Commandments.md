@@ -8,7 +8,7 @@
 - [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]
 - [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
 - [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]
-- [[Gate of Wisdom/Clean\|Clean]]
+- [[Gate of Wisdom/C/Clean\|Clean]]
 - [[Gate of Wisdom/Unclean\|Unclean]]
 - [[Gate of Wisdom/Holy\|Holy]]
 - [[Gate of Wisdom/Good News/Atonement\|Atonement]]
