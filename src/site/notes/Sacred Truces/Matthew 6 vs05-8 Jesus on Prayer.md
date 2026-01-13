@@ -12,7 +12,7 @@
 
 ## ***And when you //disciple// pray*** …
 
-[[Gate of Wisdom/Pray\|Pray]] – the concept to those standing around when Yeshua/Jesus was talking about praying is deeper than what we practice regularly today. In their mind it was the joining together of ones mind and spirit, getting into our deepest thoughts. It was about a very intimate union with YHWH/God. True tefillah ([[Gate of Wisdom/Tefillos\|Tefillos]]/[[Gate of Wisdom/Prayer\|Prayer]] ) involved the heart and the deep love inside. It was nothing like anything we see in modern churches today.
+[[Gate of Wisdom/P/Pray\|Pray]] – the concept to those standing around when Yeshua/Jesus was talking about praying is deeper than what we practice regularly today. In their mind it was the joining together of ones mind and spirit, getting into our deepest thoughts. It was about a very intimate union with YHWH/God. True tefillah ([[Gate of Wisdom/Tefillos\|Tefillos]]/[[Gate of Wisdom/P/Prayer\|Prayer]] ) involved the heart and the deep love inside. It was nothing like anything we see in modern churches today.
 
 They believed the "commands/laws" were YHWH/God’s way of connecting with his people. And tefillah/prayer was his people’s way of connecting with him. Keeping this understanding in mind moving forward in this verse can be key to understanding what Jesus was saying to his disciples.
 
@@ -30,7 +30,7 @@ First he says what not to do – don’t pray out so man can see. Then he says w
 
 In the Hebrew Bible Translation it reads: “But you, when you pray, prepare it in your inner room, and pray unto YHWH in privacy, with a closed door.”
 
-It is worth noting, if you look into Jesus’s prayer ([[Gate of Wisdom/Pray\|pray]]) life, it tends to typically be done away from people. That’s probably why the disciples had to ask how to do it. Everything else they could watch, listen, and learn, but not prayer. There are only a few times Jesus prays out loud. Even then, before he does, he explains why he is praying out into the world for everyone to hear.
+It is worth noting, if you look into Jesus’s prayer ([[Gate of Wisdom/P/Pray\|Pray]]) life, it tends to typically be done away from people. That’s probably why the disciples had to ask how to do it. Everything else they could watch, listen, and learn, but not prayer. There are only a few times Jesus prays out loud. Even then, before he does, he explains why he is praying out into the world for everyone to hear.
 
 Personally, just my opinion, it may be because prayer, as it was understood at that time, is different than it is today. When Jesus went to talk to the Father, he hallowed Yah/God, he gave God his undivided attention. He communed with God. It was a personal conversation. When he left those times, he carried that communion with him. He was one with God. He didn’t need to “pray” for someone to be healed as if God wasn’t there already, he simply extended that communion and the person was healed. Just like the disciples shadows healed people as they walked by. But, again, that’s just a thought being processed out loud. What do you think?
 
@@ -76,8 +76,8 @@ Originally posted on WordPress  https://calltoceasefire.wordpress.com/2024/01/06
 # Connections
 - [[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]
 - [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
-- [[Gate of Wisdom/Pray\|Pray]]
-- [[Gate of Wisdom/Prayer\|Prayer]]
+- [[Gate of Wisdom/P/Pray\|Pray]]
+- [[Gate of Wisdom/P/Prayer\|Prayer]]
 - 
 
 [^1]: 

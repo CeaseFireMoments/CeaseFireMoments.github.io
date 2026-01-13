@@ -177,18 +177,18 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Zunpublished/Pastor\|Pastor]]                                                                                |
 | [[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]]                                                              |
 | [[Gate of Wisdom/Offering/Peace Offering\|Peace Offering]]                                                     |
-| [[Gate of Wisdom/Peacemaker\|Peacemaker]]                                                                      |
+| [[Gate of Wisdom/P/Peacemaker\|Peacemaker]]                                                                    |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Peniel\|Peniel]]                                              |
 | [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]                                                         |
-| [[Gate of Wisdom/Perfect\|Perfect]]                                                                            |
+| [[Gate of Wisdom/P/Perfect\|Perfect]]                                                                          |
 | [[Gate of Wisdom/Covenant/Perpetural\|Perpetural]]                                                             |
 | [[Gate of Wisdom/Beings/Human Beings/Pharisee\|Pharisee]]                                                      |
-| [[Gate of Wisdom/Poor\|Poor]]                                                                                  |
-| [[Gate of Wisdom/Pray\|Pray]]                                                                                  |
-| [[Gate of Wisdom/Prayer\|Prayer]]                                                                              |
+| [[Gate of Wisdom/P/Poor\|Poor]]                                                                                |
+| [[Gate of Wisdom/P/Pray\|Pray]]                                                                                |
+| [[Gate of Wisdom/P/Prayer\|Prayer]]                                                                            |
 | [[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]                                     |
 | [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]]                                             |
-| [[Gate of Wisdom/Pure\|Pure]]                                                                                  |
+| [[Gate of Wisdom/P/Pure\|Pure]]                                                                                |
 | [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                                          |
 | [[Gate of Wisdom/Ransom\|Ransom]]                                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]                                                        |

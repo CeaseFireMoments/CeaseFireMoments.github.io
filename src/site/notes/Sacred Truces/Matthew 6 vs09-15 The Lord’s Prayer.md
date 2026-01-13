@@ -101,6 +101,6 @@ Previously published on WordPress https://calltoceasefire.wordpress.com/2024/01/
 - [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]]
 - [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
 - [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
-- [[Gate of Wisdom/Prayer\|Prayer]]
+- [[Gate of Wisdom/P/Prayer\|Prayer]]
 
 

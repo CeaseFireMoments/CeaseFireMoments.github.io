@@ -49,7 +49,7 @@ For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/59 - James/Ja
 			- the testing 
 				- of your faith 
 				- produces endurance[^8]. <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]]<mark style="background: #CD04BBA6;">//</mark> [[_The Scrolls/3. Ketuvim (Writings)/18 - Job/Job-23#v10\|Job-23#v10]]
-					- Let <mark style="background: #04CD3EA6;">endurance</mark> have its [[Gate of Wisdom/Perfect\|Perfect]] work, 
+					- Let <mark style="background: #04CD3EA6;">endurance</mark> have its [[Gate of Wisdom/P/Perfect\|Perfect]] work, 
 						- <mark style="background: #E6852CA6;">that</mark> you may be 
 							- <mark style="background: #E6852CA6;">perfect</mark> 
 							- <mark style="background: #E6852CA6;">and complete</mark>, 

@@ -36,7 +36,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 ### Verses 3-12 - Also in Luke 6
 
 - Happy/[[Gate of Wisdom/B/Blessed\|Blessed]]  are:
-	- [[Gate of Wisdom/Poor\|Poor]] // [[Gate of Wisdom/H/Humble in Spirit\|Humble in Spirit]] // in spirit <mark style="background: #CD04BBA6;">//the life principle, breath, life, soul//</mark>
+	- [[Gate of Wisdom/P/Poor\|Poor]] // [[Gate of Wisdom/H/Humble in Spirit\|Humble in Spirit]] // in spirit <mark style="background: #CD04BBA6;">//the life principle, breath, life, soul//</mark>
 	- <mark style="background: #A8ADB8A6;">FOR/BECAUSE</mark> theirs <mark style="background: #CD04BBA6;">// poor in spirit //</mark> is the [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]] <mark style="background: #CD04BBA6;">//where God reigns//</mark>
 
 #### Down further in this passage, Jesus refers to the least and the greatest in the reign of heavens - so this does not seem to mean the poor in spirit will reign exclusively - but that they will be a part of the reign of the heavens.
@@ -95,7 +95,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 
 ![](https://app.thebrain.com/notes-image-request/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/5c08bf8e-aa5c-4e89-b7f2-ea12c05af496.webp)
 
-- Clean or [[Gate of Wisdom/Pure\|Pure]] at heart <mark style="background: #CD04BBA6;">//mind, thought//:</mark>
+- Clean or [[Gate of Wisdom/P/Pure\|Pure]] at heart <mark style="background: #CD04BBA6;">//mind, thought//:</mark>
 - shall see God
 
 #### Psalm 1: Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; but his delight is in the law of the Lord, and on his law he meditates day and night.
@@ -110,7 +110,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 
 ![](https://app.thebrain.com/notes-image-request/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/4c6718bd-3761-481f-aec3-dc85761a0043.webp)
 
-- [[Gate of Wisdom/Peacemaker\|Peacemaker]] <mark style="background: #CD04BBA6;">//Wholeness, completeness, Shalom//</mark>
+- [[Gate of Wisdom/P/Peacemaker\|Peacemaker]] <mark style="background: #CD04BBA6;">//Wholeness, completeness, Shalom//</mark>
 - shall be called [[Gate of Wisdom/Beings/Heavenly Beings/Sons of God\|Sons of God]]
 
 #### In Hebrew, sons can include daughters, but daugters excludes sons.

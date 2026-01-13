@@ -4,6 +4,7 @@
 
 | Table of Content                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]                                                                             |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]                                       |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 5 The Resting Ones\|Matthew 5 Sermon on the Mount v 5 The Resting Ones]]                                         |
 | [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]                                                                 |
@@ -51,7 +52,6 @@
 | [[Sacred Truces/Matthew 6 vs22-24 Two Masters\|Matthew 6 vs22-24 Two Masters]]                                                                                   |
 | [[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]                                                                       |
 | [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]                                                                                         |
-| [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]                                                                             |
 | [[Sacred Truces/Matthew 6 vs16-18 Jesus Fasting\|Matthew 6 vs16-18 Jesus Fasting]]                                                                               |
 | [[Sacred Truces/Matthew 6 vs19-21 Jesus Treasures\|Matthew 6 vs19-21 Jesus Treasures]]                                                                           |
 | [[Sacred Truces/Matthew 28 v19 Teaching to …\|Matthew 28 v19 Teaching to …]]                                                                                     |

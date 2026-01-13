@@ -26,5 +26,5 @@ https://www.biblegateway.com/passage/?search=Jeremiah%2029%3A7%2C12%3B%20Jeremia
 # Connections
 
 - [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]
-- [[Gate of Wisdom/Prayer\|Prayer]]
-- [[Gate of Wisdom/Pray\|Pray]]
+- [[Gate of Wisdom/P/Prayer\|Prayer]]
+- [[Gate of Wisdom/P/Pray\|Pray]]

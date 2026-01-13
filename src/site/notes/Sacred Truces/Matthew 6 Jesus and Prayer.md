@@ -7,7 +7,7 @@
 
 There are all sorts of opinions on prayer: how to, when to, what for, how long, what position, etc. What if we went back and asked Yeshua /Jesus?
 
-[[Gate of Wisdom/Prayer\|Prayer]],  one of the cornerstones in a Christian Church, but how much do we learn from Jesus and how much is man made? By the time this entire study is done, we will surely know, but that could be awhile. In the meantime, let’s take a look at this next scripture.
+[[Gate of Wisdom/P/Prayer\|Prayer]],  one of the cornerstones in a Christian Church, but how much do we learn from Jesus and how much is man made? By the time this entire study is done, we will surely know, but that could be awhile. In the meantime, let’s take a look at this next scripture.
 
 > <sup>5 </sup> “And when you pray, do not be like the hypocrites, for they love to pray standing in the synagogues and on the street corners to be seen by others. Truly I tell you, they have received their reward in full.
 > 
@@ -19,7 +19,7 @@ Let’s come to a common understanding as to what ‘pray’ means. Strong’s s
 > 
 > [Strong's Concordance](https://www.blueletterbible.org/lexicon/g4336/kjv/tr/0-1/)
 
-I’m not sure this definition fits exactly with what people tend to think of when they think of prayer. For those listening at the time, True tefillah ([[Gate of Wisdom/Tefillos\|Tefillos]]/[[Gate of Wisdom/Prayer\|Prayer]] )  wouldn't look like what we commonly see today. The “hypocrites” would pray standing so they could be seen. It isn’t presumed to mean we can not pray while standing. It is to mean we shouldn't pray to be heard or seen in a manner which says to everyone, “Hey, look at me I am a good Christian because I am praying.”
+I’m not sure this definition fits exactly with what people tend to think of when they think of prayer. For those listening at the time, True tefillah ([[Gate of Wisdom/Tefillos\|Tefillos]]/[[Gate of Wisdom/P/Prayer\|Prayer]] )  wouldn't look like what we commonly see today. The “hypocrites” would pray standing so they could be seen. It isn’t presumed to mean we can not pray while standing. It is to mean we shouldn't pray to be heard or seen in a manner which says to everyone, “Hey, look at me I am a good Christian because I am praying.”
 
 > <sup>6 </sup> But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you.
 > 
@@ -73,8 +73,8 @@ This brings us to the [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]], we�
 # Connections
 - [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
 - [[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]
-- [[Gate of Wisdom/Prayer\|Prayer]]
-- [[Gate of Wisdom/Pray\|Pray]]
+- [[Gate of Wisdom/P/Prayer\|Prayer]]
+- [[Gate of Wisdom/P/Pray\|Pray]]
 - 
 
 

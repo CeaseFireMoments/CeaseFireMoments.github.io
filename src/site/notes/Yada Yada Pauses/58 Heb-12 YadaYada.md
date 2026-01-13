@@ -118,7 +118,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 		- to God 
 			- the Judge of all,
 		- to the spirits 
-			- [^15]of just //[[Gate of Wisdom/Right Standing/Righteous\|Righteous]]// men made [[Gate of Wisdom/Perfect\|Perfect]], 
+			- [^15]of just //[[Gate of Wisdom/Right Standing/Righteous\|Righteous]]// men made [[Gate of Wisdom/P/Perfect\|Perfect]], 
 		- to Jesus, 
 			- [^11]the mediator of a new covenant, 
 			- and to the [^6]blood of sprinkling [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-52#v15\|Isa-52:15]]
