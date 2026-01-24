@@ -15,10 +15,11 @@ equivalent to half a shekel
 # Additional Info
 
 
+
 # Connections
-
-
 - 
+| file.inlinks                                                                        |
+| ----------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/01 Gen-24 Yada Yada.md\\|01 Gen-24 Yada Yada]]</li></ul> |
 
-###### Tags
-- 
+{ .block-language-dataview}

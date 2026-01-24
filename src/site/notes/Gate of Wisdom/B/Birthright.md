@@ -21,6 +21,13 @@
 - The firstborn’s role extended to spiritual duties, such as redeeming family members or property (Leviticus 25:25, Numbers 3:12-13) and leading in worship or covenant responsibilities. This underscores the birthright’s communal and spiritual weight.
 - Honor and Shame: Despising or losing the birthright (e.g., Esau, Reuben) brought shame, as it signaled disregard for God’s order or moral failure. Conversely, receiving or honoring the birthright (e.g., Jacob, Joseph) aligned with divine favor.
 
+
 # Connections
 - 
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-27 Yada Yada.md\\|01 Gen-27 Yada Yada]]</li><li>[[Torah Portions/2025.11.01 Shabbat Reading.md\\|2025.11.01 Shabbat Reading]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27.md\\|Gen-27]]</li><li>[[Gate of Wisdom/Consequence/Obedience/Blessing.md\\|Blessing]]</li><li>[[Gate of Wisdom/Consequence/Obedience/Inheritance.md\\|Inheritance]]</li></ul> |
+
+{ .block-language-dataview}
+
 

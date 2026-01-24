@@ -21,9 +21,12 @@
 
 
 
-
-
-###### Tags
+# Connections
 - 
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}
 
 

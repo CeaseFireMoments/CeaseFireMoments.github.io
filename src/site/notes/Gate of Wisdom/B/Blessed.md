@@ -29,3 +29,11 @@
 - Revelation 1:3 (“Blessed is he that readeth…”) → James 1:25 (“blessed in his deed”) – obedience to the word brings makarios.
 
 [^1]: 
+# Connections
+- 
+| file.inlinks                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
+
+{ .block-language-dataview}
+

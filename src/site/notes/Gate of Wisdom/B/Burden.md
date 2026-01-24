@@ -27,6 +27,13 @@ In the Old Testament has a wide range of meanings:
 - Tribute paid to a king (2 Chr 17:11).
 - Prophetic oracles, especially judgments (the heading "burden/oracle of…" in Isa 13:1; 15:1; Nah 1:1; Hab 1:1; Zech 9:1; 12:1; Mal 1:1; and ironically in Jer 23:33–38 where false prophets mockingly call God's word a "burden").
 
+
 # Connections
 - 
+| file.inlinks                                                                                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17).md\\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]</li></ul> |
+
+{ .block-language-dataview}
+
 

@@ -20,6 +20,14 @@ C an be a verb (something done) or a noun (something given).
 
   
 
+# Connections
+- 
+| file.inlinks                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/M/Merciful.md\\|Merciful]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+
+{ .block-language-dataview}
+
   
 
 ## Notes

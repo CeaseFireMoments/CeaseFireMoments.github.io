@@ -17,6 +17,6 @@
 
 | file.inlinks                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Abomination/Abomination.md\\|Abomination]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li><li>[[Gate of Wisdom/Beings/Antichrist.md\\|Antichrist]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Abomination/Abomination.md\\|Abomination]]</li><li>[[Gate of Wisdom/Beings/Antichrist.md\\|Antichrist]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li></ul> |
 
 { .block-language-dataview}
