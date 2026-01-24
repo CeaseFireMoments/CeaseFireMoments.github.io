@@ -38,3 +38,12 @@ Meek, to be unimportant. They have no power to do anything about it.
 1. Isaiah 30:15
 2. Jeremiah 6:16
 3. M atthew 11:29
+
+
+# Connections
+- 
+| file.inlinks                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+
+{ .block-language-dataview}

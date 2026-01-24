@@ -20,6 +20,13 @@
 # Additional Info
 
 
+
 # Connections
 - 
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66).md\\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]]</li><li>[[Gate of Wisdom/Right Standing/Unrighteous.md\\|Unrighteous]]</li><li>[[Gate of Wisdom/Right Standing/Unrighteousness.md\\|Unrighteousness]]</li><li>[[Gate of Wisdom/L/Lawlessness.md\\|Lawlessness]]</li><li>[[Gate of Wisdom/S/Sin.md\\|Sin]]</li></ul> |
+
+{ .block-language-dataview}
+
 

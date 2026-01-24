@@ -28,3 +28,10 @@ https://www.biblegateway.com/passage/?search=Jeremiah%2029%3A7%2C12%3B%20Jeremia
 - [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]
 - [[Gate of Wisdom/P/Prayer\|Prayer]]
 - [[Gate of Wisdom/P/Pray\|Pray]]
+
+- 
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Sacred Truces/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/M/Mitzvot.md\\|Mitzvot]]</li><li>[[Gate of Wisdom/P/Pray.md\\|Pray]]</li><li>[[Gate of Wisdom/P/Prayer.md\\|Prayer]]</li></ul> |
+
+{ .block-language-dataview}

@@ -24,7 +24,7 @@ C an be a verb (something done) or a noun (something given).
 - 
 | file.inlinks                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/M/Merciful.md\\|Merciful]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/M/Merciful.md\\|Merciful]]</li></ul> |
 
 { .block-language-dataview}
 

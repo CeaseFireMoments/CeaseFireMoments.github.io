@@ -19,3 +19,10 @@ Yah’s Mitzvot let us know what is right in the eyes of Yah. Deuteronomy 13:19
 
 # Connections
 - [[Gate of Wisdom/T/Tefillos\|Tefillos]]
+
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for Them (02 Exod 16).md\\|02 The Seventh Day Rest was for Them (02 Exod 16)]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/Offering/Sin Offering.md\\|Sin Offering]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li></ul> |
+
+{ .block-language-dataview}

@@ -19,3 +19,12 @@ Matthew 14:23 After he had dismissed them, he went up on a mountainside by himse
 Mark 3:13 Jesus went up on a mountainside and called to him those he wanted, and they came to him.
 Mark 6:46 After leaving them, he went up on a mountainside to pray.
 Luke 9:28  About eight days after Jesus said this, he took Peter, John and James with him and went up onto a mountain to pray.
+
+
+# Connections
+- 
+| file.inlinks                                                                        |
+| ----------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
+
+{ .block-language-dataview}

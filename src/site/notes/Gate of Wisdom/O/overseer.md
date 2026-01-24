@@ -27,3 +27,13 @@
 - Titus 1:7 — "For an overseer (ἐπίσκοπον), as God's steward, must be above reproach..."
 - 1 Peter 2:25 — "For you were straying like sheep, but have now returned to the Shepherd and Overseer (ἐπίσκοπον) of your souls."
 
+
+# Connections
+- 
+| file.inlinks                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/54 - 1 Timothy/1 Tim-03.md\\|1 Tim-03]]</li><li>[[Gate of Wisdom/Beings/elder.md\\|elder]]</li></ul> |
+
+{ .block-language-dataview}
+
+

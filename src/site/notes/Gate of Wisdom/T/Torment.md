@@ -18,3 +18,11 @@ In Revelation 14:10-11, the primary noun for "torment" is basanismos (βασαν
 - Revelation 9:5 (basanismos)
 - Revelation 14:10-11 (basanismos)
 - Revelation 18:7,10,15 (basanismos)
+
+# Connections
+- 
+| file.inlinks                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14).md\\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]</li></ul> |
+
+{ .block-language-dataview}

@@ -26,7 +26,14 @@
 # Connections
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
 
+
 - 
+| file.inlinks                                                                                               |
+| ---------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver.md\\|Bronze Laver]]</li></ul> |
+
+{ .block-language-dataview}
+
 
 ###### Tags
 - 

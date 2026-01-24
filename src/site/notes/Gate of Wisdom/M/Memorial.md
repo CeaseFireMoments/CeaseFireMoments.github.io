@@ -19,6 +19,13 @@
 - In Hebrew thought, a **memorial** was not merely a marker of the past, but something that **keeps presence alive** — a way for someone’s _name_ or _deeds_ to endure in ongoing remembrance before God.
 - an eternal remembrance, symbolizing inclusion and lasting honor
 
+
 # Connections
 - 
+| file.inlinks                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56).md\\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]</li></ul> |
+
+{ .block-language-dataview}
+
 

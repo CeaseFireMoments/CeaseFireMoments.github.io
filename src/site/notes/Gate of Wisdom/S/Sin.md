@@ -23,10 +23,11 @@
 # Additional Info
 
 
+
 # Connections
-
-
 - 
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Right Standing/Unrighteous.md\\|Unrighteous]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Forgiveness.md\\|Forgiveness]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver.md\\|Bronze Laver]]</li><li>[[Gate of Wisdom/Right Standing/Unrighteousness.md\\|Unrighteousness]]</li><li>[[Gate of Wisdom/L/Lawlessness.md\\|Lawlessness]]</li><li>[[Gate of Wisdom/T/Transgression.md\\|Transgression]]</li></ul> |
 
-###### Tags
-- 
+{ .block-language-dataview}

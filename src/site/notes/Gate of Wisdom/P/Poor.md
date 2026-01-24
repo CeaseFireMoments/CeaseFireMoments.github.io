@@ -48,3 +48,13 @@ a djective, nominative, plural, masculineFORM
 - [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-16#v19\|Prov-16#v19]]
 - [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-29#v23\|Prov-29#v23]]- upholds honor
 - [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-66#v2\|Isa-66#v2]]YHWH/God looks intently upon
+
+
+# Connections
+- 
+| file.inlinks                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+
+{ .block-language-dataview}
+

@@ -10,6 +10,16 @@ Word Flow Chart: g4336_prayer_chart (https://marcielynns.files.wordpress.com/201
 
 From [G4314](https://www.blueletterbible.org/lexicon/g4314/kjv/tr/0-1/) and [G2172](https://www.blueletterbible.org/lexicon/g2172/kjv/tr/0-1/) to pray to God, that is, supplicate, worship: - pray (X earnestly, for), make prayer. G2172 (euchomai to wish; by implication to pray to God: - pray, will, wish.);
 
+
+# Connections
+- 
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Sacred Truces/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/P/Prayer.md\\|Prayer]]</li></ul> |
+
+{ .block-language-dataview}
+
+
 # Scriptures
 Matthew 5:44 //Love  G25//
 Matthew 6:5-9; Luke 11:1-2  //Love  G5368; Speaking G4180//

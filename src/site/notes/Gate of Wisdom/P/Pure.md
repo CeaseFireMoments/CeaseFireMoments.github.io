@@ -19,3 +19,12 @@ Pure, clean
 - “arrayed in fine linen, clean and white: for the fine linen is the righteousness of the saints.” - Revelation 19:8 
 
 Flashback: Psalms 51:12
+
+
+# Connections
+- 
+| file.inlinks                                                                        |
+| ----------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
+
+{ .block-language-dataview}

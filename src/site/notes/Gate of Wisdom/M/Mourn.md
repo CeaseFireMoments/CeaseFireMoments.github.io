@@ -43,4 +43,13 @@ Same word most often translated to beg or begging in Matthew, not mourn.
 
 1. Ecclesiastes 7:2-4 - the heart of the wise is in the house of the mourning
 
+
+# Connections
+- 
+| file.inlinks                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+
+{ .block-language-dataview}
+
   

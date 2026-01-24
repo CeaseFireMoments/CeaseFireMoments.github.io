@@ -3,7 +3,17 @@
 ---
 
 [[Gate of Wisdom/Beings/Jesus\|Jesus]]
- 
+
+
+# Connections
+- 
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+| <ul></ul>    |
+
+{ .block-language-dataview}
+
 
 4 BC-31 AD
 
