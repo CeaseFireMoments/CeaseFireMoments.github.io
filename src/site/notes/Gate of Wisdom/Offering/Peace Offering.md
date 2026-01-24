@@ -143,8 +143,14 @@
 
 - In the Orthodox Jewish bible, the words zevach shelamim only appear in Leviticus and Numbers. Leviticus 3, Leviticus 7, Leviticus 19, Leviticus 22, Leviticus 23, Numbers 6, Numbers 7, Numbers 15
 
+
 # Connections
-- 
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46).md\\|29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)]]</li><li>[[Yada Yada Pauses/51 Colossians Yada Yada.md\\|51 Colossians Yada Yada]]</li><li>[[Gate of Wisdom/Offering/Fellowship Offering.md\\|Fellowship Offering]]</li><li>[[Gate of Wisdom/Offering/Free Will Offering.md\\|Free Will Offering]]</li></ul> |
+
+{ .block-language-dataview}
 
 # Additional source for notes
 

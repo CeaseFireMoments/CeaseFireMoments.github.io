@@ -36,3 +36,12 @@
 
 # Related words
 - [[Zunpublished/Repartition Offering\|Repartition Offering]]
+
+
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_Assets/_templates/Sin and Guilt Offering Template.md\\|Sin and Guilt Offering Template]]</li><li>[[Zunpublished/Repartition Offering.md\\|Repartition Offering]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Offering/Burnt Offering.md\\|Burnt Offering]]</li><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Precepts (Pikkudim).md\\|Precepts (Pikkudim)]]</li></ul> |
+
+{ .block-language-dataview}

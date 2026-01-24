@@ -70,3 +70,12 @@ The list focuses on verses explicitly using "zevach" or "zevachim" in the OJB te
 Judges 8:12 is excluded from the final analysis as it refers to a proper name, not a sacrifice.
 The OJB’s retention of Hebrew terms like "zevach" aids in identifying these instances, though its Messianic perspective includes New Testament references (e.g., Hosea 6:6 citing Matthew 9:13), which are not part of traditional Jewish scripture. This analysis focuses solely on the Tanakh.
 Due to the limitations of accessible OJB texts, some occurrences of "zevach" in other books (e.g., Numbers, Deuteronomy) may exist but were not found in the provided sources. For a complete list, a full-text search of the OJB would be required, which is beyond current capabilities.
+
+
+# Connections
+
+| file.inlinks                                                           |
+| ---------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li></ul> |
+
+{ .block-language-dataview}

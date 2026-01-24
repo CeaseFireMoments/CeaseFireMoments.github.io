@@ -38,3 +38,10 @@ Common terms expressing “unrighteousness”:
 - Opposes truth (Rom 1:18) and love (1 John 5:17).    
 - The gospel reveals God’s righteousness, which stands over against human unrighteousness (Rom 1–3).    
 - Associated with unjust weights, corrupt leadership, and false judgment (Prov 11:1; Isa 10:1; Mic 3:9).
+
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness.md\\|Sin, Lawlessness, Unrighteousness]]</li><li>[[Gate of Wisdom/L/Lawlessness.md\\|Lawlessness]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Righteousness.md\\|Righteousness]]</li></ul> |
+
+{ .block-language-dataview}
