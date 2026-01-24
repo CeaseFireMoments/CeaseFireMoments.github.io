@@ -35,3 +35,13 @@
 [[_The Scrolls/3. Ketuvim (Writings)/14 - 2 Chronicles/2 Chron-06\|2 Chron-06]]:16
 
 1. F ULFILLED: He will build a house for My Name
+
+
+# Connections
+
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+| <ul></ul>    |
+
+{ .block-language-dataview}

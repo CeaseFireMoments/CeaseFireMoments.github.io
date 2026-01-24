@@ -11,10 +11,11 @@
 # Additional Info
 
 
+
 # Connections
 
+| file.inlinks                                                                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24).md\\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]</li></ul> |
 
-- 
-
-###### Tags
-- 
+{ .block-language-dataview}
