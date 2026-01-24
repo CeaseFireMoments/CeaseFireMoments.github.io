@@ -58,3 +58,11 @@
 - Is Rev 12 a past, present, or future event? Is this Ancient Serpent the same one called the Great Dragon in Rev 9?
 	- No matter the answers, it is very clear in Biblical context, there is not one being named “Satan,” especially if you get back to the original languages.
 
+
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Beings/Adversary.md\\|Adversary]]</li><li>[[Gate of Wisdom/Beings/Heavenly Beings/Dragon.md\\|Dragon]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li><li>[[Gate of Wisdom/Beings/Antichrist.md\\|Antichrist]]</li><li>[[Gate of Wisdom/Beings/Devil.md\\|Devil]]</li></ul> |
+
+{ .block-language-dataview}

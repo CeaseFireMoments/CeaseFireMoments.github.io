@@ -30,6 +30,12 @@
 # Additional Info
 
 
+
 # Connections
-- 
+
+| file.inlinks                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Beings/Adversary.md\\|Adversary]]</li><li>[[Gate of Wisdom/Beings/Heavenly Beings/Azazel.md\\|Azazel]]</li><li>[[Gate of Wisdom/Beings/Devil.md\\|Devil]]</li><li>[[Gate of Wisdom/Beings/Satan.md\\|Satan]]</li></ul> |
+
+{ .block-language-dataview}
 

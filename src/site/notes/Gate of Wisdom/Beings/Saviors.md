@@ -10,4 +10,11 @@ mo-shi'im (מוֹשִׁעִים) plural - those who save," "deliverers," or "sav
 - 
 
 
+# Connections
+
+| file.inlinks                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/31 Obad-01 Yada Yada.md\\|31 Obad-01 Yada Yada]]</li><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li></ul> |
+
+{ .block-language-dataview}
 

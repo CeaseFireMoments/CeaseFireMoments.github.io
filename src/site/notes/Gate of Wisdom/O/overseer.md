@@ -15,7 +15,7 @@
 
 
 # Related words
-- presbyteros (πρεσβύτερος) - presbyteros is a noun that designates a recognized office/role within the ekklēsia. It is used interchangeably with episkopos for the same group of leaders. The word literally means “[[Gate of Wisdom/E/elder\|elder]]” and carries the function of mature oversight.
+- presbyteros (πρεσβύτερος) - presbyteros is a noun that designates a recognized office/role within the ekklēsia. It is used interchangeably with episkopos for the same group of leaders. The word literally means “[[Gate of Wisdom/Beings/elder\|elder]]” and carries the function of mature oversight.
 
 # Additional Info
 

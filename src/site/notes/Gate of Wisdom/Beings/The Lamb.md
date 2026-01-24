@@ -41,6 +41,14 @@
 - Exodus 12:5
 - Isaiah 53:7
 
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14).md\\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li></ul> |
+
+{ .block-language-dataview}
+
 # Birth and Ancestors
 - Timeframe: Before the foundation of the world (Revelation 13:8)
 - Place: Bethlehem (implied from prophetic connection to Micah 5:2; Revelation's Lamb draws from Passover lamb and Messianic prophecies)

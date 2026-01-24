@@ -34,8 +34,9 @@ Psalm 103:8 God is "gracious" (chanun = full of chen, unmerited favor) and rich 
 
 # Connections
 
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Yada Yada Pauses/23 Isa-46 Yada Yada.md\\|23 Isa-46 Yada Yada]]</li><li>[[Gate of Wisdom/Consequence/Obedience/Grace.md\\|Grace]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-46.md\\|Isa-46]]</li></ul> |
+| <ul></ul>                                                                                                                                                                                                                                                                                                                                                                                    |
 
-- 
-
-###### Tags
-- 
+{ .block-language-dataview}

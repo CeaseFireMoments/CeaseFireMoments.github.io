@@ -30,6 +30,12 @@
 # Additional Info
 
 
+
 # Connections
-- 
+
+| file.inlinks                                                                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03.md\\|1 John-03]]</li></ul> |
+
+{ .block-language-dataview}
 

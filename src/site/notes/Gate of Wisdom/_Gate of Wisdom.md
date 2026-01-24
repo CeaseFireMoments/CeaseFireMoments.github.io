@@ -89,7 +89,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]                                                     |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]                                                      |
-| [[Gate of Wisdom/E/elder\|elder]]                                                                              |
+| [[Gate of Wisdom/Beings/elder\|elder]]                                                                         |
 | [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]                                                        |
 | [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                              |
 | [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                         |
@@ -163,7 +163,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/M/mount\|mount]]                                                                              |
 | [[Gate of Wisdom/M/Mourn\|Mourn]]                                                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]                                                     |
-| [[Gate of Wisdom/Beings/Nahum\|Nahum]]                                                                         |
+| [[Gate of Wisdom/Beings/Human Beings/Nahum\|Nahum]]                                                            |
 | [[Gate of Wisdom/N/Name\|Name]]                                                                                |
 | [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]                                                      |
