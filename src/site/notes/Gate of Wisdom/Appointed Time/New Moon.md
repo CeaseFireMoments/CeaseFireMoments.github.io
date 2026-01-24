@@ -26,3 +26,9 @@
 - Ezekiel 46:1, 3, 6
 - Amos 8:5
 - Colossians 2:16 (noumēnia)
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Zunpublished/Trumpets.md\\|Trumpets]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2).md\\|30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46).md\\|29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li><li>[[Gate of Wisdom/Appointed Time/Feast.md\\|Feast]]</li></ul> |
+
+{ .block-language-dataview}

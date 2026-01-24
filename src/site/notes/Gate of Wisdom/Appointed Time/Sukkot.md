@@ -14,6 +14,13 @@
 - The Ingathering
 - [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/01 Gen-33 YadaYada.md\\|01 Gen-33 YadaYada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra).md\\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Tabernacles.md\\|Feast of Tabernacles]]</li></ul> |
+
+{ .block-language-dataview}
 # Scriptures
 
 ## Exodus 23, 34

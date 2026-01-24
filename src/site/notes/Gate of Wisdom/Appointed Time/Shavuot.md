@@ -19,3 +19,9 @@ Ancient manuscripts, such as the Dead Sea Scrolls (e.g., [the Temple Scroll, 11Q
 
 [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]], from the Greek word pentekoste ("fiftieth"), is the Greek name for Shavuot in the New Testament and Hellenistic Jewish texts (e.g., Philo and Josephus).
 # Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Sacred Truces/Scripture Survey Shavuot Pentecost.md\\|Scripture Survey Shavuot Pentecost]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra).md\\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li><li>[[Gate of Wisdom/Appointed Time/Pentecost.md\\|Pentecost]]</li><li>[[Gate of Wisdom/Appointed Time/Sabbath.md\\|Sabbath]]</li></ul> |
+
+{ .block-language-dataview}

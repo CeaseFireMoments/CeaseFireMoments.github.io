@@ -72,7 +72,13 @@ The Time of Our Rejoicing - Celebrating YHWH’s Presence, Provision, and Protec
 - The Glory in the first temple, that was in the tabernacle, that was in the the wilderness, has been restored in the person of Yehoshua/Jesus. It celebrates the Kingdom.
 - The 7th Holiday, in the 7th month, lasts for 7 days. 7=completion 
 
+# Connections
 
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12).md\\|31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li><li>[[Gate of Wisdom/Appointed Time/Feast.md\\|Feast]]</li><li>[[Gate of Wisdom/Appointed Time/Holy Convocation.md\\|Holy Convocation]]</li><li>[[Gate of Wisdom/Appointed Time/SabbathS.md\\|SabbathS]]</li><li>[[Gate of Wisdom/Appointed Time/Sukkot.md\\|Sukkot]]</li></ul> |
+
+{ .block-language-dataview}
 
 
 

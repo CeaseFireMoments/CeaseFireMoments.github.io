@@ -29,11 +29,9 @@ The connection is implicit: just as Shavuot celebrated the covenant through the 
 [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
 [[Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
 
-###### Tags
-- [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
-- [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
-- [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]]
-- [[Gate of Wisdom/Ruach/Ruach\|Ruach]]
-- [[Zunpublished/Tongue\|Tongue]]
-- 
-- 
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Sacred Truces/Scripture Survey Shavuot Pentecost.md\\|Scripture Survey Shavuot Pentecost]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li><li>[[Gate of Wisdom/Appointed Time/Feast.md\\|Feast]]</li><li>[[Gate of Wisdom/Appointed Time/Holy Convocation.md\\|Holy Convocation]]</li><li>[[Gate of Wisdom/Appointed Time/SabbathS.md\\|SabbathS]]</li><li>[[Gate of Wisdom/Appointed Time/Shavuot.md\\|Shavuot]]</li></ul> |
+
+{ .block-language-dataview}

@@ -17,21 +17,19 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 If you follow us on [our word press site](https://calltoceasefire.wordpress.com/), you'll receive notification via email of new content. Or follow us on [X](https://x.com/CalltoCeaseFire) or [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/) for new content in your feed. 
 
 
-| Latest Drops                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Torah Portions/2026.01.17 Shabbat Reading\|2026.01.17 Shabbat Reading]]                                                                                                                                                                     |
-| [[Torah Portions/2026.01.10 Shabbat Reading\|2026.01.10 Shabbat Reading]]                                                                                                                                                                     |
-| [[Torah Portions/2026.01.03 Shabbat Reading\|2026.01.03 Shabbat Reading]]                                                                                                                                                                     |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]                                    |
-| [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]                                                                                                                                                                            |
-| [[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]] |
-| [[Gate of Wisdom/Beings/Heavenly Beings/God\|God]]                                                                                                                                                                                            |
-| [[Gate of Wisdom/Beings/Heavenly Beings/YHWH\|YHWH]]                                                                                                                                                                                          |
-| [[Gate of Wisdom/W/The Word\|The Word]]                                                                                                                                                                                                       |
-| [[Gate of Wisdom/T/Testimony\|Testimony]]                                                                                                                                                                                                     |
-| [[Gate of Wisdom/S/Soul\|Soul]]                                                                                                                                                                                                               |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)\|32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)]]                                                        |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]                                  |
+| Latest Drops                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Torah Portions/2026.01.17 Shabbat Reading\|2026.01.17 Shabbat Reading]]                                                                                                                                    |
+| [[Torah Portions/2026.01.10 Shabbat Reading\|2026.01.10 Shabbat Reading]]                                                                                                                                    |
+| [[Torah Portions/2026.01.03 Shabbat Reading\|2026.01.03 Shabbat Reading]]                                                                                                                                    |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]   |
+| [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]                                                                                                                                           |
+| [[Gate of Wisdom/Beings/Heavenly Beings/God\|God]]                                                                                                                                                           |
+| [[Gate of Wisdom/Beings/Heavenly Beings/YHWH\|YHWH]]                                                                                                                                                         |
+| [[Gate of Wisdom/W/The Word\|The Word]]                                                                                                                                                                      |
+| [[Gate of Wisdom/T/Testimony\|Testimony]]                                                                                                                                                                    |
+| [[Gate of Wisdom/S/Soul\|Soul]]                                                                                                                                                                              |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]] |
 
 { .block-language-dataview}
 

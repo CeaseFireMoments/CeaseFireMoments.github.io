@@ -226,7 +226,7 @@ She saith also
 - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|Gen-23]]
 - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Gen-25]]
 
-[^1]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] Abraham has obeyed - blessed with old age.
+[^1]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] Abraham has obeyed - blessed with old age. #Blessing
 
 [^2]: [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]] Covenant: Yah will give this land to Abraham's offspring 
 
