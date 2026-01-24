@@ -25,5 +25,11 @@
 # Connections
 - [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04\|Matt-04]]
 
-###### Tags
--
+
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/H/Reign of the Heavens.md\\|Reign of the Heavens]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04.md\\|Matt-04]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven.md\\|Heaven]]</li></ul> |
+
+{ .block-language-dataview}

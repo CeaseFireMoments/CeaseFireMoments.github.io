@@ -22,6 +22,13 @@
 - 1 Sam 17:46 – “the camp (מַחֲנֵה) of the Philistines”
 
 
+# Connections
+
+| file.inlinks                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/01 Gen-32 Yada Yada.md\\|01 Gen-32 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/28 - Hosea/Hos-12.md\\|Hos-12]]</li></ul> |
+
+{ .block-language-dataview}
 - 
 
 

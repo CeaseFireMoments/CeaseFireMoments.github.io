@@ -68,5 +68,11 @@ He sacrificed his fleshly body and died to sin, once and for all. Those trusting
 - [[Gate of Wisdom/W/Wash\|Wash]]
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
 
-###### Tags
-- 
+
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Zunpublished/Veil.md\\|Veil]]</li><li>[[Gate of Wisdom/W/Wash.md\\|Wash]]</li><li>[[Gate of Wisdom/Right Standing/Righteousness.md\\|Righteousness]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/B/Bronze.md\\|Bronze]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread.md\\|Feast of Unleavened Bread]]</li></ul> |
+
+{ .block-language-dataview}

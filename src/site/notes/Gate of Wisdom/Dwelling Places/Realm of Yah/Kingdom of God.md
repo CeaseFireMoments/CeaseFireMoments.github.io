@@ -30,5 +30,12 @@ It is not a future place, it is a present state of being.
 
 
 
+# Connections
+
+| file.inlinks                                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/H/Reign of the Heavens.md\\|Reign of the Heavens]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven.md\\|Heaven]]</li></ul> |
+
+{ .block-language-dataview}
 
 

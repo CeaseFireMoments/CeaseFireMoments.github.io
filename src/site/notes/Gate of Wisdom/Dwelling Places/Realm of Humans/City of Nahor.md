@@ -17,3 +17,11 @@ The region of Aram Naharaim was home to West Semitic tribes, including the Arame
 
 ![Abraham Servant Journey.png](/img/user/_Assets/attachments/Abraham%20Servant%20Journey.png)
 
+
+# Connections
+
+| file.inlinks                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24.md\\|Gen-24]]</li><li>[[Yada Yada Pauses/01 Gen-24 Yada Yada.md\\|01 Gen-24 Yada Yada]]</li></ul> |
+
+{ .block-language-dataview}

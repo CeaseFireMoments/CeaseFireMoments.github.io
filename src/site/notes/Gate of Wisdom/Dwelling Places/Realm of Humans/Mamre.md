@@ -14,7 +14,13 @@
 - The Byzantine emperor Constantine built a church at the site.
 - The Russian Monastery of the Holy Trinity built here.
 
+
 # Connections
-- 
+
+| file.inlinks                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35.md\\|Gen-35]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Leah.md\\|Leah]]</li></ul> |
+
+{ .block-language-dataview}
 
 ![Holy Places of hebron.png](/img/user/_Assets/attachments/Holy%20Places%20of%20hebron.png)

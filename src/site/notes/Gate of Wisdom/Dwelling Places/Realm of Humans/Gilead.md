@@ -31,3 +31,12 @@
 - [[_The Scrolls/2. Neviim (Prophets)/06 - Joshua/Josh-22#v9\|Josh-22#v9]]–34 Eastern tribes build altar in Gilead → almost causes civil war
 - [[_The Scrolls/2. Neviim (Prophets)/07 - Judges/Judg-11#v1\|Judg-11#v1]]–11 Jephthah from Gilead; Mizpah of Gilead = assembly place. Mizpah name persists.
 - [[_The Scrolls/2. Neviim (Prophets)/28 - Hosea/Hos-06#v8\|Hos-06#v8]] “Gilead is a city of evildoers…”
+
+
+# Connections
+
+| file.inlinks                                                                        |
+| ----------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/01 Gen-31 Yada Yada.md\\|01 Gen-31 Yada Yada]]</li></ul> |
+
+{ .block-language-dataview}

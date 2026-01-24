@@ -24,5 +24,11 @@
 { #and}
  kept the charge of Jehovah thy God, to walk in His ways, to keep His statutes, His commands (brain://PAA_TIiZO0WJrm5R5kq0fQ/HisCommands), and His judgments (brain://BdZL-zMblU6DFxPebmS_aQ/Judgment), and His testimonies //The testimony (brain://CPWLP6OrlUyr3n0XW7LGQg/TheTestimony)//, as it is written in the law of Moses, so that thou dost wisely all that thou dost, and whithersoever thou turnest,
 
-###### Tags
-- 
+
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35).md\\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]</li><li>[[Gate of Wisdom/T/Testimony.md\\|Testimony]]</li><li>[[Gate of Wisdom/T/Ten Words.md\\|Ten Words]]</li><li>[[Gate of Wisdom/C/Ten Commandments.md\\|Ten Commandments]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony.md\\|Ark of the Testimony]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone.md\\|Tables of Stone]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness.md\\|The Witness]]</li></ul> |
+
+{ .block-language-dataview}

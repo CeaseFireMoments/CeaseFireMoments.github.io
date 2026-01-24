@@ -21,5 +21,10 @@ Eli the priest later foolishly sent the ark of the covenant out to battle, and i
 	- [[Zunpublished/Manna\|Manna]]
 	- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]
 
-###### Tags
-- 
+
+
+| file.inlinks                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm.md\\|The Unseen Realm]]</li></ul> |
+
+{ .block-language-dataview}

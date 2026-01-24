@@ -11,10 +11,11 @@
 # Additional Info
 
 
+
 # Connections
 
+| file.inlinks                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony.md\\|Ark of the Testimony]]</li></ul> |
 
-- 
-
-###### Tags
-- 
+{ .block-language-dataview}

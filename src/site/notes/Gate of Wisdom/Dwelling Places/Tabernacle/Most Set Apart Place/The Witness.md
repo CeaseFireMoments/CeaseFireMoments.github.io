@@ -17,6 +17,12 @@ I’ve come to realize there are three versions of “the commandments,” but o
 	- **Jesus’s laws**. Love God and Love Your Neighbors. Christianity teaches we are no longer under the laws but under the blood. Some how that has translated to we don’t have to keep the laws of the Old Testament, which typically is tangled up in the Jewish laws. The Christian’s Laws are also man made because they went to the other side of the road. Theirs is Jesus MINUS the Torah laws. They said we don’t have to know the laws of the Torah, like keeping the Sabbath day.
 	- **Jesus taught the [[Gate of Wisdom/T/Torah\|Torah]]** (part of the Jewish teaching) PLUS the Kingdom of Heaven is near (part of Christianity’s teaching). Jesus is the FULFILLMENT of everything in the Torah. He has taken the place of the Tabernacle, the High Priest, and the Sacrificial Lamb. He did not take the place of YHWH/God’s law. God’s law defines what is sinful.
 
+
 # Connections
-- 
+
+| file.inlinks                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li></ul> |
+
+{ .block-language-dataview}
 

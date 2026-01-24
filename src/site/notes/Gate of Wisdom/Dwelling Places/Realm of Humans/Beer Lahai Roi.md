@@ -25,6 +25,13 @@ Isaac came from the way of Beer Lahai Roi, for he lived in the land of the South
 
 
 # Connections
+
 - Hagar, encountered the angel of the Lord here
 - [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] lived here
 
+
+| file.inlinks                                                                        |
+| ----------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li></ul> |
+
+{ .block-language-dataview}
