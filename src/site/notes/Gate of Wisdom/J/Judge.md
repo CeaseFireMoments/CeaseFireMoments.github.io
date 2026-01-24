@@ -16,8 +16,15 @@
 - [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v17\|Lev-19#v17]] Thou shalt reprove (yākaḥ) thy neighbour, and not suffer sin upon him."
 - [[_The Scrolls/2. Neviim (Prophets)/38 - Zechariah/Zech-07#v9\|Zech-07#v9]] "Execute true judgment (mishpāṭ-ʾĕmet)."
 
+
 # Connections
 - 
+| file.inlinks                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/2025.10.24 Shabbat Reading.md\\|2025.10.24 Shabbat Reading]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+
+{ .block-language-dataview}
+
 
 # Notes
 its not "don’t judge" — it’s "do not usurp YHWH’s role" by slandering, gossiping, or condemning a brother. True judgment (mishpāṭ) belongs to YHWH; humans are called to reprove in love (yākaḥ), not condemn in pride.

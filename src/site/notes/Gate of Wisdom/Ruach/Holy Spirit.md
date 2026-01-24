@@ -17,6 +17,6 @@
 
 | file.inlinks                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/W/Wash.md\\|Wash]]</li><li>[[Gate of Wisdom/H/Holy.md\\|Holy]]</li><li>[[Gate of Wisdom/Ruach/Ruach.md\\|Ruach]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/W/Wash.md\\|Wash]]</li><li>[[Gate of Wisdom/Ruach/Ruach.md\\|Ruach]]</li><li>[[Gate of Wisdom/H/Holy.md\\|Holy]]</li></ul> |
 
 { .block-language-dataview}

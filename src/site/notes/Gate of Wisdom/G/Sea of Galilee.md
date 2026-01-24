@@ -48,3 +48,12 @@ S ource: [Sea of Galilee - Aerial View - Israel and You](https://www.israelandyo
 
 S ource: [Villages of Galilee](https://www.bibleodyssey.org/tools/map-gallery/g/map-galilee)
 ---
+
+
+# Connections
+- 
+| file.inlinks                                                                        |
+| ----------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
+
+{ .block-language-dataview}

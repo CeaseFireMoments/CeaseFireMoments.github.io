@@ -27,6 +27,13 @@
 - Defeater of the Beast and Evil Forces (Rev 19:19–21)
 	- 1 Corinthians 15:25–26 — Jesus must reign until all enemies are defeated, including death.
 	- Psalm 2:9 — The Messiah will break the nations with a rod of iron.
+
 # Connections
 - 
+| file.inlinks                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19).md\\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]</li></ul> |
+
+{ .block-language-dataview}
+
 

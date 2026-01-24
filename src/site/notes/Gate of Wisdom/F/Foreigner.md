@@ -16,6 +16,15 @@
 	- Col 1:21 – Once alienated (allotrios) in mind, now reconciled
 	- Eph 2:12 – “alienated (allotrios) from the commonwealth of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
 
+
+# Connections
+- 
+| file.inlinks                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56).md\\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]</li></ul> |
+
+{ .block-language-dataview}
+
 # Additional Info
 
 A Foreigner was someone who was not a native born Israelite who wanted to follow Yahweh / God. In the New Testament these would be Gentiles who wanted to follow Jesus.

@@ -27,3 +27,11 @@
 - Matthew 24:12 "Because of the increase of lawlessness [ἀνομίαν], the love of many will grow cold"
 - 2 Thessalonians 2:3,7 the "man of lawlessness" [ἀνομίας] and "mystery of lawlessness"
 - 1 John 3:8 The [[Gate of Wisdom/Beings/Devil\|Devil]]l has been sinning (i.e., acting in lawlessness) from the beginning
+
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Zunpublished/Lawless.md\\|Lawless]]</li><li>[[Gate of Wisdom/Right Standing/Unrighteous.md\\|Unrighteous]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver.md\\|Bronze Laver]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/Right Standing/Unrighteousness.md\\|Unrighteousness]]</li><li>[[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness.md\\|Sin, Lawlessness, Unrighteousness]]</li></ul> |
+
+{ .block-language-dataview}
+

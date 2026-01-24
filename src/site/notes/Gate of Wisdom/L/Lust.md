@@ -29,6 +29,13 @@
 - Matthew 5:28 (KJV): “…whosoever looketh on a woman to lust after her (epithymēsai) hath committed adultery with her already in his heart.” The 10th Commandment (lō’ taḥmōd – “Thou shalt not covet”; Exodus 20:17) to the heart.
 - Proverbs 6:25 “Lust not (ḥāmad) after her beauty in thine heart”
 
+
 # Connections
 - 
+| file.inlinks                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li><li>[[Gate of Wisdom/Right Standing/Unrighteous.md\\|Unrighteous]]</li></ul> |
+
+{ .block-language-dataview}
+
 

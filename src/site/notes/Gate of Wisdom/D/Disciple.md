@@ -16,3 +16,11 @@ The original word is a verb. Verbs are words which show an action. It’s someth
 
 # Related Words
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
+
+# Connections
+- 
+| file.inlinks                                                                        |
+| ----------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
+
+{ .block-language-dataview}

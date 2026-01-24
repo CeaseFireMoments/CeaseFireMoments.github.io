@@ -16,6 +16,13 @@ People no one admires and looks at and is financially poor. Being in that lowly 
 # Additional Info
 
 
+
 # Connections
 - 
+| file.inlinks                                                                        |
+| ----------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
+
+{ .block-language-dataview}
+
 

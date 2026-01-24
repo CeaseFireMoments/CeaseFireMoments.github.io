@@ -16,3 +16,11 @@
 # Connections
 - [[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]
 
+- 
+| file.inlinks                                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer.md\\|Matthew 6 vs09-15 The Lord’s Prayer]]</li><li>[[Sacred Truces/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li></ul> |
+
+{ .block-language-dataview}
+
+

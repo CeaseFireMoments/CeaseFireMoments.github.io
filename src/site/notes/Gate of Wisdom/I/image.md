@@ -31,6 +31,13 @@
 	- When it refers to man - it is glorious (Psalm 8:5; Gen 1:26-27)
 	- When it refers to anything man makes to represent deity or a rival king - it is an abominable usurpation of God’s sole right to have a צֶלֶם on earth.
 
+
 # Connections
 - 
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14).md\\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13).md\\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]</li></ul> |
+
+{ .block-language-dataview}
+
 

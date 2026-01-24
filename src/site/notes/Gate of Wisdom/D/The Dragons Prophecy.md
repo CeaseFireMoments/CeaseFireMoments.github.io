@@ -6,6 +6,15 @@ The Dragon's Prophecy
 
 J onathan Cahn 2024
 
+
+# Connections
+- 
+| file.inlinks                                                 |
+| ------------------------------------------------------------ |
+| <ul><li>[[Gate of Wisdom/Beings/Satan.md\\|Satan]]</li></ul> |
+
+{ .block-language-dataview}
+
   
 
 ### Cahn, Jonathan. The Dragon's Prophecy: Israel, the Dark Resurrection, an

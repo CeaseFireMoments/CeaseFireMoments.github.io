@@ -3,6 +3,14 @@
 ---
 
 
+# Connections
+- 
+| file.inlinks                                                                        |
+| ----------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
+
+{ .block-language-dataview}
+
 
 - And any man who had hunger and came to Abraham's house, Abraham would give him bread that he might eat and drink and be satisfied, and any one that came naked to his house he would clothe with garments as he might choose, and give him silver and gold and make known to him the Lord who had created him in the earth; this did Abraham all his life. - Jasher Ch 22
 

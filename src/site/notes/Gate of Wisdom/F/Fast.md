@@ -45,3 +45,11 @@ Isaiah 58 tzom
 		 - Honor the Sabbath, not going your own ways, seeking your own pleasure, or talking idly
 - 
 
+
+# Connections
+- 
+| file.inlinks                                                                 |
+| ---------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+
+{ .block-language-dataview}

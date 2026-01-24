@@ -17,3 +17,12 @@ However, human-to-human forgiveness in Hebrew culture is less frequently describ
 
 
 Leviticus 19:17-18
+
+
+# Connections
+- 
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[The Heralds Messages/Forgiveness and Grace for the Forgiven.md\\|Forgiveness and Grace for the Forgiven]]</li><li>[[The Heralds Messages/Forgive and Forget for the Forgiver.md\\|Forgive and Forget for the Forgiver]]</li><li>[[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer.md\\|Matthew 6 vs09-15 The Lord’s Prayer]]</li><li>[[Sacred Truces/Forgive and Forget for the Forgiver.md\\|Forgive and Forget for the Forgiver]]</li></ul> |
+
+{ .block-language-dataview}
