@@ -27,3 +27,10 @@
 - Revelation 22:16 -similar imagery but different word astēr ho prōinos (ἀστὴρ ὁ πρωϊνός) meaning “morning star”
 - No other verses in the Hebrew Bible use הֵילֵל, and the Greek ἑωσφόρος is used only in the Septuagint for Isaiah 14:12.
 
+
+
+| file.inlinks                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-14.md\\|Isa-14]]</li><li>[[Gate of Wisdom/Beings/Heavenly Beings/Lucifer.md\\|Lucifer]]</li></ul> |
+
+{ .block-language-dataview}

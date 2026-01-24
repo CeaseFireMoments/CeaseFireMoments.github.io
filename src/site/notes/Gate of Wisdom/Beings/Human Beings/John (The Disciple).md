@@ -62,3 +62,12 @@
 - Pool of Siloam: Healing site (John 9:7; excavated 2004)
 - Jacob's Well: Samaria structure (John 4; dated to 1st century)
 - Early Gospel manuscript: P52 (John 18, dated AD 125-175; source: Bible Archaeology Report )
+
+
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Zunpublished/James (the Greater).md\\|James (the Greater)]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03.md\\|1 John-03]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-22.md\\|Rev-22]]</li></ul> |
+
+{ .block-language-dataview}

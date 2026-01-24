@@ -46,3 +46,11 @@ In the New Testament, Babylon symbolizes spiritual and moral corruption, often a
     - Belshazzar: Last Babylonian king, whose blasphemous feast leads to Babylon’s fall (Daniel 5:1-30).
 - Exile and Return: The Babylonian captivity lasts 70 years, as prophesied (Jeremiah 25:11-12; 29:10). After Babylon’s fall, Cyrus allows the Jews to return to Jerusalem (2 Chronicles 36:22-23; Ezra 1:1-4).
 
+
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/23 Isa-46 Yada Yada.md\\|23 Isa-46 Yada Yada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2).md\\|24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon.md\\|Babylon]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-46.md\\|Isa-46]]</li></ul> |
+
+{ .block-language-dataview}

@@ -69,3 +69,10 @@ but Abraham gave gifts to the sons of Abraham's concubines. While he still lived
 
 
 
+# Connections
+
+| file.inlinks                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Abraham.md\\|Abraham]]</li></ul> |
+
+{ .block-language-dataview}

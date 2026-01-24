@@ -82,3 +82,12 @@ The Bible contains no extra-biblical archaeological or landmark information abou
 
 ## Archeology:
 - No direct archaeological evidence for Leah herself; the Cave of Machpelah (Tomb of the Patriarchs) in Hebron is venerated as her burial place (along with Abraham, Sarah, Isaac, Rebekah, and Jacob) by Jewish, Christian, and Muslim traditions, but no inscription or artifact confirms her individual presence.
+
+
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-33 YadaYada.md\\|01 Gen-33 YadaYada]]</li><li>[[Yada Yada Pauses/01 Gen-29 Yada Yada.md\\|01 Gen-29 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-31 Yada Yada.md\\|01 Gen-31 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-27 Yada Yada.md\\|01 Gen-27 Yada Yada]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs.md\\|Cave of the Patriarchs]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Jacob.md\\|Jacob]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Rachel.md\\|Rachel]]</li></ul> |
+
+{ .block-language-dataview}

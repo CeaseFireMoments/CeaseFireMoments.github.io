@@ -50,3 +50,12 @@
 - Edomite sites: Excavations at sites like Tel Masos (Israel/Jordan border) and Buseirah (ancient Bozrah, Jordan) show Iron Age Edomite settlements with fortifications matching Obadiah's descriptions of prideful "clefts of the rock" (1:3). Pottery and inscriptions from ca. 8th–6th centuries BCE confirm Edom's expansion into southern Judah post-exile, aligning with the prophecy's context of betrayal during Jerusalem's fall. No direct artifacts linked to Obadiah himself.
 
 
+
+# Connections
+
+| file.inlinks                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/31 Obad-01 Yada Yada.md\\|31 Obad-01 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01.md\\|Obad-01]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/31 Obad-01 Yada Yada.md\\|31 Obad-01 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01.md\\|Obad-01]]</li></ul> |
+
+{ .block-language-dataview}

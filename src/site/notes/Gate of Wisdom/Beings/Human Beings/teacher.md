@@ -83,3 +83,10 @@
 - Hebrews 5:12 (general: you ought to be teachers; no name)
 - James 3:1 (warning: not many should become teachers; no name)
 
+
+
+| file.inlinks                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Ruach/Gift/Teaching.md\\|Teaching]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04.md\\|Ephes-04]]</li></ul> |
+
+{ .block-language-dataview}

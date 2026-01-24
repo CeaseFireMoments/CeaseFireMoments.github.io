@@ -50,6 +50,13 @@
 
 
 
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom.md\\|Edom]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Esau.md\\|Esau]]</li></ul> |
+
+{ .block-language-dataview}
 
 
 

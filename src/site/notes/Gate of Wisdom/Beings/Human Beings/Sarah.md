@@ -43,3 +43,12 @@ Name changed by Yah/God [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-
 - Sarah is referenced in Isaiah 51:2 as the matriarch of Israel alongside Abraham 
 - Hebrews 11:11 praises her faith for conceiving Isaac
 - 1 Peter 3:6 cites her as an example of a godly wife who honored Abraham
+
+
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.01.03 Shabbat Reading.md\\|2026.01.03 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs.md\\|Cave of the Patriarchs]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Abraham.md\\|Abraham]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Isaac.md\\|Isaac]]</li></ul> |
+
+{ .block-language-dataview}

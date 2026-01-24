@@ -147,6 +147,11 @@ The intention is to trace the words Hebrew, Israelite, and Jew. There are other 
 
 - 
 
-# Connections
-- 
 
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Sacred Truces/Day of Atonement for Christians.md\\|Day of Atonement for Christians]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for Them (02 Exod 16).md\\|02 The Seventh Day Rest was for Them (02 Exod 16)]]</li><li>[[Gate of Wisdom/Beings/Human Beings/House of Israel.md\\|House of Israel]]</li><li>[[Gate of Wisdom/Beings/Human Beings/House of Judah.md\\|House of Judah]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Israel.md\\|Israel]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Israelites.md\\|Israelites]]</li></ul> |
+
+{ .block-language-dataview}

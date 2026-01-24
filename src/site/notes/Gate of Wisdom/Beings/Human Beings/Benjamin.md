@@ -45,3 +45,13 @@ And Benjamin came forth with his army, and they smote of the children of Israel 
 ## Landmarks: 
 
 ## Archeology:
+
+
+
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35.md\\|Gen-35]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Benoni.md\\|Benoni]]</li></ul> |
+
+{ .block-language-dataview}

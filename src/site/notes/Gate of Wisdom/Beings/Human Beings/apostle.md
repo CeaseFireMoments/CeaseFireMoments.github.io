@@ -118,3 +118,10 @@
 - Revelation 18:20 — Holy apostles (and prophets)
 - Revelation 21:14 — The twelve apostles (of the Lamb)
 
+
+
+| file.inlinks                                                                                             |
+| -------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04.md\\|Ephes-04]]</li></ul> |
+
+{ .block-language-dataview}

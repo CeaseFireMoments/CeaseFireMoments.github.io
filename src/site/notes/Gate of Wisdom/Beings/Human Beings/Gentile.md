@@ -35,6 +35,11 @@ From YHWH, Yeshua/Jesus, the Disciples, and Paul’s point of view:
 		- Lost - Those who have not heard the Gospel of the Kingdom, Have not accepted Yeshua, The lawless (no Torah)
 	- 
 ![Hebrew Phase 5.png](/img/user/_Assets/attachments/Hebrew%20Phase%205.png)
-# Connections
-- 
 
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20).md\\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]</li><li>[[Gate of Wisdom/Beings/Human Beings/nation.md\\|nation]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Gentile.md\\|Gentile]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Jew.md\\|Jew]]</li></ul> |
+
+{ .block-language-dataview}

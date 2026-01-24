@@ -76,6 +76,13 @@
     - Oldest surviving image of an Israelite (likely Jehu or delegate); confirms Assyrian view of Omrides as a stable entity.
 
 
+# Connections
+
+| file.inlinks                                                                            |
+| --------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li></ul> |
+
+{ .block-language-dataview}
 
 
 

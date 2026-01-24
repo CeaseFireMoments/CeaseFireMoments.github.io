@@ -47,3 +47,9 @@
 - 1 Timothy 4:6 – good servant of Christ Jesus
 
 
+
+| file.inlinks                                                                                             |
+| -------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/54 - 1 Timothy/1 Tim-03.md\\|1 Tim-03]]</li></ul> |
+
+{ .block-language-dataview}

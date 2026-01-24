@@ -14,3 +14,10 @@
 
 
 
+# Connections
+
+| file.inlinks                                                                                               |
+| ---------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li></ul> |
+
+{ .block-language-dataview}

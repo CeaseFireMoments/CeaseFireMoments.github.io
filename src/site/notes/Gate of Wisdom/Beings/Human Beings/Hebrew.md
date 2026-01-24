@@ -44,6 +44,14 @@ Regarding the title 'Abram the Hebrew', there are several theories:
 - 
 
 
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.01.03 Shabbat Reading.md\\|2026.01.03 Shabbat Reading]]</li><li>[[Gate of Wisdom/Beings/Human Beings/House of Israel.md\\|House of Israel]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Jew.md\\|Jew]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Judah.md\\|Judah]]</li></ul> |
+
+{ .block-language-dataview}
+
 # Hebrew, Israelite, Jew
 
 The intention is to trace the words Hebrew, Israelite, and Jew. There are other sons not included on the diagram. Ishmael, the son of Abraham and Esau the son of Jacob/Israel had descendants who were not enslaved nor rescued from Egypt.
