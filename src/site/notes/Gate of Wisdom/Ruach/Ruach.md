@@ -25,5 +25,11 @@
 - Is what brought all the creatures out of the ground in Genesis 1. So when their ruakh goes away, they go back to the dust. The connection is with their breath and their life that's connected to their breath, and that God's Spirit is what sustains that
 - There's a whole repetition of the voice or the sound of the Lord showing up, especially at key moments when people have failed a test.  For example, at Mount Sinai, when on the third day, the Israelites failed to go up the mountain when they're invited to on the third day, what shows up are sounds and lightning and thick clouds and a trumpet sound, and the people are freaked out. Just like in the garden. The sound of Yahweh shows up and the people are afraid.what you learn about the sound of Yahweh when he shows up personally (00:46:00) is that's the same personal presence of Yahweh that takes up residence in the tent in Israel's tabernacle. So that when Moses goes into the tabernacle, he hears the sound speaking to him from above the ark of the covenant.    And then as you trace, just do a word study on "the sound of the voice of Yahweh," it's associated with storms and wind. 
 
+
 # Connections
-- 
+
+| file.inlinks                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Gate of Wisdom/H/Holy.md\\|Holy]]</li><li>[[Gate of Wisdom/Ruach/Holy Spirit.md\\|Holy Spirit]]</li></ul> |
+
+{ .block-language-dataview}

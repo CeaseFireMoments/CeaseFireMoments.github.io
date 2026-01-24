@@ -42,6 +42,6 @@ Common terms expressing “unrighteousness”:
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness.md\\|Sin, Lawlessness, Unrighteousness]]</li><li>[[Gate of Wisdom/L/Lawlessness.md\\|Lawlessness]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Righteousness.md\\|Righteousness]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/L/Lawlessness.md\\|Lawlessness]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Righteousness.md\\|Righteousness]]</li><li>[[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness.md\\|Sin, Lawlessness, Unrighteousness]]</li></ul> |
 
 { .block-language-dataview}

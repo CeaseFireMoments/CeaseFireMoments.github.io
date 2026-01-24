@@ -9,3 +9,13 @@
 # Ezekiel 36
 
 ![Marked Ezekiel 11_24-28.png](/img/user/_Assets/attachments/Marked%20Ezekiel%2011_24-28.png)
+
+
+
+# Connections
+
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}

@@ -4,6 +4,8 @@
 
 | Table of Content                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]                                                                    |
+| [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]                                                                                      |
 | [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]                                                                             |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]                                       |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 5 The Resting Ones\|Matthew 5 Sermon on the Mount v 5 The Resting Ones]]                                         |
@@ -23,7 +25,6 @@
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]     |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets\|Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets]] |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 14-16 Light of the World\|Matthew 5 Sermon on the Mount v 14-16 Light of the World]]                             |
-| [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]                                                                    |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 13 Salt\|Matthew 5 Sermon on the Mount v 13 Salt]]                                                               |
 | [[Sacred Truces/More on Matthew 5 Salt\|More on Matthew 5 Salt]]                                                                                                 |
 | [[Sacred Truces/Please pass the salt\|Please pass the salt]]                                                                                                     |
@@ -67,7 +68,6 @@
 | [[Sacred Truces/Fascism\|Fascism]]                                                                                                                               |
 | [[Sacred Truces/Day of Atonement for Christians\|Day of Atonement for Christians]]                                                                               |
 | [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]] |
-| [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]                                                                                      |
 | [[Sacred Truces/_Sacred Truces\|_Sacred Truces]]                                                                                                                 |
 
 { .block-language-dataview}

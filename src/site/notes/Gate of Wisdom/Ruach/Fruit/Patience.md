@@ -24,3 +24,10 @@
 - Hebrews 12:1 – run the race with hypomonē
 - Revelation 14:12 – the hypomonē of the saints who keep God’s commands
 
+
+
+| file.inlinks                                                                                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li><li>[[Yada Yada Pauses/58 Heb-12 YadaYada.md\\|58 Heb-12 YadaYada]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12.md\\|Heb-12]]</li></ul> |
+
+{ .block-language-dataview}

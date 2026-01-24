@@ -47,6 +47,14 @@ Marked with the chotam (seal) [[_The Scrolls/4. The Gospels and The Apostles/66 
 
 [Mark, miracle, sign, token in the Bible (77 verses). Hebrew: אוֹת, ʾôt, H226](https://www.quotescosmos.com/bible/bible-concordance/H226.html)
 
+
+# Connections
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20).md\\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13).md\\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]</li><li>[[Gate of Wisdom/Sign/Mark.md\\|Mark]]</li><li>[[Gate of Wisdom/Sign/Seal.md\\|Seal]]</li></ul> |
+
+{ .block-language-dataview}
 ### Notes:
 
 Revelation 13:15-16 - MARK in their right hand, or in their foreheads

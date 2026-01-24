@@ -23,6 +23,11 @@ Signet ring; to set a seal upon, mark with a seal, to seal
 # Additional Info
 
 
-# Connections
-- 
 
+# Connections
+
+| file.inlinks                                                                                            |
+| ------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Sign/Mark.md\\|Mark]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li></ul> |
+
+{ .block-language-dataview}

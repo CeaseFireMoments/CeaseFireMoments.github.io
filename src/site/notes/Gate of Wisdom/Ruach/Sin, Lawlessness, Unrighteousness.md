@@ -17,3 +17,12 @@ The [[Zunpublished/Law\|Law]], [[Gate of Wisdom/T/Torah\|Torah]], is found in th
 # Connections
 [[Olive Branch Reconciliations/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
 [[Sacred Truces/The Law in Matthew 5\|Sacred Truces/The Law in Matthew 5]]
+
+
+# Connections
+
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}
