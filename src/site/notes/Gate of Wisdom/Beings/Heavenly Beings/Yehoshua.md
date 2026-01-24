@@ -3,6 +3,15 @@
 ---
 
 
+# Connections
+
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+| <ul></ul>    |
+
+{ .block-language-dataview}
+
 4 BC-31 AD
 
 ## A Christian Walk with the Tabernacle Israelite Common People

@@ -2,6 +2,14 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/son-of-man/","tags":["thebrain","GateWisdom","nothome","S","HeavenlyBeing"]}
 ---
 
+# Connections
+
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}
+
 Son of Man
 
 M atthew 24:

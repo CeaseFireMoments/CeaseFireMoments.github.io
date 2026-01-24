@@ -90,7 +90,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]                                                      |
 | [[Gate of Wisdom/E/elder\|elder]]                                                                              |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Elohim\|Elohim]]                                                       |
+| [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]                                                        |
 | [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                              |
 | [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                         |
 | [[Gate of Wisdom/F/Fast\|Fast]]                                                                                |
@@ -106,7 +106,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Sources/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]]  |
 | [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]                                                        |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                                              |
-| [[Gate of Wisdom/Beings/Heavenly Beings/God\|God]]                                                             |
+| [[Gate of Wisdom/Beings/Divine Council/God\|God]]                                                              |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]] |
 | [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]                                                          |
 | [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]]                                                     |
@@ -252,7 +252,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/W/Worship\|Worship]]                                                                          |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]                                                   |
 | [[Gate of Wisdom/Y/Yehoshua\|Yehoshua]]                                                                        |
-| [[Gate of Wisdom/Beings/Heavenly Beings/YHWH\|YHWH]]                                                           |
+| [[Gate of Wisdom/Beings/Divine Council/YHWH\|YHWH]]                                                            |
 | [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]                                               |
 | [[Gate of Wisdom/Offering/Zevah\|Zevah]]                                                                       |
 

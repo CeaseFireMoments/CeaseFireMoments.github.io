@@ -61,3 +61,11 @@
 
 Judges 2:11-12 - Children of Israel served the Baals and forsook the Lord God of their fathers
 Elijah rose up against the apostate king Ahab over the worship of Baal
+
+# Connections
+
+| file.inlinks                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Gate of Wisdom/Beings/Heavenly Beings/Bel.md\\|Bel]]</li></ul> |
+
+{ .block-language-dataview}

@@ -52,7 +52,7 @@
 
 Yahweh is at the top. 
 	His family-household (“ sons of God ”) are next in hierarchy. 
-		The lowest level is reserved for [[Gate of Wisdom/Beings/Heavenly Beings/Elohim\|Elohim]] Messenger —mal’akim (the word translated “ [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]] ”).
+		The lowest level is reserved for [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]] Messenger —mal’akim (the word translated “ [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]] ”).
 
 # Connections
 - 

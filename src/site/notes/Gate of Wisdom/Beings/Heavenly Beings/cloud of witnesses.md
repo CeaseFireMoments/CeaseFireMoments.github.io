@@ -14,5 +14,10 @@
 
 
 # Connections
-- 
+
+| file.inlinks                                                                                       |
+| -------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12.md\\|Heb-12]]</li></ul> |
+
+{ .block-language-dataview}
 

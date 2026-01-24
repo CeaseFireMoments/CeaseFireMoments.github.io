@@ -14,3 +14,11 @@ In 2 Peter 1:19, the same word is translated as morning star
 
 Isaiah 14 tracing all the entities referenced is tough unless you use a highlighter.
 ![High  Isaiah 14.png](/img/user/_Assets/attachments/High%20%20Isaiah%2014.png)
+
+# Connection
+
+| file.inlinks                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Gate of Wisdom/Beings/Human Beings/Shining One.md\\|Shining One]]</li><li>[[Gate of Wisdom/Beings/Adversary.md\\|Adversary]]</li></ul> |
+
+{ .block-language-dataview}

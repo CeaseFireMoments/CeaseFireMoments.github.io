@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/shedim/","tags":["thebrain","GateWisdom","nothome","S","HeavenlyBeing"]}
 ---
 
+# Connections
+
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}
 
 ## NOTES:
 

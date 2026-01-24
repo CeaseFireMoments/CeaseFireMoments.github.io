@@ -80,7 +80,7 @@
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 - [[Rebellion\|Rebellion]]
 - [[Hear\|Hear]]
-- [[Gate of Wisdom/Beings/Heavenly Beings/God\|God]] [[Gate of Wisdom/Beings/Heavenly Beings/YHWH\|YHWH]] 
+- [[Gate of Wisdom/Beings/Divine Council/God\|God]] [[Gate of Wisdom/Beings/Divine Council/YHWH\|YHWH]] 
 
 ## Hyperlinks:
 

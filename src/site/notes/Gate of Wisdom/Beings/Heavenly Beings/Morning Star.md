@@ -9,6 +9,14 @@
 
 T he divine sons of God are called the “morning stars ” in Job 38:7 and “the stars of God ” in Isaiah 14:13. The imagery of Joseph’s dream, where the sons of Jacob (Israel) are stars (Gen 37:9), is no accident. Neither is it a coincidence that Abraham’s offspring will be “ as the stars.” While
 
+# Connections
+
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}
+
 #### 7 Mapped Links
 
 ↑ [Sons of God](https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/7756e509-14fe-4791-b13b-830aa168727a)  

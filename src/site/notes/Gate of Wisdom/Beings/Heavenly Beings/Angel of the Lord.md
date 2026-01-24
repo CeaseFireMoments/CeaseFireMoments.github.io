@@ -12,6 +12,13 @@ Angel of the Lord - Maluk Adonia
 4. Plaques were a judgement on all the gods of Egypt. [Exodus 12](https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/Exodus12?name=Exodus%2012):12
 5. Jesus in the New Testament, Son of God
 
+# Connections
+
+| file.inlinks                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2025.12.06 Shabbat Reading.md\\|2025.12.06 Shabbat Reading]]</li><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li></ul> |
+
+{ .block-language-dataview}
 
 Sources
 

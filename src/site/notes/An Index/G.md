@@ -15,7 +15,7 @@
 - [[The Heralds Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]
 - [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]
-- [[Gate of Wisdom/Beings/Heavenly Beings/God\|God]]
+- [[Gate of Wisdom/Beings/Divine Council/God\|God]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]
 - [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]
 - [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]]

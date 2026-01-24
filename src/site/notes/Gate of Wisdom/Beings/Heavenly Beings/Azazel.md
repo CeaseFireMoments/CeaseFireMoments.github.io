@@ -2,7 +2,13 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/azazel/"}
 ---
 
+# Connections
 
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}
 
 # NOTES:
 

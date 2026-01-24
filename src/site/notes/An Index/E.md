@@ -8,7 +8,7 @@
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]
 - [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]
 - [[Gate of Wisdom/E/elder\|elder]]
-- [[Gate of Wisdom/Beings/Heavenly Beings/Elohim\|Elohim]]
+- [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
 - [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]

@@ -21,7 +21,7 @@
 - Mouth like a lion
 	- Speaking great things
 	- Blasphemy was given to him, against
-		- ton Theon/[[Gate of Wisdom/Beings/Heavenly Beings/Elohim\|Elohim]]
+		- ton Theon/[[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
 		- name [[Gate of Wisdom/S/Shem\|Shem]]
 		- [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]] Mishkan
 		- Those who dwell in [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]

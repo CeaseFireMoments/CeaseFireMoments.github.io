@@ -16,7 +16,7 @@ I <mark style="background: #04CD3EA6;">saw thrones</mark>, and <mark style="back
 # **Define**: 
 - [[Gate of Wisdom/S/Soul\|Soul]] - psychē (ψυχή) – meaning the conscious, personal existence of the martyrs.
 - [[Gate of Wisdom/T/Testimony\|Testimony]] = Witness
-- [[Gate of Wisdom/W/The Word\|The Word]] = message or revelation from [[Gate of Wisdom/Beings/Heavenly Beings/YHWH\|YHWH]], [[Gate of Wisdom/Beings/Heavenly Beings/God\|God]]
+- [[Gate of Wisdom/W/The Word\|The Word]] = message or revelation from [[Gate of Wisdom/Beings/Divine Council/YHWH\|YHWH]], [[Gate of Wisdom/Beings/Divine Council/God\|God]]
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
 -  I - John, the writer
 - They - believers (saints), especially those who remain faithful through persecution, based on the context of the original language as well as other references (1 Cor 6:2-3, Matt-19:28, Rev 3:21, Dan 7:22).

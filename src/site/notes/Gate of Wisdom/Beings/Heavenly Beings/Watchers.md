@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/watchers/","tags":["thebrain","GateWisdom","nothome","HeavenlyBeing","W"]}
 ---
 
+# Connections
+
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}
 
 ## NOTES:
 
