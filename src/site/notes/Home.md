@@ -17,10 +17,11 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 If you follow us on [our word press site](https://calltoceasefire.wordpress.com/), you'll receive notification via email of new content. Or follow us on [X](https://x.com/CalltoCeaseFire) or [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/) for new content in your feed. 
 
 
-| Latest Drops                                                                                                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Torah Portions/2026.01.17 Shabbat Reading\|2026.01.17 Shabbat Reading]]                                                                                                                                    |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]] |
+| Latest Drops                                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)\|34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)]] |
+| [[Torah Portions/2026.01.17 Shabbat Reading\|2026.01.17 Shabbat Reading]]                                                                                                                                                  |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]               |
 
 { .block-language-dataview}
 
