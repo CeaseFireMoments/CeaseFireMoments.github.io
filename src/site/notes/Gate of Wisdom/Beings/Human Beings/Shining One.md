@@ -31,6 +31,6 @@
 
 | file.inlinks                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-14.md\\|Isa-14]]</li><li>[[Gate of Wisdom/Beings/Heavenly Beings/Lucifer.md\\|Lucifer]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Beings/Heavenly Beings/Lucifer.md\\|Lucifer]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-14.md\\|Isa-14]]</li></ul> |
 
 { .block-language-dataview}

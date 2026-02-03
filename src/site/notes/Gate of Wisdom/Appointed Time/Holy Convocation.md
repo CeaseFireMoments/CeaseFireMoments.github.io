@@ -35,7 +35,7 @@
 
 | file.inlinks                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li><li>[[Gate of Wisdom/Appointed Time/Feast.md\\|Feast]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Appointed Time/Feast.md\\|Feast]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li></ul> |
 
 { .block-language-dataview}
 

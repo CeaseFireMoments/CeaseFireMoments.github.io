@@ -24,6 +24,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-32 Yada Yada.md\\|01 Gen-32 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-33 YadaYada.md\\|01 Gen-33 YadaYada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33.md\\|Gen-33]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/01 Gen-33 YadaYada.md\\|01 Gen-33 YadaYada]]</li><li>[[Yada Yada Pauses/01 Gen-32 Yada Yada.md\\|01 Gen-32 Yada Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33.md\\|Gen-33]]</li></ul> |
 
 { .block-language-dataview}

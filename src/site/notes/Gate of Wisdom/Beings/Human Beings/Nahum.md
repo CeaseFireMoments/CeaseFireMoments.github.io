@@ -54,6 +54,6 @@
 | file.inlinks                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>[[_The Scrolls/2. Neviim (Prophets)/34 - Nahum/Nah-01.md\\|Nah-01]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/34 - Nahum/Nah-02.md\\|Nah-02]]</li></ul>                                                                             |
-| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/34 - Nahum/Nah-03.md\\|Nah-03]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/34 - Nahum/Nah-01.md\\|Nah-01]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/34 - Nahum/Nah-02.md\\|Nah-02]]</li></ul> |
+| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/34 - Nahum/Nah-01.md\\|Nah-01]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/34 - Nahum/Nah-02.md\\|Nah-02]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/34 - Nahum/Nah-03.md\\|Nah-03]]</li></ul> |
 
 { .block-language-dataview}

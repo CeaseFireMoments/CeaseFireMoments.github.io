@@ -48,7 +48,7 @@ Regarding the title 'Abram the Hebrew', there are several theories:
 
 | file.inlinks                                                                                                                                                                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.01.03 Shabbat Reading.md\\|2026.01.03 Shabbat Reading]]</li><li>[[Gate of Wisdom/Beings/Human Beings/House of Israel.md\\|House of Israel]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Jew.md\\|Jew]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Judah.md\\|Judah]]</li></ul> |
+| <ul><li>[[Torah Portions/2026.01.03 Shabbat Reading.md\\|2026.01.03 Shabbat Reading]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Judah.md\\|Judah]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Jew.md\\|Jew]]</li><li>[[Gate of Wisdom/Beings/Human Beings/House of Israel.md\\|House of Israel]]</li></ul> |
 
 { .block-language-dataview}
 

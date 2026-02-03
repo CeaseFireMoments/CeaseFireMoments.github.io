@@ -32,7 +32,7 @@
 - 
 | file.inlinks                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/54 - 1 Timothy/1 Tim-03.md\\|1 Tim-03]]</li><li>[[Gate of Wisdom/Beings/elder.md\\|elder]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Beings/elder.md\\|elder]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/54 - 1 Timothy/1 Tim-03.md\\|1 Tim-03]]</li></ul> |
 
 { .block-language-dataview}
 

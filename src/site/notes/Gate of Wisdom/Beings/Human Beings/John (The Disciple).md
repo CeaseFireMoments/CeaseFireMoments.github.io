@@ -68,6 +68,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Zunpublished/James (the Greater).md\\|James (the Greater)]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03.md\\|1 John-03]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-22.md\\|Rev-22]]</li></ul> |
+| <ul><li>[[Zunpublished/James (the Greater).md\\|James (the Greater)]]</li><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03.md\\|1 John-03]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-22.md\\|Rev-22]]</li></ul> |
 
 { .block-language-dataview}

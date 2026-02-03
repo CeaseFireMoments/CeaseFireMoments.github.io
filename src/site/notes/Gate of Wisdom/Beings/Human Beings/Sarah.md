@@ -49,6 +49,6 @@ Name changed by Yah/God [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.01.03 Shabbat Reading.md\\|2026.01.03 Shabbat Reading]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Abraham.md\\|Abraham]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Isaac.md\\|Isaac]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs.md\\|Cave of the Patriarchs]]</li></ul> |
+| <ul><li>[[Torah Portions/2026.01.03 Shabbat Reading.md\\|2026.01.03 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs.md\\|Cave of the Patriarchs]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Isaac.md\\|Isaac]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Abraham.md\\|Abraham]]</li></ul> |
 
 { .block-language-dataview}

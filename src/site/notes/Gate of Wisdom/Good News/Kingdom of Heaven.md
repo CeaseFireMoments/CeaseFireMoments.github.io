@@ -30,6 +30,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04.md\\|Matt-04]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven.md\\|Heaven]]</li><li>[[Gate of Wisdom/H/Reign of the Heavens.md\\|Reign of the Heavens]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/H/Reign of the Heavens.md\\|Reign of the Heavens]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven.md\\|Heaven]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04.md\\|Matt-04]]</li></ul> |
 
 { .block-language-dataview}
