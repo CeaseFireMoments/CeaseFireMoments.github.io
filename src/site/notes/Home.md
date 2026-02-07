@@ -19,6 +19,7 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]                                                                                  |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)\|35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)]]                                                        |
 | [[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]] |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)\|34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)]]                    |

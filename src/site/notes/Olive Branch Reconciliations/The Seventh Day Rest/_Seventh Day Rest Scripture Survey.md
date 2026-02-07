@@ -48,6 +48,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - 1 Chronicles 23:31 / 2 Chronicles 2:4 / 2 Chronicles 8:13 / Ezra 3:5 [[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]
 - Amos 8:5     [[Olive Branch Reconciliations/The Seventh Day Rest/35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)\|35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)]]
 
+[[Olive Branch Reconciliations/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]
 # Second Writings (New Testament)
 
 - Matthew 8:14-17, Mark 1:29-34, Luke 4:38-41

@@ -21,7 +21,7 @@
 - 
 | file.inlinks                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/2025.10.24 Shabbat Reading.md\\|2025.10.24 Shabbat Reading]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+| <ul><li>[[Torah Portions/2025.10.24 Shabbat Reading.md\\|2025.10.24 Shabbat Reading]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
 
 { .block-language-dataview}
 

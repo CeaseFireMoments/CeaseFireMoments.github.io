@@ -20,7 +20,7 @@ Another name for prayer that is commonly used within Jewish Ashkenazi communitie
 - 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer.md\\|Matthew 6 vs09-15 The Lord’s Prayer]]</li><li>[[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Sacred Truces/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/P/Pray.md\\|Pray]]</li></ul> |
+| <ul><li>[[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer.md\\|Matthew 6 vs09-15 The Lord’s Prayer]]</li><li>[[Sacred Truces/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li><li>[[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/P/Pray.md\\|Pray]]</li></ul> |
 
 { .block-language-dataview}
 
