@@ -84,6 +84,7 @@
 - [[Gate of Wisdom/S/Soul\|Soul]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]
+- [[Gate of Wisdom/S/Synagogue\|Synagogue]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]
 - [[Gate of Wisdom/S/Timeline\|Timeline]]
 - [[Sacred Truces/Video Scripture Survey Christian Spring Holidays\|Video Scripture Survey Christian Spring Holidays]]

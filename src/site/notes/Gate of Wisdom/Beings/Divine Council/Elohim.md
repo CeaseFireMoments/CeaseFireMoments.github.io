@@ -45,7 +45,7 @@ E lohim: Plural Noun
 
 | file.inlinks                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li></ul> |
 
 { .block-language-dataview}
 
