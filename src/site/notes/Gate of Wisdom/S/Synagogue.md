@@ -16,8 +16,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Beings/Human Beings/Assembly.md\\|Assembly]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/36 The Seventh Day Rest Jesus was in the Synagogue.md\\|36 The Seventh Day Rest Jesus was in the Synagogue]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Beings/Human Beings/Assembly.md\\|Assembly]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark).md\\|36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark)]]</li></ul> |
 
 { .block-language-dataview}
