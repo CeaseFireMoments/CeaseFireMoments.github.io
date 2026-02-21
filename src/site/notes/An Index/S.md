@@ -55,6 +55,7 @@
 - [[Sacred Truces/Please pass the salt\|Please pass the salt]]
 - [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]
 - [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
+- [[Gate of Wisdom/S/Sacrifice\|Sacrifice]]
 - [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]
 - [[Gate of Wisdom/Beings/Satan\|Satan]]
 - [[Gate of Wisdom/S/Save\|Save]]

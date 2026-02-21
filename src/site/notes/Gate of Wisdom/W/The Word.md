@@ -23,9 +23,9 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li><li>[[Yada Yada Pauses/33 Micah-04 Yada Yada.md\\|33 Micah-04 Yada Yada]]</li></ul> |
 
 { .block-language-dataview}
 

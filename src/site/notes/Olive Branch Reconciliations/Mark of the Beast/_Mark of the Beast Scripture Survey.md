@@ -14,3 +14,4 @@ Revelation 16:2  [[Olive Branch Reconciliations/Mark of the Beast/03 Mark of the
 Revelation 19:20  [[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]
 Revelation 20:4 [[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]
 
+

@@ -20,6 +20,7 @@
 - [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 - [[Gate of Wisdom/T/Ten Words\|Ten Words]]
 - [[Gate of Wisdom/T/Testimony\|Testimony]]
+- [[Gate of Wisdom/T/Thanksgiving\|Thanksgiving]]
 - [[Sacred Truces/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]
 - [[Gate of Wisdom/S/Timeline\|Timeline]]
 - [[Gate of Wisdom/T/Torah\|Torah]]

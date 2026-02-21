@@ -202,6 +202,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Ruach/Ruach\|Ruach]]                                                                          |
 | [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]                                                             |
 | [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]                                                           |
+| [[Gate of Wisdom/S/Sacrifice\|Sacrifice]]                                                                      |
 | [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]                                                            |
 | [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                         |
 | [[Gate of Wisdom/S/Save\|Save]]                                                                                |
@@ -235,6 +236,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]                                                        |
 | [[Gate of Wisdom/T/Ten Words\|Ten Words]]                                                                      |
 | [[Gate of Wisdom/T/Testimony\|Testimony]]                                                                      |
+| [[Gate of Wisdom/T/Thanksgiving\|Thanksgiving]]                                                                |
 | [[Gate of Wisdom/D/The Dragons Prophecy\|The Dragons Prophecy]]                                                |
 | [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                   |
 | [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]                                |
@@ -252,10 +254,12 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/W/Wash\|Wash]]                                                                                |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                   |
 | [[Gate of Wisdom/W/Worship\|Worship]]                                                                          |
+| [[Gate of Wisdom/Beings/Yahweh of Armies\|Yahweh of Armies]]                                                   |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]                                                   |
 | [[Gate of Wisdom/Y/Yehoshua\|Yehoshua]]                                                                        |
 | [[Gate of Wisdom/Beings/Divine Council/YHWH\|YHWH]]                                                            |
 | [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]                                               |
 | [[Gate of Wisdom/Offering/Zevah\|Zevah]]                                                                       |
+| [[Gate of Wisdom/Z/Zion\|Zion]]                                                                                |
 
 { .block-language-dataview}

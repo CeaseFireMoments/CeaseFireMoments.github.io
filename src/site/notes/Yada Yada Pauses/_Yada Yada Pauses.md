@@ -21,6 +21,7 @@ In Hebrew - Yada means "to know." These Ceasefire Moments are for deep explorati
 | [[Yada Yada Pauses/23 Isa-46 Yada Yada\|23 Isa-46 Yada Yada]]         |
 | [[Yada Yada Pauses/23 Isa-65 Yada Yada\|23 Isa-65 Yada Yada]]         |
 | [[Yada Yada Pauses/23 Isa-66 Yada Yada\|23 Isa-66 Yada Yada]]         |
+| [[Yada Yada Pauses/33 Micah-04 Yada Yada\|33 Micah-04 Yada Yada]]     |
 | [[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]         |
 | [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]     |
 | [[Yada Yada Pauses/51 Colossians Yada Yada\|51 Colossians Yada Yada]] |
