@@ -6,6 +6,8 @@
 
 # Backdrop
 - Vision of future restoration and peace in the latter days (be'acharit hayyamim בְּאַחֲרִית הַיָּמִים), with the mountain of the house of YHWH exalted and nations streaming to it for instruction and judgment leading to universal peace.
+- Torah ( תּוֹרָה)  = the law. the writer (Micah, an 8th-century BC prophet) and his original readers/hearers would most likely have had in mind the existing divine instruction associated with YHWH's covenant with Israel, particularly as revealed through Moses.
+- The Word, dābār (דָּבָר) = The writer (Micah) and original readers would have understood devar YHWH as referring to the same established body of divine revelation already known in Israel—God's spoken and written word through Moses (the Torah/instructions, commandments, and covenant words at Sinai, as in Exodus–Deuteronomy) and through the prophets. It is not a new or separate set of laws but the enduring, authoritative communication of YHWH's ways, now envisioned as extending universally from Jerusalem in the latter days, with nations voluntarily coming to receive and obey it.
 
 # People
 - YHWH (יְהוָה) — the LORD, speaker and judge
