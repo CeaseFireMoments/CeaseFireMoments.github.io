@@ -21,7 +21,9 @@
 - [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]
 - [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
 - [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]
+- [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]
 - [[Sacred Truces/Old, New, and Renewed\|Old, New, and Renewed]]
+- [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]
 - [[Sacred Truces/What is the New Covenant\|What is the New Covenant]]
 
 { .block-language-dataview}

@@ -102,11 +102,10 @@ But they don't know the thoughts of Yahweh, neither do they understand his couns
 ###### v13 
 Arise and thresh, daughter of Zion; for I will make your horn iron, and I will make your hoofs bronze; and you will beat in pieces many peoples: and I will devote their gain to Yahweh, and their substance to the Lord of the whole earth.
 
+# Connections
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
+| file.inlinks                                                                              |
+| ----------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li></ul> |
 
 { .block-language-dataview}
-
-

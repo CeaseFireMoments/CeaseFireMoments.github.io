@@ -169,6 +169,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]                                                      |
 | [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]                                                           |
+| [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]                                            |
 | [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]                                                        |
 | [[Gate of Wisdom/Offering/Offerings\|Offerings]]                                                               |
 | [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]                                                              |
@@ -240,6 +241,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/D/The Dragons Prophecy\|The Dragons Prophecy]]                                                |
 | [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                   |
 | [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]                                |
+| [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]                                   |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                    |
 | [[Gate of Wisdom/W/The Word\|The Word]]                                                                        |
 | [[Gate of Wisdom/S/Timeline\|Timeline]]                                                                        |

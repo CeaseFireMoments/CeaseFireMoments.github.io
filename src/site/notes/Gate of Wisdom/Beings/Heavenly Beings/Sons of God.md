@@ -8,7 +8,7 @@ Sons of God - Malʾak
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03.md\\|1 John-03]]</li><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Beings/Children of God.md\\|Children of God]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Beings/Children of God.md\\|Children of God]]</li><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03.md\\|1 John-03]]</li></ul> |
 
 { .block-language-dataview}
 ## NOTES

@@ -30,6 +30,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Gate of Wisdom/Ruach/Holy Spirit.md\\|Holy Spirit]]</li><li>[[Gate of Wisdom/H/Holy.md\\|Holy]]</li><li>[[Gate of Wisdom/Beings/Demons.md\\|Demons]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Ruach/Holy Spirit.md\\|Holy Spirit]]</li><li>[[Gate of Wisdom/H/Holy.md\\|Holy]]</li><li>[[Gate of Wisdom/Beings/Demons.md\\|Demons]]</li><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li></ul> |
 
 { .block-language-dataview}

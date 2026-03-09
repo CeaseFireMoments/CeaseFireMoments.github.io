@@ -21,7 +21,7 @@
 - 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/2025.10.24 Shabbat Reading.md\\|2025.10.24 Shabbat Reading]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li><li>[[Yada Yada Pauses/33 Micah-04 Yada Yada.md\\|33 Micah-04 Yada Yada]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Torah Portions/2025.10.24 Shabbat Reading.md\\|2025.10.24 Shabbat Reading]]</li><li>[[Yada Yada Pauses/33 Micah-04 Yada Yada.md\\|33 Micah-04 Yada Yada]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li></ul> |
 
 { .block-language-dataview}
 

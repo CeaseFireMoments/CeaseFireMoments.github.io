@@ -7,7 +7,7 @@ Yah/God set apart specifically appointed time to celebrate the death, burial, an
 
 Doesn’t mean a Christian can’t take some time to get to know more about them. Check out our [Scripture Survey on Passover](https://calltoceasefire.wordpress.com/2024/02/11/video-scripture-survey-passover/?preview_id=1556&preview_nonce=6f23e348ee&preview=true) as well.
 
-## [[Zunpublished/Passover\|Passover]] (Pesach)\* Accept Jesus’s Sacrifice
+## [[Gate of Wisdom/Appointed Time/Passover\|Passover]] (Pesach)\* Accept Jesus’s Sacrifice
 
 ==**Called Out of Captivity:** As we observe this appointed time of YHWH/God’s, we are to remember we were once captives to lawlessness (sin), separated from God, just like the Israelites were in the land of Egypt. In order to get back in right relationship with God, there must be a sacrifice made because the law of sin requires a death. We are to remember he chose to bring us out of captivity through the sacrifice of his son, Jesus and set us free from lawlessness (sin). On this day, we remember his crucifixion, the original Good Friday.==
 

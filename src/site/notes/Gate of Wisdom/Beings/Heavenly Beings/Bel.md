@@ -9,7 +9,7 @@ Babylonian god
 
 | file.inlinks                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-46.md\\|Isa-46]]</li><li>[[Yada Yada Pauses/23 Isa-46 Yada Yada.md\\|23 Isa-46 Yada Yada]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/23 Isa-46 Yada Yada.md\\|23 Isa-46 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-46.md\\|Isa-46]]</li></ul> |
 
 { .block-language-dataview}
 

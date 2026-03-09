@@ -21,6 +21,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-37.md\\|Isa-37]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li><li>[[Yada Yada Pauses/33 Micah-04 Yada Yada.md\\|33 Micah-04 Yada Yada]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/33 Micah-04 Yada Yada.md\\|33 Micah-04 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-37.md\\|Isa-37]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li></ul> |
 
 { .block-language-dataview}
