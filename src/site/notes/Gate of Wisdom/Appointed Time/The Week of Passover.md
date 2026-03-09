@@ -4,9 +4,9 @@
 
 
 
-## 9th of Nisan
+# 9th of Nisan
 
-### When
+## When
 There was evening and there was morning, the first day ... (Creation)
 Friday sundown to Saturday sundown (Babylonian/Jewish)
 Friday midnight to Saturday midnight (Roman)
@@ -37,20 +37,20 @@ Day 4 12th
 Day 5 13th
 Day 6 14th
 
-## 10th of Nisan
+# 10th of Nisan
 
-### Notes
+## Notes
 * Lamb was chosen, perfect, male
 * Jesus road a donkey in to Jerusalem - chosen by the people.
 
-### When
+## When
 There was evening and there was morning, the first day (Creation)
 Saturday sundown to Sunday sundown (Babylonian/Jewish)
 Friday midnight to Saturday midnight (Roman)
 Palm Sunday (Christian)
 Selection of Lamb (Jews)
 
-### Torah - Foreshadow
+## Torah - Foreshadow
 In the _tenth of this month_ -- they take to them each man a lamb for the house of the fathers, a lamb for a house. (Exodus 12)
 
 * a lamb, a perfect one,
@@ -65,7 +65,7 @@ Binding to the vine his ass, And to the choice vine the colt of his ass, He hath
 
 Rejoice exceedingly, O daughter of Zion, Shout, O daughter of Jerusalem, Lo, thy King doth come to thee, Righteous -- and saved is He, Afflicted -- and riding on an ass, And on a colt -- a son of she-asses. (Zechariah 9)
 
-### Second Writings
+## Second Writings
 
 The _next day_ a large crowd who had come to the Passover feast took palm branches (John 12)
 
@@ -344,7 +344,7 @@ Jesus and the taught ones go to Garden of Gethsemane  (Matthew 26, Mark 14, Luk
 * Took Peter, James, and John with him to pray (Mark 14)
 * Withdrew a stones throw away to pray (Luke 22)
 
-## **Midnight**
+ **Midnight**
 
 Jesus betrayed by Judas and arrested  (Matthew 26, Mark 14, Luke 22, John 18)
 
