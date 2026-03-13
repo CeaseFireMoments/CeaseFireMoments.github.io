@@ -27,6 +27,6 @@
 
 | file.inlinks                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Covenant/Jacobiac.md\\|Jacobiac]]</li><li>[[Yada Yada Pauses/01 Gen-26 Yada Yada.md\\|01 Gen-26 Yada Yada]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/01 Gen-26 Yada Yada.md\\|01 Gen-26 Yada Yada]]</li><li>[[Gate of Wisdom/Covenant/Jacobiac.md\\|Jacobiac]]</li></ul> |
 
 { .block-language-dataview}
