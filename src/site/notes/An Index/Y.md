@@ -8,8 +8,8 @@
 - [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
 - [[Sacred Truces/Scripture Survey – YHWH Said\|Scripture Survey – YHWH Said]]
 - [[Gate of Wisdom/Beings/Yahweh of Armies\|Yahweh of Armies]]
-- [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]
 - [[Gate of Wisdom/Y/Yehoshua\|Yehoshua]]
+- [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]
 - [[Gate of Wisdom/Beings/Divine Council/YHWH\|YHWH]]
 - [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]
 

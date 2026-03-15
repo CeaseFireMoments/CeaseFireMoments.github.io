@@ -71,6 +71,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Consequence/Disobedience/Chaos\|Chaos]]                                                       |
 | [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]                                             |
 | [[Gate of Wisdom/Beings/Children of God\|Children of God]]                                                     |
+| [[Gate of Wisdom/C/chosen ones\|chosen ones]]                                                                  |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Christ\|Christ]]                                                       |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]                                |
 | [[Gate of Wisdom/C/Clean\|Clean]]                                                                              |
@@ -85,7 +86,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/deacons\|deacons]]                                                        |
 | [[Gate of Wisdom/Beings/Demons\|Demons]]                                                                       |
 | [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                         |
-| [[Gate of Wisdom/D/Disciple\|Disciple]]                                                                        |
+| [[Gate of Wisdom/Beings/Human Beings/Disciple\|Disciple]]                                                      |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]                                                       |
 | [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]                                                     |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                  |

@@ -10,7 +10,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/deacons\|deacons]]
 - [[Gate of Wisdom/Beings/Demons\|Demons]]
 - [[Gate of Wisdom/Beings/Devil\|Devil]]
-- [[Gate of Wisdom/D/Disciple\|Disciple]]
+- [[Gate of Wisdom/Beings/Human Beings/Disciple\|Disciple]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]
 - [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]

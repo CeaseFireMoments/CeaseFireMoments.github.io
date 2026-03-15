@@ -12,6 +12,7 @@
 - [[Gate of Wisdom/Consequence/Disobedience/Chaos\|Chaos]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 - [[Gate of Wisdom/Beings/Children of God\|Children of God]]
+- [[Gate of Wisdom/C/chosen ones\|chosen ones]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Christ\|Christ]]
 - [[Gate of Wisdom/C/Clean\|Clean]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/cloud of witnesses\|cloud of witnesses]]

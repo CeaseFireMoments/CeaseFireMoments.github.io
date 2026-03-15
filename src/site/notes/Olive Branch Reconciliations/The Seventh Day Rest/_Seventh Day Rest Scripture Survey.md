@@ -51,17 +51,15 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 [[Olive Branch Reconciliations/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]
 # Second Writings (New Testament)
 
-- Matthew 8:14-17, Mark 1:21-34, Luke 4:31-41  [[Olive Branch Reconciliations/The Seventh Day Rest/36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark)\|36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark)]]
-- Matthew 12:1–8, Mark 2:23–28, Luke 6:1–9 [[Zunpublished/37 The Seventh Day Rest (41 Mark)\|37 The Seventh Day Rest (41 Mark)]]
-- Matthew 12:9-14, Mark 3:2–4, Luke 6:6-11
-- Matthew 24:20
+- Matthew 24:20 [[Olive Branch Reconciliations/The Seventh Day Rest/36 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)\|36 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]
 - Matthew 27:62, Mark 15:42, Luke 23:54-56, John 19:31, 42
 - Matthew 28:1, Mark 16:1-9
-- Mark 1:21-28, Luke 4:31-37, Luke 24:1, John 20:1, 19
+- Mark 1:21-34, Luke 4:31-41
 - Mark 6:2 
 - Luke 4:16, 31
 - Luke 13:10–17
 - Luke 14:1–6 
+- Matthew 12:1–8, Mark 2:23–28, Luke 6:1–9
 - John 5:9–18
 - John 7:22–23
 - John 9:14–16 
