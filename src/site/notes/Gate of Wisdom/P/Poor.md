@@ -54,7 +54,7 @@ a djective, nominative, plural, masculineFORM
 - 
 | file.inlinks                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
 
 { .block-language-dataview}
 

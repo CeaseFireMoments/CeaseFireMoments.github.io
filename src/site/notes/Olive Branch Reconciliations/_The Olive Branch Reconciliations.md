@@ -4,8 +4,8 @@
 
 | Table of Content                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/36 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)\|36 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]                                          |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                                                  |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]                                          |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark)\|36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark)]]                                                              |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]                                                                                  |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)\|35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)]]                                                        |

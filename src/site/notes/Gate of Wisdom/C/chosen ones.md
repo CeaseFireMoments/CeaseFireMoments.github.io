@@ -27,6 +27,6 @@ Frequently used for God's chosen people (Israel), individuals (e.g., David, the 
 
 | file.inlinks                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/36 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew).md\\|36 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]</li></ul> |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew).md\\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]</li></ul> |
 
 { .block-language-dataview}
