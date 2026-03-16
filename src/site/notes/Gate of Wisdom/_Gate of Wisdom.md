@@ -79,6 +79,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]                                                   |
 | [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                       |
 | [[Gate of Wisdom/C/Common\|Common]]                                                                            |
+| [[Gate of Wisdom/C/covetous\|covetous]]                                                                        |
 | [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]]                                                       |
 | [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]                                                     |
 | [[Gate of Wisdom/Covenant/Davidic\|Davidic]]                                                                   |
@@ -89,11 +90,13 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Disciple\|Disciple]]                                                      |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]                                                       |
 | [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]                                                     |
+| [[Gate of Wisdom/Beings/Human Beings/drunkard\|drunkard]]                                                      |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]                                                      |
 | [[Gate of Wisdom/Beings/elder\|elder]]                                                                         |
 | [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]                                                        |
 | [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                              |
+| [[Gate of Wisdom/Beings/Human Beings/extortionist\|extortionist]]                                              |
 | [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                         |
 | [[Gate of Wisdom/F/Fast\|Fast]]                                                                                |
 | [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]                                                          |
@@ -124,6 +127,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/H/Humble in Spirit\|Humble in Spirit]]                                                        |
 | [[Gate of Wisdom/H/Hunger and Thirst\|Hunger and Thirst]]                                                      |
 | [[Gate of Wisdom/I/Idiom\|Idiom]]                                                                              |
+| [[Gate of Wisdom/Beings/Human Beings/idolater\|idolater]]                                                      |
 | [[Gate of Wisdom/I/image\|image]]                                                                              |
 | [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]]                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]                                                            |
@@ -214,6 +218,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/M/Sermon on the Mount\|Sermon on the Mount]]                                                  |
 | [[Gate of Wisdom/S/Serpent\|Serpent]]                                                                          |
 | [[Gate of Wisdom/D/Seventh Day\|Seventh Day]]                                                                  |
+| [[Gate of Wisdom/F/sexual immorality\|sexual immorality]]                                                      |
 | [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]                                                             |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Shedim\|Shedim]]                                                       |
 | [[Gate of Wisdom/S/Shem\|Shem]]                                                                                |
@@ -222,6 +227,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/S/Sin\|Sin]]                                                                                  |
 | [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]                                                         |
 | [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]             |
+| [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                    |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Son of Man\|Son of Man]]                                               |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Sons of God\|Sons of God]]                                             |
 | [[Gate of Wisdom/S/Soul\|Soul]]                                                                                |

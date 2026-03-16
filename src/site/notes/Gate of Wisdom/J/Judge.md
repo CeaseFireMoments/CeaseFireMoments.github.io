@@ -15,13 +15,14 @@
 - [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v15\|Lev-19#v15]] [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-01#v17\|Deut-01#v17]]- "Ye shall do no unrighteousness in judgment [[Zunpublished/Judgment Mishpatim\|Judgment Mishpatim]]; thou shalt not respect the person of the poor, nor honour the person of the mighty."
 - [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v17\|Lev-19#v17]] Thou shalt reprove (yākaḥ) thy neighbour, and not suffer sin upon him."
 - [[_The Scrolls/2. Neviim (Prophets)/38 - Zechariah/Zech-07#v9\|Zech-07#v9]] "Execute true judgment (mishpāṭ-ʾĕmet)."
+- False Witness: [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2025.10.24 Shabbat Reading.md\\|2025.10.24 Shabbat Reading]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Yada Yada Pauses/33 Micah-04 Yada Yada.md\\|33 Micah-04 Yada Yada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2025.10.24 Shabbat Reading.md\\|2025.10.24 Shabbat Reading]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Yada Yada Pauses/33 Micah-04 Yada Yada.md\\|33 Micah-04 Yada Yada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-05.md\\|1 Cor-05]]</li></ul> |
 
 { .block-language-dataview}
 

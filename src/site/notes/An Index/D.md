@@ -13,6 +13,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/Disciple\|Disciple]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]
 - [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]
+- [[Gate of Wisdom/Beings/Human Beings/drunkard\|drunkard]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire\|Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire]]
 - [[Gate of Wisdom/D/Seventh Day\|Seventh Day]]

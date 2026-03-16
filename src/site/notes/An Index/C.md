@@ -19,6 +19,7 @@
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/C/Common\|Common]]
+- [[Gate of Wisdom/C/covetous\|covetous]]
 - [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]]
 - [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
 - [[Sacred Truces/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]
