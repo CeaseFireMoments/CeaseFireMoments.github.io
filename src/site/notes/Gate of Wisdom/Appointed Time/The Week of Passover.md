@@ -482,8 +482,8 @@ Jesus ascends (Mark 16, Luke 24)
 
 # Connections
 
-| file.inlinks                                                                              |
-| ----------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/N/Notes of 14th of Nisan.md\\|Notes of 14th of Nisan]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/N/Notes of 14th of Nisan.md\\|Notes of 14th of Nisan]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li></ul> |
 
 { .block-language-dataview}

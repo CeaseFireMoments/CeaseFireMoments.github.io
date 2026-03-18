@@ -19,13 +19,14 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]                                                      |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]                                          |
 | [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                                                                                                                                                   |
 | [[Gate of Wisdom/C/covetous\|covetous]]                                                                                                                                                                                                       |
 | [[Gate of Wisdom/F/sexual immorality\|sexual immorality]]                                                                                                                                                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/idolater\|idolater]]                                                                                                                                                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/drunkard\|drunkard]]                                                                                                                                                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/extortionist\|extortionist]]                                                                                                                                                                             |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]                                          |
 | [[Gate of Wisdom/C/chosen ones\|chosen ones]]                                                                                                                                                                                                 |
 | [[Sacred Truces/Scripture Survey Christian Spring Holidays\|Scripture Survey Christian Spring Holidays]]                                                                                                                                      |
 | [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]                                                                                                                                                                  |
@@ -38,7 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Olive Branch Reconciliations/The Seventh Day Rest/35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)\|35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)]]                                                        |
 | [[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]] |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)\|34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)]]                    |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]                                  |
 
 { .block-language-dataview}
 

@@ -40,7 +40,7 @@ Pray that <mark style="background: #E0CC4BA6;">your</mark> <mark style="backgrou
 # Findings
 
 ## The Sabbath is not for a "Christian":
-- Christians do not exist yet.
+- The term Christians did not exist until around 40-44AD, a decade or more after Jesus was crucified. Originally, followers of Yeshua/Jesus of Nazareth were called "People of The Way".
 ## It is a Jewish thing: 
 - "Jew" in the New Testament can refers to:
 	- a person belonging to the Jewish people

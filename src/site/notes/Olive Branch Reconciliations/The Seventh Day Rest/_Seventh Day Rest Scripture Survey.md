@@ -53,7 +53,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 
 - Mark 1:21-34, Luke 4:31-41 [[Olive Branch Reconciliations/The Seventh Day Rest/36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark)\|36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark)]]
 - Matthew 24:20 [[Olive Branch Reconciliations/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]
-- Matthew 27:62, Mark 15:42, Luke 23:54-56, John 19:31, 42
+- Luke 23:54-56 (Matthew 27:62, Mark 15:42, , John 19:31, 42)  [[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]
 - Matthew 28:1, Mark 16:1-9
 - Mark 6:2 
 - Luke 4:16, 31

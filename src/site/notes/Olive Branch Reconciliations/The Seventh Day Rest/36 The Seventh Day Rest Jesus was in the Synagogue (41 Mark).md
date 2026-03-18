@@ -46,7 +46,7 @@ Mark 1:32 <mark style="background: #D2B3FFA6;">At evening</mark>, <mark style="b
 # Findings
 
 ## The Sabbath is not for a "Christian":
-- Christians do not exist yet. A "Christian" means "follower of Christ" or "belonging to Christ"
+- The term Christians did not exist until around 40-44AD, a decade or more after Jesus was crucified. Originally, followers of Yeshua/Jesus of Nazareth were called "People of The Way".
 - Disciples (a student who learns from his teacher and desires to follow his example) of Jesus of Nazareth went into the assembly on the seventh day which began at sundown on what we now call Friday evening.
 - Jesus the Christos (anointed one) went into the assembly on the seventh day which began at sundown on what we now call Friday evening.
 ## It is a Jewish thing: 
