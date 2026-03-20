@@ -16,6 +16,6 @@ While visual appearances in human form are more common,8 the New Testament also 
 
 | file.inlinks                                                                                                                                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14).md\\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]</li><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14).md\\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]</li></ul> |
 
 { .block-language-dataview}

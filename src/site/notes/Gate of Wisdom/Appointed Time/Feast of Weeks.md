@@ -6,8 +6,8 @@ See [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] and [[Gate of Wisdom/
 
 # Connections
 
-| file.inlinks                                                                                  |
-| --------------------------------------------------------------------------------------------- |
-| <ul><li>[[Zunpublished/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
+| file.inlinks                                                                                    |
+| ----------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
 
 { .block-language-dataview}

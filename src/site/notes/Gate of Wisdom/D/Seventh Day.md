@@ -12,7 +12,7 @@
 - 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31).md\\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35).md\\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]</li></ul> |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35).md\\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31).md\\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]</li></ul> |
 
 { .block-language-dataview}
 

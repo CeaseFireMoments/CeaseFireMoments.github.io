@@ -19,6 +19,8 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Torah Portions/2026.03.19 Shabbat Reading\|2026.03.19 Shabbat Reading]]                                                                                                                            |
+| [[Gate of Wisdom/T/tribulation\|tribulation]]                                                                                                                                                        |
 | [[Assets/Clippings/Is Jesus Pre-trib, mid-trib, or post-trib\|Is Jesus Pre-trib, mid-trib, or post-trib]]                                                                                            |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Red Sea\|Red Sea]]                                                                                                                                  |
 | [[Gate of Wisdom/Appointed Time/Feast of Weeks\|Feast of Weeks]]                                                                                                                                     |
@@ -37,8 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]                                                                                                                                  |
 | [[Yada Yada Pauses/33 Micah-04 Yada Yada\|33 Micah-04 Yada Yada]]                                                                                                                                    |
 | [[Gate of Wisdom/Z/Zion\|Zion]]                                                                                                                                                                      |
-| [[Gate of Wisdom/S/Sacrifice\|Sacrifice]]                                                                                                                                                            |
-| [[Gate of Wisdom/T/Thanksgiving\|Thanksgiving]]                                                                                                                                                      |
 
 { .block-language-dataview}
 

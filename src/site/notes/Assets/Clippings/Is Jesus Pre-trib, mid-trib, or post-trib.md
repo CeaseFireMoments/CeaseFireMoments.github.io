@@ -126,8 +126,8 @@ Originally published on WordPress https://calltoceasefire.wordpress.com/2023/08/
 
 # Connections
 
-| file.inlinks                                                                                  |
-| --------------------------------------------------------------------------------------------- |
-| <ul><li>[[Zunpublished/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
+| file.inlinks                                                                                    |
+| ----------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
 
 { .block-language-dataview}

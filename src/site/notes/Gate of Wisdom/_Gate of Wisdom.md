@@ -258,6 +258,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/T/Torah\|Torah]]                                                                              |
 | [[Gate of Wisdom/T/Torment\|Torment]]                                                                          |
 | [[Gate of Wisdom/T/Transgression\|Transgression]]                                                              |
+| [[Gate of Wisdom/T/tribulation\|tribulation]]                                                                  |
 | [[Gate of Wisdom/U/Unclean\|Unclean]]                                                                          |
 | [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                |
 | [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]                                                     |

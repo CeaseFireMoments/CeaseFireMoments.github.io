@@ -27,5 +27,6 @@
 - [[Gate of Wisdom/T/Torment\|Torment]]
 - [[Sacred Truces/Traditional Teaching vs Scripture - Isaiah 66\|Traditional Teaching vs Scripture - Isaiah 66]]
 - [[Gate of Wisdom/T/Transgression\|Transgression]]
+- [[Gate of Wisdom/T/tribulation\|tribulation]]
 
 { .block-language-dataview}

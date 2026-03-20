@@ -23,8 +23,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-10.md\\|Exod-10]]</li><li>[[Zunpublished/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
+| file.inlinks                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-10.md\\|Exod-10]]</li><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
 
 { .block-language-dataview}
