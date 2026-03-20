@@ -4,6 +4,7 @@
 
 
 - [[Gate of Wisdom/Beings/Heavenly Beings/cloud of witnesses\|cloud of witnesses]]
+- [[Gate of Wisdom/Appointed Time/Feast of Weeks\|Feast of Weeks]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount vs 4 The Weeping\|Matthew 5 Sermon on the Mount vs 4 The Weeping]]
 - [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]
 - [[Gate of Wisdom/T/Ten Words\|Ten Words]]

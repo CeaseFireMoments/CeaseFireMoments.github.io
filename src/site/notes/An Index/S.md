@@ -54,6 +54,7 @@
 - [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
 - [[Sacred Truces/Please pass the salt\|Please pass the salt]]
 - [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]
+- [[Gate of Wisdom/Dwelling Places/Realm of Humans/Red Sea\|Red Sea]]
 - [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
 - [[Gate of Wisdom/S/Sacrifice\|Sacrifice]]
 - [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]

@@ -103,6 +103,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                 |
 | [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]                                   |
 | [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]                         |
+| [[Gate of Wisdom/Appointed Time/Feast of Weeks\|Feast of Weeks]]                                               |
 | [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]                                           |
 | [[Gate of Wisdom/F/Foreigner\|Foreigner]]                                                                      |
 | [[Gate of Wisdom/F/Forgive\|Forgive]]                                                                          |
@@ -116,6 +117,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]                                                          |
 | [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]]                                                     |
 | [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]                                                     |
+| [[Gate of Wisdom/H/hardened\|hardened]]                                                                        |
 | [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]                                                 |
 | [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]                                                          |
 | [[Gate of Wisdom/H/Holy\|Holy]]                                                                                |
@@ -199,6 +201,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                                          |
 | [[Gate of Wisdom/R/Ransom\|Ransom]]                                                                            |
 | [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]                                                        |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Red Sea\|Red Sea]]                                            |
 | [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]                                             |
 | [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]                                                |
 | [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]                               |

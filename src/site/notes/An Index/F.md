@@ -11,6 +11,7 @@
 - [[Gate of Wisdom/Appointed Time/Feast\|Feast]]
 - [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 - [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
+- [[Gate of Wisdom/Appointed Time/Feast of Weeks\|Feast of Weeks]]
 - [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]
 - [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]
 - [[Gate of Wisdom/F/Foreigner\|Foreigner]]

@@ -4,6 +4,7 @@
 
 
 - [[Yada Yada Pauses/58 Heb-12 YadaYada\|58 Heb-12 YadaYada]]
+- [[Gate of Wisdom/H/hardened\|hardened]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]
 - [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]
 - [[Yada Yada Pauses/Highlight Legend\|Highlight Legend]]
