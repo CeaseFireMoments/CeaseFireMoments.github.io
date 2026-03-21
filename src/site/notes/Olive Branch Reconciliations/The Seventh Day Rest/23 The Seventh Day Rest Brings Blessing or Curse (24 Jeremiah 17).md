@@ -33,7 +33,7 @@ But <mark style="background: #B2A23AA6;">they</mark> <mark style="background: #4
 	- “This city shall remain for ever” enduring peace under God’s favor
 	- "Kindle a fire… it shall not be quenched" signifies judgment that cannot be reversed once it begins
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
-- Your fathers - [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]] brought out of [[Zunpublished/Egypt\|Egypt]].
+- Your fathers - [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]] brought out of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]].
 - You - [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
 - Inhabitants of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]
 

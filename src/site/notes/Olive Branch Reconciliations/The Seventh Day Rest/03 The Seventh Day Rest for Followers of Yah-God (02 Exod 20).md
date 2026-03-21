@@ -48,7 +48,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 	- blessed=barakh (בֵּרַךְ) conveys the act of bestowing divine favor, prosperity, or consecration. He set it apart, endowing it with special significance and sanctity as a day of rest.
 
 ## **When**:
-- In the third month after the Hebrews and others were brought out of the land of [[Zunpublished/Egypt\|Egypt]] by Yah-God.
+- In the third month after the Hebrews and others were brought out of the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]] by Yah-God.
 - After [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]] has gone up and down the mountain three times
 	- 1st time down, the people agreed to listen closely to God's voice and keep his covenant.
 	- 2nd time down, he told the people to consecrate themselves because God was going to draw near.

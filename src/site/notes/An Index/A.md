@@ -23,6 +23,7 @@
 - [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]
 - [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]
+- [[Gate of Wisdom/Dwelling Places/Realm of Humans/Assyria\|Assyria]]
 - [[Gate of Wisdom/Good News/Atonement\|Atonement]]
 - [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]
 - [[Gate of Wisdom/A/Avad\|Avad]]

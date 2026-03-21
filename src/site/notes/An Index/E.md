@@ -7,6 +7,7 @@
 - [[Gate of Wisdom/Beings/Heavenly Beings/Beney Elohim\|Beney Elohim]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]
 - [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]
+- [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]
 - [[Gate of Wisdom/Beings/elder\|elder]]
 - [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
 - [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]

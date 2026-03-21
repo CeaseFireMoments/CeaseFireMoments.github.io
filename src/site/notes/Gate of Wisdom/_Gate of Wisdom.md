@@ -41,6 +41,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]                                                              |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]               |
 | [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]                                                                   |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Assyria\|Assyria]]                                                         |
 | [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                                            |
 | [[Gate of Wisdom/Good News/Atonement\|Atonement]]                                                                           |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]]                                                                        |
@@ -93,6 +94,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/drunkard\|drunkard]]                                                                   |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                               |
 | [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]                                                                   |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]                                                             |
 | [[Gate of Wisdom/Beings/elder\|elder]]                                                                                      |
 | [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]                                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                                           |
