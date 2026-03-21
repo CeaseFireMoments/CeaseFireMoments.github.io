@@ -4,7 +4,7 @@
 
 | Table of Content                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Assets/Clippings/Is Jesus Pre-trib, mid-trib, or post-trib\|Is Jesus Pre-trib, mid-trib, or post-trib]]                                                        |
+| [[_Assets/Clippings/Is Jesus Pre-trib, mid-trib, or post-trib\|Is Jesus Pre-trib, mid-trib, or post-trib]]                                                       |
 | [[Sacred Truces/Scripture Survey Christian Spring Holidays\|Scripture Survey Christian Spring Holidays]]                                                         |
 | [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]                                                                    |
 | [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]                                                                                      |

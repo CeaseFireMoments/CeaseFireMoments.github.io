@@ -15,7 +15,7 @@ In later temple-centered observances, the lambs were slain late on the 14th and 
 It is important to understand that Ezra’s decree did not change the time for killing the Passover lambs. His Passover law did not in any way alter or contradict the Passover ordinances of God, as recorded in Scripture. The measures that Ezra enforced were aimed at protecting the true worship of God and upholding His laws—not changing or replacing them. His restriction of the Passover to the area of Jerusalem promoted a temple centered observance, but it did not replace or prohibit the domestic killing of the Passover within that area.
 
 
-![Notes of 14th of Nisan.webp](/img/user/Assets/attachments/Notes%20of%2014th%20of%20Nisan.webp)
+![Notes of 14th of Nisan.webp](/img/user/_Assets/attachments/Notes%20of%2014th%20of%20Nisan.webp)
 
 
 For those Jews who reckoned the day from sunrise to sunrise, the 14th day of the first month began twelve hours later than by Scriptural reckoning. The Jews who kept the Passover at this later time were actually observing the 15th, according to Scriptural reckoning, although it was designated as the 14th day of the month by Egyptian reckoning. After the Egyptian domination ended, the Jews went back to reckoning the day from sunset to sunset, but the influence of the Egyptian practice had a lasting effect by contributing to the development of a 15th Passover.

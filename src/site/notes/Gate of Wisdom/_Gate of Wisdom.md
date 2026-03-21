@@ -8,271 +8,271 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 
 ![Asset Gate of Wisdom.png](/img/user/_Assets/attachments/Asset%20Gate%20of%20Wisdom.png)
 
-| Table of Content                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/_Gate of Wisdom\|_Gate of Wisdom]]                                                            |
-| [[Gate of Wisdom/Numbers/01\|01]]                                                                              |
-| [[Gate of Wisdom/Numbers/02\|02]]                                                                              |
-| [[Gate of Wisdom/Numbers/03\|03]]                                                                              |
-| [[Gate of Wisdom/Numbers/04\|04]]                                                                              |
-| [[Gate of Wisdom/Numbers/05\|05]]                                                                              |
-| [[Gate of Wisdom/Numbers/06\|06]]                                                                              |
-| [[Gate of Wisdom/Numbers/07\|07]]                                                                              |
-| [[Gate of Wisdom/Numbers/08\|08]]                                                                              |
-| [[Gate of Wisdom/Numbers/09\|09]]                                                                              |
-| [[Gate of Wisdom/Numbers/10\|10]]                                                                              |
-| [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]]                                                            |
-| [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Aarons Staff\|Aarons Staff]]                  |
-| [[Gate of Wisdom/Beings/Human Beings/Abimelech\|Abimelech]]                                                    |
-| [[Gate of Wisdom/Abomination/Abomination\|Abomination]]                                                        |
-| [[Gate of Wisdom/Abomination/Abomination of the Desolation\|Abomination of the Desolation]]                    |
-| [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]                                                        |
-| [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]]                                                               |
-| [[Gate of Wisdom/Beings/Adversary\|Adversary]]                                                                 |
-| [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]                                                              |
-| [[Gate of Wisdom/A/Alms\|Alms]]                                                                                |
-| [[Gate of Wisdom/Beings/Human Beings/Ambassador\|Ambassador]]                                                  |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]]                                                         |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Angel of the Lord\|Angel of the Lord]]                                 |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Angel of Yahweh\|Angel of Yahweh]]                                     |
-| [[Gate of Wisdom/Beings/Antichrist\|Antichrist]]                                                               |
-| [[Gate of Wisdom/Beings/Human Beings/apostle\|apostle]]                                                        |
-| [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]                                               |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]                                                 |
-| [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]  |
-| [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]                                                      |
-| [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                               |
-| [[Gate of Wisdom/Good News/Atonement\|Atonement]]                                                              |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]]                                                           |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]                                            |
-| [[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]]                                                |
-| [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]]                                                          |
-| [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]]                                                            |
-| [[Gate of Wisdom/B/Beast\|Beast]]                                                                              |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Beer Lahai Roi\|Beer Lahai Roi]]                              |
-| [[Gate of Wisdom/B/Bekah\|Bekah]]                                                                              |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Bel\|Bel]]                                                             |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Beney Elohim\|Beney Elohim]]                                           |
-| [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]                                                      |
-| [[Gate of Wisdom/Beings/Human Beings/Benoni\|Benoni]]                                                          |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]]                                              |
-| [[Gate of Wisdom/B/Birthright\|Birthright]]                                                                    |
-| [[Gate of Wisdom/B/Bitterness\|Bitterness]]                                                                    |
-| [[Gate of Wisdom/B/Blessed\|Blessed]]                                                                          |
-| [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]                                                    |
-| [[Gate of Wisdom/B/Bronze\|Bronze]]                                                                            |
-| [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]                           |
-| [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]                           |
-| [[Gate of Wisdom/B/Burden\|Burden]]                                                                            |
-| [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]                                                     |
-| [[Gate of Wisdom/Dwelling Places/The Camp/Camp\|Camp]]                                                         |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Canaan\|Canaan]]                                              |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs\|Cave of the Patriarchs]]              |
-| [[Gate of Wisdom/Consequence/Disobedience/Chaos\|Chaos]]                                                       |
-| [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]                                             |
-| [[Gate of Wisdom/Beings/Children of God\|Children of God]]                                                     |
-| [[Gate of Wisdom/C/chosen ones\|chosen ones]]                                                                  |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Christ\|Christ]]                                                       |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]                                |
-| [[Gate of Wisdom/C/Clean\|Clean]]                                                                              |
-| [[Gate of Wisdom/Beings/Heavenly Beings/cloud of witnesses\|cloud of witnesses]]                               |
-| [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]                                                   |
-| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                       |
-| [[Gate of Wisdom/C/Common\|Common]]                                                                            |
-| [[Gate of Wisdom/C/covetous\|covetous]]                                                                        |
-| [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]]                                                       |
-| [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]                                                     |
-| [[Gate of Wisdom/Covenant/Davidic\|Davidic]]                                                                   |
-| [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]                                           |
-| [[Gate of Wisdom/Beings/Human Beings/deacons\|deacons]]                                                        |
-| [[Gate of Wisdom/Beings/Demons\|Demons]]                                                                       |
-| [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                         |
-| [[Gate of Wisdom/Beings/Human Beings/Disciple\|Disciple]]                                                      |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]                                                       |
-| [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]                                                     |
-| [[Gate of Wisdom/Beings/Human Beings/drunkard\|drunkard]]                                                      |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                  |
-| [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]                                                      |
-| [[Gate of Wisdom/Beings/elder\|elder]]                                                                         |
-| [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]                                                        |
-| [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                              |
-| [[Gate of Wisdom/Beings/Human Beings/extortionist\|extortionist]]                                              |
-| [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                         |
-| [[Gate of Wisdom/F/Fast\|Fast]]                                                                                |
-| [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]                                                          |
-| [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                 |
-| [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]                                   |
-| [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]                         |
-| [[Gate of Wisdom/Appointed Time/Feast of Weeks\|Feast of Weeks]]                                               |
-| [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]                                           |
-| [[Gate of Wisdom/F/Foreigner\|Foreigner]]                                                                      |
-| [[Gate of Wisdom/F/Forgive\|Forgive]]                                                                          |
-| [[Gate of Wisdom/Consequence/Disobedience/Forgiveness\|Forgiveness]]                                           |
-| [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]                                             |
-| [[Gate of Wisdom/Sources/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]]  |
-| [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]                                                        |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                                              |
-| [[Gate of Wisdom/Beings/Divine Council/God\|God]]                                                              |
-| [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]] |
-| [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]                                                          |
-| [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]]                                                     |
-| [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]                                                     |
-| [[Gate of Wisdom/H/hardened\|hardened]]                                                                        |
-| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]                                                 |
-| [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]                                                          |
-| [[Gate of Wisdom/H/Holy\|Holy]]                                                                                |
-| [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]                                           |
-| [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]]                                                              |
-| [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]                                        |
-| [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]                                          |
-| [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]                                          |
-| [[Gate of Wisdom/H/Humble in Spirit\|Humble in Spirit]]                                                        |
-| [[Gate of Wisdom/H/Hunger and Thirst\|Hunger and Thirst]]                                                      |
-| [[Gate of Wisdom/I/Idiom\|Idiom]]                                                                              |
-| [[Gate of Wisdom/Beings/Human Beings/idolater\|idolater]]                                                      |
-| [[Gate of Wisdom/I/image\|image]]                                                                              |
-| [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]]                                              |
-| [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]                                                            |
-| [[Gate of Wisdom/Covenant/Isaacic\|Isaacic]]                                                                   |
-| [[Gate of Wisdom/Beings/Human Beings/Isaiah\|Isaiah]]                                                          |
-| [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]                                                          |
-| [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]                                                  |
-| [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]                                                            |
-| [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]]                                                                 |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]                                        |
-| [[Gate of Wisdom/Beings/Jesus\|Jesus]]                                                                         |
-| [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]                                                                |
-| [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]                                |
-| [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]                                                            |
-| [[Gate of Wisdom/J/Judge\|Judge]]                                                                              |
-| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                 |
-| [[Gate of Wisdom/Beings/Human Beings/Keturah\|Keturah]]                                                        |
-| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]                                 |
-| [[Gate of Wisdom/Good News/Kingdom of Heaven\|Kingdom of Heaven]]                                              |
-| [[Gate of Wisdom/K/Kipper\|Kipper]]                                                                            |
-| [[Gate of Wisdom/L/Lawlessness\|Lawlessness]]                                                                  |
-| [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]                                                              |
-| [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]]                                                              |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                                                     |
-| [[Gate of Wisdom/L/Lust\|Lust]]                                                                                |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]]                                                |
-| [[Gate of Wisdom/Sign/Mark\|Mark]]                                                                             |
-| [[Gate of Wisdom/M/Meek\|Meek]]                                                                                |
-| [[Gate of Wisdom/M/Memorial\|Memorial]]                                                                        |
-| [[Gate of Wisdom/M/Merciful\|Merciful]]                                                                        |
-| [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]]                                                       |
-| [[Gate of Wisdom/Beings/Messenger\|Messenger]]                                                                 |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Messiah\|Messiah]]                                                     |
-| [[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]                                                            |
-| [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]                                                                          |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Morning Star\|Morning Star]]                                           |
-| [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]]                                                                     |
-| [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]                                                            |
-| [[Gate of Wisdom/M/mount\|mount]]                                                                              |
-| [[Gate of Wisdom/M/Mourn\|Mourn]]                                                                              |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]                                                     |
-| [[Gate of Wisdom/Beings/Human Beings/Nahum\|Nahum]]                                                            |
-| [[Gate of Wisdom/N/Name\|Name]]                                                                                |
-| [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]                                                          |
-| [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]                                                      |
-| [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]                                                           |
-| [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]                                            |
-| [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]                                                        |
-| [[Gate of Wisdom/Offering/Offerings\|Offerings]]                                                               |
-| [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]                                                              |
-| [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]                               |
-| [[Gate of Wisdom/O/overseer\|overseer]]                                                                        |
-| [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]]                                               |
-| [[Zunpublished/Pastor\|Pastor]]                                                                                |
-| [[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]]                                                              |
-| [[Gate of Wisdom/Offering/Peace Offering\|Peace Offering]]                                                     |
-| [[Gate of Wisdom/P/Peacemaker\|Peacemaker]]                                                                    |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Peniel\|Peniel]]                                              |
-| [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]                                                         |
-| [[Gate of Wisdom/P/Perfect\|Perfect]]                                                                          |
-| [[Gate of Wisdom/Covenant/Perpetural\|Perpetural]]                                                             |
-| [[Gate of Wisdom/Beings/Human Beings/Pharisee\|Pharisee]]                                                      |
-| [[Gate of Wisdom/P/Poor\|Poor]]                                                                                |
-| [[Gate of Wisdom/P/Pray\|Pray]]                                                                                |
-| [[Gate of Wisdom/P/Prayer\|Prayer]]                                                                            |
-| [[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]                                     |
-| [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]]                                             |
-| [[Gate of Wisdom/P/Pure\|Pure]]                                                                                |
-| [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                                          |
-| [[Gate of Wisdom/R/Ransom\|Ransom]]                                                                            |
-| [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]                                                        |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Red Sea\|Red Sea]]                                            |
-| [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]                                             |
-| [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]                                                |
-| [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]                               |
-| [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]                                        |
-| [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]                                                         |
-| [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]                                                 |
-| [[Gate of Wisdom/Ruach/Ruach\|Ruach]]                                                                          |
-| [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]                                                             |
-| [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]                                                           |
-| [[Gate of Wisdom/S/Sacrifice\|Sacrifice]]                                                                      |
-| [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]                                                            |
-| [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                         |
-| [[Gate of Wisdom/S/Save\|Save]]                                                                                |
-| [[Gate of Wisdom/Beings/Saviors\|Saviors]]                                                                     |
-| [[Gate of Wisdom/G/Sea of Galilee\|Sea of Galilee]]                                                            |
-| [[Gate of Wisdom/Sign/Seal\|Seal]]                                                                             |
-| [[Gate of Wisdom/M/Sermon on the Mount\|Sermon on the Mount]]                                                  |
-| [[Gate of Wisdom/S/Serpent\|Serpent]]                                                                          |
-| [[Gate of Wisdom/D/Seventh Day\|Seventh Day]]                                                                  |
-| [[Gate of Wisdom/F/sexual immorality\|sexual immorality]]                                                      |
-| [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]                                                             |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Shedim\|Shedim]]                                                       |
-| [[Gate of Wisdom/S/Shem\|Shem]]                                                                                |
-| [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]                                                |
-| [[Gate of Wisdom/Sign/Sign\|Sign]]                                                                             |
-| [[Gate of Wisdom/S/Sin\|Sin]]                                                                                  |
-| [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]                                                         |
-| [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]             |
-| [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                    |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Son of Man\|Son of Man]]                                               |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Sons of God\|Sons of God]]                                             |
-| [[Gate of Wisdom/S/Soul\|Soul]]                                                                                |
-| [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]                                         |
-| [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]                                                               |
-| [[Gate of Wisdom/S/Synagogue\|Synagogue]]                                                                      |
-| [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]                                           |
-| [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]            |
-| [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]  |
-| [[Gate of Wisdom/Beings/Human Beings/teacher\|teacher]]                                                        |
-| [[Gate of Wisdom/Ruach/Gift/Teaching\|Teaching]]                                                               |
-| [[Gate of Wisdom/T/Tefillos\|Tefillos]]                                                                        |
-| [[Gate of Wisdom/T/temptation\|temptation]]                                                                    |
-| [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]                                                        |
-| [[Gate of Wisdom/T/Ten Words\|Ten Words]]                                                                      |
-| [[Gate of Wisdom/T/Testimony\|Testimony]]                                                                      |
-| [[Gate of Wisdom/T/Thanksgiving\|Thanksgiving]]                                                                |
-| [[Gate of Wisdom/D/The Dragons Prophecy\|The Dragons Prophecy]]                                                |
-| [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                   |
-| [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]                                |
-| [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]                                   |
-| [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                    |
-| [[Gate of Wisdom/W/The Word\|The Word]]                                                                        |
-| [[Gate of Wisdom/S/Timeline\|Timeline]]                                                                        |
-| [[Gate of Wisdom/T/Torah\|Torah]]                                                                              |
-| [[Gate of Wisdom/T/Torment\|Torment]]                                                                          |
-| [[Gate of Wisdom/T/Transgression\|Transgression]]                                                              |
-| [[Gate of Wisdom/T/tribulation\|tribulation]]                                                                  |
-| [[Gate of Wisdom/U/Unclean\|Unclean]]                                                                          |
-| [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                |
-| [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]                                                     |
-| [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]                                             |
-| [[Gate of Wisdom/V/Vain\|Vain]]                                                                                |
-| [[Gate of Wisdom/W/Wash\|Wash]]                                                                                |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                   |
-| [[Gate of Wisdom/W/Worship\|Worship]]                                                                          |
-| [[Gate of Wisdom/Beings/Yahweh of Armies\|Yahweh of Armies]]                                                   |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]                                                   |
-| [[Gate of Wisdom/Y/Yehoshua\|Yehoshua]]                                                                        |
-| [[Gate of Wisdom/Beings/Divine Council/YHWH\|YHWH]]                                                            |
-| [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]                                               |
-| [[Gate of Wisdom/Offering/Zevah\|Zevah]]                                                                       |
-| [[Gate of Wisdom/Z/Zion\|Zion]]                                                                                |
+| Table of Content                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| [[Gate of Wisdom/_Gate of Wisdom\|_Gate of Wisdom]]                                                                         |
+| [[Gate of Wisdom/Numbers/01\|01]]                                                                                           |
+| [[Gate of Wisdom/Numbers/02\|02]]                                                                                           |
+| [[Gate of Wisdom/Numbers/03\|03]]                                                                                           |
+| [[Gate of Wisdom/Numbers/04\|04]]                                                                                           |
+| [[Gate of Wisdom/Numbers/05\|05]]                                                                                           |
+| [[Gate of Wisdom/Numbers/06\|06]]                                                                                           |
+| [[Gate of Wisdom/Numbers/07\|07]]                                                                                           |
+| [[Gate of Wisdom/Numbers/08\|08]]                                                                                           |
+| [[Gate of Wisdom/Numbers/09\|09]]                                                                                           |
+| [[Gate of Wisdom/Numbers/10\|10]]                                                                                           |
+| [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]]                                                                         |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Aarons Staff\|Aarons Staff]]                               |
+| [[Gate of Wisdom/Beings/Human Beings/Abimelech\|Abimelech]]                                                                 |
+| [[Gate of Wisdom/Abomination/Abomination\|Abomination]]                                                                     |
+| [[Gate of Wisdom/Abomination/Abomination of the Desolation\|Abomination of the Desolation]]                                 |
+| [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]                                                                     |
+| [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]]                                                                            |
+| [[Gate of Wisdom/Beings/Adversary\|Adversary]]                                                                              |
+| [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]                                                                           |
+| [[Gate of Wisdom/A/Alms\|Alms]]                                                                                             |
+| [[Gate of Wisdom/Beings/Human Beings/Ambassador\|Ambassador]]                                                               |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]]                                                                      |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Angel of the Lord\|Angel of the Lord]]                                              |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Angel of Yahweh\|Angel of Yahweh]]                                                  |
+| [[Gate of Wisdom/Beings/Antichrist\|Antichrist]]                                                                            |
+| [[Gate of Wisdom/Beings/Human Beings/apostle\|apostle]]                                                                     |
+| [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]                                                            |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]                                                              |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]               |
+| [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]                                                                   |
+| [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                                            |
+| [[Gate of Wisdom/Good News/Atonement\|Atonement]]                                                                           |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]]                                                                        |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]                                                         |
+| [[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]]                                                             |
+| [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]]                                                                       |
+| [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]]                                                                         |
+| [[Gate of Wisdom/B/Beast\|Beast]]                                                                                           |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Beer Lahai Roi\|Beer Lahai Roi]]                                           |
+| [[Gate of Wisdom/B/Bekah\|Bekah]]                                                                                           |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Bel\|Bel]]                                                                          |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Beney Elohim\|Beney Elohim]]                                                        |
+| [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]                                                                   |
+| [[Gate of Wisdom/Beings/Human Beings/Benoni\|Benoni]]                                                                       |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]]                                                           |
+| [[Gate of Wisdom/B/Birthright\|Birthright]]                                                                                 |
+| [[Gate of Wisdom/B/Bitterness\|Bitterness]]                                                                                 |
+| [[Gate of Wisdom/B/Blessed\|Blessed]]                                                                                       |
+| [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]                                                                 |
+| [[Gate of Wisdom/B/Bronze\|Bronze]]                                                                                         |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]                                        |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]                                        |
+| [[Gate of Wisdom/B/Burden\|Burden]]                                                                                         |
+| [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]                                                                  |
+| [[Gate of Wisdom/Dwelling Places/The Camp/Camp\|Camp]]                                                                      |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Canaan\|Canaan]]                                                           |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs\|Cave of the Patriarchs]]                           |
+| [[Gate of Wisdom/Consequence/Disobedience/Chaos\|Chaos]]                                                                    |
+| [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]                                                          |
+| [[Gate of Wisdom/Beings/Children of God\|Children of God]]                                                                  |
+| [[Gate of Wisdom/C/chosen ones\|chosen ones]]                                                                               |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Christ\|Christ]]                                                                    |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]                                             |
+| [[Gate of Wisdom/C/Clean\|Clean]]                                                                                           |
+| [[Gate of Wisdom/Beings/Heavenly Beings/cloud of witnesses\|cloud of witnesses]]                                            |
+| [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]                                                                |
+| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                    |
+| [[Gate of Wisdom/C/Common\|Common]]                                                                                         |
+| [[Gate of Wisdom/C/covetous\|covetous]]                                                                                     |
+| [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]]                                                                    |
+| [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]                                                                  |
+| [[Gate of Wisdom/Covenant/Davidic\|Davidic]]                                                                                |
+| [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]                                                        |
+| [[Gate of Wisdom/Beings/Human Beings/deacons\|deacons]]                                                                     |
+| [[Gate of Wisdom/Beings/Demons\|Demons]]                                                                                    |
+| [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                                      |
+| [[Gate of Wisdom/Beings/Human Beings/Disciple\|Disciple]]                                                                   |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]                                                                    |
+| [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]                                                                  |
+| [[Gate of Wisdom/Beings/Human Beings/drunkard\|drunkard]]                                                                   |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                               |
+| [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]                                                                   |
+| [[Gate of Wisdom/Beings/elder\|elder]]                                                                                      |
+| [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]                                                                     |
+| [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                                           |
+| [[Gate of Wisdom/Beings/Human Beings/extortionist\|extortionist]]                                                           |
+| [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                                      |
+| [[Gate of Wisdom/F/Fast\|Fast]]                                                                                             |
+| [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]                                                                       |
+| [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                              |
+| [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]                                                |
+| [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]                                      |
+| [[Gate of Wisdom/Appointed Time/Feast of Weeks\|Feast of Weeks]]                                                            |
+| [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]                                                        |
+| [[Gate of Wisdom/F/Foreigner\|Foreigner]]                                                                                   |
+| [[Gate of Wisdom/F/Forgive\|Forgive]]                                                                                       |
+| [[Gate of Wisdom/Consequence/Disobedience/Forgiveness\|Forgiveness]]                                                        |
+| [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]                                                          |
+| [[Gate of Wisdom/Sources/Bible Project/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]] |
+| [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]                                                                     |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                                                           |
+| [[Gate of Wisdom/Beings/Divine Council/God\|God]]                                                                           |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]              |
+| [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]                                                                       |
+| [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]]                                                                  |
+| [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]                                                                  |
+| [[Gate of Wisdom/H/hardened\|hardened]]                                                                                     |
+| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]                                                              |
+| [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]                                                                       |
+| [[Gate of Wisdom/H/Holy\|Holy]]                                                                                             |
+| [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]                                                        |
+| [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]]                                                                           |
+| [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]                                                     |
+| [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]                                                       |
+| [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]                                                       |
+| [[Gate of Wisdom/H/Humble in Spirit\|Humble in Spirit]]                                                                     |
+| [[Gate of Wisdom/H/Hunger and Thirst\|Hunger and Thirst]]                                                                   |
+| [[Gate of Wisdom/I/Idiom\|Idiom]]                                                                                           |
+| [[Gate of Wisdom/Beings/Human Beings/idolater\|idolater]]                                                                   |
+| [[Gate of Wisdom/I/image\|image]]                                                                                           |
+| [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]]                                                           |
+| [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]                                                                         |
+| [[Gate of Wisdom/Covenant/Isaacic\|Isaacic]]                                                                                |
+| [[Gate of Wisdom/Beings/Human Beings/Isaiah\|Isaiah]]                                                                       |
+| [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]                                                                       |
+| [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]                                                               |
+| [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]                                                                         |
+| [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]]                                                                              |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]                                                     |
+| [[Gate of Wisdom/Beings/Jesus\|Jesus]]                                                                                      |
+| [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]                                                                             |
+| [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]                                             |
+| [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]                                                                         |
+| [[Gate of Wisdom/J/Judge\|Judge]]                                                                                           |
+| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                              |
+| [[Gate of Wisdom/Beings/Human Beings/Keturah\|Keturah]]                                                                     |
+| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]                                              |
+| [[Gate of Wisdom/Good News/Kingdom of Heaven\|Kingdom of Heaven]]                                                           |
+| [[Gate of Wisdom/K/Kipper\|Kipper]]                                                                                         |
+| [[Gate of Wisdom/L/Lawlessness\|Lawlessness]]                                                                               |
+| [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]                                                                           |
+| [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]]                                                                           |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                                                                  |
+| [[Gate of Wisdom/L/Lust\|Lust]]                                                                                             |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]]                                                             |
+| [[Gate of Wisdom/Sign/Mark\|Mark]]                                                                                          |
+| [[Gate of Wisdom/M/Meek\|Meek]]                                                                                             |
+| [[Gate of Wisdom/M/Memorial\|Memorial]]                                                                                     |
+| [[Gate of Wisdom/M/Merciful\|Merciful]]                                                                                     |
+| [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]]                                                                    |
+| [[Gate of Wisdom/Beings/Messenger\|Messenger]]                                                                              |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Messiah\|Messiah]]                                                                  |
+| [[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]                                                                         |
+| [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]                                                                                       |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Morning Star\|Morning Star]]                                                        |
+| [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]]                                                                                  |
+| [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]                                                                         |
+| [[Gate of Wisdom/M/mount\|mount]]                                                                                           |
+| [[Gate of Wisdom/M/Mourn\|Mourn]]                                                                                           |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]                                                                  |
+| [[Gate of Wisdom/Beings/Human Beings/Nahum\|Nahum]]                                                                         |
+| [[Gate of Wisdom/N/Name\|Name]]                                                                                             |
+| [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]                                                                       |
+| [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]                                                                   |
+| [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]                                                                        |
+| [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]                                                         |
+| [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]                                                                     |
+| [[Gate of Wisdom/Offering/Offerings\|Offerings]]                                                                            |
+| [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]                                                                           |
+| [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]                                            |
+| [[Gate of Wisdom/O/overseer\|overseer]]                                                                                     |
+| [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]]                                                            |
+| [[Zunpublished/Pastor\|Pastor]]                                                                                             |
+| [[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]]                                                                           |
+| [[Gate of Wisdom/Offering/Peace Offering\|Peace Offering]]                                                                  |
+| [[Gate of Wisdom/P/Peacemaker\|Peacemaker]]                                                                                 |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Peniel\|Peniel]]                                                           |
+| [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]                                                                      |
+| [[Gate of Wisdom/P/Perfect\|Perfect]]                                                                                       |
+| [[Gate of Wisdom/Covenant/Perpetural\|Perpetural]]                                                                          |
+| [[Gate of Wisdom/Beings/Human Beings/Pharisee\|Pharisee]]                                                                   |
+| [[Gate of Wisdom/P/Poor\|Poor]]                                                                                             |
+| [[Gate of Wisdom/P/Pray\|Pray]]                                                                                             |
+| [[Gate of Wisdom/P/Prayer\|Prayer]]                                                                                         |
+| [[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]                                                  |
+| [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]]                                                          |
+| [[Gate of Wisdom/P/Pure\|Pure]]                                                                                             |
+| [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                                                       |
+| [[Gate of Wisdom/R/Ransom\|Ransom]]                                                                                         |
+| [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]                                                                     |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Red Sea\|Red Sea]]                                                         |
+| [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]                                                          |
+| [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]                                                             |
+| [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]                                            |
+| [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]                                                     |
+| [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]                                                                      |
+| [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]                                                              |
+| [[Gate of Wisdom/Ruach/Ruach\|Ruach]]                                                                                       |
+| [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]                                                                          |
+| [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]                                                                        |
+| [[Gate of Wisdom/S/Sacrifice\|Sacrifice]]                                                                                   |
+| [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]                                                                         |
+| [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                      |
+| [[Gate of Wisdom/S/Save\|Save]]                                                                                             |
+| [[Gate of Wisdom/Beings/Saviors\|Saviors]]                                                                                  |
+| [[Gate of Wisdom/G/Sea of Galilee\|Sea of Galilee]]                                                                         |
+| [[Gate of Wisdom/Sign/Seal\|Seal]]                                                                                          |
+| [[Gate of Wisdom/M/Sermon on the Mount\|Sermon on the Mount]]                                                               |
+| [[Gate of Wisdom/S/Serpent\|Serpent]]                                                                                       |
+| [[Gate of Wisdom/D/Seventh Day\|Seventh Day]]                                                                               |
+| [[Gate of Wisdom/F/sexual immorality\|sexual immorality]]                                                                   |
+| [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]                                                                          |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Shedim\|Shedim]]                                                                    |
+| [[Gate of Wisdom/S/Shem\|Shem]]                                                                                             |
+| [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]                                                             |
+| [[Gate of Wisdom/Sign/Sign\|Sign]]                                                                                          |
+| [[Gate of Wisdom/S/Sin\|Sin]]                                                                                               |
+| [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]                                                                      |
+| [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]                          |
+| [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                                 |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Son of Man\|Son of Man]]                                                            |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Sons of God\|Sons of God]]                                                          |
+| [[Gate of Wisdom/S/Soul\|Soul]]                                                                                             |
+| [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]                                                      |
+| [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]                                                                            |
+| [[Gate of Wisdom/S/Synagogue\|Synagogue]]                                                                                   |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]                                                        |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]                         |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]               |
+| [[Gate of Wisdom/Beings/Human Beings/teacher\|teacher]]                                                                     |
+| [[Gate of Wisdom/Ruach/Gift/Teaching\|Teaching]]                                                                            |
+| [[Gate of Wisdom/T/Tefillos\|Tefillos]]                                                                                     |
+| [[Gate of Wisdom/T/temptation\|temptation]]                                                                                 |
+| [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]                                                                     |
+| [[Gate of Wisdom/T/Ten Words\|Ten Words]]                                                                                   |
+| [[Gate of Wisdom/T/Testimony\|Testimony]]                                                                                   |
+| [[Gate of Wisdom/T/Thanksgiving\|Thanksgiving]]                                                                             |
+| [[Gate of Wisdom/D/The Dragons Prophecy\|The Dragons Prophecy]]                                                             |
+| [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                                |
+| [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]                                             |
+| [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]                                                |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                                 |
+| [[Gate of Wisdom/W/The Word\|The Word]]                                                                                     |
+| [[Gate of Wisdom/S/Timeline\|Timeline]]                                                                                     |
+| [[Gate of Wisdom/T/Torah\|Torah]]                                                                                           |
+| [[Gate of Wisdom/T/Torment\|Torment]]                                                                                       |
+| [[Gate of Wisdom/T/Transgression\|Transgression]]                                                                           |
+| [[Gate of Wisdom/T/tribulation\|tribulation]]                                                                               |
+| [[Gate of Wisdom/U/Unclean\|Unclean]]                                                                                       |
+| [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                             |
+| [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]                                                                  |
+| [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]]                                                          |
+| [[Gate of Wisdom/V/Vain\|Vain]]                                                                                             |
+| [[Gate of Wisdom/W/Wash\|Wash]]                                                                                             |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                                |
+| [[Gate of Wisdom/W/Worship\|Worship]]                                                                                       |
+| [[Gate of Wisdom/Beings/Yahweh of Armies\|Yahweh of Armies]]                                                                |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]                                                                |
+| [[Gate of Wisdom/Y/Yehoshua\|Yehoshua]]                                                                                     |
+| [[Gate of Wisdom/Beings/Divine Council/YHWH\|YHWH]]                                                                         |
+| [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]                                                            |
+| [[Gate of Wisdom/Offering/Zevah\|Zevah]]                                                                                    |
+| [[Gate of Wisdom/Z/Zion\|Zion]]                                                                                             |
 
 { .block-language-dataview}

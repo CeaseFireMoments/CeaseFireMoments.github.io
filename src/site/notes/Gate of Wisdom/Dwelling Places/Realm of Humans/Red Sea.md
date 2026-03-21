@@ -20,13 +20,13 @@
 - Israelites (witness plague removal; later cross it in exodus)
 
 
-![Red Sea-1.png|496](/img/user/Assets/attachments/Red%20Sea-1.png)
+![Red Sea-1.png|496](/img/user/_Assets/attachments/Red%20Sea-1.png)
 https://www.google.com/maps/search/Red%20Sea%2C%20Egypt
 # Connections
 
 | file.inlinks                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-10.md\\|Exod-10]]</li><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
+| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-10.md\\|Exod-10]]</li></ul> |
 
 { .block-language-dataview}
 

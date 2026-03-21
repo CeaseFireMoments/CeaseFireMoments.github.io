@@ -19,12 +19,12 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/H/hardened\|hardened]]                                                                                                                                                              |
 | [[Torah Portions/2026.03.19 Shabbat Reading\|2026.03.19 Shabbat Reading]]                                                                                                                            |
 | [[Gate of Wisdom/T/tribulation\|tribulation]]                                                                                                                                                        |
-| [[Assets/Clippings/Is Jesus Pre-trib, mid-trib, or post-trib\|Is Jesus Pre-trib, mid-trib, or post-trib]]                                                                                            |
+| [[_Assets/Clippings/Is Jesus Pre-trib, mid-trib, or post-trib\|Is Jesus Pre-trib, mid-trib, or post-trib]]                                                                                           |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Red Sea\|Red Sea]]                                                                                                                                  |
 | [[Gate of Wisdom/Appointed Time/Feast of Weeks\|Feast of Weeks]]                                                                                                                                     |
-| [[Gate of Wisdom/H/hardened\|hardened]]                                                                                                                                                              |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]             |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]] |
 | [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                                                                                                          |
