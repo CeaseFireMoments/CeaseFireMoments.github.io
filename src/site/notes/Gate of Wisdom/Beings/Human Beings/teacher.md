@@ -87,6 +87,6 @@
 
 | file.inlinks                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04.md\\|Ephes-04]]</li><li>[[Gate of Wisdom/Ruach/Gift/Teaching.md\\|Teaching]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Ruach/Gift/Teaching.md\\|Teaching]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04.md\\|Ephes-04]]</li></ul> |
 
 { .block-language-dataview}
