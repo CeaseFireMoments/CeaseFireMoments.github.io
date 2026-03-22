@@ -38,7 +38,7 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Sacred Truces/Scripture Survey Christian Spring Holidays\|Scripture Survey Christian Spring Holidays]]                                                                                             |
 | [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]                                                                                                                         |
 | [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]                                                                                                                                  |
-| [[Yada Yada Pauses/33 Micah-04 Yada Yada\|33 Micah-04 Yada Yada]]                                                                                                                                    |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]                                         |
 
 { .block-language-dataview}
 
