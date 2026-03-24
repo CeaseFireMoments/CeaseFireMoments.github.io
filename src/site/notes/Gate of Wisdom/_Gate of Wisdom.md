@@ -74,6 +74,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Children of God\|Children of God]]                                                                  |
 | [[Gate of Wisdom/C/chosen ones\|chosen ones]]                                                                               |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Christ\|Christ]]                                                                    |
+| [[Gate of Wisdom/C/Circumcision Party\|Circumcision Party]]                                                                 |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]                                             |
 | [[Gate of Wisdom/C/Clean\|Clean]]                                                                                           |
 | [[Gate of Wisdom/Beings/Heavenly Beings/cloud of witnesses\|cloud of witnesses]]                                            |
