@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Azazel</title>
+<title>Circumcision Party</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -408,7 +408,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/beings/heavenly-beings/azazel/">Azazel </a>
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/beings/heavenly-beings/azazel/">Azazel </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -740,7 +740,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/c/circumcision-party/">Circumcision Party </a>
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/c/circumcision-party/">Circumcision Party </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -2561,36 +2561,78 @@ CTRL + K
 <script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-03-24T23:36:15.514Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-03-24T23:36:15.514Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-03-24T23:36:15.514Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
-<h1 data-note-icon="">Azazel</h1>
+<h1 data-note-icon="">Circumcision Party</h1>
 <div class="header-meta">
 <div class="header-tags">
+<a class="tag" onclick="toggleTagSearch(this)">
+#thebrain
+</a>
+<a class="tag" onclick="toggleTagSearch(this)">
+#GateWisdom
+</a>
+<a class="tag" onclick="toggleTagSearch(this)">
+#nothome
+</a>
+<a class="tag" onclick="toggleTagSearch(this)">
+#C
+</a>
 </div>
 </div>
 </header>
-<h1 id="connections" tabindex="-1">Connections</h1>
-<div class="block-language-dataview table-wrapper"><table class="dataview table-view-table">
-<thead class="table-view-thead">
-<tr class="table-view-tr-header">
-<th class="table-view-th">file.inlinks</th>
-</tr>
-</thead>
-<tbody class="table-view-tbody">
-<tr>
-<td><ul></ul></td>
-</tr>
-</tbody>
-</table></div>
-<h1 id="notes" tabindex="-1">NOTES:</h1>
-<h3 id="eiser-michael-s-gate-of-wisdom-sources-heiser-michael-s-the-unseen-realm-the-unseen-realm-recovering-the-supernatural-worldview-of-the-bible-lexham-press-kindle-edition" tabindex="-1">EISER, MICHAEL S.. <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/sources/heiser-michael-s/the-unseen-realm/">The Unseen Realm</a>: RECOVERING THE SUPERNATURAL WORLDVIEW OF THE BIBLE. LEXHAM PRESS. KINDLE EDITION.</h3>
-<p>The word “Azazel” in the Hebrew text can be translated “the goat that goes away.”</p>
-<p>“Azazel” is really a proper name. In Lev 16:8 one goat is “for Yahweh,” while the other goat is “for Azazel.”</p>
-<p>Azazel is regarded as the name of a demon in the Dead Sea Scrolls and other ancient Jewish books.<br>
-Azazel is the leader of the angels that sinned in Genesis 6:1 – 4. The same description appears in the book of 1 Enoch (8:1; 9:6; 10:4 – 8; 13:1; 54:5 – 6; 55:4; 69:2).</p>
-<p>Scholars have, however, connected the name to Mot, the god of death.</p>
-<p>The goat for Azazel banished the sins of the Israelites to the realm outside Israel. Why? Because the ground on which Yahweh had his dwelling was holy. Sin had to be “transported” to where evil belonged—the territory outside Israel, under the control of gods set over the pagan nations. The high priest was not sacrificing to Azazel. Rather, Azazel was getting what belonged to him: sin.</p>
-<h1 id="connections-1" tabindex="-1">Connections</h1>
-<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/adversary/">Adversary</a><br>
-<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/day-of-atonement/">Day of Atonement</a></p>
+<p>Some within the early Christian community, known as the circumcision party, believed that Gentiles needed to adopt Jewish customs, including circumcision, to be saved. This was a point of significant tension, as it contradicted Paul’s gospel of salvation through faith alone.</p>
+<p>Galatians 2:3 Paul points out they are “false brothers”. As he speaks about circumcision and freedom through Christ Jesus - because Jesus is salvation not circumcision. v 7 He calls it the “good news of the uncircumcision.” Galatians 2:16 He then goes on to expound on the works of the law vs the works of Jesus Christ in relation to salvation.</p>
+<p>Galatians 2:8-12 8 (For the same God who was at work in Peter as an emissary to the Jews (those with the bris milah/circumcision), also was at work in me as a emissary to the Gentiles.) 9 Realizing the favor that had been given to me, Jacob and Peter[a] and John—who are the recognized pillars—shook hands in partnership with Barnabas and me,[b] so that we would go to the Gentiles and they to the Jews (those with the bris milah/circumcision). 10 They asked only that we remember the poor—something I also was eager to do.</p>
+<p>Titus 1:10 Paul calls them insubordinate, vain-talkers, and mind-deceivers; “Cretans! Always liars, evil beasts, lazy bellies!” Giving way to Jewish fables and commands of men - turning away from the truth. They profess to know God, but they deny [Him] by their works, being abominable, and disobedient, and disapproved to every good work.</p>
+<p>Acts 11: those of the faction of the Bris Milah were taking issue with him, 3 Saying, &quot;You entered into a bais of anashim arelim (uncircumcised men) and you sat at tish with them.&quot;</p>
+<p>Galatians 6:12-14 Paul says they do not keep the law themselves.</p>
+<p>As many as crave to be good preeners in the basar (<a href="https://www.biblegateway.com/passage/?search=Rom.2.29&amp;version=OJB" target="_blank" class="external-link">Ro 2:29</a>), these compel you (Goyim) to undergo bris milah; they (the mohalim of Goyim) do so only to avoid suffering redifah (persecution) for the Etz of Moshiach (<a href="https://www.biblegateway.com/passage/?search=Deut.21.23&amp;version=OJB" target="_blank" class="external-link">DEVARIM 21:23</a>).</p>
+<p>13 For not even those of the party of the bris milah are shomer mitzvot themselves; they (the mohalim of Goyim) want you (Goyim) to undergo bris milah for the purpose of boasting in your basar!</p>
+<p>2 Corinthians 11:3-15 - many see these text as applying to them as well. Paul says they preach a different Jesus, a different gospel, are false apostles, siguising themselves as apostles of Christ, disguising themselves as servants of righteousness.</p>
+<ol id="45">
+<li><a href="brain://RHM99xlxHEmMQaS0evOCTA/Acts10?name=Acts%2010" target="_blank" class="external-link">Acts 10</a></li>
+<li>Text</li>
+<li></li>
+</ol>
+<p>{ <a class="tag" onclick="toggleTagSearch(this)" data-content="#and">#and</a>}<br>
+those of the <a href="brain://r0f7C7Dv2EqB8y7ipvOvyQ/Circumcision?name=Circumcision" target="_blank" class="external-link">circumcision</a> believing were astonished -- as many as came with Peter -- because also upon the nations the gift of the Holy Spirit hath been poured out,</p>
+<h4 id="12-unlinked-mentions" tabindex="-1">12 Unlinked Mentions</h4>
+<ul>
+<li><a href="https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/24b33e19-783b-4daa-882e-e148099bd8c5" target="_blank" class="external-link">119: Acts 15 Obedience or Legalism?</a></li>
+<li>The “Circumcision Party” - as this particular Jewish denomination was being called - began
+<ul>
+<li>be saved by just faith. This is direct evidence against the “Circumcision Party’s” position which we</li>
+<li>direct evidence against the “Circumcision Party’s” theological position, which is “Position <a class="tag" onclick="toggleTagSearch(this)" data-content="#1”">#1”</a>.</li>
+<li>in Yeshua Ha’Maschiach (verse 11). This silenced the debate from the “Circumcision Party” - position</li>
+<li>The matter has been certainly settled. Clearly the Circumcision Party’s position has been beaten to</li>
+<li>Now, this is still different than those in verse 1, the Circumcision Party. That group expected others to</li>
+<li>Meaning this...the claim of the circumcision party stating that you must be circumcised to be saved is a</li>
+<li>that the Circumcision Party is the same group found in Acts 15:1. They believed circumcision was a</li>
+</ul>
+</li>
+<li><a href="https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/55fae446-a33e-4a7a-9be7-d71a52f0fd83" target="_blank" class="external-link">Blog: Yada Yada Colossians</a></li>
+<li>Notes:</li>
+<li>The people doing the judging do not fit the profile of a “Jew” or Follower of Judaism. They also do not fit the profile of a the Circumcision party which Paul rails against.</li>
+<li><a href="https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/1883d2a0-6541-49c9-a2b4-7b100b306887" target="_blank" class="external-link">Understanding Galatians</a></li>
+<li><a href="https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/74956d64-c637-443d-be2c-ab8936761f03" target="_blank" class="external-link">Galatians 2Galatians 2</a></li>
+</ul>
+<p><a href="https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/e4798c38-dda2-4240-9c00-61c8a0fa5622" target="_blank" class="external-link">The Circumcision Party</a> * 2. <strong>The Battle Over Salvation and the Law</strong></p>
+<ul>
+<li>: Some within the early Christian community, known as the circumcision party, believed that Gentiles needed to adopt Jewish customs, including circumcision, to be saved. This was a point of significant tension, as it contradicted Paul’s gospel of salvation through faith alone.
+<ul>
+<li><a href="https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/74956d64-c637-443d-be2c-ab8936761f03" target="_blank" class="external-link">Galatians 2</a></li>
+</ul>
+</li>
+<li>5. <strong>Paul Confronts Peter in Antioch</strong> (Galatians 2:11-14)</li>
+<li><strong>Peter’s Hypocrisy</strong>: Paul narrates an incident where Peter came to Antioch, and Paul confronted him publicly. Peter had been eating with Gentiles, living in the freedom of the gospel, until certain men from the circumcision party arrived. Fearing their judgment, Peter withdrew and separated himself from the Gentiles, signaling that the Gentiles were not fully accepted unless they adhered to Jewish customs.
+<ul>
+<li><a href="https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/74956d64-c637-443d-be2c-ab8936761f03" target="_blank" class="external-link">Galatians 2</a></li>
+</ul>
+</li>
+<li>5. <strong>Paul Confronts Peter in Antioch</strong> (Galatians 2:11-14)</li>
+<li><strong>The Issue at Hand</strong>: Paul’s confrontation centers around Peter’s actions. While Peter had previously acknowledged that salvation was by faith in Yeshua, his actions (withdrawing from the Gentiles in fear of the circumcision party) undermined that message. Paul accuses Peter of hypocrisy because he was living in the freedom of the gospel with the Gentiles but then acted as if Gentiles were not fully accepted unless they conformed to Jewish customs.</li>
+</ul>
+<p>Simple</p>
+<p>Advanced</p>
 </main>
 <aside>
 <div class="sidebar">
@@ -2632,15 +2674,7 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#connections">Connections</a>
-</li>
-<li><a href="#notes">NOTES:</a>
-<ol>
-<li><a href="#eiser-michael-s-gate-of-wisdom-sources-heiser-michael-s-the-unseen-realm-the-unseen-realm-recovering-the-supernatural-worldview-of-the-bible-lexham-press-kindle-edition">EISER, MICHAEL S.. [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm|The Unseen Realm]]: RECOVERING THE SUPERNATURAL WORLDVIEW OF THE BIBLE. LEXHAM PRESS. KINDLE EDITION.</a>
-</li>
-</ol>
-</li>
-<li><a href="#connections-1">Connections</a>
+<li><a href="#12-unlinked-mentions">12 Unlinked Mentions</a>
 </li>
 </ol>
 </nav>
@@ -2648,8 +2682,8 @@ On this page
 </div>
 <div class="backlinks">
 <div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card">
-<span class="no-backlinks-message">No other pages mentions this page</span>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/an-index/c/" data-note-icon="" class="backlink">C</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/gate-of-wisdom/" data-note-icon="" class="backlink">_Gate of Wisdom</a>
 </div></div>
 </div>
 </div>
