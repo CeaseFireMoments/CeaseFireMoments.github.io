@@ -26,6 +26,7 @@ The Torah Portion Schedule is based on the 3 year rotating schedule found [here]
 - [[Torah Portions/2025.09.06 Shabbat Reading\|2025.09.06 Shabbat Reading]]
 - [[Torah Portions/2025.08.23 Shabbat Reading\|2025.08.23 Shabbat Reading]]
 - [[Torah Portions/2025 Sukkot Day 1\|2025 Sukkot Day 1]]
+- [[Torah Portions/03.28.67 Shabbat Reading\|03.28.67 Shabbat Reading]]
 - [[Torah Portions/_ A Torah Portions Listing\|_ A Torah Portions Listing]]
 
 { .block-language-dataview}

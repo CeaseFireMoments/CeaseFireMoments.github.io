@@ -21,6 +21,6 @@ The original word is a verb. Verbs are words which show an action. It’s someth
 - 
 | file.inlinks                                                                                                                                                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew).md\\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]</li><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew).md\\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]</li></ul> |
 
 { .block-language-dataview}
