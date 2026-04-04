@@ -55,7 +55,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Matthew 24:20 [[Olive Branch Reconciliations/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]
 - Luke 23:54-56 (Matthew 27:62, Mark 15:42, , John 19:31, 42)  [[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]
 - Matthew 28:1, Mark 16:1-9 [[Olive Branch Reconciliations/The Seventh Day Rest/39 The Seventh Day is the Sabbath (40 Matthew)\|39 The Seventh Day is the Sabbath (40 Matthew)]]
-- Mark 6:2 
+- Mark 6:2 [[Olive Branch Reconciliations/The Seventh Day Rest/40 The Seventh Day is for Teaching (41 Mark)\|40 The Seventh Day is for Teaching (41 Mark)]]
 - Luke 4:16, 31
 - Luke 13:10–17
 - Luke 14:1–6 

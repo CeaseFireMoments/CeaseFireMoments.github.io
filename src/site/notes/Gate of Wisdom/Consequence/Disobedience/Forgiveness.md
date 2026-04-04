@@ -36,6 +36,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Yada Yada Pauses/33 Micah-07 Yada Yada.md\\|33 Micah-07 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-07.md\\|Micah-07]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Yada Yada Pauses/33 Micah-07 Yada Yada.md\\|33 Micah-07 Yada Yada]]</li><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-07.md\\|Micah-07]]</li></ul> |
 
 { .block-language-dataview}
