@@ -17,6 +17,7 @@
 - [[Gate of Wisdom/C/Circumcision Party\|Circumcision Party]]
 - [[Gate of Wisdom/C/Clean\|Clean]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/cloud of witnesses\|cloud of witnesses]]
+- [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/C/Common\|Common]]

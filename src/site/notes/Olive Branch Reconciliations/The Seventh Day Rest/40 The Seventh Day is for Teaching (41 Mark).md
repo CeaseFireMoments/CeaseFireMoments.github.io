@@ -30,7 +30,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Teaching
 	- Jesus
 	- on a Sabbath
-	- on a Synagogue
+	- in a Synagogue
 ## **<mark style="background: #D2B3FFA6;">When</mark>**:
 - On a Sabbath
 	- Jesus

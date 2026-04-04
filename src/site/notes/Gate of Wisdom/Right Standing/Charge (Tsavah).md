@@ -16,9 +16,9 @@
 
 # Connections
 
-| file.inlinks                                                                       |
-| ---------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li></ul> |
+| file.inlinks                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li></ul> |
 
 { .block-language-dataview}
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.

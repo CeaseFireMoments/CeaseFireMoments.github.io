@@ -3,6 +3,7 @@
 ---
 
 
+- [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]
 - [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]
 - [[Sacred Truces/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
