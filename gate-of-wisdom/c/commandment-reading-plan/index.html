@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>The Witness</title>
+<title>Commandment Reading Plan</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -748,7 +748,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/c/commandment-reading-plan/">Commandment Reading Plan </a>
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/c/commandment-reading-plan/">Commandment Reading Plan </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -1010,7 +1010,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/the-witness/">The Witness </a>
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/the-witness/">The Witness </a>
 </div>
 </div>
 </div>
@@ -2577,50 +2577,381 @@ CTRL + K
 <script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-04-04T21:54:21.869Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-04-04T21:54:21.869Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-04-04T21:54:21.869Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
-<h1 data-note-icon="">The Witness</h1>
+<h1 data-note-icon="">Commandment Reading Plan</h1>
 <div class="header-meta">
 <div class="header-tags">
 <a class="tag" onclick="toggleTagSearch(this)">
-##GateWisdom
+##readingplan
 </a>
 <a class="tag" onclick="toggleTagSearch(this)">
-#W
+##C
 </a>
 <a class="tag" onclick="toggleTagSearch(this)">
-#MostSetApartPlace
+##R
 </a>
 </div>
 </div>
 </header>
-<h1 id="define" tabindex="-1">Define</h1>
+<p><strong>One-Year FEMALE Reading Plan for All Applicable Biblical Commands</strong><br>
+Starting March 20; 365 day</p>
+<p>This plan uses <strong>only the Bible</strong> (Torah for OT commands + Gospels for Jesus). Every command, statute (chuqim), ordinance/charge (mishmerot/tsavah), judgment (mishpatim), precept (pikkudim), or general mitzvah that applies to all people is included.</p>
+<p><strong>Exclusions</strong> :</p>
 <ul>
-<li>Witness or Testimony- Are more accurate to what God called what we have come to know as Ten Commandments. The other instructions found in the Torah He referred to as Right Rulings. We’ll talk more about these later.</li>
+<li>Anything for priests/Kohanim only</li>
+<li>Anything requiring the Temple/sacrifices/altar</li>
+<li>Strictly male-specific</li>
 </ul>
-<h1 id="related-words" tabindex="-1">Related words</h1>
+<p><strong>Classification</strong> (Bible-based, no external tradition):</p>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/t/ten-words/">Ten Words</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/tables-of-stone/">Tables of Stone</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/tablets-of-testimony/">Tablets of Testimony</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/c/ten-commandments/">Ten Commandments</a></li>
+<li><strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></strong>: General “you shall” or direct imperative.</li>
+<li><strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong>: Decrees/statutes often without obvious reason (e.g., dietary, certain holy days).</li>
+<li><strong><a class="internal-link is-unresolved" href="/404" target="">Ordinance Mishmerot</a> / <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a>)</strong>: Observances, charges, or duties to keep/guard.</li>
+<li><strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>: Civil, moral, or case-law rulings (e.g., Exodus 21–23 section titled “mishpatim”).</li>
+<li><strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/precepts-pikkudim/">Precepts (Pikkudim)</a></strong>: Precepts or careful instructions (as in Psalm 119 style for God’s directives).</li>
 </ul>
-<h1 id="additional-info" tabindex="-1">Additional Info</h1>
-<p>I’ve come to realize there are three versions of “the commandments,” but only two are seen by Christianity. Both of those are actually man’s laws.<br>
-- <strong>The Jewish law</strong>. We know Jesus was not a fan of the commandments the Jewish religious leaders of His time were keeping. This is because they had added a bunch of their own laws. The Jewish Law was made up of the Torah laws PLUS their own Oral laws. They had a bunch of man made laws they followed, like don’t carry your mat or heal on the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/sabbath/">Sabbath</a>.<br>
-- <strong>Jesus’s laws</strong>. Love God and Love Your Neighbors. Christianity teaches we are no longer under the laws but under the blood. Some how that has translated to we don’t have to keep the laws of the Old Testament, which typically is tangled up in the Jewish laws. The Christian’s Laws are also man made because they went to the other side of the road. Theirs is Jesus MINUS the Torah laws. They said we don’t have to know the laws of the Torah, like keeping the Sabbath day.<br>
-- <strong>Jesus taught the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/t/torah/">Torah</a></strong> (part of the Jewish teaching) PLUS the Kingdom of Heaven is near (part of Christianity’s teaching). Jesus is the FULFILLMENT of everything in the Torah. He has taken the place of the Tabernacle, the High Priest, and the Sacrificial Lamb. He did not take the place of YHWH/God’s law. God’s law defines what is sinful.</p>
-<h1 id="connections" tabindex="-1">Connections</h1>
-<div class="block-language-dataview table-wrapper"><table class="dataview table-view-table">
-<thead class="table-view-thead">
-<tr class="table-view-tr-header">
-<th class="table-view-th">file.inlinks</th>
-</tr>
-</thead>
-<tbody class="table-view-tbody">
-<tr>
-<td><ul><li><a class="internal-link is-unresolved" href="/404" target="">Tablets of Testimony</a></li></ul></td>
-</tr>
-</tbody>
-</table></div>
+<p>The plan assigns <strong>one primary command per day</strong> (verses chosen directly from the Bible). With ~270 applicable Torah commands + ~40 core Jesus commands = ~310 total, the first ~310 days introduce new ones in biblical order; remaining days are review/meditation on prior commands or related verses. All are covered by year’s end.</p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<h1 id="march" tabindex="-1">March</h1>
+<p><strong>March 20</strong>: Exodus 20:2 – “I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.” – <strong>command (mitzvot)</strong><br>
+<strong>March 21</strong>: Exodus 20:3 – “You shall have no other gods before me.” – <strong>command (mitzvot)</strong><br>
+<strong>March 22</strong>: Exodus 20:4-6 – “You shall not make for yourself an idol...” – <strong>command (mitzvot)</strong><br>
+<strong>March 23</strong>: Exodus 20:7 – “You shall not misuse the name of the LORD your God...” – <strong>command (mitzvot)</strong><br>
+<strong>March 24</strong>: Exodus 20:8-11 – “Remember the Sabbath day by keeping it holy...” – <strong>ordinance / charge (mishmerot / tsavah)</strong> (Sabbath observance)<br>
+<strong>March 25</strong>: Exodus 20:12 – “Honor your father and your mother...” – <strong>command (mitzvot)</strong><br>
+<strong>March 26</strong>: Exodus 20:13 – “You shall not murder.” – <strong>judgment (mishpatim)</strong><br>
+<strong>March 27</strong>: Exodus 20:14 – “You shall not commit adultery.” – <strong>judgment (mishpatim)</strong><br>
+<strong>March 28</strong>: Exodus 20:15 – “You shall not steal.” – <strong>judgment (mishpatim)</strong><br>
+<strong>March 29</strong>: Exodus 20:16 – “You shall not give false testimony...” – <strong>judgment (mishpatim)</strong><br>
+<strong>March 30</strong>: Exodus 20:17 – “You shall not covet...” – <strong>command (mitzvot)</strong><br>
+<strong>March 31</strong>: Deuteronomy 6:4 – “Hear, O Israel: The LORD our God, the LORD is one.” – <strong>command (mitzvot)</strong> (unity of God)</p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<h1 id="april" tabindex="-1">April</h1>
+<p><strong>April 1</strong>: Deuteronomy 6:5 – “Love the LORD your God with all your heart...” – <strong>command (mitzvot)</strong><br>
+<strong>April 2</strong>: Deuteronomy 10:20 – “Fear the LORD your God...” – <strong>command (mitzvot)</strong><br>
+<strong>April 3</strong>: Leviticus 19:18 – “Love your neighbor as yourself.” – <strong>command (mitzvot)</strong><br>
+<strong>April 4</strong>: Leviticus 19:16 – “Do not go about spreading slander...” / “Do not stand idly by...” – <strong>judgment (mishpatim)</strong><br>
+<strong>April 5</strong>: Leviticus 19:17 – “Do not hate a fellow Israelite in your heart... Rebuke your neighbor frankly...” – <strong>judgment (mishpatim)</strong><br>
+<strong>April 6</strong>: Leviticus 19:32 – “Stand up in the presence of the aged... revere your God.” – <strong>command (mitzvot)</strong><br>
+<strong>April 7</strong>: Deuteronomy 6:7 – “Impress them on your children. Talk about them when you sit at home...” – <strong>precept (pikkudim)</strong> (teach Torah)<br>
+<strong>April 8</strong>: Deuteronomy 8:10 – “When you have eaten and are satisfied, praise the LORD your God...” – <strong>command (mitzvot)</strong> (grace after meals)<br>
+<strong>April 9</strong>: Exodus 23:25 – “Worship the LORD your God...” – <strong>command (mitzvot)</strong> (prayer/service)<br>
+<strong>April 10</strong>: Leviticus 19:9-10 – “Do not reap to the very edges of your field... Leave them for the poor...” – <strong>judgment (mishpatim)</strong> (gleaning for poor)<br>
+<strong>April 11</strong>: Deuteronomy 15:7-8, 11 – “Do not be hardhearted or tightfisted toward your poor brother...” – <strong>judgment (mishpatim)</strong> (charity)<br>
+<strong>April 12</strong>: Deuteronomy 10:19 – “Love the foreigner, for you yourselves were foreigners...” – <strong>command (mitzvot)</strong><br>
+<strong>April 13</strong>: Exodus 22:21 / Leviticus 19:33-34 – “Do not mistreat or oppress a foreigner...” – <strong>judgment (mishpatim)</strong><br>
+<strong>April 14</strong>: Exodus 23:5 / Deuteronomy 22:4 – “If you see your fellow Israelite’s donkey or ox fallen on the road, do not ignore it. Help him...” – <strong>judgment (mishpatim)</strong> (help with burden)<br>
+<strong>April 15</strong>: Leviticus 19:14 – “Do not curse the deaf or put a stumbling block in front of the blind...” – <strong>judgment (mishpatim)</strong><br>
+<strong>April 16</strong>: Deuteronomy 24:19-21 – “When you are harvesting... leave what is overlooked for the foreigner, the fatherless and the widow.” – <strong>judgment (mishpatim)</strong> (forgotten sheaves)<br>
+<strong>April 17</strong>: Exodus 23:12 – “Six days do your work, but on the seventh day do not work...” – <strong>ordinance / charge (mishmerot / tsavah)</strong> (Sabbath rest)<br>
+<strong>April 18</strong>: Leviticus 23:3 – “There are six days when you may work, but the seventh day is a day of sabbath rest...” – <strong>statute (chuqim)</strong> / ordinance (Sabbath)<br>
+<strong>April 19</strong>: Exodus 12:14-20 / Leviticus 23:5-8 – Observe Passover / eat matzah / rest on holy days (non-sacrifice aspects only). – <strong>statute (chuqim)</strong><br>
+<strong>April 20</strong>: Leviticus 23:15-16, 21 – Count the Omer / rest on Shavuot. – <strong>statute (chuqim)</strong><br>
+<strong>April 21</strong>: Leviticus 23:24-25 – Rest on Rosh Hashanah. – <strong>statute (chuqim)</strong><br>
+<strong>April 22</strong>: Leviticus 23:27-32 – Fast and rest on Yom Kippur. – <strong>statute (chuqim)</strong><br>
+<strong>April 23</strong>: Leviticus 23:34-36, 39-43 – Rest / dwell in sukkah on Sukkot (non-lulav aspects). – <strong>statute (chuqim)</strong><br>
+<strong>April 24</strong>: Deuteronomy 16:13-15 – Be joyful on the festivals. – <strong>command (mitzvot)</strong><br>
+<strong>April 25</strong>: Leviticus 11:1-47 (selected clean/unclean) – “These are the regulations concerning animals...” – <strong>statute (chuqim)</strong> (dietary)<br>
+<strong>April 26</strong>: Leviticus 19:19 / Deuteronomy 22:9-11 – Do not mix kinds (seeds, animals, fabrics). – <strong>statute (chuqim)</strong><br>
+<strong>April 27</strong>: Deuteronomy 22:5 – “A woman must not wear men’s clothing, nor a man wear women’s clothing...” (general modesty, not gender-exclusive command). – <strong>command (mitzvot)</strong><br>
+<strong>April 28</strong>: Deuteronomy 15:1-2, 9-10 – Release debts in the seventh year. – <strong>ordinance / charge (mishmerot / tsavah)</strong><br>
+<strong>April 29</strong>: Deuteronomy 23:19-20 – Do not charge interest to a fellow Israelite. – <strong>judgment (mishpatim)</strong><br>
+<strong>April 30</strong>: Exodus 22:25 / Leviticus 25:35-37 – Lend freely to the poor / do not take interest. – <strong>judgment (mishpatim)</strong></p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<h1 id="may" tabindex="-1">May</h1>
+<p><strong>May 1</strong>: Exodus 22:22-24 – “Do not take advantage of the widow or the fatherless. If you do... My anger will be aroused...” – <strong>judgment (mishpatim)</strong> (protect vulnerable)<br>
+<strong>May 2</strong>: Leviticus 19:11 – “Do not steal. Do not lie. Do not deceive one another.” – <strong>judgment (mishpatim)</strong> (honesty)<br>
+<strong>May 3</strong>: Leviticus 19:13 – “Do not defraud or rob your neighbor. Do not hold back the wages of a hired worker overnight.” – <strong>judgment (mishpatim)</strong> (fair wages)<br>
+<strong>May 4</strong>: Leviticus 19:15 – “Do not pervert justice; do not show partiality to the poor or favoritism to the great...” – <strong>judgment (mishpatim)</strong> (impartial justice)<br>
+<strong>May 5</strong>: Leviticus 19:35-36 – “Do not use dishonest standards when measuring length, weight or quantity. Use honest scales...” – <strong>judgment (mishpatim)</strong> (honest measures)<br>
+<strong>May 6</strong>: Deuteronomy 25:13-16 – “Do not have two differing weights in your bag...” – <strong>judgment (mishpatim)</strong> (integrity in business)<br>
+<strong>May 7</strong>: Exodus 23:1-3 – “Do not spread false reports. Do not follow the crowd in doing wrong...” – <strong>judgment (mishpatim)</strong> (false witness / justice)<br>
+<strong>May 8</strong>: Leviticus 19:12 – “Do not swear falsely by my name and so profane the name of your God.” – <strong>command (mitzvot)</strong> (truthful oaths)<br>
+<strong>May 9</strong>: Deuteronomy 23:21-23 – “If you make a vow to the LORD... do not be slow to pay it...” – <strong>ordinance / charge (mishmerot / tsavah)</strong> (fulfill vows)<br>
+<strong>May 10</strong>: Numbers 30:2 – “When a man makes a vow... he must not break his word but must do everything he said.” – <strong>ordinance / charge (mishmerot / tsavah)</strong> (vows, general application)<br>
+<strong>May 11</strong>: Leviticus 19:29 – “Do not degrade your daughter by making her a prostitute...” – <strong>judgment (mishpatim)</strong> (protect family purity)<br>
+<strong>May 12</strong>: Leviticus 18:6-18 (summary) – “No one is to approach any close relative to have sexual relations...” – <strong>statute (chuqim)</strong> (forbidden relations)<br>
+<strong>May 13</strong>: Leviticus 20:10-21 (selected non-Temple) – Prohibitions against certain immoral relations. – <strong>statute (chuqim)</strong> / judgment<br>
+<strong>May 14</strong>: Deuteronomy 22:13-21 (general principles of marital honesty) – Avoid false accusations in family matters. – <strong>judgment (mishpatim)</strong><br>
+<strong>May 15</strong>: Deuteronomy 24:1-4 – Regulations on divorce and remarriage (general equity). – <strong>judgment (mishpatim)</strong><br>
+<strong>May 16</strong>: Deuteronomy 22:6-7 – “If you come across a bird’s nest... do not take the mother with the young.” – <strong>command (mitzvot)</strong> (compassion to creatures)<br>
+<strong>May 17</strong>: Deuteronomy 25:4 – “Do not muzzle an ox while it is treading out the grain.” – <strong>judgment (mishpatim)</strong> (fairness to working animals)<br>
+<strong>May 18</strong>: Exodus 23:4-5 – “If you come across your enemy’s ox or donkey... return it to him.” – <strong>judgment (mishpatim)</strong> (return lost property)<br>
+<strong>May 19</strong>: Deuteronomy 22:1-3 – “If you see your fellow Israelite’s ox or sheep straying, do not ignore it...” – <strong>judgment (mishpatim)</strong> (restore lost items)<br>
+<strong>May 20</strong>: Leviticus 19:18 (revisited emphasis) – “Love your neighbor as yourself.” – <strong>command (mitzvot)</strong><br>
+<strong>May 21</strong>: Leviticus 25:14-17 – “Do not take advantage of each other...” (in buying/selling). – <strong>judgment (mishpatim)</strong><br>
+<strong>May 22</strong>: Leviticus 25:35-38 – “If any of your fellow Israelites become poor... help them...” – <strong>judgment (mishpatim)</strong> (aid the needy)<br>
+<strong>May 23</strong>: Deuteronomy 15:12-15 – “If any of your people... sell themselves to you... let them go free...” – <strong>ordinance / charge (mishmerot / tsavah)</strong> (release in seventh year)<br>
+<strong>May 24</strong>: Exodus 21:2-6 (general servant release principles, non-male exclusive). – <strong>ordinance / charge</strong><br>
+<strong>May 25</strong>: Deuteronomy 23:15-16 – “If a slave has taken refuge with you, do not hand them over...” – <strong>judgment (mishpatim)</strong> (protect refugees)<br>
+<strong>May 26</strong>: Leviticus 19:23-25 – “When you enter the land... regard its fruit as forbidden... in the fifth year you may eat its fruit.” – <strong>statute (chuqim)</strong> (fruit trees)<br>
+<strong>May 27</strong>: Deuteronomy 20:19-20 – “When you lay siege... do not destroy its trees...” – <strong>command (mitzvot)</strong> (preserve fruit trees)<br>
+<strong>May 28</strong>: Deuteronomy 22:8 – “When you build a new house, make a parapet around your roof...” – <strong>judgment (mishpatim)</strong> (safety)<br>
+<strong>May 29</strong>: Deuteronomy 23:24-25 – “If you enter your neighbor’s vineyard... you may eat... but you must not put any in a basket.” – <strong>judgment (mishpatim)</strong> (limited eating from neighbor’s field)<br>
+<strong>May 30</strong>: Deuteronomy 24:6 – “Do not take a pair of millstones... as security for a debt.” – <strong>judgment (mishpatim)</strong> (protect livelihood)<br>
+<strong>May 31</strong>: Deuteronomy 24:10-13 – “When you make a loan... do not go into their house to get what is offered...” – <strong>judgment (mishpatim)</strong> (dignity in lending)</p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<h1 id="june" tabindex="-1">June</h1>
+<p><strong>June 1</strong>: Deuteronomy 24:14-15 – “Do not take advantage of a hired worker who is poor...” – <strong>judgment (mishpatim)</strong> (timely wages)<br>
+<strong>June 2</strong>: Deuteronomy 24:17-18 – “Do not deprive the foreigner or the fatherless of justice...” – <strong>judgment (mishpatim)</strong> (justice for vulnerable)<br>
+<strong>June 3</strong>: Deuteronomy 24:19-22 – Leave overlooked produce for the poor/foreigner/widow. – <strong>judgment (mishpatim)</strong> (gleaning)<br>
+<strong>June 4</strong>: Leviticus 19:9-10 (revisited) – Leave edges and gleanings. – <strong>judgment (mishpatim)</strong><br>
+<strong>June 5</strong>: Deuteronomy 25:1-3 – “When people have a dispute... the judge must decide... but not more than forty lashes.” – <strong>judgment (mishpatim)</strong> (fair punishment)<br>
+<strong>June 6</strong>: Deuteronomy 19:15-21 – “One witness is not enough... a malicious witness...” – <strong>judgment (mishpatim)</strong> (witness rules)<br>
+<strong>June 7</strong>: Exodus 23:6-9 – “Do not deny justice to your poor people... Do not accept a bribe...” – <strong>judgment (mishpatim)</strong> (no bribery)<br>
+<strong>June 8</strong>: Leviticus 19:16 – “Do not go about spreading slander... Do not do anything that endangers your neighbor’s life.” – <strong>judgment (mishpatim)</strong><br>
+<strong>June 9</strong>: Deuteronomy 22:9-11 – Do not mix seeds, plow with ox and donkey, or wear mixed fabrics (general separation). – <strong>statute (chuqim)</strong><br>
+<strong>June 10</strong>: Deuteronomy 23:17-18 – “No Israelite man or woman is to become a shrine prostitute...” – <strong>statute (chuqim)</strong> (moral purity)<br>
+<strong>June 11</strong>: Leviticus 11 (selected clean animals summary) – “These are the regulations concerning animals...” – <strong>statute (chuqim)</strong> (dietary distinctions)<br>
+<strong>June 12</strong>: Leviticus 17:10-14 – “I will set my face against any Israelite... who eats blood...” – <strong>statute (chuqim)</strong> (no blood)<br>
+<strong>June 13</strong>: Deuteronomy 14:3-21 (summary clean/unclean) – Do not eat detestable things. – <strong>statute (chuqim)</strong><br>
+<strong>June 14</strong>: Leviticus 19:19 – “Keep my decrees. Do not mate different kinds of animals...” – <strong>statute (chuqim)</strong><br>
+<strong>June 15</strong>: Deuteronomy 12:23-25 – “Be sure you do not eat the blood...” – <strong>statute (chuqim)</strong><br>
+<strong>June 16</strong>: Exodus 23:19 / Deuteronomy 14:21 – “Do not cook a young goat in its mother’s milk.” – <strong>statute (chuqim)</strong> (separation)<br>
+<strong>June 17</strong>: Leviticus 23:22 – Leave harvest portions for poor. – <strong>judgment (mishpatim)</strong><br>
+<strong>June 18</strong>: Deuteronomy 16:18-20 – “Appoint judges... Judge fairly... do not pervert justice...” – <strong>judgment (mishpatim)</strong> (establish justice)<br>
+<strong>June 19</strong>: Deuteronomy 17:8-13 – Difficult cases referred to higher judgment. – <strong>judgment (mishpatim)</strong><br>
+<strong>June 20</strong>: Deuteronomy 13:1-5 – “Do not listen to... a prophet or dreamer who... says, ‘Let us follow other gods.’” – <strong>command (mitzvot)</strong> (reject false prophets)<br>
+<strong>June 21</strong>: Deuteronomy 18:20-22 – Test prophets by fulfillment. – <strong>precept (pikkudim)</strong> (discern true word)<br>
+<strong>June 22</strong>: Leviticus 19:31 – “Do not turn to mediums or seek out spiritists...” – <strong>command (mitzvot)</strong> (no occult)<br>
+<strong>June 23</strong>: Deuteronomy 18:10-12 – “Let no one be found among you who... practices divination...” – <strong>command (mitzvot)</strong><br>
+<strong>June 24</strong>: Leviticus 19:26 – “Do not eat any meat with the blood still in it. Do not practice divination...” – <strong>statute (chuqim)</strong><br>
+<strong>June 25</strong>: Deuteronomy 6:13 / 10:20 – “Fear the LORD your God, serve him only...” – <strong>command (mitzvot)</strong><br>
+<strong>June 26</strong>: Deuteronomy 10:12-13 – “What does the LORD ask of you but to fear... walk in obedience...” – <strong>command (mitzvot)</strong><br>
+<strong>June 27</strong>: Deuteronomy 11:1 – “Love the LORD your God and keep his requirements...” – <strong>command (mitzvot)</strong><br>
+<strong>June 28</strong>: Deuteronomy 28:9 – “The LORD will establish you as his holy people... if you keep the commands...” – <strong>precept (pikkudim)</strong> (walk in His ways)<br>
+<strong>June 29</strong>: Exodus 23:25 – “Worship the LORD your God, and his blessing will be on your food...” – <strong>command (mitzvot)</strong><br>
+<strong>June 30</strong>: Deuteronomy 8:10 – “When you have eaten and are satisfied, praise the LORD your God for the good land he has given you.” – <strong>command (mitzvot)</strong> (thanksgiving after eating)</p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<h1 id="july" tabindex="-1">July</h1>
+<p><strong>July 1</strong>: Deuteronomy 6:13 – “Fear the LORD your God, serve him only and take your oaths in his name.” – <strong>command (mitzvot)</strong></p>
+<p><strong>July 2</strong>: Deuteronomy 10:12 – “What does the LORD your God ask of you but to fear the LORD your God, to walk in obedience to him, to love him...” – <strong>command (mitzvot)</strong></p>
+<p><strong>July 3</strong>: Deuteronomy 11:1 – “Love the LORD your God and keep his requirements, his decrees, his laws and his commands always.” – <strong>command (mitzvot)</strong></p>
+<p><strong>July 4</strong>: Deuteronomy 28:9 – “The LORD will establish you as his holy people... if you keep the commands of the LORD your God and walk in obedience to him.” – <strong>precept (pikkudim)</strong> (walk in holiness)</p>
+<p><strong>July 5</strong>: Leviticus 19:2 – “Be holy because I, the LORD your God, am holy.” – <strong>statute (chuqim)</strong> (call to holiness)</p>
+<p><strong>July 6</strong>: Leviticus 20:7 – “Consecrate yourselves and be holy, because I am the LORD your God.” – <strong>statute (chuqim)</strong></p>
+<p><strong>July 7</strong>: Deuteronomy 13:4 – “It is the LORD your God you must follow, and him you must revere. Keep his commands and obey him; serve him and hold fast to him.” – <strong>command (mitzvot)</strong></p>
+<p><strong>July 8</strong>: Deuteronomy 18:13 – “You must be blameless before the LORD your God.” – <strong>precept (pikkudim)</strong></p>
+<p><strong>July 9</strong>: Leviticus 19:3 – “Each of you must respect your mother and father, and you must observe my Sabbaths. I am the LORD your God.” – <strong>command (mitzvot)</strong> (respect parents + Sabbath)</p>
+<p><strong>July 10</strong>: Deuteronomy 27:16 (general principle) – “Cursed is anyone who dishonors their father or mother.” (inverse: honor them) – <strong>judgment (mishpatim)</strong></p>
+<p><strong>July 11</strong>: Leviticus 19:4 – “Do not turn to idols or make metal gods for yourselves. I am the LORD your God.” – <strong>command (mitzvot)</strong> (no idols)</p>
+<p><strong>July 12</strong>: Deuteronomy 7:25-26 – “Do not covet the silver and gold on them... You must detest and detest them.” – <strong>command (mitzvot)</strong> (reject idolatry)</p>
+<p><strong>July 13</strong>: Leviticus 19:31 – “Do not turn to mediums or seek out spiritists, for you will be defiled by them. I am the LORD your God.” – <strong>command (mitzvot)</strong> (no occult practices)</p>
+<p><strong>July 14</strong>: Deuteronomy 18:10-12 – “Let no one be found among you who sacrifices their son or daughter in the fire, who practices divination or sorcery...” – <strong>command (mitzvot)</strong></p>
+<p><strong>July 15</strong>: Leviticus 19:26 – “Do not eat any meat with the blood still in it. Do not practice divination or seek omens.” – <strong>statute (chuqim)</strong></p>
+<p><strong>July 16</strong>: Deuteronomy 12:32 – “See that you do all I command you; do not add to it or take away from it.” – <strong>precept (pikkudim)</strong> (do not add/subtract)</p>
+<p><strong>July 17</strong>: Deuteronomy 4:2 – “Do not add to what I command you and do not subtract from it, but keep the commands of the LORD your God that I give you.” – <strong>precept (pikkudim)</strong></p>
+<p><strong>July 18</strong>: Leviticus 19:12 – “Do not swear falsely by my name and so profane the name of your God. I am the LORD.” – <strong>command (mitzvot)</strong> (truthful use of God’s name)</p>
+<p><strong>July 19</strong>: Deuteronomy 23:21 – “If you make a vow to the LORD your God, do not be slow to pay it...” – <strong>ordinance / charge (mishmerot / tsavah)</strong> (fulfill vows)</p>
+<p><strong>July 20</strong>: Numbers 30:2 – “When a man makes a vow to the LORD or takes an oath to obligate himself by a pledge, he must not break his word but must do everything he said.” – <strong>ordinance / charge (mishmerot / tsavah)</strong> (general vow-keeping)</p>
+<p><strong>July 21</strong>: Leviticus 19:11 – “Do not steal. Do not lie. Do not deceive one another.” – <strong>judgment (mishpatim)</strong> (honesty)</p>
+<p><strong>July 22</strong>: Leviticus 19:13 – “Do not defraud or rob your neighbor. Do not hold back the wages of a hired worker overnight.” – <strong>judgment (mishpatim)</strong> (fair wages)</p>
+<p><strong>July 23</strong>: Deuteronomy 24:14-15 – “Do not take advantage of a hired worker who is poor and needy... Pay them their wages each day before sunset...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>July 24</strong>: Leviticus 19:35-36 – “Do not use dishonest standards when measuring length, weight or quantity. Use honest scales and honest weights...” – <strong>judgment (mishpatim)</strong> (honest business)</p>
+<p><strong>July 25</strong>: Deuteronomy 25:13-16 – “Do not have two differing weights in your bag—one heavy, one light... For the LORD your God detests anyone who does these things...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>July 26</strong>: Exodus 23:1 – “Do not spread false reports. Do not help a guilty person by being a malicious witness.” – <strong>judgment (mishpatim)</strong> (no false reports)</p>
+<p><strong>July 27</strong>: Leviticus 19:16 – “Do not go about spreading slander among your people. Do not do anything that endangers your neighbor’s life. I am the LORD.” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>July 28</strong>: Leviticus 19:17 – “Do not hate a fellow Israelite in your heart. Rebuke your neighbor frankly so you will not share in their guilt.” – <strong>judgment (mishpatim)</strong> (rebuke lovingly)</p>
+<p><strong>July 29</strong>: Leviticus 19:18 – “Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself. I am the LORD.” – <strong>command (mitzvot)</strong></p>
+<p><strong>July 30</strong>: Deuteronomy 10:19 – “And you are to love those who are foreigners, for you yourselves were foreigners in Egypt.” – <strong>command (mitzvot)</strong></p>
+<p><strong>July 31</strong>: Leviticus 19:33-34 – “When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself...” – <strong>judgment (mishpatim)</strong></p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<h1 id="august" tabindex="-1">August</h1>
+<p><strong>August 1</strong>: Exodus 22:21 – “Do not mistreat or oppress a foreigner, for you were foreigners in Egypt.” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>August 2</strong>: Deuteronomy 24:17-18 – “Do not deprive the foreigner or the fatherless of justice, or take the cloak of the widow as a pledge.” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>August 3</strong>: Leviticus 19:14 – “Do not curse the deaf or put a stumbling block in front of the blind, but fear your God. I am the LORD.” – <strong>judgment (mishpatim)</strong> (protect vulnerable)</p>
+<p><strong>August 4</strong>: Deuteronomy 27:18 (general) – “Cursed is anyone who leads the blind astray on the road.” (inverse: help, do not mislead) – <strong>judgment (mishpatim)</strong></p>
+<p><strong>August 5</strong>: Exodus 23:4-5 – “If you come across your enemy’s ox or donkey wandering off, be sure to return it to them... help them.” – <strong>judgment (mishpatim)</strong> (return lost property / help enemy)</p>
+<p><strong>August 6</strong>: Deuteronomy 22:1-4 – “If you see your fellow Israelite’s ox or sheep straying, do not ignore it but be sure to take it back to them...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>August 7</strong>: Deuteronomy 22:6-7 – “If you come across a bird’s nest... do not take the mother with the young. You may take the young, but be sure to let the mother go...” – <strong>command (mitzvot)</strong> (compassion to animals)</p>
+<p><strong>August 8</strong>: Deuteronomy 25:4 – “Do not muzzle an ox while it is treading out the grain.” – <strong>judgment (mishpatim)</strong> (fairness to animals)</p>
+<p><strong>August 9</strong>: Deuteronomy 22:8 – “When you build a new house, make a parapet around your roof so that you may not bring the guilt of bloodshed on your house if someone falls from it.” – <strong>judgment (mishpatim)</strong> (home safety)</p>
+<p><strong>August 10</strong>: Deuteronomy 23:24-25 – “If you enter your neighbor’s vineyard, you may eat all the grapes you want, but do not put any in a basket. If you enter your neighbor’s grainfield, you may pick kernels with your hands...” – <strong>judgment (mishpatim)</strong> (limited use of neighbor’s produce)</p>
+<p><strong>August 11</strong>: Deuteronomy 24:6 – “Do not take a pair of millstones—not even the upper one—as security for a debt, because that would be taking a person’s livelihood as security.” – <strong>judgment (mishpatim)</strong> (protect means of living)</p>
+<p><strong>August 12</strong>: Deuteronomy 24:10-13 – “When you make a loan of any kind to your neighbor, do not go into their house to get what is offered to you as a pledge. Stay outside...” – <strong>judgment (mishpatim)</strong> (dignity in lending)</p>
+<p><strong>August 13</strong>: Deuteronomy 24:19-21 – “When you are harvesting in your field and you overlook a sheaf, do not go back to get it. Leave it for the foreigner, the fatherless and the widow...” – <strong>judgment (mishpatim)</strong> (gleaning for poor)</p>
+<p><strong>August 14</strong>: Leviticus 19:9-10 – “When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings... Leave them for the poor and the foreigner...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>August 15</strong>: Leviticus 25:35-37 – “If any of your fellow Israelites become poor and are unable to support themselves among you, help them... Do not take interest or any profit from them...” – <strong>judgment (mishpatim)</strong> (aid the poor)</p>
+<p><strong>August 16</strong>: Exodus 22:25 – “If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.” – <strong>judgment (mishpatim)</strong> (no interest to poor)</p>
+<p><strong>August 17</strong>: Deuteronomy 23:19-20 – “Do not charge a fellow Israelite interest... You may charge a foreigner interest, but not a fellow Israelite...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>August 18</strong>: Deuteronomy 15:7-8 – “If anyone is poor among your fellow Israelites... do not be hardhearted or tightfisted toward them. Rather, be openhanded and freely lend them whatever they need.” – <strong>judgment (mishpatim)</strong> (generosity)</p>
+<p><strong>August 19</strong>: Deuteronomy 15:1-2 – “At the end of every seven years you must cancel debts. This is how it is to be done: Every creditor shall cancel any loan they have made to a fellow Israelite.” – <strong>ordinance / charge (mishmerot / tsavah)</strong> (debt release)</p>
+<p><strong>August 20</strong>: Leviticus 25:10 (general Jubilee equity) – “Consecrate the fiftieth year and proclaim liberty throughout the land...” (non-Temple aspects of release). – <strong>statute (chuqim)</strong> / ordinance</p>
+<p><strong>August 21</strong>: Deuteronomy 15:12-15 (general release principles) – “If any of your people... sell themselves to you and serve you six years, in the seventh year you must let them go free...” – <strong>ordinance / charge (mishmerot / tsavah)</strong></p>
+<p><strong>August 22</strong>: Deuteronomy 23:15-16 – “If a slave has taken refuge with you, do not hand them over to their master. Let them live among you wherever they like...” – <strong>judgment (mishpatim)</strong> (protect the vulnerable)</p>
+<p><strong>August 23</strong>: Leviticus 19:29 – “Do not degrade your daughter by making her a prostitute, or the land will turn to prostitution...” – <strong>judgment (mishpatim)</strong> (protect family moral purity)</p>
+<p><strong>August 24</strong>: Leviticus 18:6 – “No one is to approach any close relative to have sexual relations. I am the LORD.” – <strong>statute (chuqim)</strong> (forbidden relations – general summary)</p>
+<p><strong>August 25</strong>: Leviticus 20:10 (selected general) – “If a man commits adultery with another man’s wife...” (moral equity principle). – <strong>statute (chuqim)</strong> / judgment</p>
+<p><strong>August 26</strong>: Deuteronomy 22:13-21 (general honesty in family matters) – Avoid false accusations regarding purity. – <strong>judgment (mishpatim)</strong></p>
+<p><strong>August 27</strong>: Deuteronomy 24:1-4 (equity in divorce) – “If a man marries a woman... and he writes her a certificate of divorce...” (general principles of fairness). – <strong>judgment (mishpatim)</strong></p>
+<p><strong>August 28</strong>: Deuteronomy 22:5 – “A woman must not wear men’s clothing, nor a man wear women’s clothing, for the LORD your God detests anyone who does this.” – <strong>statute (chuqim)</strong> (distinction in dress)</p>
+<p><strong>August 29</strong>: Deuteronomy 22:9-11 – “Do not plant your field with two kinds of seed. Do not plow with an ox and a donkey yoked together. Do not wear clothes of wool and linen woven together.” – <strong>statute (chuqim)</strong> (no mixing)</p>
+<p><strong>August 30</strong>: Leviticus 19:19 – “Keep my decrees. Do not mate different kinds of animals. Do not plant your field with two kinds of seed. Do not wear clothing woven of two kinds of material.” – <strong>statute (chuqim)</strong></p>
+<p><strong>August 31</strong>: Leviticus 11 (summary) – “These are the regulations concerning animals... Of all the creatures... you may eat...” (applicable dietary distinctions for all). – <strong>statute (chuqim)</strong> (clean/unclean foods)</p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<h1 id="september" tabindex="-1">September</h1>
+<p><strong>September 1</strong>: Deuteronomy 14:3-21 (summary) – “Do not eat any detestable thing... These are the animals you may eat...” – <strong>statute (chuqim)</strong></p>
+<p><strong>September 2</strong>: Leviticus 17:10-14 – “I will set my face against any Israelite or any foreigner... who eats blood... You must not eat the blood of any creature...” – <strong>statute (chuqim)</strong> (no blood)</p>
+<p><strong>September 3</strong>: Deuteronomy 12:23-25 – “But be sure you do not eat the blood, because the blood is the life... You must not eat the blood...” – <strong>statute (chuqim)</strong></p>
+<p><strong>September 4</strong>: Exodus 23:19 / Deuteronomy 14:21 – “Do not cook a young goat in its mother’s milk.” – <strong>statute (chuqim)</strong> (separation)</p>
+<p><strong>September 5</strong>: Leviticus 19:23-25 – “When you enter the land and plant any kind of fruit tree, regard its fruit as forbidden. For three years you are to consider it forbidden; it must not be eaten. In the fourth year all its fruit will be holy... But in the fifth year you may eat its fruit.” – <strong>statute (chuqim)</strong> (fruit of trees)</p>
+<p><strong>September 6</strong>: Deuteronomy 20:19-20 – “When you lay siege to a city... do not destroy its trees by putting an ax to them, because you can eat their fruit. Do not cut them down.” – <strong>command (mitzvot)</strong> (preserve fruit trees)</p>
+<p><strong>September 7</strong>: Deuteronomy 25:1-3 – “When people have a dispute, they are to take it to court... The judge must decide... but he must not give more than forty lashes.” – <strong>judgment (mishpatim)</strong> (fair punishment)</p>
+<p><strong>September 8</strong>: Deuteronomy 19:15-21 – “One witness is not enough to convict anyone... A malicious witness...” – <strong>judgment (mishpatim)</strong> (witness rules)</p>
+<p><strong>September 9</strong>: Exodus 23:6-8 – “Do not deny justice to your poor people in their lawsuits... Do not accept a bribe, for a bribe blinds those who see...” – <strong>judgment (mishpatim)</strong> (no bribery / impartial justice)</p>
+<p><strong>September 10</strong>: Leviticus 19:15 – “Do not pervert justice; do not show partiality to the poor or favoritism to the great, but judge your neighbor fairly.” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>September 11</strong>: Deuteronomy 16:18-20 – “Appoint judges and officials... Judge the people fairly. Do not pervert justice or show partiality...” – <strong>judgment (mishpatim)</strong> (establish just courts)</p>
+<p><strong>September 12</strong>: Deuteronomy 17:8-13 (general difficult cases) – Bring hard cases to proper judgment. – <strong>judgment (mishpatim)</strong></p>
+<p><strong>September 13</strong>: Deuteronomy 13:1-5 – “If a prophet... says, ‘Let us follow other gods’... you must not listen to the words of that prophet...” – <strong>command (mitzvot)</strong> (reject false prophets)</p>
+<p><strong>September 14</strong>: Deuteronomy 18:20-22 – “But a prophet who presumes to speak in my name anything I have not commanded... that prophet must be put to death.” (Test by fulfillment.) – <strong>precept (pikkudim)</strong> (discern true prophecy)</p>
+<p><strong>September 15</strong>: Deuteronomy 6:6-9 – “These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home...” – <strong>precept (pikkudim)</strong> (teach God’s words)</p>
+<p><strong>September 16</strong>: Deuteronomy 31:12 – “Assemble the people... so they can listen and learn to fear the LORD your God and follow carefully all the words of this law.” – <strong>precept (pikkudim)</strong> (public teaching)</p>
+<p><strong>September 17</strong>: Deuteronomy 32:46-47 – “Take to heart all the words I have solemnly declared to you this day... They are your life...” – <strong>precept (pikkudim)</strong> (heed the law)</p>
+<p><strong>September 18</strong>: Deuteronomy 11:18-21 – “Fix these words of mine in your hearts and minds... Teach them to your children...” – <strong>precept (pikkudim)</strong> (internalize and teach)</p>
+<p><strong>September 19</strong>: Deuteronomy 30:19-20 – “This day I call the heavens and the earth as witnesses against you that I have set before you life and death... Now choose life...” – <strong>command (mitzvot)</strong> (choose life/obedience)</p>
+<p><strong>September 20</strong>: Deuteronomy 4:39-40 – “Acknowledge and take to heart this day that the LORD is God in heaven above and on the earth below. There is no other. Keep his decrees and commands...” – <strong>command (mitzvot)</strong></p>
+<p><strong>September 21</strong>: Leviticus 23:3 – “There are six days when you may work, but the seventh day is a day of sabbath rest, a day of sacred assembly. You are not to do any work...” – <strong>ordinance / charge (mishmerot / tsavah)</strong> (Sabbath)</p>
+<p><strong>September 22</strong>: Exodus 23:12 – “Six days do your work, but on the seventh day do not work, so that your ox and your donkey may rest...” – <strong>ordinance / charge (mishmerot / tsavah)</strong></p>
+<p><strong>September 23</strong>: Deuteronomy 5:12-15 – “Observe the Sabbath day by keeping it holy... Remember that you were slaves in Egypt...” – <strong>ordinance / charge (mishmerot / tsavah)</strong></p>
+<p><strong>September 24</strong>: Leviticus 23:5-8 (non-sacrifice aspects) – Observe Passover and the Festival of Unleavened Bread with rest and remembrance. – <strong>statute (chuqim)</strong></p>
+<p><strong>September 25</strong>: Leviticus 23:15-21 (non-sacrifice) – Count fifty days and observe the Festival of Weeks with rest. – <strong>statute (chuqim)</strong></p>
+<p><strong>September 26</strong>: Leviticus 23:24-25 – “On the first day of the seventh month you are to have a day of sabbath rest, a sacred assembly commemorated with trumpet blasts.” – <strong>statute (chuqim)</strong> (Rosh Hashanah rest)</p>
+<p><strong>September 27</strong>: Leviticus 23:27-32 (non-Temple) – “The tenth day of this seventh month is the Day of Atonement. Hold a sacred assembly and deny yourselves...” (fast and rest). – <strong>statute (chuqim)</strong></p>
+<p><strong>September 28</strong>: Leviticus 23:34-43 (non-lulav aspects) – “The fifteenth day of this seventh month... is the LORD’s Festival of Tabernacles... Live in temporary shelters for seven days...” – <strong>statute (chuqim)</strong> (Sukkot)</p>
+<p><strong>September 29</strong>: Deuteronomy 16:13-15 – “Celebrate the Festival of Tabernacles for seven days after you have gathered the produce... Be joyful at your festival...” – <strong>command (mitzvot)</strong> (joy in festivals)</p>
+<p><strong>September 30</strong>: Deuteronomy 16:16-17 – “Three times a year all your men must appear before the LORD... No one should appear before the LORD empty-handed...” (general appearance principle for all). – <strong>ordinance / charge (mishmerot / tsavah)</strong></p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<h1 id="october" tabindex="-1">October</h1>
+<p><strong>October 1</strong>: Deuteronomy 12:5-7 (general worship) – “You must seek the place the LORD your God will choose... There bring your burnt offerings...” (general principle of centralized worship, non-Temple specific). – <strong>command (mitzvot)</strong></p>
+<p><strong>October 2</strong>: Exodus 23:25 – “Worship the LORD your God, and his blessing will be on your food and water. I will take away sickness from among you.” – <strong>command (mitzvot)</strong></p>
+<p><strong>October 3</strong>: Deuteronomy 10:20 – “Fear the LORD your God and serve him. Hold fast to him and take your oaths in his name.” – <strong>command (mitzvot)</strong></p>
+<p><strong>October 4</strong>: Deuteronomy 11:22 – “If you carefully observe all these commands I am giving you to follow—to love the LORD your God, to walk in obedience to him...” – <strong>command (mitzvot)</strong></p>
+<p><strong>October 5</strong>: Leviticus 20:22-26 – “Keep all my decrees and laws and follow them, so that the land... may not vomit you out... You must be holy to me because I, the LORD, am holy...” – <strong>statute (chuqim)</strong></p>
+<p><strong>October 6</strong>: Deuteronomy 28:1-2 – “If you fully obey the LORD your God and carefully follow all his commands... all these blessings will come on you...” – <strong>precept (pikkudim)</strong> (obedience brings blessing)</p>
+<p><strong>October 7</strong>: Deuteronomy 30:15-16 – “See, I set before you today life and prosperity, death and destruction. For I command you today to love the LORD your God, to walk in obedience to him...” – <strong>command (mitzvot)</strong></p>
+<p><strong>October 8</strong>: Leviticus 19:37 – “Keep all my decrees and all my laws and follow them. I am the LORD.” – <strong>precept (pikkudim)</strong></p>
+<p><strong>October 9</strong>: Deuteronomy 26:16-19 – “You have declared this day that the LORD is your God and that you will walk in obedience to him... And the LORD has declared that you will be his treasured possession...” – <strong>precept (pikkudim)</strong> (covenant commitment)</p>
+<p><strong>October 10</strong>: Deuteronomy 4:5-6 – “See, I have taught you decrees and laws as the LORD my God commanded me... Observe them carefully, for this will show your wisdom...” – <strong>precept (pikkudim)</strong></p>
+<p><strong>October 11</strong>: Exodus 20:20 – “Moses said to the people, ‘Do not be afraid. God has come to test you, so that the fear of God will be with you to keep you from sinning.’” – <strong>command (mitzvot)</strong> (fear God to avoid sin)</p>
+<p><strong>October 12</strong>: Deuteronomy 5:29 – “Oh, that their hearts would be inclined to fear me and keep all my commands always, so that it might go well with them...” – <strong>precept (pikkudim)</strong></p>
+<p><strong>October 13</strong>: Leviticus 25:17 – “Do not take advantage of each other, but fear your God. I am the LORD your God.” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>October 14</strong>: Deuteronomy 25:17-19 – “Remember what the Amalekites did to you... When the LORD your God gives you rest... you shall blot out the name of Amalek...” (historical remembrance principle). – <strong>precept (pikkudim)</strong></p>
+<p><strong>October 15</strong>: Deuteronomy 9:4-6 – “After the LORD your God has driven them out... do not say to yourself, ‘The LORD has brought me here to take possession of this land because of my righteousness.’” – <strong>precept (pikkudim)</strong> (humility, not self-righteousness)</p>
+<p><strong>October 16</strong>: Leviticus 19:36 – “Use honest scales and honest weights, an honest ephah and an honest hin. I am the LORD your God...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>October 17</strong>: Proverbs is not in Torah; stay with Torah: Deuteronomy 16:20 – “Follow justice and justice alone, so that you may live and possess the land...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>October 18</strong>: Exodus 23:2 – “Do not follow the crowd in doing wrong. When you give testimony in a lawsuit, do not pervert justice by siding with the crowd...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>October 19</strong>: Leviticus 19:32 – “Stand up in the presence of the aged, show respect for the elderly and revere your God. I am the LORD.” – <strong>command (mitzvot)</strong></p>
+<p><strong>October 20</strong>: Deuteronomy 27:19 – “Cursed is anyone who withholds justice from the foreigner, the fatherless or the widow.” (inverse: give justice). – <strong>judgment (mishpatim)</strong></p>
+<p><strong>October 21</strong>: Deuteronomy 24:17 – “Do not deprive the foreigner or the fatherless of justice...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>October 22</strong>: Leviticus 25:14 – “If you sell land to any of your own people or buy land from them, do not take advantage of each other.” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>October 23</strong>: Leviticus 25:39-43 (general) – “If any of your fellow Israelites become poor... do not make them work as slaves. They are to be treated as hired workers...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>October 24</strong>: Deuteronomy 15:9 – “Be careful not to harbor this wicked thought: ‘The seventh year... is near,’ so that you do not show ill will toward the needy...” – <strong>judgment (mishpatim)</strong> (generosity without resentment)</p>
+<p><strong>October 25</strong>: Deuteronomy 22:10 – “Do not plow with an ox and a donkey yoked together.” – <strong>statute (chuqim)</strong> (no unequal yoking)</p>
+<p><strong>October 26</strong>: Deuteronomy 23:17 – “No Israelite man or woman is to become a shrine prostitute...” – <strong>statute (chuqim)</strong> (moral purity)</p>
+<p><strong>October 27</strong>: Leviticus 19:20-22 (general equity) – Principles of justice in cases of violation. – <strong>judgment (mishpatim)</strong></p>
+<p><strong>October 28</strong>: Deuteronomy 21:15-17 (general inheritance equity) – “If a man has two wives... he must not give the rights of the firstborn to the son of the wife he loves...” (fairness principle). – <strong>judgment (mishpatim)</strong></p>
+<p><strong>October 29</strong>: Deuteronomy 25:5-10 (general levirate equity, non-male exclusive duty aspect) – Family responsibility in lineage preservation. – <strong>ordinance / charge (mishmerot / tsavah)</strong></p>
+<p><strong>October 30</strong>: Deuteronomy 21:10-14 (general treatment of captives) – “When you go to war... and you take them captive... treat her as your daughter...” (compassion). – <strong>judgment (mishpatim)</strong></p>
+<p><strong>October 31</strong>: Deuteronomy 20:5-8 (general exemptions in war for new house, vineyard, wife – equity principles). – <strong>judgment (mishpatim)</strong></p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<h1 id="november" tabindex="-1">November</h1>
+<p><strong>November 1</strong>: Deuteronomy 23:9-14 – “When you are encamped against your enemies, keep away from everything impure... Designate a place outside the camp where you can go...” (camp hygiene principle). – <strong>statute (chuqim)</strong></p>
+<p><strong>November 2</strong>: Deuteronomy 21:1-9 (general unsolved murder) – “If someone is found slain... and it is not known who the killer was... the elders... shall... wash their hands...” (communal responsibility). – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 3</strong>: Leviticus 19:36 (revisited) – Honest measures. – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 4</strong>: Deuteronomy 19:1-13 – Cities of refuge for unintentional killers (general justice). – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 5</strong>: Deuteronomy 19:4-7 – “This is the rule concerning anyone who kills a neighbor unintentionally...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 6</strong>: Exodus 21:12-14 (general) – “Anyone who strikes a person with a fatal blow is to be put to death. However, if it is not done intentionally...” – <strong>judgment (mishpatim)</strong> (distinguish murder/manslaughter)</p>
+<p><strong>November 7</strong>: Exodus 21:18-19 (general injury) – “If people quarrel and one person hits another... the guilty party must pay...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 8</strong>: Exodus 21:22-25 – “If people are fighting and hit a pregnant woman... eye for eye, tooth for tooth...” (proportional justice). – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 9</strong>: Leviticus 24:19-20 – “Anyone who injures their neighbor is to be injured in the same manner: fracture for fracture...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 10</strong>: Deuteronomy 19:21 – “Show no pity: life for life, eye for eye, tooth for tooth...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 11</strong>: Exodus 22:1-4 – “Whoever steals an ox or a sheep and slaughters it or sells it must pay back five head of cattle for the ox...” – <strong>judgment (mishpatim)</strong> (restitution for theft)</p>
+<p><strong>November 12</strong>: Exodus 22:5-6 – “If anyone grazes their livestock in a field or vineyard and lets them stray and they graze in someone else’s field... the owner must make restitution.” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 13</strong>: Exodus 22:7-15 – Rules for safekeeping property left with another (general trust). – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 14</strong>: Leviticus 6:1-5 (general restitution) – “If anyone sins and is unfaithful... by deceiving their neighbor... they must make restitution...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 15</strong>: Deuteronomy 22:3 – “If you find your fellow Israelite’s donkey or cloak or anything else they have lost, do not ignore it but be sure to return it.” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 16</strong>: Deuteronomy 25:12 (general) – Principles against excessive harm. – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 17</strong>: Leviticus 19:13 – “Do not defraud or rob your neighbor.” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 18</strong>: Proverbs not applicable; Deuteronomy 27:25 – “Cursed is anyone who accepts a bribe to kill an innocent person.” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 19</strong>: Deuteronomy 16:19 – “Do not pervert justice or show partiality. Do not accept a bribe...” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 20</strong>: Exodus 23:8 – “Do not accept a bribe, for a bribe blinds those who see and twists the words of the innocent.” – <strong>judgment (mishpatim)</strong></p>
+<p><strong>November 21</strong>: Deuteronomy 13:6-11 – “If your very own brother... secretly entices you, saying, ‘Let us go and worship other gods’... You must certainly put them to death.” (general rejection of idolatry enticement). – <strong>command (mitzvot)</strong></p>
+<p><strong>November 22</strong>: Deuteronomy 7:1-5 – “When the LORD your God brings you into the land... you must destroy them totally... Do not intermarry with them...” (general separation from idolatry). – <strong>statute (chuqim)</strong></p>
+<p><strong>November 23</strong>: Deuteronomy 12:2-4 – “Destroy completely all the places on the high mountains... where the nations... worship their gods... You must not worship the LORD your God in their way.” – <strong>command (mitzvot)</strong></p>
+<p><strong>November 24</strong>: Deuteronomy 7:16 – “You must destroy all the peoples the LORD your God gives over to you. Do not look on them with pity...” (general command against idolatry). – <strong>command (mitzvot)</strong></p>
+<p><strong>November 25</strong>: Deuteronomy 18:9-14 – “You must not learn to imitate the detestable ways of the nations... Anyone who does these things is detestable to the LORD...” – <strong>command (mitzvot)</strong></p>
+<p><strong>November 26</strong>: Leviticus 20:23 – “You must not live according to the customs of the nations I am going to drive out before you...” – <strong>statute (chuqim)</strong></p>
+<p><strong>November 27</strong>: Deuteronomy 11:26-28 – “See, I am setting before you today a blessing and a curse—the blessing if you obey the commands... the curse if you disobey...” – <strong>precept (pikkudim)</strong></p>
+<p><strong>November 28</strong>: Deuteronomy 28:58-59 – “If you do not carefully follow all the words of this law... the LORD will send fearful plagues on you...” – <strong>precept (pikkudim)</strong> (consequences of disobedience)</p>
+<p><strong>November 29</strong>: Deuteronomy 29:9 – “Carefully follow the terms of this covenant, so that you may prosper in everything you do.” – <strong>precept (pikkudim)</strong></p>
+<p><strong>November 30</strong>: Deuteronomy 30:8-10 – “You will again obey the LORD and follow all his commands... The LORD your God will make you most prosperous...” – <strong>command (mitzvot)</strong> (return to obedience)</p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<h1 id="december" tabindex="-1">December</h1>
+<p><strong>December 1</strong> (example transition toward Gospels): Deuteronomy 30:19-20 – “Choose life, so that you and your children may live... love the LORD...” – <strong>command (mitzvot)</strong> (choose obedience/life)<br>
+<strong>December 2</strong>: Deuteronomy 31:12 – “Assemble the people... so they can listen and learn...” – <strong>precept (pikkudim)</strong> (public reading/teaching)<br>
+<strong>December 3</strong>: Deuteronomy 32:46-47 – “Take to heart all the words... they are not just idle words for you—they are your life.” – <strong>precept (pikkudim)</strong> (heed the words)</p>
+<p><strong>December 4</strong>: Matthew 4:17 – “Repent, for the kingdom of heaven has come near.” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 5</strong>: Matthew 4:19 – “Come, follow me...” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 6</strong>: Matthew 5:16 – “Let your light shine before others, that they may see your good deeds...” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 7</strong>: Matthew 5:44 – “Love your enemies and pray for those who persecute you.” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 8</strong>: Matthew 6:9-13 – “This, then, is how you should pray...” – <strong>command (mitzvot) – new covenant</strong> (model prayer)<br>
+<strong>December 9</strong>: Matthew 6:33 – “Seek first his kingdom and his righteousness...” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 10</strong>: Matthew 7:7 – “Ask and it will be given to you; seek and you will find...” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 11</strong>: Matthew 7:12 – “So in everything, do to others what you would have them do to you...” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 12</strong>: Matthew 22:37-40 – “Love the Lord your God with all your heart... Love your neighbor as yourself.” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 13</strong>: John 13:34-35 – “A new command I give you: Love one another. As I have loved you...” – <strong>new commandment (mitzvot)</strong><br>
+<strong>December 14</strong>: Matthew 28:19-20 – “Go and make disciples of all nations...” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 16</strong>: Matthew 4:19 – “Come, follow me...” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 17</strong>: Matthew 5:16 – “Let your light shine before others...” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 18</strong>: Matthew 5:44 – “Love your enemies and pray for those who persecute you.” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 19</strong>: Matthew 6:9-13 (Lord’s Prayer) – “This, then, is how you should pray...” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 20</strong>: Matthew 6:33 – “Seek first his kingdom and his righteousness...” – <strong>command (mitzvot) – new covenant</strong><br>
+<strong>December 21</strong>: Matthew 7:12 – “Do to others what you would have them do to you...” – <strong>command (mitzvot) – new covenant</strong> (Golden Rule)<br>
+<strong>December 22</strong>: Matthew 22:37-39 – “Love the Lord your God with all your heart... Love your neighbor as yourself.” – <strong>command (mitzvot) – new covenant</strong> (greatest commandments)<br>
+<strong>December 23</strong>: Matthew 28:19-20 – “Go and make disciples of all nations...” – <strong>command (mitzvot) – new covenant</strong> (Great Commission)<br>
+<strong>December 24</strong>: John 13:34 – “A new command I give you: Love one another. As I have loved you...” – <strong>new commandment (mitzvot)</strong><br>
+<strong>December 25</strong>: Luke 22:19 – “Do this in remembrance of me.” (Lord’s Supper). – <strong>command (mitzvot) – new covenant</strong><br>
+Here is the final portion of your <strong>one-year biblical commands reading plan</strong>, covering <strong>December 25, 2026 through March 20, 2027</strong>.<br>
+<strong>December 26</strong>: Matthew 28:19-20 – “Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you.” – <strong>command (mitzvot) – new covenant</strong> (Great Commission)</p>
+<p><strong>December 27</strong>: John 13:34-35 – “A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples...” – <strong>new commandment (mitzvot)</strong></p>
+<p><strong>December 28</strong>: Matthew 22:37-39 – “Jesus replied: ‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’” – <strong>command (mitzvot) – new covenant</strong> (greatest commandments)</p>
+<p><strong>December 29</strong>: Matthew 7:12 – “So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets.” – <strong>command (mitzvot) – new covenant</strong> (Golden Rule)</p>
+<p><strong>December 30</strong>: Matthew 6:33 – “But seek first his kingdom and his righteousness, and all these things will be given to you as well.” – <strong>command (mitzvot) – new covenant</strong></p>
+<p><strong>December 31</strong>: Matthew 6:9-13 – “This, then, is how you should pray: ‘Our Father in heaven, hallowed be your name...’” – <strong>command (mitzvot) – new covenant</strong> (how to pray / Lord’s Prayer)</p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<h1 id="january" tabindex="-1">January</h1>
+<p><strong>January 1, 2027</strong>: Matthew 5:44 – “But I tell you, love your enemies and pray for those who persecute you...” – <strong>command (mitzvot) – new covenant</strong></p>
+<p><strong>January 2</strong>: Matthew 5:16 – “In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.” – <strong>command (mitzvot) – new covenant</strong> (be salt and light – summary principle)</p>
+<p><strong>January 3</strong>: Matthew 4:19 (and parallels) – “Come, follow me... and I will send you out to fish for people.” – <strong>command (mitzvot) – new covenant</strong> (follow Jesus)</p>
+<p><strong>January 4</strong>: Matthew 4:17 – “From that time on Jesus began to preach, ‘Repent, for the kingdom of heaven has come near.’” – <strong>command (mitzvot) – new covenant</strong> (repent)</p>
+<p><strong>January 5</strong>: John 15:4-5 – “Remain in me, as I also remain in you... apart from me you can do nothing.” – <strong>command (mitzvot) – new covenant</strong> (abide in Christ)</p>
+<p><strong>January 6</strong>: John 15:12 – “My command is this: Love each other as I have loved you.” – <strong>new commandment (mitzvot)</strong> (reinforcement)</p>
+<p><strong>January 7</strong>: Matthew 6:25-34 (summary) – “Therefore I tell you, do not worry about your life...” – <strong>command (mitzvot) – new covenant</strong> (do not worry / trust God)</p>
+<p><strong>January 8</strong>: Matthew 7:7-8 – “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.” – <strong>command (mitzvot) – new covenant</strong> (ask, seek, knock)</p>
+<p><strong>January 9</strong>: Luke 6:37 – “Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven.” – <strong>command (mitzvot) – new covenant</strong> (do not judge / forgive)</p>
+<p><strong>January 10</strong>: Matthew 18:21-22 – “Then Peter came to Jesus and asked, ‘Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?’ Jesus answered, ‘I tell you, not seven times, but seventy-seven times.’” – <strong>command (mitzvot) – new covenant</strong> (forgive repeatedly)</p>
+<p><strong>January 11</strong>: Matthew 5:23-24 – “Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you, leave your gift there... First go and be reconciled...” – <strong>command (mitzvot) – new covenant</strong> (reconcile quickly)</p>
+<p><strong>January 12</strong>: Matthew 5:39 – “But I tell you, do not resist an evil person. If anyone slaps you on the right cheek, turn to them the other cheek also.” – <strong>command (mitzvot) – new covenant</strong> (non-retaliation)</p>
+<p><strong>January 13</strong>: Matthew 7:1-2 – “Do not judge, or you too will be judged. For in the same way you judge others, you will be judged...” – <strong>command (mitzvot) – new covenant</strong></p>
+<p><strong>January 14</strong>: John 14:15 – “If you love me, keep my commands.” – <strong>command (mitzvot) – new covenant</strong> (obey out of love)</p>
+<p><strong>January 15</strong>: Matthew 11:28-30 – “Come to me, all you who are weary and burdened, and I will give you rest... Take my yoke upon you and learn from me...” – <strong>command (mitzvot) – new covenant</strong> (come to Jesus / take His yoke)</p>
+<p><strong>January 16</strong>: Luke 9:23 – “Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me.” – <strong>command (mitzvot) – new covenant</strong> (deny self, take up cross)</p>
+<p><strong>January 17</strong>: Matthew 6:19-21 – “Do not store up for yourselves treasures on earth... But store up for yourselves treasures in heaven...” – <strong>command (mitzvot) – new covenant</strong> (heavenly focus)</p>
+<p><strong>January 18</strong>: John 13:14-15 – “Now that I, your Lord and Teacher, have washed your feet, you also should wash one another’s feet. I have set you an example that you should do as I have done for you.” – <strong>command (mitzvot) – new covenant</strong> (serve one another)</p>
+<p><strong>January 19</strong>: Matthew 5:14-16 (full light principle) – “You are the light of the world... let your light shine before others...” – <strong>command (mitzvot) – new covenant</strong></p>
+<p><strong>January 20</strong>: Mark 12:30-31 (parallel) – “Love the Lord your God... Love your neighbor as yourself.” – <strong>command (mitzvot) – new covenant</strong></p>
+<p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
+<p><strong>January 21 to March 19, 2027 (Review Period)</strong>:<br>
+These final weeks are dedicated to <strong>meditation and review</strong>. Each day, revisit one or more key commands from the entire year. Suggested structure (rotate or choose as led):</p>
+<ul>
+<li><strong>January 21–31</strong>: Review the Ten Commandments (Exodus 20 / Deuteronomy 5) + Deuteronomy 6:4-5 (Shema &amp; love God) – classify as <strong>command (mitzvot)</strong> and <strong>ordinance / charge</strong>.</li>
+<li><strong>February 1–10</strong>: Review major judgments (mishpatim) on justice, honesty, care for poor/foreigner (Leviticus 19, Deuteronomy 24, Exodus 22-23).</li>
+<li><strong>February 11–20</strong>: Review statutes (chuqim) on holiness, dietary distinctions, Sabbath, and festivals (Leviticus 11, 19, 23; Deuteronomy 14).</li>
+<li><strong>February 21–28</strong>: Review precepts (pikkudim) on teaching, internalizing, choosing life (Deuteronomy 6, 11, 30, 32).</li>
+<li><strong>March 1–10</strong>: Review Jesus’ new covenant commands on love, forgiveness, prayer, abiding, and discipleship (Matthew 5-7, John 13-15).</li>
+<li><strong>March 11–19</strong>: Free review of any commands that stood out; meditate on overarching themes such as “Love God and love your neighbor” (combining Old and New).</li>
+</ul>
+<p><strong>March 20, 2027</strong> (anniversary / completion day):<br>
+Deuteronomy 30:19-20 combined with Matthew 22:37-40 – “Choose life... Love the LORD your God... Love your neighbor as yourself.” – <strong>command (mitzvot)</strong> / <strong>command (mitzvot) – new covenant</strong> (summary of the year’s obedience and love).</p>
 </main>
 <aside>
 <div class="sidebar">
@@ -2662,13 +2993,27 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#define">Define</a>
+<li><a href="#march">March</a>
 </li>
-<li><a href="#related-words">Related words</a>
+<li><a href="#april">April</a>
 </li>
-<li><a href="#additional-info">Additional Info</a>
+<li><a href="#may">May</a>
 </li>
-<li><a href="#connections">Connections</a>
+<li><a href="#june">June</a>
+</li>
+<li><a href="#july">July</a>
+</li>
+<li><a href="#august">August</a>
+</li>
+<li><a href="#september">September</a>
+</li>
+<li><a href="#october">October</a>
+</li>
+<li><a href="#november">November</a>
+</li>
+<li><a href="#december">December</a>
+</li>
+<li><a href="#january">January</a>
 </li>
 </ol>
 </nav>
@@ -2676,9 +3021,9 @@ On this page
 </div>
 <div class="backlinks">
 <div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/an-index/w/" data-note-icon="" class="backlink">W</a>
-</div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/tablets-of-testimony/" data-note-icon="" class="backlink">Tablets of Testimony</a>
-</div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/gate-of-wisdom/" data-note-icon="" class="backlink">_Gate of Wisdom</a>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/an-index/c/" data-note-icon="" class="backlink">C</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/an-index/r/" data-note-icon="" class="backlink">R</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/" data-note-icon="" class="backlink">Home</a>
 </div></div>
 </div>
 </div>
