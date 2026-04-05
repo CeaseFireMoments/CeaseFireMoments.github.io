@@ -186,7 +186,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 
 [^16]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] from chastening after disobedience [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]  #Righteous #unrighteous 
 
-[^17]: [[Zunpublished/Precept Pikkubim\|Precept Pikkubim]] instruction for [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] living from [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-03\|Prov-03]] v11-12
+[^17]: [[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]] instruction for [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] living from [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-03\|Prov-03]] v11-12
 
 [^18]: [[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]] lay aside weight and sin run with perseverance the peace before us.
 

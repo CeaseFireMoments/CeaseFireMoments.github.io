@@ -49,6 +49,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]]                                                             |
 | [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]]                                                                       |
 | [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]]                                                                         |
+| [[Gate of Wisdom/B/Baptize\|Baptize]]                                                                                       |
 | [[Gate of Wisdom/B/Beast\|Beast]]                                                                                           |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Beer Lahai Roi\|Beer Lahai Roi]]                                           |
 | [[Gate of Wisdom/B/Bekah\|Bekah]]                                                                                           |

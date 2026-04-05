@@ -49,8 +49,8 @@ Moreover also <mark style="background: #D7CD91A6;">I </mark><mark style="backgro
 ## **<mark style="background: #04CD3EA6;">What</mark>**: 
 - YHWH:
 	- To the House of Israel
-		- Gave his [[Zunpublished/Statue Chuqim\|Statue Chuqim]] (2x)
-		- Showed his [[Zunpublished/Ordinance Mishmerot\|Ordinance Mishmerot]] (2x)
+		- Gave his [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] (2x)
+		- Showed his [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] (2x)
 		- Gave his SabbathS, make them holy (2x)
 		- Poured out his rath on the House of Israel to consume them because of their rebellion
 		- Worked for his name sake, so it wouldn't be profaned to the people outside (nations)

@@ -19,8 +19,9 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/40 The Seventh Day is for Teaching (41 Mark)\|40 The Seventh Day is for Teaching (41 Mark)]]                                                     |
 | [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                                                                              |
+| [[Gate of Wisdom/B/Baptize\|Baptize]]                                                                                                                                                                |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/40 The Seventh Day is for Teaching (41 Mark)\|40 The Seventh Day is for Teaching (41 Mark)]]                                                     |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/39 The Seventh Day is the Sabbath (40 Matthew)\|39 The Seventh Day is the Sabbath (40 Matthew)]]                                                 |
 | [[Torah Portions/03.28.67 Shabbat Reading\|03.28.67 Shabbat Reading]]                                                                                                                                |
 | [[Torah Portions/2026.03.19 Shabbat Reading\|2026.03.19 Shabbat Reading]]                                                                                                                            |
@@ -38,7 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/Beings/Human Beings/idolater\|idolater]]                                                                                                                                            |
 | [[Gate of Wisdom/Beings/Human Beings/drunkard\|drunkard]]                                                                                                                                            |
 | [[Gate of Wisdom/Beings/Human Beings/extortionist\|extortionist]]                                                                                                                                    |
-| [[Gate of Wisdom/C/chosen ones\|chosen ones]]                                                                                                                                                        |
 
 { .block-language-dataview}
 
