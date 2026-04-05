@@ -92,6 +92,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Demons\|Demons]]                                                                                    |
 | [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                                      |
 | [[Gate of Wisdom/Beings/Human Beings/Disciple\|Disciple]]                                                                   |
+| [[Gate of Wisdom/D/Do Instructions\|Do Instructions]]                                                                       |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]                                                                    |
 | [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/drunkard\|drunkard]]                                                                   |
@@ -190,7 +191,6 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]                                            |
 | [[Gate of Wisdom/O/overseer\|overseer]]                                                                                     |
 | [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]]                                                            |
-| [[Zunpublished/Pastor\|Pastor]]                                                                                             |
 | [[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]]                                                                           |
 | [[Gate of Wisdom/Offering/Peace Offering\|Peace Offering]]                                                                  |
 | [[Gate of Wisdom/P/Peacemaker\|Peacemaker]]                                                                                 |

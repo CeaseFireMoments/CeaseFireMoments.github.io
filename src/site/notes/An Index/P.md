@@ -18,7 +18,6 @@
 - [[Sacred Truces/Palm Sunday – The 10th of Nisan\|Palm Sunday – The 10th of Nisan]]
 - [[Sacred Truces/Passover and Unleavened Bread the UnEaster\|Passover and Unleavened Bread the UnEaster]]
 - [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]]
-- [[Zunpublished/Pastor\|Pastor]]
 - [[Gate of Wisdom/Offering/Peace Offering\|Peace Offering]]
 - [[Gate of Wisdom/P/Peacemaker\|Peacemaker]]
 - [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]

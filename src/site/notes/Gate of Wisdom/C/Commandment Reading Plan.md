@@ -95,7 +95,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- It goes beyond simple speech to include how one lives while claiming to belong to God
 - Vanity - empty, false, or self-serving purposes (e.g., false oaths, invoking God to justify wrongdoing, or claiming to represent Him while living contrary to His character)
 
-**March 24**: Exodus 20:8-11 – “Remember the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] day by keeping it [[Gate of Wisdom/H/Holy\|Holy]]...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]])  #LoveGod #OrdinanceMishmerot #Do #DoNot 
+**March 24**: Exodus 20:8-11 – “Remember the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] day by keeping it [[Gate of Wisdom/H/Holy\|Holy]]...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]])  #LoveGod #OrdinanceMishmerot #Dos #DoNot 
 - Seventh Day
 	- a [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] day
 	- To YHWH your god
@@ -118,7 +118,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- your livestock
 		- a stranger who is within your gates (home)
 
-**March 25**: Exodus 20:12 – “Honor your father and your mother...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #LoveNeighbor #CommandMitzvot #Do 
+**March 25**: Exodus 20:12 – “Honor your father and your mother...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #LoveNeighbor #CommandMitzvot #Dos
 - Honor
 	- treat someone as significant, important, or “weighty” by actions and attitude,
 	- It is the same root as כָּבוֹד (kābôd / kavod), which is often translated “glory” or “honor” and frequently describes God’s glory (i.e., His weighty importance and majesty).
@@ -169,7 +169,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- donkey
 	- anything that is theirs
 
-**March 31**: [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB) – “[[Gate of Wisdom/H/Hear\|Hear]], O Israel: The LORD our God, the LORD is one.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (unity of God)  #LoveGod #Do #CommandMitzvot 
+**March 31**: [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB) – “[[Gate of Wisdom/H/Hear\|Hear]], O Israel: The LORD our God, the LORD is one.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (unity of God)  #LoveGod #Dos#CommandMitzvot 
 - Hear in Hebrew isn't just about listening, it carries the implied meaning of action as well. Hear, obey. If you do not do something after hearing - you never heard in the first place.
 - One echad (אֶחָד) = one, unity, alone
 	- In Hebrew mindset of Deuteronomy 6:4, "Yahweh echad" affirms Yahweh as the sole God/El, unique and undivided in loyalty and worship, with no other gods/elohim alongside Him.
@@ -177,7 +177,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # April
 
-**April 1**: [Deuteronomy 6:5](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A5&version=WEB;NET;OJB) – “Love the LORD your God with all your heart...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #Do #CommandMitzvot 
+**April 1**: [Deuteronomy 6:5](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A5&version=WEB;NET;OJB) – “Love the LORD your God with all your heart...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #Dos#CommandMitzvot 
 - Love ahavta or v’ahavta (אָהַבְתָּ)
 	- emphasizes covenant loyalty, faithful obedience, commitment and total devotion rather than mere emotion
 		- Obeying his commands
@@ -193,7 +193,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- In this verse: Translated as "might," "strength," or "power," it refers to all your resources, energy, ability, or capacity — everything you have at your disposal (physical, material, emotional, or otherwise).
 	- loving God with your full effort
 
-**April 2**: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A20&version=WEB;NET;OJB) – “Fear the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #Do #CommandMitzvot 
+**April 2**: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A20&version=WEB;NET;OJB) – “Fear the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #Dos#CommandMitzvot 
 - Fear tîrāʾ (תִּירָ֖א)
 	- to revere, to stand in awe, to be afraid
 	- conveys reverential awe or holy fear—a deep respect, humility, and recognition of God’s holiness and power that leads to obedience, not mere terror
@@ -211,7 +211,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 
 [Leviticus 19](https://www.biblegateway.com/passage/?search=Leviticus%2019&version=WEB;NET;OJB)
 
-**April 3**: Leviticus 19:18 – “Love your neighbor as yourself.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #Do #DoNot #CommandMitzvot 
+**April 3**: Leviticus 19:18 – “Love your neighbor as yourself.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #Dos#DoNot #CommandMitzvot 
 - Do not
 	- Take Vengeance tiqqōm or tiqom (תִקֹּם) (an action)
 		- take revenge, avenge, or retaliate personally. It implies active punishment or payback for a perceived wrong.
@@ -232,7 +232,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - Endanger the life
 	- suggests that one will not allow a neighbor to be victimized
 
-**April 5**: Leviticus 19:17 – “Do not hate a fellow Israelite in your heart... Rebuke your neighbor frankly...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim  #Do 
+**April 5**: Leviticus 19:17 – “Do not hate a fellow Israelite in your heart... Rebuke your neighbor frankly...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim  #Dos
 - Do Not
 	- hate tisnāʾ or tiśnā (תִשְׂנָ֥א)
 		- to be an enemy, to detest, or to feel intense dislike/hostility.
