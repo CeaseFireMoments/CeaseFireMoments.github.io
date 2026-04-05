@@ -79,7 +79,7 @@
 - Hands
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 - [[Rebellion\|Rebellion]]
-- [[Hear\|Hear]]
+- [[Gate of Wisdom/H/Hear\|Hear]]
 - [[Gate of Wisdom/Beings/Divine Council/God\|God]] [[Gate of Wisdom/Beings/Divine Council/YHWH\|YHWH]] 
 
 ## Hyperlinks:

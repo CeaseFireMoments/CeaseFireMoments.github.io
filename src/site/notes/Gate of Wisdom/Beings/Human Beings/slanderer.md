@@ -19,8 +19,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/S/NT Sins by Instruction or Consequence.md\\|NT Sins by Instruction or Consequence]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-05.md\\|1 Cor-05]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/S/NT Sins by Instruction or Consequence.md\\|NT Sins by Instruction or Consequence]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-05.md\\|1 Cor-05]]</li></ul> |
 
 { .block-language-dataview}

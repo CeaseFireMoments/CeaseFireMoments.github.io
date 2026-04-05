@@ -10,6 +10,7 @@
 - [[Gate of Wisdom/Abomination/Abomination of the Desolation\|Abomination of the Desolation]]
 - [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]
 - [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]]
+- [[Gate of Wisdom/A/Adultery\|Adultery]]
 - [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]
 - [[Gate of Wisdom/A/Alms\|Alms]]
 - [[Gate of Wisdom/Beings/Human Beings/Ambassador\|Ambassador]]

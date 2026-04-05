@@ -56,42 +56,195 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # March
 
-**March 20**: Exodus 20:2 – “I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+**March 20**: Exodus 20:2 – “I am the LORD your [[Gate of Wisdom/Beings/Divine Council/God\|God]], who brought you out of the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]], out of the house of slavery.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]   #LoveGod #CommandMitzvot
+- [Exodus 20](https://www.biblegateway.com/passage/?search=Exodus%2020&version=WEB;NET;OJB)
+- LORD = YHWH (יְהוָה) (The god of Abraham, Isaac, and Jacob's personal covenant name)
+	- Your God = ĕlōheykā
+	- Brought you out of the land
+	- Brought you out of the house of slavery (brutely oppressed, forced labor)
 
-**March 21**: Exodus 20:3 – “You shall have no other gods before me.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+**March 21**: Exodus 20:3 – “You shall have no other gods before me.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]   #LoveGod #CommandMitzvot #DoNot 
+- Before My Face
+	- Before = upon, over, above, beside, against, in relation to
+	- My Face = presence, sight
+	- "besides me," "in my presence," "in addition to me," or "alongside me.
+- Do not have
+	- Any other gods before YHWH
 
-**March 22**: Exodus 20:4-6 – “You shall not make for yourself an idol...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+**March 22**: Exodus 20:4-6 – “You shall not make for yourself an[[ idol\| idol]]...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #LoveGod #CommandMitzvot #DoNot  
+- Do not make for yourself
+	- an [[Gate of Wisdom/I/idol\|idol]]
+	- an [[Gate of Wisdom/I/image\|image]] (any likeness) of anything that is
+		- in the [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]s
+		- beneath the earth
+		- in the water under the earth
+- To the idol or image do not 
+	- bow
+	- serve
+- Because
+	- YHWH is a jealous god
+	- visits the iniquity of the fathers on the children
+	- on the third and fourth generations of those who hate me
+	- shows loving kindness to thousands of those who love me
+	- shows loving kindness to those who keep his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 
-**March 23**: Exodus 20:7 – “You shall not misuse the name of the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+**March 23**: Exodus 20:7 – “You shall not misuse the name of the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #CommandMitzvot #DoNot 
+- [[Gate of Wisdom/N/Name\|Name]]
+	- A more literal rendering: "You shall not carry/bear the name of YHWH your God to/for emptiness/vanity."
+	- suggests bearing or carrying God's name — not just casually "taking" or uttering it, but identifying with it, representing it, or invoking it as one's own (like bearing a family name or title).
+	- It goes beyond simple speech to include how one lives while claiming to belong to God
+- Vanity - empty, false, or self-serving purposes (e.g., false oaths, invoking God to justify wrongdoing, or claiming to represent Him while living contrary to His character)
 
-**March 24**: Exodus 20:8-11 – “Remember the Sabbath day by keeping it holy...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) (Sabbath observance)  
+**March 24**: Exodus 20:8-11 – “Remember the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] day by keeping it [[Gate of Wisdom/H/Holy\|Holy]]...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]])  #LoveGod #OrdinanceMishmerot #Do #DoNot 
+- Seventh Day
+	- a [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] day
+	- To YHWH your god
+	- YHWH rested on the seventh day
+		- after making the heaven and earth
+		- after making the sea
+		- after making everything in the heavens, earth, and sea
+	- YHWH blessed this day
+	- YHWH set this day apart
+- Do
+	- Remember the Sabbath Day
+	- Keep Sabbath Day Holy (Set-apart)
+	- Labor six days
+	- Do all your work
+- Do Not on Seventh Day
+	- do any work
+		- you
+		- your son nor daughter
+		- you servants
+		- your livestock
+		- a stranger who is within your gates (home)
 
-**March 25**: Exodus 20:12 – “Honor your father and your mother...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+**March 25**: Exodus 20:12 – “Honor your father and your mother...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #LoveNeighbor #CommandMitzvot #Do 
+- Honor
+	- treat someone as significant, important, or “weighty” by actions and attitude,
+	- It is the same root as כָּבוֹד (kābôd / kavod), which is often translated “glory” or “honor” and frequently describes God’s glory (i.e., His weighty importance and majesty).
+- Blessing
+	- days may be long in the land which YHWH, elohim gives you.
 
-**March 26**: Exodus 20:13 – “You shall not murder.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+**March 26**: Exodus 20:13 – “You shall not murder.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor #JudgmentMishpatim #DoNot 
+- Murder
+	- unlawful or unjust taking of human life
+		- Intent: Hatred, enmity, lying in wait, or ambush
+		- Malice or recklessness
+		- No justification - Not self-defense, not judicial execution, not authorized warfare or divine command
+	- illegal, wrongful, or unauthorized killing that brings bloodguilt
+	- does not prohibit all taking of life - specifically a life taken wrongfully
+- Examples:
+	- Exodus 21:12–14
+	- Numbers 35:9–34
+	- Deuteronomy 19:1–13
+	- Deuteronomy 21:1–9
+	- Exodus 21:28–32
+	- Exodus 22:2–3
+	- Leviticus 24:17
 
-**March 27**: Exodus 20:14 – “You shall not commit adultery.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+**March 27**: Exodus 20:14 – “You shall not commit [[Gate of Wisdom/A/Adultery\|Adultery]].” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor #JudgmentMishpatim #DoNot #LoveGod 
+- See [[Gate of Wisdom/A/Adultery\|Adultery]]
 
-**March 28**: Exodus 20:15 – “You shall not steal.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+**March 28**: Exodus 20:15 – “You shall not steal.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor #DoNot #JudgmentMishpatim 
+- Steal - taking something that belongs to another without consent
+	- Literal theft of objects, animals, or goods (e.g., stealing silver, idols, or livestock).
+	- Kidnapping ("man-stealing" or stealing a person), which carried severe penalties, including the death penalty in some contexts (see Exodus 21:16; Deuteronomy 24:7).
+	- Deception or "stealing the mind/heart" — figuratively, to deceive someone (e.g., "stealing" their trust or withholding truth). (see Genesis 31:20, 26)
+	- Ganav emphasizes stealth or secrecy more than violent robbery (which might use other Hebrew terms like gazal for open plunder).
 
-**March 29**: Exodus 20:16 – “You shall not give false testimony...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+**March 29**: Exodus 20:16 – “You shall not give false testimony...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim 
+- Give/Speak ʿānâ (ענה): meaning "to answer," "to respond," or "to testify/declare." It implies actively speaking up or responding in a formal or public setting
+- Testimony ʿēd (עֵד): refers to someone who testifies or the act of testimony itself, 
+- False/Falsehood šāqer (שָׁקֶר): "deception," "lie," or "untruth." It implies something intentionally deceptive or unreliable, often in the context of speech or together means "false witness" or "false testimony," an accusation
+- Neighbor - fellow - broadly any other person
 
-**March 30**: Exodus 20:17 – “You shall not covet...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+**March 30**: Exodus 20:17 – “You shall not covet...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #DoNot #CommandMitzvot 
+- Covet hāmad or ḥāmaḏ (חָמַד) - To desire, to take pleasure in, to delight in, or to long for something. It implies a strong craving or lust that goes beyond mere admiration and can lead to actions like theft, adultery, or other violations of the commandments. 
+- Internal matter of the heart and mind, not just an action.
+- Do not Covet your neighbor/other person's
+	- house
+	- wife
+	- servant (male or female)
+	- ox
+	- donkey
+	- anything that is theirs
 
-**March 31**: Deuteronomy 6:4 – “Hear, O Israel: The LORD our God, the LORD is one.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (unity of God)  
+**March 31**: [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB) – “[[Gate of Wisdom/H/Hear\|Hear]], O Israel: The LORD our God, the LORD is one.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (unity of God)  #LoveGod #Do #CommandMitzvot 
+- Hear in Hebrew isn't just about listening, it carries the implied meaning of action as well. Hear, obey. If you do not do something after hearing - you never heard in the first place.
+- One echad (אֶחָד) = one, unity, alone
+	- In Hebrew mindset of Deuteronomy 6:4, "Yahweh echad" affirms Yahweh as the sole God/El, unique and undivided in loyalty and worship, with no other gods/elohim alongside Him.
 
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # April
 
-**April 1**: Deuteronomy 6:5 – “Love the LORD your God with all your heart...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+**April 1**: [Deuteronomy 6:5](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A5&version=WEB;NET;OJB) – “Love the LORD your God with all your heart...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #Do #CommandMitzvot 
+- Love ahavta or v’ahavta (אָהַבְתָּ)
+	- emphasizes covenant loyalty, faithful obedience, commitment and total devotion rather than mere emotion
+		- Obeying his commands
+		- walking in his ways 
+	- To have affection for, to desire, or to be attached to (can include romantic or familial love).  
+- Heart ’vav’kha or levav’kha (לְבָבְךָ)
+	- In this verse it refers to the mind, will, intellect, emotions, and inner thoughts — the core of decision-making and character.
+	- aligning your thoughts, desires, and choices with Him
+- [[Gate of Wisdom/S/Soul\|Soul]] naf’sh’kha or nefesh’kha (נַפְשְׁךָ)
+	- Breath, life, living being, throat/neck (as the seat of breath), or person/self.
+	- In this verse: It often means your whole life, your very self, or your essential being — the totality of who you are as a living person.
+- Might m’odekha (מְאֹדֶךָ)
+	- In this verse: Translated as "might," "strength," or "power," it refers to all your resources, energy, ability, or capacity — everything you have at your disposal (physical, material, emotional, or otherwise).
+	- loving God with your full effort
 
-**April 2**: Deuteronomy 10:20 – “Fear the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+**April 2**: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A20&version=WEB;NET;OJB) – “Fear the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #Do #CommandMitzvot 
+- Fear tîrāʾ (תִּירָ֖א)
+	- to revere, to stand in awe, to be afraid
+	- conveys reverential awe or holy fear—a deep respect, humility, and recognition of God’s holiness and power that leads to obedience, not mere terror
+- Serve taʿăbōd (תַעֲבֹ֑ד)
+	- To work, to labor, to serve (as a servant or slave), to worship, to cultivate
+	- devoting one’s life and actions to Him, much like a servant
+- Cling tiḏbāq (תִדְבָּ֔ק)
+	- cleave, stick to, adhere, be joined closely, follow hard after
+	- intimate, loyal attachment—gluing oneself to God in devotion and faithfulness
+	- This is the same word used in Genesis 2:24 for a man “cleaving” to his wife and becoming “one flesh.”
+- Swear tiššābēaʿ (תִּשָּׁבֵֽעַ)
+	- to take an oath, to bind oneself by an oath, to adjure.
+	- To make solemn promises or vows by God’s name (i.e., invoking YHWH as witness and guarantor of truth)
+- [[Gate of Wisdom/N/Name\|Name]]
 
-**April 3**: Leviticus 19:18 – “Love your neighbor as yourself.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+[Leviticus 19](https://www.biblegateway.com/passage/?search=Leviticus%2019&version=WEB;NET;OJB)
 
-**April 4**: Leviticus 19:16 – “Do not go about spreading slander...” / “Do not stand idly by...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+**April 3**: Leviticus 19:18 – “Love your neighbor as yourself.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #Do #DoNot #CommandMitzvot 
+- Do not
+	- Take Vengeance tiqqōm or tiqom (תִקֹּם) (an action)
+		- take revenge, avenge, or retaliate personally. It implies active punishment or payback for a perceived wrong.
+	- Bear any grudge tiṭṭōr or titor (תִטֹּר) (an attitude)
+		- there is no separate Hebrew word in this verse specifically translated as "bear"
+		- literally means "to guard," "to keep," "to watch over," or "to reserve/cherish."
+		- figuratively means to cherish anger, nurse resentment, or hold onto enmity internally — even if you don't act on it outwardly. It involves storing up or guarding a grudge in the heart, replaying the offense mentally.
+	- Children of your people
+		- idiomatically "members/people belonging to a group
+		- frequently refers to one's own ethnic or covenant community
+		- It emphasizes people from the same community or covenant group as the yourself
+- Do
+	- Love your neighbor/others as yourself
 
-**April 5**: Leviticus 19:17 – “Do not hate a fellow Israelite in your heart... Rebuke your neighbor frankly...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+**April 4**: Leviticus 19:16 – “Do not go about spreading slander...” / “Do not stand idly by...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim 
+- [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]
+	- The term רָכִיל (rakhil) is traditionally rendered “slanderer” but the exact meaning is uncertain (NET Bible commentary). Some would render it “to go about as a spy.”
+- Endanger the life
+	- suggests that one will not allow a neighbor to be victimized
+
+**April 5**: Leviticus 19:17 – “Do not hate a fellow Israelite in your heart... Rebuke your neighbor frankly...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim  #Do 
+- Do Not
+	- hate tisnāʾ or tiśnā (תִשְׂנָ֥א)
+		- to be an enemy, to detest, or to feel intense dislike/hostility.
+		- refers to harboring internal, secret hatred or resentment toward a fellow community member. Not just overt actions. It warns against nursing grudges inwardly
+	- bear  tisśāʾ (תִשָּׂ֥א) [[Gate of Wisdom/S/Sin\|sin]] ḥēṭʾ (חֵֽטְא)
+		- meaning to lift, carry, take up, or bear (a load, guilt, or responsibility). 
+		- If you fail to rebuke, you become complicit and "bear" (share in) the guilt of the other's sin.
+		- Or rebuke properly so you do not incur guilt yourself through silent resentment or improper handling of the situation.
+- Do
+	- rebuke hōkēaḥ tōkîaḥ (הוֹכֵ֤חַ תּוֹכִ֙יחַ֙)
+		- to decide, prove, correct, reprove, rebuke, or reason with someone; to set right or declare what is wrong in order to prompt change.
+		- command for constructive confrontation or frank reproof. Instead of hiding hatred, one must openly (but properly) address wrongdoing to prevent resentment from festering. The emphasis (via doubling) stresses that rebuke is mandatory and should be done directly.
 
 **April 6**: Leviticus 19:32 – “Stand up in the presence of the aged... revere your God.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
 

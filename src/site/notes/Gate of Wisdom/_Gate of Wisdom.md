@@ -28,6 +28,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Abomination/Abomination of the Desolation\|Abomination of the Desolation]]                                 |
 | [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]                                                                     |
 | [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]]                                                                            |
+| [[Gate of Wisdom/A/Adultery\|Adultery]]                                                                                     |
 | [[Gate of Wisdom/Beings/Adversary\|Adversary]]                                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]                                                                           |
 | [[Gate of Wisdom/A/Alms\|Alms]]                                                                                             |
@@ -122,6 +123,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]]                                                                  |
 | [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]                                                                  |
 | [[Gate of Wisdom/H/hardened\|hardened]]                                                                                     |
+| [[Gate of Wisdom/H/Hear\|Hear]]                                                                                             |
 | [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]                                                                       |
 | [[Gate of Wisdom/H/Holy\|Holy]]                                                                                             |
@@ -133,6 +135,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/H/Humble in Spirit\|Humble in Spirit]]                                                                     |
 | [[Gate of Wisdom/H/Hunger and Thirst\|Hunger and Thirst]]                                                                   |
 | [[Gate of Wisdom/I/Idiom\|Idiom]]                                                                                           |
+| [[Gate of Wisdom/I/idol\|idol]]                                                                                             |
 | [[Gate of Wisdom/Beings/Human Beings/idolater\|idolater]]                                                                   |
 | [[Gate of Wisdom/I/image\|image]]                                                                                           |
 | [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]]                                                           |
