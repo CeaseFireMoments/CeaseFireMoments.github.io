@@ -224,6 +224,10 @@ CTRL + K
 <span class="foldername">A</span>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/a/adultery/">Adultery </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/a/alms/">Alms </a>
 </div>
 </div>
@@ -1141,6 +1145,10 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/h/hear/">Hear </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/h/holy/">Holy </a>
 </div>
 </div>
@@ -1167,6 +1175,10 @@ CTRL + K
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/i/idiom/">Idiom </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/i/idol/">idol </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -2578,7 +2590,7 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-04-05T16:35:33.325Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-04-05T16:35:33.325Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-04-05T16:35:33.325Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-04-05T20:18:29.470Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-04-05T20:18:29.470Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-04-05T20:18:29.470Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
 <h1 data-note-icon="">Commandment Reading Plan</h1>
@@ -2638,25 +2650,337 @@ Starting March 20; 365 day</p>
 <p>And having come near, Jesus spake to them, saying, Given to me was all authority in heaven and on earth; having gone, then, <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/disciple/">Disciple</a> all the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/nation/">nation</a>s, (baptizing them -- to the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/n/name/">Name</a> of the Father, and of the Son, and of the Holy Spirit, <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/ruach/gift/teaching/">Teaching</a> them to observe all, whatever I did command you,) and lo, I am with you all the days -- till the full end of the age.' - Matthew 28:18-20 (TLV) (<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/b/baptize/">Baptize</a>)</p>
 <p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
 <h1 id="march" tabindex="-1">March</h1>
-<p><strong>March 20</strong>: Exodus 20:2 – “I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>March 21</strong>: Exodus 20:3 – “You shall have no other gods before me.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>March 22</strong>: Exodus 20:4-6 – “You shall not make for yourself an idol...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>March 23</strong>: Exodus 20:7 – “You shall not misuse the name of the LORD your God...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>March 24</strong>: Exodus 20:8-11 – “Remember the Sabbath day by keeping it holy...” <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a>/ <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a>) (Sabbath observance)</p>
-<p><strong>March 25</strong>: Exodus 20:12 – “Honor your father and your mother...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>March 26</strong>: Exodus 20:13 – “You shall not murder.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>March 27</strong>: Exodus 20:14 – “You shall not commit adultery.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>March 28</strong>: Exodus 20:15 – “You shall not steal.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>March 29</strong>: Exodus 20:16 – “You shall not give false testimony...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>March 30</strong>: Exodus 20:17 – “You shall not covet...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>March 31</strong>: Deuteronomy 6:4 – “Hear, O Israel: The LORD our God, the LORD is one.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> (unity of God)</p>
+<p><strong>March 20</strong>: Exodus 20:2 – “I am the LORD your <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/divine-council/god/">God</a>, who brought you out of the land of <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/dwelling-places/realm-of-humans/egypt/">Egypt</a>, out of the house of slavery.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a></p>
+<ul>
+<li><a href="https://www.biblegateway.com/passage/?search=Exodus%2020&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20</a></li>
+<li>LORD = YHWH (יְהוָה) (The god of Abraham, Isaac, and Jacob's personal covenant name)
+<ul>
+<li>Your God = ĕlōheykā</li>
+<li>Brought you out of the land</li>
+<li>Brought you out of the house of slavery (brutely oppressed, forced labor)</li>
+</ul>
+</li>
+</ul>
+<p><strong>March 21</strong>: Exodus 20:3 – “You shall have no other gods before me.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></p>
+<ul>
+<li>Before My Face
+<ul>
+<li>Before = upon, over, above, beside, against, in relation to</li>
+<li>My Face = presence, sight</li>
+<li>&quot;besides me,&quot; &quot;in my presence,&quot; &quot;in addition to me,&quot; or &quot;alongside me.</li>
+</ul>
+</li>
+<li>Do not have
+<ul>
+<li>Any other gods before YHWH</li>
+</ul>
+</li>
+</ul>
+<p><strong>March 22</strong>: Exodus 20:4-6 – “You shall not make for yourself an<a class="internal-link is-unresolved" href="/404" target=""> idol</a>...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></p>
+<ul>
+<li>Do not make for yourself
+<ul>
+<li>an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/i/idol/">idol</a></li>
+<li>an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/i/image/">image</a> (any likeness) of anything that is
+<ul>
+<li>in the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/dwelling-places/realm-of-yah/heaven/">Heaven</a>s</li>
+<li>beneath the earth</li>
+<li>in the water under the earth</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>To the idol or image do not
+<ul>
+<li>bow</li>
+<li>serve</li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>YHWH is a jealous god</li>
+<li>visits the iniquity of the fathers on the children</li>
+<li>on the third and fourth generations of those who hate me</li>
+<li>shows loving kindness to thousands of those who love me</li>
+<li>shows loving kindness to those who keep his <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commandments/">Commandments</a></li>
+</ul>
+</li>
+</ul>
+<p><strong>March 23</strong>: Exodus 20:7 – “You shall not misuse the name of the LORD your God...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></p>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/n/name/">Name</a>
+<ul>
+<li>A more literal rendering: &quot;You shall not carry/bear the name of YHWH your God to/for emptiness/vanity.&quot;</li>
+<li>suggests bearing or carrying God's name — not just casually &quot;taking&quot; or uttering it, but identifying with it, representing it, or invoking it as one's own (like bearing a family name or title).</li>
+<li>It goes beyond simple speech to include how one lives while claiming to belong to God</li>
+</ul>
+</li>
+<li>Vanity - empty, false, or self-serving purposes (e.g., false oaths, invoking God to justify wrongdoing, or claiming to represent Him while living contrary to His character)</li>
+</ul>
+<p><strong>March 24</strong>: Exodus 20:8-11 – “Remember the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/sabbath/">Sabbath</a> day by keeping it <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/h/holy/">Holy</a>...” <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a>) <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#OrdinanceMishmerot">#OrdinanceMishmerot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Do">#Do</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></p>
+<ul>
+<li>Seventh Day
+<ul>
+<li>a <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/sabbath/">Sabbath</a> day</li>
+<li>To YHWH your god</li>
+<li>YHWH rested on the seventh day
+<ul>
+<li>after making the heaven and earth</li>
+<li>after making the sea</li>
+<li>after making everything in the heavens, earth, and sea</li>
+</ul>
+</li>
+<li>YHWH blessed this day</li>
+<li>YHWH set this day apart</li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>Remember the Sabbath Day</li>
+<li>Keep Sabbath Day Holy (Set-apart)</li>
+<li>Labor six days</li>
+<li>Do all your work</li>
+</ul>
+</li>
+<li>Do Not on Seventh Day
+<ul>
+<li>do any work
+<ul>
+<li>you</li>
+<li>your son nor daughter</li>
+<li>you servants</li>
+<li>your livestock</li>
+<li>a stranger who is within your gates (home)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>March 25</strong>: Exodus 20:12 – “Honor your father and your mother...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Do">#Do</a></p>
+<ul>
+<li>Honor
+<ul>
+<li>treat someone as significant, important, or “weighty” by actions and attitude,</li>
+<li>It is the same root as כָּבוֹד (kābôd / kavod), which is often translated “glory” or “honor” and frequently describes God’s glory (i.e., His weighty importance and majesty).</li>
+</ul>
+</li>
+<li>Blessing
+<ul>
+<li>days may be long in the land which YHWH, elohim gives you.</li>
+</ul>
+</li>
+</ul>
+<p><strong>March 26</strong>: Exodus 20:13 – “You shall not murder.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></p>
+<ul>
+<li>Murder
+<ul>
+<li>unlawful or unjust taking of human life
+<ul>
+<li>Intent: Hatred, enmity, lying in wait, or ambush</li>
+<li>Malice or recklessness</li>
+<li>No justification - Not self-defense, not judicial execution, not authorized warfare or divine command</li>
+</ul>
+</li>
+<li>illegal, wrongful, or unauthorized killing that brings bloodguilt</li>
+<li>does not prohibit all taking of life - specifically a life taken wrongfully</li>
+</ul>
+</li>
+<li>Examples:
+<ul>
+<li>Exodus 21:12–14</li>
+<li>Numbers 35:9–34</li>
+<li>Deuteronomy 19:1–13</li>
+<li>Deuteronomy 21:1–9</li>
+<li>Exodus 21:28–32</li>
+<li>Exodus 22:2–3</li>
+<li>Leviticus 24:17</li>
+</ul>
+</li>
+</ul>
+<p><strong>March 27</strong>: Exodus 20:14 – “You shall not commit <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/a/adultery/">Adultery</a>.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a></p>
+<ul>
+<li>See <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/a/adultery/">Adultery</a></li>
+</ul>
+<p><strong>March 28</strong>: Exodus 20:15 – “You shall not steal.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a></p>
+<ul>
+<li>Steal - taking something that belongs to another without consent
+<ul>
+<li>Literal theft of objects, animals, or goods (e.g., stealing silver, idols, or livestock).</li>
+<li>Kidnapping (&quot;man-stealing&quot; or stealing a person), which carried severe penalties, including the death penalty in some contexts (see Exodus 21:16; Deuteronomy 24:7).</li>
+<li>Deception or &quot;stealing the mind/heart&quot; — figuratively, to deceive someone (e.g., &quot;stealing&quot; their trust or withholding truth). (see Genesis 31:20, 26)</li>
+<li>Ganav emphasizes stealth or secrecy more than violent robbery (which might use other Hebrew terms like gazal for open plunder).</li>
+</ul>
+</li>
+</ul>
+<p><strong>March 29</strong>: Exodus 20:16 – “You shall not give false testimony...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a></p>
+<ul>
+<li>Give/Speak ʿānâ (ענה): meaning &quot;to answer,&quot; &quot;to respond,&quot; or &quot;to testify/declare.&quot; It implies actively speaking up or responding in a formal or public setting</li>
+<li>Testimony ʿēd (עֵד): refers to someone who testifies or the act of testimony itself,</li>
+<li>False/Falsehood šāqer (שָׁקֶר): &quot;deception,&quot; &quot;lie,&quot; or &quot;untruth.&quot; It implies something intentionally deceptive or unreliable, often in the context of speech or together means &quot;false witness&quot; or &quot;false testimony,&quot; an accusation</li>
+<li>Neighbor - fellow - broadly any other person</li>
+</ul>
+<p><strong>March 30</strong>: Exodus 20:17 – “You shall not covet...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a></p>
+<ul>
+<li>Covet hāmad or ḥāmaḏ (חָמַד) - To desire, to take pleasure in, to delight in, or to long for something. It implies a strong craving or lust that goes beyond mere admiration and can lead to actions like theft, adultery, or other violations of the commandments.</li>
+<li>Internal matter of the heart and mind, not just an action.</li>
+<li>Do not Covet your neighbor/other person's
+<ul>
+<li>house</li>
+<li>wife</li>
+<li>servant (male or female)</li>
+<li>ox</li>
+<li>donkey</li>
+<li>anything that is theirs</li>
+</ul>
+</li>
+</ul>
+<p><strong>March 31</strong>: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 6:4</a> – “<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/h/hear/">Hear</a>, O Israel: The LORD our God, the LORD is one.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> (unity of God) <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Do">#Do</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a></p>
+<ul>
+<li>Hear in Hebrew isn't just about listening, it carries the implied meaning of action as well. Hear, obey. If you do not do something after hearing - you never heard in the first place.</li>
+<li>One echad (אֶחָד) = one, unity, alone
+<ul>
+<li>In Hebrew mindset of Deuteronomy 6:4, &quot;Yahweh echad&quot; affirms Yahweh as the sole God/El, unique and undivided in loyalty and worship, with no other gods/elohim alongside Him.</li>
+</ul>
+</li>
+</ul>
 <p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
 <h1 id="april" tabindex="-1">April</h1>
-<p><strong>April 1</strong>: Deuteronomy 6:5 – “Love the LORD your God with all your heart...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>April 2</strong>: Deuteronomy 10:20 – “Fear the LORD your God...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>April 3</strong>: Leviticus 19:18 – “Love your neighbor as yourself.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>April 4</strong>: Leviticus 19:16 – “Do not go about spreading slander...” / “Do not stand idly by...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>April 5</strong>: Leviticus 19:17 – “Do not hate a fellow Israelite in your heart... Rebuke your neighbor frankly...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
+<p><strong>April 1</strong>: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 6:5</a> – “Love the LORD your God with all your heart...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Do">#Do</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a></p>
+<ul>
+<li>Love ahavta or v’ahavta (אָהַבְתָּ)
+<ul>
+<li>emphasizes covenant loyalty, faithful obedience, commitment and total devotion rather than mere emotion
+<ul>
+<li>Obeying his commands</li>
+<li>walking in his ways</li>
+</ul>
+</li>
+<li>To have affection for, to desire, or to be attached to (can include romantic or familial love).</li>
+</ul>
+</li>
+<li>Heart ’vav’kha or levav’kha (לְבָבְךָ)
+<ul>
+<li>In this verse it refers to the mind, will, intellect, emotions, and inner thoughts — the core of decision-making and character.</li>
+<li>aligning your thoughts, desires, and choices with Him</li>
+</ul>
+</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/soul/">Soul</a> naf’sh’kha or nefesh’kha (נַפְשְׁךָ)
+<ul>
+<li>Breath, life, living being, throat/neck (as the seat of breath), or person/self.</li>
+<li>In this verse: It often means your whole life, your very self, or your essential being — the totality of who you are as a living person.</li>
+</ul>
+</li>
+<li>Might m’odekha (מְאֹדֶךָ)
+<ul>
+<li>In this verse: Translated as &quot;might,&quot; &quot;strength,&quot; or &quot;power,&quot; it refers to all your resources, energy, ability, or capacity — everything you have at your disposal (physical, material, emotional, or otherwise).</li>
+<li>loving God with your full effort</li>
+</ul>
+</li>
+</ul>
+<p><strong>April 2</strong>: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 10:20</a> – “Fear the LORD your God...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Do">#Do</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a></p>
+<ul>
+<li>Fear tîrāʾ (תִּירָ֖א)
+<ul>
+<li>to revere, to stand in awe, to be afraid</li>
+<li>conveys reverential awe or holy fear—a deep respect, humility, and recognition of God’s holiness and power that leads to obedience, not mere terror</li>
+</ul>
+</li>
+<li>Serve taʿăbōd (תַעֲבֹ֑ד)
+<ul>
+<li>To work, to labor, to serve (as a servant or slave), to worship, to cultivate</li>
+<li>devoting one’s life and actions to Him, much like a servant</li>
+</ul>
+</li>
+<li>Cling tiḏbāq (תִדְבָּ֔ק)
+<ul>
+<li>cleave, stick to, adhere, be joined closely, follow hard after</li>
+<li>intimate, loyal attachment—gluing oneself to God in devotion and faithfulness</li>
+<li>This is the same word used in Genesis 2:24 for a man “cleaving” to his wife and becoming “one flesh.”</li>
+</ul>
+</li>
+<li>Swear tiššābēaʿ (תִּשָּׁבֵֽעַ)
+<ul>
+<li>to take an oath, to bind oneself by an oath, to adjure.</li>
+<li>To make solemn promises or vows by God’s name (i.e., invoking YHWH as witness and guarantor of truth)</li>
+</ul>
+</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/n/name/">Name</a></li>
+</ul>
+<p><a href="https://www.biblegateway.com/passage/?search=Leviticus%2019&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19</a></p>
+<p><strong>April 3</strong>: Leviticus 19:18 – “Love your neighbor as yourself.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Do">#Do</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a></p>
+<ul>
+<li>Do not
+<ul>
+<li>Take Vengeance tiqqōm or tiqom (תִקֹּם) (an action)
+<ul>
+<li>take revenge, avenge, or retaliate personally. It implies active punishment or payback for a perceived wrong.</li>
+</ul>
+</li>
+<li>Bear any grudge tiṭṭōr or titor (תִטֹּר) (an attitude)
+<ul>
+<li>there is no separate Hebrew word in this verse specifically translated as &quot;bear&quot;</li>
+<li>literally means &quot;to guard,&quot; &quot;to keep,&quot; &quot;to watch over,&quot; or &quot;to reserve/cherish.&quot;</li>
+<li>figuratively means to cherish anger, nurse resentment, or hold onto enmity internally — even if you don't act on it outwardly. It involves storing up or guarding a grudge in the heart, replaying the offense mentally.</li>
+</ul>
+</li>
+<li>Children of your people
+<ul>
+<li>idiomatically &quot;members/people belonging to a group</li>
+<li>frequently refers to one's own ethnic or covenant community</li>
+<li>It emphasizes people from the same community or covenant group as the yourself</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>Love your neighbor/others as yourself</li>
+</ul>
+</li>
+</ul>
+<p><strong>April 4</strong>: Leviticus 19:16 – “Do not go about spreading slander...” / “Do not stand idly by...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a></p>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/slanderer/">slanderer</a>
+<ul>
+<li>The term רָכִיל (rakhil) is traditionally rendered “slanderer” but the exact meaning is uncertain (NET Bible commentary). Some would render it “to go about as a spy.”</li>
+</ul>
+</li>
+<li>Endanger the life
+<ul>
+<li>suggests that one will not allow a neighbor to be victimized</li>
+</ul>
+</li>
+</ul>
+<p><strong>April 5</strong>: Leviticus 19:17 – “Do not hate a fellow Israelite in your heart... Rebuke your neighbor frankly...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Do">#Do</a></p>
+<ul>
+<li>Do Not
+<ul>
+<li>hate tisnāʾ or tiśnā (תִשְׂנָ֥א)
+<ul>
+<li>to be an enemy, to detest, or to feel intense dislike/hostility.</li>
+<li>refers to harboring internal, secret hatred or resentment toward a fellow community member. Not just overt actions. It warns against nursing grudges inwardly</li>
+</ul>
+</li>
+<li>bear tisśāʾ (תִשָּׂ֥א) <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/sin/">sin</a> ḥēṭʾ (חֵֽטְא)
+<ul>
+<li>meaning to lift, carry, take up, or bear (a load, guilt, or responsibility).</li>
+<li>If you fail to rebuke, you become complicit and &quot;bear&quot; (share in) the guilt of the other's sin.</li>
+<li>Or rebuke properly so you do not incur guilt yourself through silent resentment or improper handling of the situation.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>rebuke hōkēaḥ tōkîaḥ (הוֹכֵ֤חַ תּוֹכִ֙יחַ֙)
+<ul>
+<li>to decide, prove, correct, reprove, rebuke, or reason with someone; to set right or declare what is wrong in order to prompt change.</li>
+<li>command for constructive confrontation or frank reproof. Instead of hiding hatred, one must openly (but properly) address wrongdoing to prevent resentment from festering. The emphasis (via doubling) stresses that rebuke is mandatory and should be done directly.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 <p><strong>April 6</strong>: Leviticus 19:32 – “Stand up in the presence of the aged... revere your God.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
 <p><strong>April 7</strong>: Deuteronomy 6:7 – “Impress them on your children. Talk about them when you sit at home...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/precepts-pikkudim/">Precepts (Pikkudim)</a></strong> (teach Torah)</p>
 <p><strong>April 8</strong>: Deuteronomy 8:10 – “When you have eaten and are satisfied, praise the LORD your God...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> (grace after meals)</p>
