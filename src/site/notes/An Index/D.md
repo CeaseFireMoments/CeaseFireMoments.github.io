@@ -11,7 +11,6 @@
 - [[Gate of Wisdom/Beings/Demons\|Demons]]
 - [[Gate of Wisdom/Beings/Devil\|Devil]]
 - [[Gate of Wisdom/Beings/Human Beings/Disciple\|Disciple]]
-- [[Gate of Wisdom/D/Do Instructions\|Do Instructions]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]
 - [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]
 - [[Gate of Wisdom/Beings/Human Beings/drunkard\|drunkard]]

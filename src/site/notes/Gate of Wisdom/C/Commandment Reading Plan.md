@@ -5,10 +5,10 @@
 **One-Year FEMALE Reading Plan for All Applicable Biblical [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]**  
 Starting March 20; 365 day
 
-[[#March]]
-[[#April]]
-[[#May]]
-[[#June]]
+[[Gate of Wisdom/C/Commandment Reading Plan#March\|Commandment Reading Plan#March]]
+[[Gate of Wisdom/C/Commandment Reading Plan#April\|Commandment Reading Plan#April]]
+[[Gate of Wisdom/C/Commandment Reading Plan#May\|Commandment Reading Plan#May]]
+[[Gate of Wisdom/C/Commandment Reading Plan#June\|Commandment Reading Plan#June]]
 [[#July]]
 [[#August]]
 [[#September]]
@@ -246,11 +246,34 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- to decide, prove, correct, reprove, rebuke, or reason with someone; to set right or declare what is wrong in order to prompt change.
 		- command for constructive confrontation or frank reproof. Instead of hiding hatred, one must openly (but properly) address wrongdoing to prevent resentment from festering. The emphasis (via doubling) stresses that rebuke is mandatory and should be done directly.
 
-**April 6**: Leviticus 19:32 – “Stand up in the presence of the aged... revere your God.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+**April 6**: Leviticus 19:32 – “Stand up in the presence of the aged... revere your God.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #Dos #CommandMitzvot 
+- Do
+	- Stand up before elders
+		- The Hebrew (and many other) culture expected when an older person (visible gray/white hair) came near — whether walking by, entering a room, a gathering, or a home — younger people were expected to stand up as a sign of deference. 
+	- Honor the face
+		- It meant not despising or mocking the elderly for their age-related frailties (wrinkled face, slower movement, etc.). Value their presence. Listen to them
+	- Fear YHWH
+		- Ancient hearers understood that mistreating the weak or aged was not just a social issue - honoring elders was a tangible way to show awe of God.
 
-**April 7**: Deuteronomy 6:7 – “Impress them on your children. Talk about them when you sit at home...” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (teach Torah)  
+**April 7**: [Deuteronomy 6:7](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A7-8&version=WEB;NET;OJB) – “Impress them on your children. Talk about them when you sit at home...” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (teach Torah)  #LoveNeighbor #Dos #PreceptsPikkudim 
+- them =  [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]], [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]], and [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+	- teach to children - the word conveys engraving - today we might say, "Drill it into them."
+	- speak of while
+		- sitting in house
+		- walking along the road
+		- lying down
+		- getting up
+	- Tie them 
+		- on your forearm
+	- Fasten them
+		- as symbols on your forehead
+	- Inscribe them
+		- on the door frames of house and gates
+<mark style="background: #CD04BBA6;">Making note here - this is the verse directly after Love the Lord Your God with your mind, soul, and might ... which Jesus said was the greatest commandment. </mark> 
 
-**April 8**: Deuteronomy 8:10 – “When you have eaten and are satisfied, praise the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (grace after meals)  
+**April 8**: [Deuteronomy 8:7-10](https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A7-10&version=WEB;NET;OJB) – “When you have eaten and are satisfied, praise the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (grace after meals)  #LoveGod #Dos #CommandMitzvot 
+- [[Zunpublished/Bless\|Bless]] YHWH
+	- for the good land he has given you
 
 **April 9**: Exodus 23:25 – “Worship the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (prayer/service)  
 

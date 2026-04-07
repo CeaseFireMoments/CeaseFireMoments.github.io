@@ -19,7 +19,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/D/Do Instructions\|Do Instructions]]                                                                                                                                                |
 | [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                                                                              |
 | [[Gate of Wisdom/H/Hear\|Hear]]                                                                                                                                                                      |
 | [[Gate of Wisdom/I/idol\|idol]]                                                                                                                                                                      |
@@ -39,6 +38,7 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                                                                                                          |
 | [[Gate of Wisdom/C/covetous\|covetous]]                                                                                                                                                              |
 | [[Gate of Wisdom/F/sexual immorality\|sexual immorality]]                                                                                                                                            |
+| [[Gate of Wisdom/Beings/Human Beings/idolater\|idolater]]                                                                                                                                            |
 
 { .block-language-dataview}
 
