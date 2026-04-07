@@ -9,14 +9,14 @@ Starting March 20; 365 day
 [[Gate of Wisdom/C/Commandment Reading Plan#April\|Commandment Reading Plan#April]]
 [[Gate of Wisdom/C/Commandment Reading Plan#May\|Commandment Reading Plan#May]]
 [[Gate of Wisdom/C/Commandment Reading Plan#June\|Commandment Reading Plan#June]]
-[[#July]]
-[[#August]]
-[[#September]]
-[[#October]]
-[[#November]]
-[[#December]]
-[[#January]]
-[[#**January 21 to March 19, 2027 (Review Period)**]]
+[[Gate of Wisdom/C/Commandment Reading Plan#July\|Commandment Reading Plan#July]]
+[[Gate of Wisdom/C/Commandment Reading Plan#August\|Commandment Reading Plan#August]]
+[[Gate of Wisdom/C/Commandment Reading Plan#September\|Commandment Reading Plan#September]]
+[[Gate of Wisdom/C/Commandment Reading Plan#October\|Commandment Reading Plan#October]]
+[[Gate of Wisdom/C/Commandment Reading Plan#November\|Commandment Reading Plan#November]]
+[[Gate of Wisdom/C/Commandment Reading Plan#December\|Commandment Reading Plan#December]]
+[[Gate of Wisdom/C/Commandment Reading Plan#January\|Commandment Reading Plan#January]]
+[[Gate of Wisdom/C/Commandment Reading Plan#**January 21 to March 19, 2027 (Review Period)**\|Commandment Reading Plan#**January 21 to March 19, 2027 (Review Period)**]]
 
 Commands, statutes (chuqim), ordinances/charges (mishmerot/tsavah), judgments (mishpatim), precepts (pikkudim), or general mitzvash that applies to all people is included. 
 
@@ -266,7 +266,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- Tie them 
 		- on your forearm
 	- Fasten them
-		- as symbols on your forehead
+		- as symbols - same word as [[Gate of Wisdom/Sign/Sign\|Sign]] and mark
+		- on your forehead
 	- Inscribe them
 		- on the door frames of house and gates
 <mark style="background: #CD04BBA6;">Making note here - this is the verse directly after Love the Lord Your God with your mind, soul, and might ... which Jesus said was the greatest commandment. </mark> 

@@ -33,7 +33,7 @@
 - 
 | file.inlinks                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li></ul> |
 
 { .block-language-dataview}
 
