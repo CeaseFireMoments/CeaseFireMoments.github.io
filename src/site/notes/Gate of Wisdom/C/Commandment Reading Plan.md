@@ -277,7 +277,12 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- for the good land he has given you
 
 **April 9**: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023%3A25&version=WEB;NET;OJB) – “Worship the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]   #LoveGod #Dos #CommandMitzvot 
-- worship/[[Gate of Wisdom/S/serve\|serve]] - The Hebrew concept of avad integrates labor, service to another, and worship as one idea. No sharp divide between daily work and sacred worship; both are avad when done in submission.  
+- Do this:
+	- worship/[[Gate of Wisdom/S/serve\|serve]] - The Hebrew concept of avad integrates labor, service to another, and worship as one idea. No sharp divide between daily work and sacred worship; both are avad when done in submission.  
+- God will do this:
+	- [[Gate of Wisdom/B/Bless\|Bless]] your bread
+	- Bless your water
+	- Take sickness away from among you.
 
 **April 10**: Leviticus 19:9-10 – “Do not reap to the very edges of your field... Leave them for the poor...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(gleaning for poor)  
 

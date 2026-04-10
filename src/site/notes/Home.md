@@ -19,8 +19,8 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/S/serve\|serve]]                                                                                                                                                                    |
 | [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                                                                              |
+| [[Gate of Wisdom/S/serve\|serve]]                                                                                                                                                                    |
 | [[Gate of Wisdom/B/Bless\|Bless]]                                                                                                                                                                    |
 | [[Gate of Wisdom/H/Hear\|Hear]]                                                                                                                                                                      |
 | [[Gate of Wisdom/I/idol\|idol]]                                                                                                                                                                      |
