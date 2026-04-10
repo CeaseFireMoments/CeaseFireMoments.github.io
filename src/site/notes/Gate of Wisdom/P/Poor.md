@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/p/poor/","tags":["thebrain","GateWisdom","nothome","P"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/p/poor/","tags":["thebrain","GateWisdom","P"]}
 ---
 
-Poor
+# Define
 
-## WORD
+Hebrew: 'ani (עָנִי) poor, afflicted, needy, humble  
 
-p tochos
+Greek: ptochos (πτωχός) poor, beggar, destitute
 
-a djective, nominative, plural, masculineFORM
 
-## MEANING
+# Related words
 
-1. b eggar, beggarly
-2. p oor man
-3. n ot poor of material items, humble devout person
-4. r elies on God’s help
+- ger (גֵּר) [[Gate of Wisdom/S/Stranger\|Stranger]]/sojourner (often paired in the verse) 
+
+# Additional Info
+
+- Leviticus 19:10 Hebrew: ...לֶעָנִי וְלַגֵּר תַּעֲזֹב אֹתָם... (le'ani vela'ger ta'azov otam)
 
 ## NOTES:
 
@@ -50,11 +50,13 @@ a djective, nominative, plural, masculineFORM
 - [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-66#v2\|Isa-66#v2]]YHWH/God looks intently upon
 
 
+
+
 # Connections
 - 
-| file.inlinks                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li></ul> |
 
 { .block-language-dataview}
 

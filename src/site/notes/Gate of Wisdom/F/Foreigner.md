@@ -3,11 +3,16 @@
 ---
 
 # Define
-- Hebrew: nēkār (נֵכָר) foreign, strange
-	- Isaiah 56 - “Let not the foreigner say…” → God overrides Deut 23:3-5
-	- Gen 17:12, 27 – Uncircumcised males are “foreign” (nēkār) to the covenant
-	- Exod 21:8 – A master must not sell a Hebrew servant-girl to a foreign (nēkār) people
-	- Isa 28:21 – God’s judgment is “strange” (nēkār) work, alien to His usual mercy.
+- Hebrew: 
+	- nēkār (נֵכָר) foreign, strange, that which is **outside**
+	
+		- nekar/nokhri typically refers to a foreigner from another land or people who does not reside among Israel (more distant or temporary outsider)
+		- A more general or distant foreigner/alien, not necessarily residing in the land, often kept distinct from Israel in legal or covenant matters.
+		- Isaiah 56 - “Let not the foreigner say…” → God overrides Deut 23:3-5
+		- Gen 17:12, 27 – Uncircumcised males are “foreign” (nēkār) to the covenant
+		- Exod 21:8 – A master must not sell a Hebrew servant-girl to a foreign (nēkār) people
+		- Isa 28:21 – God’s judgment is “strange” (nēkār) work, alien to His usual mercy.
+	- nokhri (נָכְרִי) foreigner, alien, stranger (from nekar)
 - Greek: allotrios (ἀλλότριος) Belonging to another; not one’s own; alien, foreign, or hostile
 	- (allotrios) in NT = former status of Gentile
 	- Luke 16:12 – “If you have not been faithful in that which is another’s (allotrios), who will give you your own?”
@@ -16,12 +21,16 @@
 	- Col 1:21 – Once alienated (allotrios) in mind, now reconciled
 	- Eph 2:12 – “alienated (allotrios) from the commonwealth of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
 
+# Related Words
+- [[Gate of Wisdom/S/Stranger\|Stranger]] - who lives **among** the people, in contrast to ger, nokhri often appears in contexts of distinction or exclusion (e.g., debt, certain prohibitions).
+- zar (זָר) stranger, alien, outsider
+- goy (גּוֹי) nation, [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]] (often plural goyim for foreign nations)
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56).md\\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56).md\\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23).md\\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]</li><li>[[Gate of Wisdom/S/Sojourner.md\\|Sojourner]]</li><li>[[Gate of Wisdom/S/Stranger.md\\|Stranger]]</li></ul> |
 
 { .block-language-dataview}
 

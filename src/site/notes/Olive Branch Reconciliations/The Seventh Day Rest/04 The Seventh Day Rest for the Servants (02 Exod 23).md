@@ -17,7 +17,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 
 ## **Define**:
 
-- Alien, Foreigner, Stranger, Sojourner - ger (גֵּר) someone who is not a native Israelite but lives among the people of Israel, often temporarily or without full citizenship status.
+- Alien, [[Gate of Wisdom/F/Foreigner\|Foreigner]], [[Gate of Wisdom/S/Stranger\|Stranger]], Sojourner - ger (גֵּר) someone who is not a native Israelite but lives among the people of Israel, often temporarily or without full citizenship status.
 
 ## **Who**:
 

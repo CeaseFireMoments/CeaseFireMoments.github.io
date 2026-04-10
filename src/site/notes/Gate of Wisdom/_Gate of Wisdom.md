@@ -118,6 +118,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Sources/Bible Project/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]] |
 | [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]                                                                     |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                                                           |
+| [[Gate of Wisdom/G/gleaning\|gleaning]]                                                                                     |
 | [[Gate of Wisdom/Beings/Divine Council/God\|God]]                                                                           |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]              |
 | [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]                                                                       |
@@ -239,10 +240,12 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]                                                                      |
 | [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]                          |
 | [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                                 |
+| [[Gate of Wisdom/S/Sojourner\|Sojourner]]                                                                                   |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Son of Man\|Son of Man]]                                                            |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Sons of God\|Sons of God]]                                                          |
 | [[Gate of Wisdom/S/Soul\|Soul]]                                                                                             |
 | [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]                                                      |
+| [[Gate of Wisdom/S/Stranger\|Stranger]]                                                                                     |
 | [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]                                                                            |
 | [[Gate of Wisdom/S/Synagogue\|Synagogue]]                                                                                   |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]                                                        |

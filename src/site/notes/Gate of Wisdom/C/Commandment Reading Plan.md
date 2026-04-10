@@ -284,7 +284,23 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- Bless your water
 	- Take sickness away from among you.
 
-**April 10**: Leviticus 19:9-10 – “Do not reap to the very edges of your field... Leave them for the poor...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(gleaning for poor)  
+**April 10**: Leviticus 19:9-10 – “Do not reap to the very edges of your field... Leave them for the poor...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor #DoNot #Dos #JudgmentMishpatim 
+
+When you reap the harvest of your land ...
+
+Do No
+- wholly reap the corners of your field
+- gather the gleanings of your harvest
+- glean your vineyard
+- gather the fallen grapes from your vineyard
+Do
+- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/S/Stranger\|Stranger]]
+- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger
+- leave //the fallen grapes// for the poor and the stranger
+Because
+- YHWH is your god.
+
+<mark style="background: #CD04BBA6;">There is a difference between the word [[Gate of Wisdom/S/Stranger\|Stranger]]/ger (גֵּר), [[Gate of Wisdom/F/Foreigner\|Foreigner]]/nēkār (נֵכָר), and [[Gate of Wisdom/S/Sojourner\|Sojourner]]/toshav (תּוֹשָׁב). A Stranger is one that lives among the people. The Foreigner is one who lives outside. The Sojourner is one dwelling beside. The word used here is ger. </mark>
 
 **April 11**: Deuteronomy 15:7-8, 11 – “Do not be hardhearted or tightfisted toward your poor brother...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(charity)  
 
