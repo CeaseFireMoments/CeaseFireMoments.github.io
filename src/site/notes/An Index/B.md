@@ -15,6 +15,7 @@
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]]
 - [[Gate of Wisdom/B/Birthright\|Birthright]]
 - [[Gate of Wisdom/B/Bitterness\|Bitterness]]
+- [[Gate of Wisdom/B/Bless\|Bless]]
 - [[Gate of Wisdom/B/Blessed\|Blessed]]
 - [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]
 - [[Gate of Wisdom/B/Bronze\|Bronze]]

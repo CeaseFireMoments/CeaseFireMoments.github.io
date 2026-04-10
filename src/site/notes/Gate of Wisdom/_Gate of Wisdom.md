@@ -61,6 +61,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]]                                                           |
 | [[Gate of Wisdom/B/Birthright\|Birthright]]                                                                                 |
 | [[Gate of Wisdom/B/Bitterness\|Bitterness]]                                                                                 |
+| [[Gate of Wisdom/B/Bless\|Bless]]                                                                                           |
 | [[Gate of Wisdom/B/Blessed\|Blessed]]                                                                                       |
 | [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]                                                                 |
 | [[Gate of Wisdom/B/Bronze\|Bronze]]                                                                                         |
@@ -226,6 +227,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Sign/Seal\|Seal]]                                                                                          |
 | [[Gate of Wisdom/M/Sermon on the Mount\|Sermon on the Mount]]                                                               |
 | [[Gate of Wisdom/S/Serpent\|Serpent]]                                                                                       |
+| [[Gate of Wisdom/S/serve\|serve]]                                                                                           |
 | [[Gate of Wisdom/D/Seventh Day\|Seventh Day]]                                                                               |
 | [[Gate of Wisdom/F/sexual immorality\|sexual immorality]]                                                                   |
 | [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]                                                                          |

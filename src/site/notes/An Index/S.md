@@ -68,6 +68,7 @@
 - [[Gate of Wisdom/Sign/Seal\|Seal]]
 - [[Gate of Wisdom/M/Sermon on the Mount\|Sermon on the Mount]]
 - [[Gate of Wisdom/S/Serpent\|Serpent]]
+- [[Gate of Wisdom/S/serve\|serve]]
 - [[Gate of Wisdom/D/Seventh Day\|Seventh Day]]
 - [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 - [[Gate of Wisdom/F/sexual immorality\|sexual immorality]]

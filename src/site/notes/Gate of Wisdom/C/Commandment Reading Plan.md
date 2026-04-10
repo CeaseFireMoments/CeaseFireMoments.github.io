@@ -273,10 +273,11 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 <mark style="background: #CD04BBA6;">Making note here - this is the verse directly after Love the Lord Your God with your mind, soul, and might ... which Jesus said was the greatest commandment. </mark> 
 
 **April 8**: [Deuteronomy 8:7-10](https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A7-10&version=WEB;NET;OJB) – “When you have eaten and are satisfied, praise the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (grace after meals)  #LoveGod #Dos #CommandMitzvot 
-- [[Zunpublished/Bless\|Bless]] YHWH
+- [[Gate of Wisdom/B/Bless\|Bless]] YHWH
 	- for the good land he has given you
 
-**April 9**: Exodus 23:25 – “Worship the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (prayer/service)  
+**April 9**: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023%3A25&version=WEB;NET;OJB) – “Worship the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]   #LoveGod #Dos #CommandMitzvot 
+- worship/[[Gate of Wisdom/S/serve\|serve]] - The Hebrew concept of avad integrates labor, service to another, and worship as one idea. No sharp divide between daily work and sacred worship; both are avad when done in submission.  
 
 **April 10**: Leviticus 19:9-10 – “Do not reap to the very edges of your field... Leave them for the poor...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(gleaning for poor)  
 

@@ -20,6 +20,8 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | Latest Drops                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                                                                              |
+| [[Gate of Wisdom/S/serve\|serve]]                                                                                                                                                                    |
+| [[Gate of Wisdom/B/Bless\|Bless]]                                                                                                                                                                    |
 | [[Gate of Wisdom/H/Hear\|Hear]]                                                                                                                                                                      |
 | [[Gate of Wisdom/I/idol\|idol]]                                                                                                                                                                      |
 | [[Gate of Wisdom/B/Baptize\|Baptize]]                                                                                                                                                                |
@@ -37,8 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Olive Branch Reconciliations/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]] |
 | [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                                                                                                          |
 | [[Gate of Wisdom/C/covetous\|covetous]]                                                                                                                                                              |
-| [[Gate of Wisdom/F/sexual immorality\|sexual immorality]]                                                                                                                                            |
-| [[Gate of Wisdom/Beings/Human Beings/idolater\|idolater]]                                                                                                                                            |
 
 { .block-language-dataview}
 
