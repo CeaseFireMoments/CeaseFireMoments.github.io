@@ -16,7 +16,7 @@
 - Exodus 23:25 (Hebrew): va'avadtem et-Yahweh Eloheikhem (וַעֲבַדְתֶּ֗ם אֵ֚ת יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם)  
 	- "And you shall serve the LORD your God, and He will bless your bread and your water; and I will remove sickness from your midst."
 - Genesis 2:5 - There was no man to "avad" the ground.
-- Genesis 3:12 to "avad" the ground.
+- Genesis 3:23 to "avad" the ground.
 - Exodos 20:9 six days you shall "avad"
 
 # Connections
