@@ -302,7 +302,44 @@ Because
 
 <mark style="background: #CD04BBA6;">There is a difference between the word [[Gate of Wisdom/S/Stranger\|Stranger]]/ger (גֵּר), [[Gate of Wisdom/F/Foreigner\|Foreigner]]/nēkār (נֵכָר), and [[Gate of Wisdom/S/Sojourner\|Sojourner]]/toshav (תּוֹשָׁב). A Stranger is one that lives among the people. The Foreigner is one who lives outside. The Sojourner is one dwelling beside. The word used here is ger. </mark>
 
-**April 11**: Deuteronomy 15:7-8, 11 – “Do not be hardhearted or tightfisted toward your poor brother...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(charity)  
+**April 11**: [Deuteronomy 15:7-11](https://www.biblegateway.com/passage/?search=Deuteronomy%2015%3A7-11&version=WEB;NET;OJB) – “Do not be hardhearted or tightfisted toward your poor brother...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor #DoNot #Dos #JudgmentMishpatim 
+
+Your brother, your needy, your poor
+- brother - the Hebrew concept of brother is a relative or a member of your community
+- needy evyon (אֶבְיוֹן) - to want, to desire, state of dependency, vulnerable 
+- poor - 
+- within your gates of land - near you
+	- the land you have was given to you by YHWH
+- poor will always be - an ongoing responsibility
+- Do Not
+	- harden your heart - do not become callous or unwilling to help
+	- shut our hand - be unwilling to give
+	- have a wicked thought in you heart - the Hebrew thought on this is not to see the matter as being without worth, or without profit. 
+		- Seventh year - The Seventh year was known as Shmita, a year of release. In the Shmita year, the land was rested, let to lie fallow, and there was a cancellation of debts and freeing of indentured servants. The point was Yah god is the provider and nothing belongs to you that he hasn't given you.
+	- eye be evil against - it conveys a grudging, stingy, envious, or hostile attitude — looking upon someone with ill will, reluctance, or resentment rather than generosity.
+	- give him nothing
+	- have a heart grieved when giving - do not be resentful, stingy, or sorrowful when you give generously
+- Do
+	- open your hand (2x) -  lend freely
+		- what is sufficient for his need
+		- what he lacks
+	- Give 
+- Consequences
+	- If he cries out to YHWH against you
+		- It is counted as a [[Gate of Wisdom/S/Sin\|Sin]] to you
+	- If you give generously
+		- YHWH will [[Gate of Wisdom/B/Bless\|Bless]] you
+			- in all your work
+			- in all you put your hand to
+
+<mark style="background: #CD04BBA6;">In researching further, there isn't any other scripture stating not to give based on the reason one is poor, needy, or in need. The consistent thread is that compassionate generosity honors God. There is also a consistent theme of not looking down on or oppressing the poor. </mark>
+
+<mark style="background: #CD04BBA6;">This judgement brings to mind some of Jesus said in Matthew 5. 
+- Hardened heart - Anger without a cause
+- Eye be evil against - pluck it out (stop being stingy)
+- Closed hand - cut it off (get rid off it - open it up)
+- Sues for coat, give cloak - give
+- Give to him who asks, don't turn away him who desires to borrow from you - give what is sufficient and what is lacked- </mark>
 
 **April 12**: Deuteronomy 10:19 – “Love the foreigner, for you yourselves were foreigners...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
 
