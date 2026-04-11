@@ -298,7 +298,7 @@ Do
 - leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger
 - leave //the fallen grapes// for the poor and the stranger
 Because
-- YHWH is your god.
+- YHWH is your god
 
 <mark style="background: #CD04BBA6;">There is a difference between the word [[Gate of Wisdom/S/Stranger\|Stranger]]/ger (גֵּר), [[Gate of Wisdom/F/Foreigner\|Foreigner]]/nēkār (נֵכָר), and [[Gate of Wisdom/S/Sojourner\|Sojourner]]/toshav (תּוֹשָׁב). A Stranger is one that lives among the people. The Foreigner is one who lives outside. The Sojourner is one dwelling beside. The word used here is ger. </mark>
 
@@ -339,7 +339,7 @@ Your brother, your needy, your poor
 - Eye be evil against - pluck it out (stop being stingy)
 - Closed hand - cut it off (get rid off it - open it up)
 - Sues for coat, give cloak - give
-- Give to him who asks, don't turn away him who desires to borrow from you - give what is sufficient and what is lacked- </mark>
+- Give to him who asks, don't turn away him who desires to borrow from you - give what is sufficient and what is lacked. </mark>
 
 **April 12**: Deuteronomy 10:19 – “Love the foreigner, for you yourselves were foreigners...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
 

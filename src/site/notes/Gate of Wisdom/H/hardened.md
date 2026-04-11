@@ -55,8 +55,8 @@ Ancient Egyptian belief - Weighing of the Heart"
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-10.md\\|Exod-10]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li></ul> |
+| file.inlinks                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-10.md\\|Exod-10]]</li></ul> |
 
 { .block-language-dataview}
