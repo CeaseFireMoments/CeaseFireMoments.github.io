@@ -2023,6 +2023,10 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/olive-branch-reconciliations/the-seventh-day-rest/41-the-seventh-day-is-for-gathering-42-luke/">41 The Seventh Day is for Gathering (42 Luke) </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/olive-branch-reconciliations/the-seventh-day-rest/seventh-day-rest-scripture-survey/">_Seventh Day Rest Scripture Survey </a>
 </div>
 </div>
@@ -2597,7 +2601,7 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-04-10T15:42:57.152Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-04-10T15:42:57.152Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-04-10T15:42:57.152Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-04-11T14:01:13.006Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-04-11T14:01:13.006Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-04-11T14:01:13.006Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
 <h1 data-note-icon="">07</h1>
@@ -2628,6 +2632,85 @@ CTRL + K
 </ul>
 </li>
 </ul>
+<p>The Bible records several rituals, consecrations, dedications, and observances that last exactly <strong>seven days</strong> (or include a seven-day period). These are presented as direct commands from God, often as statutes or part of the priestly service, without additional symbolic explanations beyond the explicit instructions. Here are the primary examples, drawn strictly from the relevant passages:</p>
+<h1 id="gate-of-wisdom-appointed-time-feast-of-unleavened-bread-feast-of-unleavened-bread" tabindex="-1"><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/feast-of-unleavened-bread/">Feast of Unleavened Bread</a></h1>
+<ul>
+<li>Exodus 12:15-20 (the original institution on the night of the Exodus)</li>
+<li>Leviticus 23:5-8 (the formal calendar of feasts)</li>
+<li>Numbers 28:16-25 and Deuteronomy 16:1-8 repeat the same seven-day structure</li>
+</ul>
+<h1 id="gate-of-wisdom-appointed-time-feast-of-tabernacles-feast-of-tabernacles-feast-of-booths-or-ingathering" tabindex="-1"><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/feast-of-tabernacles/">Feast of Tabernacles</a> (Feast of Booths or Ingathering)</h1>
+<ul>
+<li><strong>Leviticus 23:33-36, 39-43</strong>: “The fifteenth day of this seventh month shall be the Feast of Tabernacles for seven days to the LORD. On the first day there shall be a holy convocation… For seven days you shall offer an offering made by fire to the LORD. On the eighth day you shall have a holy convocation… You shall dwell in booths for seven days… that your generations may know that I made the children of Israel dwell in booths when I brought them out of the land of Egypt.”</li>
+<li><strong>Deuteronomy 16:13-15</strong>: “You shall observe the Feast of Tabernacles seven days, when you have gathered from your threshing floor and from your winepress… Seven days you shall keep a sacred feast to the LORD your God… and you shall surely rejoice.”</li>
+</ul>
+<h1 id="consecration-ordination-of-the-priests-aaron-and-his-sons" tabindex="-1">Consecration/Ordination of the Priests (Aaron and his sons)</h1>
+<p>This is a multi-day ritual of anointing, sacrifices, and separation for priestly service.</p>
+<ul>
+<li><strong>Exodus 29:29-37</strong>: Instructions include daily sin offerings and: “For seven days you shall make atonement for the altar and consecrate it… Thus you shall do to Aaron and his sons, according to all that I have commanded you. Seven days you shall consecrate them.”</li>
+<li><strong>Leviticus 8:33-35</strong>: “You shall not go outside the doorway of the tent of meeting for seven days, until the days of your ordination are fulfilled; for it will take seven days to ordain you… At the doorway of the tent of meeting you shall remain day and night for seven days, and keep the charge of the LORD, so that you will not die; for so I have been commanded.”<br>
+The priests remained at the tabernacle entrance, with specific daily sacrifices (including a bull for sin offering each day), to complete their consecration. The altar itself was also atoned for and consecrated over these seven days.</li>
+</ul>
+<h1 id="consecration-cleansing-of-the-altar" tabindex="-1">Consecration/Cleansing of the Altar</h1>
+<ul>
+<li><strong>Exodus 29:36-37</strong>: “Every day you shall offer a bull as a sin offering for atonement. You shall purify the altar when you make atonement for it, and you shall anoint it to consecrate it. Seven days you shall make atonement for the altar and consecrate it. Then the altar shall be most holy; whatever touches the altar must be holy.”</li>
+<li>A similar future vision appears in <strong>Ezekiel 43:25-27</strong>: “For seven days you shall prepare daily a goat for a sin offering… They shall also prepare a young bull and a ram from the flock, both without blemish. Seven days they shall make atonement for the altar and cleanse it; thus they shall consecrate it.”<br>
+This sets the altar apart so that it becomes “most holy,” with daily atonement rituals.</li>
+</ul>
+<h1 id="purification-of-a-person-healed-from-leprosy-or-similar-skin-disease" tabindex="-1">Purification of a Person Healed from Leprosy (or Similar Skin Disease)</h1>
+<ul>
+<li><strong>Leviticus 14:8-10</strong>: After initial cleansing rites, “He who is to be cleansed shall wash his clothes, shave off all his hair, and bathe in water, and be clean. After that he may come into the camp, but he shall stay outside his tent seven days. And on the seventh day he shall shave all the hair off his head and his beard and his eyebrows… Then on the eighth day he shall take two male lambs…”<br>
+The person remains ritually separated for seven days before further offerings on the eighth day to complete purification and restoration to the community.</li>
+</ul>
+<h1 id="other-related-mentions" tabindex="-1">Other Related Mentions</h1>
+<ul>
+<li>Certain dedications or temple-related events in historical books (e.g., <strong>2 Chronicles 7:8-10</strong> describing Solomon’s dedication of the temple, which included keeping a feast for seven days followed by an eighth-day assembly) align with the pattern of the Feast of Tabernacles but are tied to that feast.</li>
+<li>No other major annual feasts are commanded as seven-day observances. The weekly Sabbath is one day, Pentecost/Feast of Weeks is a single day, and the Day of Atonement is a single day of affliction and rest.</li>
+</ul>
+<h1 id="patterns-and-indications-in-scripture" tabindex="-1">Patterns and Indications in Scripture</h1>
+<p>The Bible consistently presents these seven-day periods as divine appointments without offering independent reasons such as “seven symbolizes X.” The number seven frequently appears in contexts of completion or fullness (e.g., creation week), but the texts simply state the duration as part of God’s commands: “thus says the LORD” or “as I have commanded.” Many involve:</p>
+<ul>
+<li>Holy convocations or assemblies on the first (and sometimes seventh/eighth) day.</li>
+<li>Daily offerings or specific rites.</li>
+<li>Separation, cleansing, or memorial purposes (deliverance from Egypt, wilderness provision, priestly readiness, personal restoration).</li>
+</ul>
+<p>These are to be observed exactly as written, often “as a statute forever” where specified (e.g., the feasts). The New Testament does not institute new seven-day rituals of this type but references the Old Testament feasts in passing (e.g., <strong>John 7</strong> for Tabernacles; <strong>1 Corinthians 5:7-8</strong> using unleavened bread metaphorically).</p>
+<h1 id="end-times" tabindex="-1">End Times</h1>
+<h2 id="daniel-s-seventy-weeks-70-7-years-490-years-total" tabindex="-1">Daniel’s “Seventy Weeks” (70 × 7 years = 490 years total)</h2>
+<p>This is the most prominent prophecy involving a multiple of 7 in an end-times framework.</p>
+<ul>
+<li><strong>Daniel 9:24-27</strong>: “Seventy weeks are determined for your people and for your holy city, to finish the transgression, to make an end of sins, to make reconciliation for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the Most Holy. Know therefore and understand, that from the going forth of the command to restore and build Jerusalem until Messiah the Prince, there shall be seven weeks and sixty-two weeks… Then he shall confirm a covenant with many for one week; but in the middle of the week he shall bring an end to sacrifice and offering. And on the wing of abominations shall be one who makes desolate, even until the consummation, which is determined, is poured out on the desolate.”
+<ul>
+<li>The total is <strong>seventy “weeks”</strong> (or “sevens”), widely understood in context as years (building on the earlier 70-year captivity theme in Daniel 9:2, referencing Jeremiah).</li>
+<li>It breaks down as: 7 weeks + 62 weeks + <strong>1 final week</strong> (a period of <strong>7 years</strong>).</li>
+<li>The final “one week” (7 years) includes a midpoint division, and it is tied to the appearance of the “abomination that causes desolation,” the end of transgression/sin, and the bringing in of everlasting righteousness—elements linked to the close of the age.</li>
+</ul>
+</li>
+</ul>
+<h2 id="the-final-week-7-year-period-often-called-the-70th-week" tabindex="-1">The Final “Week” / 7-Year Period (often called the 70th Week)</h2>
+<ul>
+<li>Directly from the above: the last segment is <strong>one week</strong> (7 years), during which a covenant is confirmed and then broken “in the middle of the week.”</li>
+<li>This 7-year timeframe is the only explicit 7-year block tied to end-time events involving desolation and ultimate righteousness in Daniel.</li>
+</ul>
+<h2 id="other-mentions-of-7-in-end-times-contexts" tabindex="-1">Other Mentions of 7 in End-Times Contexts</h2>
+<ul>
+<li><strong>Revelation</strong> structures much of its prophecy around sevens: <strong>7 seals</strong>, <strong>7 trumpets</strong>, <strong>7 bowls</strong> of wrath (Revelation 5–16). These are sequential judgments poured out in the last days, but the Bible does not specify exact durations for the entire sequence (though some interpreters link parts to the above periods).</li>
+<li><strong>Ezekiel 39:9</strong>: After the defeat of Gog and his hordes (an end-times invasion prophecy in Ezekiel 38–39), “Then those who dwell in the cities of Israel will go out and make fires of the weapons and burn them… for <strong>seven years</strong> they will make fires of them.” This is a 7-year burning period following the battle.</li>
+<li><strong>Jeremiah 25:11-12</strong> and <strong>Daniel 9:2</strong> reference the <strong>70 years</strong> of Babylonian captivity (a completed historical judgment), which Daniel prays about immediately before receiving the 70-weeks vision. This sets a pattern of “70” in God’s dealings with Israel, but it is past fulfillment rather than future end-times.</li>
+</ul>
+<h1 id="connections" tabindex="-1">Connections</h1>
+<div class="block-language-dataview table-wrapper"><table class="dataview table-view-table">
+<thead class="table-view-thead">
+<tr class="table-view-tr-header">
+<th class="table-view-th">file.inlinks</th>
+</tr>
+</thead>
+<tbody class="table-view-tbody">
+<tr>
+<td><ul><li><a class="internal-link is-unresolved" href="/404" target="">Trumpets</a></li><li><a class="internal-link is-unresolved" href="/404" target="">01 Gen-33 YadaYada</a></li><li><a class="internal-link is-unresolved" href="/404" target="">01 Gen-31 Yada Yada</a></li><li><a class="internal-link is-unresolved" href="/404" target="">01 Gen-29 Yada Yada</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/b/beast/">Beast</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Gen-29</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Gen-33</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Neh-08</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Feast of Unleavened Bread</a></li></ul></td>
+</tr>
+</tbody>
+</table></div>
 </main>
 <aside>
 <div class="sidebar">
@@ -2660,9 +2743,49 @@ CTRL + K
 <span id="full-graph-close" x-on:click="fullGraph = closefullGraph(fullGraph); showFullGraph = false;"><i icon-name="x" aria-hidden="true"></i></span><div id="full-graph-container"></div>
 </div>
 </div>
+<div class="toc">
+<div class="toc-title-container">
+<div class="toc-title">
+On this page
+</div>
+</div>
+<div class="toc-container">
+<nav class="toc">
+<ol>
+<li><a href="#gate-of-wisdom-appointed-time-feast-of-unleavened-bread-feast-of-unleavened-bread">[[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread|Feast of Unleavened Bread]]</a>
+</li>
+<li><a href="#gate-of-wisdom-appointed-time-feast-of-tabernacles-feast-of-tabernacles-feast-of-booths-or-ingathering">[[Gate of Wisdom/Appointed Time/Feast of Tabernacles|Feast of Tabernacles]] (Feast of Booths or Ingathering)</a>
+</li>
+<li><a href="#consecration-ordination-of-the-priests-aaron-and-his-sons">Consecration/Ordination of the Priests (Aaron and his sons)</a>
+</li>
+<li><a href="#consecration-cleansing-of-the-altar">Consecration/Cleansing of the Altar</a>
+</li>
+<li><a href="#purification-of-a-person-healed-from-leprosy-or-similar-skin-disease">Purification of a Person Healed from Leprosy (or Similar Skin Disease)</a>
+</li>
+<li><a href="#other-related-mentions">Other Related Mentions</a>
+</li>
+<li><a href="#patterns-and-indications-in-scripture">Patterns and Indications in Scripture</a>
+</li>
+<li><a href="#end-times">End Times</a>
+<ol>
+<li><a href="#daniel-s-seventy-weeks-70-7-years-490-years-total">Daniel’s “Seventy Weeks” (70 × 7 years = 490 years total)</a>
+</li>
+<li><a href="#the-final-week-7-year-period-often-called-the-70th-week">The Final “Week” / 7-Year Period (often called the 70th Week)</a>
+</li>
+<li><a href="#other-mentions-of-7-in-end-times-contexts">Other Mentions of 7 in End-Times Contexts</a>
+</li>
+</ol>
+</li>
+<li><a href="#connections">Connections</a>
+</li>
+</ol>
+</nav>
+</div>
+</div>
 <div class="backlinks">
 <div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
 <div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/an-index/n/" data-note-icon="" class="backlink">N</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/appointed-time/feast-of-unleavened-bread/" data-note-icon="" class="backlink">Feast of Unleavened Bread</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/b/beast/" data-note-icon="" class="backlink">Beast</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/gate-of-wisdom/" data-note-icon="" class="backlink">_Gate of Wisdom</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/yada-yada-pauses/01-gen-29-yada-yada/" data-note-icon="" class="backlink">01 Gen-29 Yada Yada</a>
