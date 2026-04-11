@@ -334,12 +334,12 @@ Your brother, your needy, your poor
 
 <mark style="background: #CD04BBA6;">In researching further, there isn't any other scripture stating not to give based on the reason one is poor, needy, or in need. The consistent thread is that compassionate generosity honors God. There is also a consistent theme of not looking down on or oppressing the poor. </mark>
 
-<mark style="background: #CD04BBA6;">This judgement brings to mind some of Jesus said in Matthew 5. 
+<mark style="background: #CD04BBA6;">This judgement brings to mind some of Jesus said in Matthew 5. </mark>
 - Hardened heart - Anger without a cause
 - Eye be evil against - pluck it out (stop being stingy)
 - Closed hand - cut it off (get rid off it - open it up)
 - Sues for coat, give cloak - give
-- Give to him who asks, don't turn away him who desires to borrow from you - give what is sufficient and what is lacked. </mark>
+- Give to him who asks, don't turn away him who desires to borrow from you - give what is sufficient and what is lacked. 
 
 **April 12**: Deuteronomy 10:19 – “Love the foreigner, for you yourselves were foreigners...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
 
