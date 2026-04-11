@@ -307,7 +307,7 @@ Because
 Your brother, your needy, your poor
 - brother - the Hebrew concept of brother is a relative or a member of your community
 - needy evyon (אֶבְיוֹן) - to want, to desire, state of dependency, vulnerable 
-- poor - 
+- poor - afflicted, bowed down or crushed by circumstances.
 - within your gates of land - near you
 	- the land you have was given to you by YHWH
 - poor will always be - an ongoing responsibility
