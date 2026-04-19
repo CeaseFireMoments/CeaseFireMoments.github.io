@@ -5,13 +5,13 @@
 # Define
 
 - Hebrew: ger (גֵּר) stranger, sojourner, resident alien, foreigner
-	-  A resident alien/sojourner living among the Israelites, often integrated to some degree, protected by law, and included in provisions like gleanings (Leviticus 19:10), feasts, and equal justice.  
+	-  A resident alien/sojourner living **among** the Israelites, often integrated to some degree, protected by law, and included in provisions like gleanings (Leviticus 19:10), feasts, and equal justice.  
 - Greek: proselutos (προσήλυτος) proselyte, stranger, convert
 
 # Related words
 
 - toshav (תּוֹשָׁב) [[Gate of Wisdom/S/Sojourner\|Sojourner]], temporary resident
-- nokhri (נָכְרִי) [[Gate of Wisdom/F/Foreigner\|Foreigner]], stranger (more distant) that which is **outside**, , in contrast to ger, nokhri often appears in contexts of distinction or exclusion (e.g., debt, certain prohibitions).
+- nokhri (נָכְרִי) [[Gate of Wisdom/F/Foreigner\|Foreigner]], stranger (more distant) that which is **outside**, in contrast to ger, nokhri often appears in contexts of distinction or exclusion (e.g., debt, certain prohibitions).
 - goy (גּוֹי) nation, [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]] (often plural goyim for foreign nations)
 
 # Additional Info

@@ -341,30 +341,99 @@ Your brother, your needy, your poor
 - Sues for coat, give cloak - give
 - Give to him who asks, don't turn away him who desires to borrow from you - give what is sufficient and what is lacked. 
 
-**April 12**: Deuteronomy 10:19 – “Love the foreigner, for you yourselves were foreigners...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+**April 12**: [Deuteronomy 10:18-19](https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A18-19&version=WEB;NET;OJB) – “Love the foreigner, for you yourselves were foreigners...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #Dos #CommandMitzvot 
 
-**April 13**: Exodus 22:21 / Leviticus 19:33-34 – “Do not mistreat or oppress a foreigner...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+Yah-god executes Justice (The word Justice is mishpat [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]])
+- for the fatherless and widow
+God loves the [[Gate of Wisdom/S/Stranger\|Stranger]]
+- gives him food and clothing
+Do
+- love the stranger
+Why?
+- you were strangers in the land of Egypt
 
-**April 14**: Exodus 23:5 / Deuteronomy 22:4 – “If you see your fellow Israelite’s donkey or ox fallen on the road, do not ignore it. Help him...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(help with burden)  
+**April 13**: [Exodus 22:21 / Leviticus 19:33-34](Exodus 22:21, Leviticus 19:33-34) – “Do not mistreat or oppress a foreigner...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Dos #JudgmentMishpatim #DoNot 
 
-**April 15**: Leviticus 19:14 – “Do not curse the deaf or put a stumbling block in front of the blind...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+Exodus: To a [[Gate of Wisdom/S/Stranger\|Stranger]] (one who has integrated)
+- Do not
+	- wrong (unjustly treat, cause harm or distress)
+	- oppress (to crush, to press hard upon, to afflict physically or by violence)
+- Because
+	- you were [[Gate of Wisdom/S/Stranger\|Stranger]]s
+		- in the land of Egypt
 
-**April 16**: Deuteronomy 24:19-21 – “When you are harvesting... leave what is overlooked for the foreigner, the fatherless and the widow.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(forgotten sheaves)  
+If a [[Gate of Wisdom/S/Stranger\|Stranger]] (one who has integrated)
+- lives among you (the native-born) in your land
+	- Do not
+		- wrong (unjustly treat, cause harm or distress)
+	- Do
+		- treat as a native born
+		- love as yourself
+	- Because
+		- you lived as strangers
+			- in the land of Egypt
+<mark style="background: #CD04BBA6;">The Stranger has chosen to integrate into the Israelites, to live as one of them. Accepts YHWH as their god.</mark>
 
-**April 17**: Exodus 23:12 – “Six days do your work, but on the seventh day do not work...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) (Sabbath rest)  
+**April 14**: [Exodus 23:5 / Deuteronomy 22:4](https://www.biblegateway.com/passage/?search=Exodus%2023%3A5%2C%20Deuteronomy%2022%3A4&version=WEB;NET;OJB) – “If you see your fellow Israelite’s donkey or ox fallen on the road, do not ignore it. Help him...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(help with burden)  #LoveNeighbor #DoNot #Dos #JudgmentMishpatim 
 
-**April 18**: Leviticus 23:3 – “There are six days when you may work, but the seventh day is a day of sabbath rest...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / ordinance (Sabbath)  
+See donkey or ox
+- of a "brother" or "neighbor" in the sense of a fellow covenant member
+	- who hates, to detests, has hostile toward, or treat you as an enemy
+		- Do Not
+			- Leave the donkey or oxen
+			- hide yourself from them (ignore them)
+		- Do
+			- Help him (the fellow covenant member who hates you) with it.
 
-**April 19**: Exodus 12:14-20 / Leviticus 23:5-8 – Observe Passover / eat matzah / rest on holy days (non-sacrifice aspects only). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+**April 15**: [Leviticus 19:14](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A14&version=WEB;NET;OJB) – “Do not curse the deaf or put a stumbling block in front of the blind...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim 
 
-**April 20**: Leviticus 23:15-16, 21 – Count the Omer / rest on Shavuot. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
-**April 21**: Leviticus 23:24-25 – Rest on Rosh Hashanah. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+Do Not
+- To the Deaf
+	- Curse (to treat lightly or with contempt, to revile, to speak evil of)
+- To the Blind
+	- Put a stumbling block before
 
-**April 22**: Leviticus 23:27-32 – Fast and rest on Yom Kippur. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+Do
+- Fear your god
 
-**April 23**: Leviticus 23:34-36, 39-43 – Rest / dwell in sukkah on Sukkot (non-lulav aspects). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+**April 16**: [Deuteronomy 24:19-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-21&version=WEB;NET;OJB) – “When you are harvesting... leave what is overlooked for the foreigner, the fatherless and the widow.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(forgotten sheaves)  #LoveNeighbor #Dos #DoNot #JudgmentMishpatim 
 
-**April 24**: Deuteronomy 16:13-15 – Be joyful on the festivals. - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+- See April 10th - all similar wordings and meanings. 
+
+**April 17**: [Exodus 23:12](https://www.biblegateway.com/passage/?search=Exodus%2023%3A12&version=WEB;NET;OJB) – “Six days do your work, but on the seventh day do not work...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  #LoveNeighbor #LoveGod #DoNot #Dos #OrdinanceMishmerot 
+
+- See [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
+- See [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
+
+
+**April 18**: [Leviticus 23:3](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A3&version=WEB;NET;OJB) – “There are six days when you may work, but the seventh day is a day of sabbath rest...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / ordinance (Sabbath)  #LoveGod #Dos #DoNot 
+
+- See [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
+- See [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
+
+**April 19**: [Exodus 12:14-20 / Leviticus 23:5-8](https://www.biblegateway.com/passage/?search=Exodus%2012%3A14-20%2C%20Leviticus%2023%3A5-8&version=WEB;NET;OJB) – Observe Passover / eat matzah / rest on holy days (non-sacrifice aspects only). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
+- See [[Gate of Wisdom/Appointed Time/Passover\|Passover]]
+- See [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
+- See [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
+
+**April 20**: [Leviticus 23:15-16, 21](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A15-16%2C%2021&version=WEB;NET;OJB) – Count the Omer / rest on Shavuot. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** #LoveGod #Dos #DoNot #StatuesChuqim 
+
+- See [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
+- See [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
+- See [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
+
+**April 21**: [Leviticus 23:24-25](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A24-25&version=WEB;NET;OJB) – Rest on Rosh Hashanah. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
+- See [[Zunpublished/Feast of Trumpets\|Feast of Trumpets]]
+
+**April 22**: [Leviticus 23:27-32](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A27-32&version=WEB;NET;OJB) – Fast and rest on Yom Kippur. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
+- See [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
+
+**April 23**: [Leviticus 23:34-36, 39-43](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A34-36%2C%2039-43&version=WEB) – Rest / dwell in sukkah on Sukkot (non-lulav aspects). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
+- See [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
+
+**April 24**: [Deuteronomy 16:13-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2016%3A13-15&version=WEB) – Be joyful on the festivals. - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #LoveNeighbor #Dos #CommandMitzvot 
+
+See [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 
 **April 25**: Leviticus 11:1-47 (selected clean/unclean) – “These are the regulations concerning animals...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (dietary)  
 
