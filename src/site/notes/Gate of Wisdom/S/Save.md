@@ -30,7 +30,7 @@ Ps 111:9 “He sent redemption (פְּדוּת) unto his people… Holy and reve
 
 | file.inlinks                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li><li>[[Gate of Wisdom/R/Ransom.md\\|Ransom]]</li><li>[[Gate of Wisdom/S/Save.md\\|Save]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Redemption.md\\|Redemption]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li><li>[[Gate of Wisdom/S/Save.md\\|Save]]</li><li>[[Gate of Wisdom/R/Ransom.md\\|Ransom]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Redemption.md\\|Redemption]]</li></ul> |
 
 { .block-language-dataview}
 

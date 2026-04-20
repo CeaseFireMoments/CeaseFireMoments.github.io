@@ -18,6 +18,6 @@
 
 | file.inlinks                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/S/Stranger.md\\|Stranger]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/S/Stranger.md\\|Stranger]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li></ul> |
 
 { .block-language-dataview}

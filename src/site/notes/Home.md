@@ -19,6 +19,7 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke)\|42 The Seventh Day is for Healing (42 Luke)]]                                                                                                |
 | [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                                                                                                                       |
 | [[Gate of Wisdom/S/Stranger\|Stranger]]                                                                                                                                                                                                       |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/41 The Seventh Day is for Gathering (42 Luke)\|41 The Seventh Day is for Gathering (42 Luke)]]                                                                                            |
