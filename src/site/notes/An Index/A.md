@@ -19,6 +19,7 @@
 - [[Gate of Wisdom/Beings/Heavenly Beings/Angel of Yahweh\|Angel of Yahweh]]
 - [[Gate of Wisdom/Beings/Antichrist\|Antichrist]]
 - [[Olive Branch Reconciliations/Antifa and the 1940 US Army\|Antifa and the 1940 US Army]]
+- [[Gate of Wisdom/A/Anxious\|Anxious]]
 - [[Gate of Wisdom/Beings/Human Beings/apostle\|apostle]]
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]

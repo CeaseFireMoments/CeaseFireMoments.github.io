@@ -15,6 +15,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 - [[Sacred Truces/Old, New, and Renewed\|Old, New, and Renewed]]
+- [[Gate of Wisdom/O/omer\|omer]]
 - [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - [[Gate of Wisdom/O/overseer\|overseer]]

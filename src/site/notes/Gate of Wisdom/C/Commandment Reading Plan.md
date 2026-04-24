@@ -432,8 +432,7 @@ Do
 - See [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 
 **April 24**: [Deuteronomy 16:13-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2016%3A13-15&version=WEB) – Be joyful on the festivals. - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #LoveNeighbor #Dos #CommandMitzvot 
-
-See [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
+- See [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 
 **April 25**: Leviticus 11:1-47 (selected clean/unclean) – “These are the regulations concerning animals...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (dietary)  
 

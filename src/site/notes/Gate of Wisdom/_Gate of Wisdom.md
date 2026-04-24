@@ -37,6 +37,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Angel of the Lord\|Angel of the Lord]]                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Angel of Yahweh\|Angel of Yahweh]]                                                  |
 | [[Gate of Wisdom/Beings/Antichrist\|Antichrist]]                                                                            |
+| [[Gate of Wisdom/A/Anxious\|Anxious]]                                                                                       |
 | [[Gate of Wisdom/Beings/Human Beings/apostle\|apostle]]                                                                     |
 | [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]                                                            |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]                                                              |
@@ -117,6 +118,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]                                                          |
 | [[Gate of Wisdom/Sources/Bible Project/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]] |
 | [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]                                                                     |
+| [[Gate of Wisdom/Ruach/Fruit/Gentleness\|Gentleness]]                                                                       |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                                                           |
 | [[Gate of Wisdom/G/gleaning\|gleaning]]                                                                                     |
 | [[Gate of Wisdom/Beings/Divine Council/God\|God]]                                                                           |
@@ -165,6 +167,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                                                                  |
 | [[Gate of Wisdom/L/Lust\|Lust]]                                                                                             |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]]                                                             |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Manna\|Manna]]                                             |
 | [[Gate of Wisdom/Sign/Mark\|Mark]]                                                                                          |
 | [[Gate of Wisdom/M/Meek\|Meek]]                                                                                             |
 | [[Gate of Wisdom/M/Memorial\|Memorial]]                                                                                     |
@@ -188,6 +191,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]                                                         |
 | [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]                                                                     |
 | [[Gate of Wisdom/Offering/Offerings\|Offerings]]                                                                            |
+| [[Gate of Wisdom/O/omer\|omer]]                                                                                             |
 | [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]                                                                           |
 | [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]                                            |
 | [[Gate of Wisdom/O/overseer\|overseer]]                                                                                     |
@@ -200,6 +204,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/P/Perfect\|Perfect]]                                                                                       |
 | [[Gate of Wisdom/Covenant/Perpetural\|Perpetural]]                                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Pharisee\|Pharisee]]                                                                   |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Philippi\|Philippi]]                                                       |
 | [[Gate of Wisdom/P/Poor\|Poor]]                                                                                             |
 | [[Gate of Wisdom/P/Pray\|Pray]]                                                                                             |
 | [[Gate of Wisdom/P/Prayer\|Prayer]]                                                                                         |

@@ -9,6 +9,9 @@ Another name for prayer that is commonly used within Jewish Ashkenazi communitie
 
    AlephBeta (https://www.alephbeta.org/jewish-prayer/tefillah)
 
+Greek Proseuchē (προσευχῇ) — translated as "prayer." This is the most common and general New Testament word for prayer. It comes from pros (toward) + euchomai (to wish, vow, or pray), carrying the idea of drawing near to God in worship, devotion, or general communication. It often includes adoration, praise, and a broad sense of relating to God. 
+
+
 # Connections
 - [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
 - [[Gate of Wisdom/P/Pray\|Pray]]
@@ -18,9 +21,9 @@ Another name for prayer that is commonly used within Jewish Ashkenazi communitie
 
 
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer.md\\|Matthew 6 vs09-15 The Lord’s Prayer]]</li><li>[[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Sacred Truces/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/P/Pray.md\\|Pray]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer.md\\|Matthew 6 vs09-15 The Lord’s Prayer]]</li><li>[[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Sacred Truces/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/P/Pray.md\\|Pray]]</li><li>[[Torah Portions/04.24.26 Shabbat Reading.md\\|04.24.26 Shabbat Reading]]</li></ul> |
 
 { .block-language-dataview}
 

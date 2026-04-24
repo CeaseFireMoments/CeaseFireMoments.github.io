@@ -169,7 +169,7 @@ For reading purposes: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/
 
 [^8]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.
 
-[^9]: [[Zunpublished/Gentleness\|Gentleness]] Humble yourselves
+[^9]: [[Gate of Wisdom/Ruach/Fruit/Gentleness\|Gentleness]] Humble yourselves
 
 [^10]: [[Zunpublished/Self Control\|Self Control]] Cleanse your hands… purify your hearts
 

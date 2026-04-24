@@ -24,6 +24,7 @@
 - [[Gate of Wisdom/P/Perfect\|Perfect]]
 - [[Gate of Wisdom/Covenant/Perpetural\|Perpetural]]
 - [[Gate of Wisdom/Beings/Human Beings/Pharisee\|Pharisee]]
+- [[Gate of Wisdom/Dwelling Places/Realm of Humans/Philippi\|Philippi]]
 - [[Gate of Wisdom/P/Poor\|Poor]]
 - [[Gate of Wisdom/P/Pray\|Pray]]
 - [[Gate of Wisdom/P/Prayer\|Prayer]]

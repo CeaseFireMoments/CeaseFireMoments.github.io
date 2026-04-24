@@ -19,8 +19,12 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke)\|42 The Seventh Day is for Healing (42 Luke)]]                                                                                                |
 | [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                                                                                                                       |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Philippi\|Philippi]]                                                                                                                                                                         |
+| [[Torah Portions/04.24.26 Shabbat Reading\|04.24.26 Shabbat Reading]]                                                                                                                                                                         |
+| [[Gate of Wisdom/A/Anxious\|Anxious]]                                                                                                                                                                                                         |
+| [[Gate of Wisdom/O/omer\|omer]]                                                                                                                                                                                                               |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke)\|42 The Seventh Day is for Healing (42 Luke)]]                                                                                                |
 | [[Gate of Wisdom/S/Stranger\|Stranger]]                                                                                                                                                                                                       |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/41 The Seventh Day is for Gathering (42 Luke)\|41 The Seventh Day is for Gathering (42 Luke)]]                                                                                            |
 | [[Gate of Wisdom/G/gleaning\|gleaning]]                                                                                                                                                                                                       |
@@ -32,12 +36,9 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/B/Baptize\|Baptize]]                                                                                                                                                                                                         |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/40 The Seventh Day is for Teaching (41 Mark)\|40 The Seventh Day is for Teaching (41 Mark)]]                                                                                              |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/39 The Seventh Day is the Sabbath (40 Matthew)\|39 The Seventh Day is the Sabbath (40 Matthew)]]                                                                                          |
-| [[Torah Portions/03.28.67 Shabbat Reading\|03.28.67 Shabbat Reading]]                                                                                                                                                                         |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]                                                                                  |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)\|35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)]]                                                        |
 | [[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]] |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)\|34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)]]                    |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]                                  |
 
 { .block-language-dataview}
 

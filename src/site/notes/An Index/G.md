@@ -14,6 +14,7 @@
 - [[Yada Yada Pauses/01 Gen-35 Yada Yada\|01 Gen-35 Yada Yada]]
 - [[The Heralds Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]
 - [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]
+- [[Gate of Wisdom/Ruach/Fruit/Gentleness\|Gentleness]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]
 - [[Gate of Wisdom/G/gleaning\|gleaning]]
 - [[Gate of Wisdom/Beings/Divine Council/God\|God]]
