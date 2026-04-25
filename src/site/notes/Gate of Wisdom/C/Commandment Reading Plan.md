@@ -434,7 +434,120 @@ Do
 **April 24**: [Deuteronomy 16:13-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2016%3A13-15&version=WEB) – Be joyful on the festivals. - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #LoveNeighbor #Dos #CommandMitzvot 
 - See [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 
-**April 25**: Leviticus 11:1-47 (selected clean/unclean) – “These are the regulations concerning animals...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (dietary)  
+**April 25**: [Leviticus 11:1-47](https://www.biblegateway.com/passage/?search=Leviticus%2011%3A1-47&version=WEB;NET;OJB) “These are the regulations concerning animals...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**   #LoveGod #StatuesChuqim #Dos #DoNot 
+
+This is the [[Gate of Wisdom/T/Torah\|Torah]] of
+- the animal
+- the bird
+- every [[Gate of Wisdom/Beings/Animals/living creature\|living creature]] that moves in the waters
+- every creature that creeps on the earth
+- to make distinction between 
+	- [[Gate of Wisdom/U/Unclean\|Unclean]] and [[Gate of Wisdom/C/Clean\|Clean]]
+	- living things which may be eat and living thing that may not be eaten
+
+Do:
+- Living things on earth
+	- Eat
+		- parted hoof - cloven footed: a hoof that is split into two distinct, separate toes, or claws
+		- **AND** chews the cud - partially digests food, regurgitates it, and re-chews it to further break down fibrous plant matter
+	- If a carcass touches or falls on when dead
+		- Wash
+			- clothes
+			- anything
+- Things in the water (the seas and rivers)
+	- Eat
+		- has fins
+		- **AND** has scales
+- Among the winged [[Gate of Wisdom/Beings/Animals/creeping thing\|creeping thing]]s that go on all fours
+	- Eat
+		- have long, jointed legs for hopping
+		- any kind of locust
+		- any kind of katydid
+		- any kind of cricket
+		- any kind of grasshopper
+	- If a carcass touches or falls on when dead
+		- Wash
+			- clothes
+			- anything
+		- Break
+			- vessels
+			- oven or range for pots
+		- These remain clean
+			- Spring or cistern in which water is gather
+			- sowing seed which is sown (dry seed)
+	- [[Gate of Wisdom/S/Sanctify\|Sanctify]] yourself
+		- be [[Gate of Wisdom/H/Holy\|Holy]] (set apart)
+			- because 
+				- YHWH is holy
+				- YHWH brought you out of the land of Egypt
+					- to be your god
+
+Do not
+- Unclean on the earth: 
+	- Do not eat their meat
+	- **AND** do not touch their carcasses
+		- Camel - no parted hoof
+		- Hyrax (rock badger) - no parted hoof
+		- Hare - no parted hoof
+		- Pig - does not chew the cud
+- [[Gate of Wisdom/Abomination/Abomination\|Abomination]]s in the waters (seas and rivers):
+	- Detest them
+	- Do not eat their meat
+	- Detest their carcasses
+		- Do not have fins
+		- **AND** do no have scales
+- [[Gate of Wisdom/Abomination/Abomination\|Abomination]]s  among the birds:
+	- Do not eat
+		- Eagle
+		- Vulture and Black vulture
+		- Red Kite and any kind of Black Kite
+		- Any kind of raven
+		- Owls: horned, screech, little, cormorant, great, white, and desert
+		- Gull
+		- Any kind of hawk
+		- Osprey
+		- Stork
+		- Any kind of heron
+		- Hoopoe
+		- Bat
+- [[Gate of Wisdom/Abomination/Abomination\|Abomination]]s  among the flying insects
+	- Do not eat
+		- Walk on all fours
+		- winged creeping things which have four feet
+- [[Gate of Wisdom/Abomination/Abomination\|Abomination]]s  Creeping things
+	- goes on its belly
+	- goes on all fours
+	- has many feet
+	- Makes you abominable
+	- Makes you defiled
+
+Cause one to become unclean until evening
+- Unclean on the earth: 
+	- Wash clothes
+		- Touches their carcass
+		- Carries any part of the carcass
+- Abominations Creeping things
+	- Wash clothes
+		- Touches their carcass
+		- Carries any part of the carcass
+		- Anything it falls on when they are dead shall be unclean
+			- any vessel of wood
+			- clothing
+			- skin
+			- sack
+			- whatever vessel with which any work is done
+				- all food which may be eaten becomes unclean
+				- all drink that may be drunk becomes unclean
+			- oven or range for pots
+			- Wet seed
+- Carcass (dies of it's own) of Animals which may be eaten
+	- Wash clothes
+		- Touching
+		- Eat
+		- Carrying
+
+<mark style="background: #CD04BBA6;">This sounds a lot like the command given to Adam and Eve - Eat all of these, but do not eat this. It isn't for us to ask why or why not, it is for us to obey, even if it doesn't make any sense. Eat, no eat; clean, unclean; work, no work; are we willing to obey our King? Or have we decided to reign over our own lives?</mark>
+
 
 **April 26**: Leviticus 19:19 / Deuteronomy 22:9-11 – Do not mix kinds (seeds, animals, fabrics). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
 

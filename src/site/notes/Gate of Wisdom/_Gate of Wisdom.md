@@ -86,6 +86,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                    |
 | [[Gate of Wisdom/C/Common\|Common]]                                                                                         |
 | [[Gate of Wisdom/C/covetous\|covetous]]                                                                                     |
+| [[Gate of Wisdom/Beings/Animals/creeping thing\|creeping thing]]                                                            |
 | [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]]                                                                    |
 | [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]                                                                  |
 | [[Gate of Wisdom/Covenant/Davidic\|Davidic]]                                                                                |
@@ -163,6 +164,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/K/Kipper\|Kipper]]                                                                                         |
 | [[Gate of Wisdom/L/Lawlessness\|Lawlessness]]                                                                               |
 | [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]                                                                           |
+| [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                                          |
 | [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]]                                                                           |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                                                                  |
 | [[Gate of Wisdom/L/Lust\|Lust]]                                                                                             |
@@ -225,6 +227,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]                                                                          |
 | [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]                                                                        |
 | [[Gate of Wisdom/S/Sacrifice\|Sacrifice]]                                                                                   |
+| [[Gate of Wisdom/S/Sanctify\|Sanctify]]                                                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]                                                                         |
 | [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                      |
 | [[Gate of Wisdom/S/Save\|Save]]                                                                                             |

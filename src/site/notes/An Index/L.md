@@ -7,6 +7,7 @@
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
 - [[Olive Branch Reconciliations/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
 - [[Gate of Wisdom/L/Lawlessness\|Lawlessness]]
+- [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]
 - [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]
 - [[Gate of Wisdom/L/Lust\|Lust]]

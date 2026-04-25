@@ -57,6 +57,7 @@
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Red Sea\|Red Sea]]
 - [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
 - [[Gate of Wisdom/S/Sacrifice\|Sacrifice]]
+- [[Gate of Wisdom/S/Sanctify\|Sanctify]]
 - [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]
 - [[Gate of Wisdom/Beings/Satan\|Satan]]
 - [[Gate of Wisdom/S/Save\|Save]]

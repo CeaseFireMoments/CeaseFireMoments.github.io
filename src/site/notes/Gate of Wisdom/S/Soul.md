@@ -27,7 +27,7 @@ Using only the bible as a reference. do not do a deep dive or give explanations 
 - 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li></ul> |
 
 { .block-language-dataview}
 
