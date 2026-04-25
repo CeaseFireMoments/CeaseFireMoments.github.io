@@ -540,7 +540,7 @@ Cause one to become unclean until evening
 				- all drink that may be drunk becomes unclean
 			- oven or range for pots
 			- Wet seed
-- Carcass (dies of it's own) of Animals which may be eaten
+- Carcass (dies of it's own) of Animals (land animal quadrupeds, not just any beast that dwells on the land) which may be eaten
 	- Wash clothes
 		- Touching
 		- Eat
@@ -548,6 +548,8 @@ Cause one to become unclean until evening
 
 <mark style="background: #CD04BBA6;">This sounds a lot like the command given to Adam and Eve - Eat all of these, but do not eat this. It isn't for us to ask why or why not, it is for us to obey, even if it doesn't make any sense. Eat, no eat; clean, unclean; work, no work; are we willing to obey our King? Or have we decided to reign over our own lives?</mark>
 
+[NET Bible commentary quote](https://www.biblegateway.com/passage/?search=Lev.10.10&version=NET), 
+	"With regard to the animals ([Lev 11](https://www.biblegateway.com/passage/?search=Lev.11&version=NET)), some were by nature “unclean,” so they could never be eaten, but others were by nature “clean” and, therefore, edible ([Lev 11:2](https://www.biblegateway.com/passage/?search=Lev.11.2&version=NET), [46-47](https://www.biblegateway.com/passage/?search=Lev.11.46-Lev.11.47&version=NET)). The meat of clean animals could become inedible by too long of a delay in eating it, in which case the Hebrew term פִּגּוּל (_piggul_) “foul, spoiled” is used to describe it ([Lev 7:18](https://www.biblegateway.com/passage/?search=Lev.7.18&version=NET); [19:7](https://www.biblegateway.com/passage/?search=Lev.19.7&version=NET); cf. also [Ezek 4:14](https://www.biblegateway.com/passage/?search=Ezek.4.14&version=NET) and [Isa 65:4](https://www.biblegateway.com/passage/?search=Isa.65.4&version=NET)), not the term for “unclean” (טָהוֹר, _tahor_). Strictly speaking, therefore, unclean meat never becomes clean, and clean meat never becomes unclean."
 
 **April 26**: Leviticus 19:19 / Deuteronomy 22:9-11 – Do not mix kinds (seeds, animals, fabrics). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
 

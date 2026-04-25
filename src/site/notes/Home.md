@@ -19,8 +19,8 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                                                                   |
 | [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                              |
+| [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                                                                   |
 | [[Gate of Wisdom/S/Sanctify\|Sanctify]]                                                                                                              |
 | [[Gate of Wisdom/Beings/Animals/creeping thing\|creeping thing]]                                                                                     |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Philippi\|Philippi]]                                                                                |
