@@ -17,28 +17,28 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 If you follow us on [our word press site](https://calltoceasefire.wordpress.com/), you'll receive notification via email of new content. Or follow us on [X](https://x.com/CalltoCeaseFire) or [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/) for new content in your feed. 
 
 
-| Latest Drops                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                              |
-| [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                                                                   |
-| [[Gate of Wisdom/S/Sanctify\|Sanctify]]                                                                                                              |
-| [[Gate of Wisdom/Beings/Animals/creeping thing\|creeping thing]]                                                                                     |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Philippi\|Philippi]]                                                                                |
-| [[Torah Portions/04.24.26 Shabbat Reading\|04.24.26 Shabbat Reading]]                                                                                |
-| [[Gate of Wisdom/A/Anxious\|Anxious]]                                                                                                                |
-| [[Gate of Wisdom/O/omer\|omer]]                                                                                                                      |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke)\|42 The Seventh Day is for Healing (42 Luke)]]       |
-| [[Gate of Wisdom/S/Stranger\|Stranger]]                                                                                                              |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/41 The Seventh Day is for Gathering (42 Luke)\|41 The Seventh Day is for Gathering (42 Luke)]]   |
-| [[Gate of Wisdom/G/gleaning\|gleaning]]                                                                                                              |
-| [[Gate of Wisdom/S/Sojourner\|Sojourner]]                                                                                                            |
-| [[Gate of Wisdom/S/serve\|serve]]                                                                                                                    |
-| [[Gate of Wisdom/B/Bless\|Bless]]                                                                                                                    |
-| [[Gate of Wisdom/H/Hear\|Hear]]                                                                                                                      |
-| [[Gate of Wisdom/I/idol\|idol]]                                                                                                                      |
-| [[Gate of Wisdom/B/Baptize\|Baptize]]                                                                                                                |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/40 The Seventh Day is for Teaching (41 Mark)\|40 The Seventh Day is for Teaching (41 Mark)]]     |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/39 The Seventh Day is the Sabbath (40 Matthew)\|39 The Seventh Day is the Sabbath (40 Matthew)]] |
+| Latest Drops                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/43 The Seventh Day is for Healing (42 Luke)\|43 The Seventh Day is for Healing (42 Luke)]]     |
+| [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                            |
+| [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                                                                 |
+| [[Gate of Wisdom/S/Sanctify\|Sanctify]]                                                                                                            |
+| [[Gate of Wisdom/Beings/Animals/creeping thing\|creeping thing]]                                                                                   |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Philippi\|Philippi]]                                                                              |
+| [[Torah Portions/04.24.26 Shabbat Reading\|04.24.26 Shabbat Reading]]                                                                              |
+| [[Gate of Wisdom/A/Anxious\|Anxious]]                                                                                                              |
+| [[Gate of Wisdom/O/omer\|omer]]                                                                                                                    |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke)\|42 The Seventh Day is for Healing (42 Luke)]]     |
+| [[Gate of Wisdom/S/Stranger\|Stranger]]                                                                                                            |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/41 The Seventh Day is for Gathering (42 Luke)\|41 The Seventh Day is for Gathering (42 Luke)]] |
+| [[Gate of Wisdom/G/gleaning\|gleaning]]                                                                                                            |
+| [[Gate of Wisdom/S/Sojourner\|Sojourner]]                                                                                                          |
+| [[Gate of Wisdom/S/serve\|serve]]                                                                                                                  |
+| [[Gate of Wisdom/B/Bless\|Bless]]                                                                                                                  |
+| [[Gate of Wisdom/H/Hear\|Hear]]                                                                                                                    |
+| [[Gate of Wisdom/I/idol\|idol]]                                                                                                                    |
+| [[Gate of Wisdom/B/Baptize\|Baptize]]                                                                                                              |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/40 The Seventh Day is for Teaching (41 Mark)\|40 The Seventh Day is for Teaching (41 Mark)]]   |
 
 { .block-language-dataview}
 
