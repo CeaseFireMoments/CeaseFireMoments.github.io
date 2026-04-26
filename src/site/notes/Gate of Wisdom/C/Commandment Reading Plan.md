@@ -551,7 +551,30 @@ Cause one to become unclean until evening
 [NET Bible commentary quote](https://www.biblegateway.com/passage/?search=Lev.10.10&version=NET), 
 	"With regard to the animals ([Lev 11](https://www.biblegateway.com/passage/?search=Lev.11&version=NET)), some were by nature “unclean,” so they could never be eaten, but others were by nature “clean” and, therefore, edible ([Lev 11:2](https://www.biblegateway.com/passage/?search=Lev.11.2&version=NET), [46-47](https://www.biblegateway.com/passage/?search=Lev.11.46-Lev.11.47&version=NET)). The meat of clean animals could become inedible by too long of a delay in eating it, in which case the Hebrew term פִּגּוּל (_piggul_) “foul, spoiled” is used to describe it ([Lev 7:18](https://www.biblegateway.com/passage/?search=Lev.7.18&version=NET); [19:7](https://www.biblegateway.com/passage/?search=Lev.19.7&version=NET); cf. also [Ezek 4:14](https://www.biblegateway.com/passage/?search=Ezek.4.14&version=NET) and [Isa 65:4](https://www.biblegateway.com/passage/?search=Isa.65.4&version=NET)), not the term for “unclean” (טָהוֹר, _tahor_). Strictly speaking, therefore, unclean meat never becomes clean, and clean meat never becomes unclean."
 
-**April 26**: Leviticus 19:19 / Deuteronomy 22:9-11 – Do not mix kinds (seeds, animals, fabrics). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+**April 26**: [Leviticus 19:19 / Deuteronomy 22:9-11](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19%2C%20Deuteronomy%2022%3A9-11&version=WEB;NET;OJB) – Do not mix kinds (seeds, animals, fabrics). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #DoNot #LoveGod #StatuesChuqim #Dos 
+
+Do
+- Keep Yah's [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+
+Do Not
+- Cross-breed different kinds of animals
+	- animals = behemah domesticated animal, livestock, cattle
+- Sow field with two kinds of seed
+- So vineyard with two kinds of seed
+	- otherwise both will be defiled
+		- seeds you sow
+		- increase of the vineyard
+- Plow with an ox and donkey together
+- Wear a garment made of two kinds of material 
+	- material = sha'atnez exact meaning is uncertain in context it is understood to mean mingled stuff, fabric of two kinds woven together. 
+- Wear clothes of wool and linen/flax woven together
+	- clothes - literal: put clothe yourself sha’atnez
+	- wool - material from sheep (animal)
+	- linen/flax - material from plants
+
+kinds = kila’yim (כִּלְאַיִם) - diverse kind or two kinds
+
+<mark style="background: #CD04BBA6;">In regard to the two seeds, there isn't really any further information in the Scriptures. If we look out into our fields, Yah, clearly allows nature to plant two kinds of seeds? Scholars often infer that the biblical prohibition (especially the stricter vineyard rule with its forfeiture penalty) may have served to separate Israel from surrounding cultural practices involving agricultural magic or fertility rites, but the supporting ancient manuscripts for the exact custom remain limited or indirect.</mark>
 
 **April 27**: Deuteronomy 22:5 – “A woman must not wear men’s clothing, nor a man wear women’s clothing...” (general modesty, not gender-exclusive command). - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
 
