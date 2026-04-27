@@ -576,7 +576,7 @@ kinds = kila’yim (כִּלְאַיִם) - diverse kind or two kinds
 
 <mark style="background: #CD04BBA6;">In regard to the two seeds, there isn't really any further information in the Scriptures. If we look out into our fields, Yah, clearly allows nature to plant two kinds of seeds? Scholars often infer that the biblical prohibition (especially the stricter vineyard rule with its forfeiture penalty) may have served to separate Israel from surrounding cultural practices involving agricultural magic or fertility rites, but the supporting ancient manuscripts for the exact custom remain limited or indirect.</mark>
 
-**April 27**: [Deuteronomy 22:5](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A5&version=WEB;NET;OJB) – “A woman must not wear men’s clothing, nor a man wear women’s clothing...” (general modesty, not gender-exclusive command). - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #CommandMitzvot #DoNot 
+**April 27**: [Deuteronomy 22:5](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A5&version=WEB;NET;OJB) – “A woman must not wear men’s clothing, nor a man wear women’s clothing...”  [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #CommandMitzvot #DoNot 
 
 Do not
 - woman wear men's clothing 

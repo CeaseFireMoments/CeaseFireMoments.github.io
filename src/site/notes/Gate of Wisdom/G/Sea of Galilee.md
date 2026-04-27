@@ -54,6 +54,6 @@ S ource: [Villages of Galilee](https://www.bibleodyssey.org/tools/map-gallery/g/
 - 
 | file.inlinks                                                                                                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li></ul> |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
 
 { .block-language-dataview}
