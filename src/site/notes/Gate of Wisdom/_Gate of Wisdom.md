@@ -178,6 +178,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Messenger\|Messenger]]                                                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Messiah\|Messiah]]                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]                                                                         |
+| [[Gate of Wisdom/Beings/Human Beings/mighty men\|mighty men]]                                                               |
 | [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]                                                                                       |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Morning Star\|Morning Star]]                                                        |
 | [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]]                                                                                  |

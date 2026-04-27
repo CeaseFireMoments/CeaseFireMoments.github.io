@@ -22,6 +22,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra).md\\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]</li><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra).md\\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]</li></ul> |
 
 { .block-language-dataview}

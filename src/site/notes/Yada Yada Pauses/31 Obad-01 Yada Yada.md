@@ -91,7 +91,7 @@ For reading purposes [[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01\|O
 		- <mark style="background: #D2B3FFA6;">in that day</mark>", says Yahweh, 
 		- "destroy the wise men out of <mark style="background: #B2A23AA6;">Edom</mark>,
 		- and understanding out of <mark style="background: #4DA6EDA6;">the mountain of Esau</mark>? 
-		- Your [[Zunpublished/mighty men\|mighty men]], 
+		- Your [[Gate of Wisdom/Beings/Human Beings/mighty men\|mighty men]], 
 			- <mark style="background: #4DA6EDA6;">Teman</mark>, <mark style="background: #CD04BBA6;">//a location in Edom, home of the mighty men//</mark> ([[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36#v8\|Gen-36#v8]])
 			- will be dismayed, 
 				- to the end that everyone may be cut off 

@@ -576,7 +576,46 @@ kinds = kila’yim (כִּלְאַיִם) - diverse kind or two kinds
 
 <mark style="background: #CD04BBA6;">In regard to the two seeds, there isn't really any further information in the Scriptures. If we look out into our fields, Yah, clearly allows nature to plant two kinds of seeds? Scholars often infer that the biblical prohibition (especially the stricter vineyard rule with its forfeiture penalty) may have served to separate Israel from surrounding cultural practices involving agricultural magic or fertility rites, but the supporting ancient manuscripts for the exact custom remain limited or indirect.</mark>
 
-**April 27**: Deuteronomy 22:5 – “A woman must not wear men’s clothing, nor a man wear women’s clothing...” (general modesty, not gender-exclusive command). - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+**April 27**: [Deuteronomy 22:5](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A5&version=WEB;NET;OJB) – “A woman must not wear men’s clothing, nor a man wear women’s clothing...” (general modesty, not gender-exclusive command). - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #CommandMitzvot #DoNot 
+
+Do not
+- woman wear men's clothing 
+	- keli geber
+		- keli: article, implement, vessel, tool, weapon, armor, apparel/gear. 
+		- geber: refers to a strong adult male
+- man wear woman's clothing 
+	- simlat ishah
+		- simlat: outer cloak, mantle, robe, or piece of fabric worn as a wrapper or over-garment
+		- ishah - women or wife
+
+Because
+- Whoever does these things is an [[Gate of Wisdom/Abomination/Abomination\|Abomination]] to YHWH, God.
+
+<mark style="background: #CD04BBA6;">The person doing this is an abomination - there are very few verses stating that THE PERSON is an abomination.</mark> 
+
+<mark style="background: #CD04BBA6;">Clothing at the time this was given: </mark>
+
+- Clothing - it is important to recognize there is a distinction being made because there are two different words being used. 
+
+- Just as it is today, there were items which were very similar:
+	- tunics - think long t-shirts, there were usually two, an inner and an outer. 
+	- belts
+	- cloaks
+	- sandals
+
+- Then there were things which were different:
+	- head covering
+		- men wore turbans
+		- women wore veils or hood like garments
+	- Length of tunics, cloaks
+		- men's were as short as to the knees, appropriate for labor or battle.
+		- women's reached at least to the ankles and were draped differently for modesty and beauty
+	- Appearance
+		- men's clothing wasn't very decorative, more plain in coloring
+		- women's clothing had adornments, patterns, brighter colors
+
+- Cultures
+	- there were festivals to other gods which specifically involved men dressing up like women and women dressing up like men. 
 
 **April 28**: Deuteronomy 15:1-2, 9-10 – Release debts in the seventh year. [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  
 
