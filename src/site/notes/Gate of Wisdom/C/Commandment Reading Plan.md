@@ -617,7 +617,35 @@ Because
 - Cultures
 	- there were festivals to other gods which specifically involved men dressing up like women and women dressing up like men. 
 
-**April 28**: Deuteronomy 15:1-2, 9-10 – Release debts in the seventh year. [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  
+**April 28**: [Deuteronomy 15:1-2, 9-10](https://www.biblegateway.com/passage/?search=Deuteronomy%2015%3A1-2%2C%209-10&version=WEB;NET;OJB) – Release debts in the seventh year. [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  #Dos #DoNot #OrdinanceMishmerot #LoveNeighbor 
+
+At the end of every seven years
+
+Do
+- cancel debts
+	- every creditor will release what he lent his neighbor (rēaʿ"friend (רֵעַ) = fellow, companion, another)
+	- give
+
+Do not
+- require payment from
+	- neighbor
+	- brother (ach = kinsman within the covenant community)
+- have a wicked thought in your heart (wicked = belial (בְּלִיַּעַל) without worth, worthless, good for nothing, or unprofitable)
+	- because the seventh year is at hand
+- let your eye be evil against your poor brother
+- give him nothing
+- heart shall not be grieved when you give
+
+Because
+- YHWH's release has been proclaimed
+- If the poor brother cries against you
+	- it will be sin to you
+- YHWH will bless you in all your work
+	- in all you put your hand to
+
+<mark style="background: #CD04BBA6;">eye be evil is an [[Gate of Wisdom/I/Idiom\|Idiom]], a tight-fisted, greedy, ungenerous attitude, opposite idiom: a “good eye” (ayin tovah), which means a generous, kind, and open-handed spirit.</mark>
+
+<mark style="background: #CD04BBA6;">A creditor here is strictly a person who has loaned money, goods, or resources (usually money or produce) to another covenant community member with the expectation of repayment.</mark>
 
 **April 29**: Deuteronomy 23:19-20 – Do not charge interest to a fellow Israelite. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
 

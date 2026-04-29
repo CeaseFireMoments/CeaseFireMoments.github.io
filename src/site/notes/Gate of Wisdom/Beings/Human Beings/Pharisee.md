@@ -18,6 +18,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/43 The Seventh Day is for Healing (42 Luke).md\\|43 The Seventh Day is for Healing (42 Luke)]]</li><li>[[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li></ul> |
+| <ul><li>[[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/43 The Seventh Day is for Healing (42 Luke).md\\|43 The Seventh Day is for Healing (42 Luke)]]</li></ul> |
 
 { .block-language-dataview}

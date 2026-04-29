@@ -16,7 +16,7 @@ Angel of the Lord - Maluk Adonia
 
 | file.inlinks                                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li><li>[[Torah Portions/2025.12.06 Shabbat Reading.md\\|2025.12.06 Shabbat Reading]]</li></ul> |
+| <ul><li>[[Torah Portions/2025.12.06 Shabbat Reading.md\\|2025.12.06 Shabbat Reading]]</li><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li></ul> |
 
 { .block-language-dataview}
 
