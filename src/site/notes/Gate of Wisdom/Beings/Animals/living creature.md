@@ -24,8 +24,8 @@ Genesis 9:15–16: Refers to "every living creature (nefesh chayyah) of all fles
 
 # Connections
 
-| file.inlinks                                                                                  |
-| --------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li></ul> |
+| file.inlinks                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
 
 { .block-language-dataview}

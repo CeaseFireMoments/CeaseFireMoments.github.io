@@ -17,28 +17,28 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 If you follow us on [our word press site](https://calltoceasefire.wordpress.com/), you'll receive notification via email of new content. Or follow us on [X](https://x.com/CalltoCeaseFire) or [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/) for new content in your feed. 
 
 
-| Latest Drops                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                            |
-| [[Torah Portions/04.24.26 Shabbat Reading\|04.24.26 Shabbat Reading]]                                                                              |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/43 The Seventh Day is for Healing (42 Luke)\|43 The Seventh Day is for Healing (42 Luke)]]     |
-| [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                                                                 |
-| [[Gate of Wisdom/S/Sanctify\|Sanctify]]                                                                                                            |
-| [[Gate of Wisdom/Beings/Animals/creeping thing\|creeping thing]]                                                                                   |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Philippi\|Philippi]]                                                                              |
-| [[Gate of Wisdom/A/Anxious\|Anxious]]                                                                                                              |
-| [[Gate of Wisdom/O/omer\|omer]]                                                                                                                    |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke)\|42 The Seventh Day is for Healing (42 Luke)]]     |
-| [[Gate of Wisdom/S/Stranger\|Stranger]]                                                                                                            |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/41 The Seventh Day is for Gathering (42 Luke)\|41 The Seventh Day is for Gathering (42 Luke)]] |
-| [[Gate of Wisdom/G/gleaning\|gleaning]]                                                                                                            |
-| [[Gate of Wisdom/S/Sojourner\|Sojourner]]                                                                                                          |
-| [[Gate of Wisdom/S/serve\|serve]]                                                                                                                  |
-| [[Gate of Wisdom/B/Bless\|Bless]]                                                                                                                  |
-| [[Gate of Wisdom/H/Hear\|Hear]]                                                                                                                    |
-| [[Gate of Wisdom/I/idol\|idol]]                                                                                                                    |
-| [[Gate of Wisdom/B/Baptize\|Baptize]]                                                                                                              |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/40 The Seventh Day is for Teaching (41 Mark)\|40 The Seventh Day is for Teaching (41 Mark)]]   |
+| Latest Drops                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/C/Commandment Reading Plan April\|Commandment Reading Plan April]]                                                            |
+| [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]                                                            |
+| [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]                                                                |
+| [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                              |
+| [[Gate of Wisdom/C/Commandment Reading Plan July\|Commandment Reading Plan July]]                                                              |
+| [[Gate of Wisdom/C/Commandment Reading Plan August\|Commandment Reading Plan August]]                                                          |
+| [[Gate of Wisdom/C/Commandment Reading Plan September\|Commandment Reading Plan September]]                                                    |
+| [[Gate of Wisdom/C/Commandment Reading Plan October\|Commandment Reading Plan October]]                                                        |
+| [[Gate of Wisdom/C/Commandment Reading Plan November\|Commandment Reading Plan November]]                                                      |
+| [[Gate of Wisdom/C/Commandment Reading Plan December\|Commandment Reading Plan December]]                                                      |
+| [[Gate of Wisdom/C/Commandment Reading Plan January\|Commandment Reading Plan January]]                                                        |
+| [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                        |
+| [[Torah Portions/04.24.26 Shabbat Reading\|04.24.26 Shabbat Reading]]                                                                          |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/43 The Seventh Day is for Healing (42 Luke)\|43 The Seventh Day is for Healing (42 Luke)]] |
+| [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                                                             |
+| [[Gate of Wisdom/S/Sanctify\|Sanctify]]                                                                                                        |
+| [[Gate of Wisdom/Beings/Animals/creeping thing\|creeping thing]]                                                                               |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Philippi\|Philippi]]                                                                          |
+| [[Gate of Wisdom/A/Anxious\|Anxious]]                                                                                                          |
+| [[Gate of Wisdom/O/omer\|omer]]                                                                                                                |
 
 { .block-language-dataview}
 

@@ -16,8 +16,8 @@ Using only the bible as a reference. do not do a deep dive or give explanations 
 
 # Connections
 
-| file.inlinks                                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Yada Yada Pauses/23 Isa-01 Yada Yada.md\\|23 Isa-01 Yada Yada]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/23 Isa-01 Yada Yada.md\\|23 Isa-01 Yada Yada]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li></ul> |
 
 { .block-language-dataview}

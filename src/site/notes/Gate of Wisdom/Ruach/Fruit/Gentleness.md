@@ -22,6 +22,6 @@ Galations 5
 
 | file.inlinks                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/04.24.26 Shabbat Reading.md\\|04.24.26 Shabbat Reading]]</li></ul> |
+| <ul><li>[[Torah Portions/04.24.26 Shabbat Reading.md\\|04.24.26 Shabbat Reading]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li></ul> |
 
 { .block-language-dataview}

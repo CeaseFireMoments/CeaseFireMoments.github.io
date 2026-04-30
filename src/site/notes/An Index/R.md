@@ -4,6 +4,17 @@
 
 
 - [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]
+- [[Gate of Wisdom/C/Commandment Reading Plan April\|Commandment Reading Plan April]]
+- [[Gate of Wisdom/C/Commandment Reading Plan August\|Commandment Reading Plan August]]
+- [[Gate of Wisdom/C/Commandment Reading Plan December\|Commandment Reading Plan December]]
+- [[Gate of Wisdom/C/Commandment Reading Plan January\|Commandment Reading Plan January]]
+- [[Gate of Wisdom/C/Commandment Reading Plan July\|Commandment Reading Plan July]]
+- [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]
+- [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]
+- [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]
+- [[Gate of Wisdom/C/Commandment Reading Plan November\|Commandment Reading Plan November]]
+- [[Gate of Wisdom/C/Commandment Reading Plan October\|Commandment Reading Plan October]]
+- [[Gate of Wisdom/C/Commandment Reading Plan September\|Commandment Reading Plan September]]
 - [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]
 - [[Sacred Truces/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
