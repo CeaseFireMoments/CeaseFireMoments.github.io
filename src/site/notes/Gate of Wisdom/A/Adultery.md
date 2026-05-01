@@ -22,9 +22,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23).md\\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23).md\\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li></ul> |
 
 { .block-language-dataview}
 

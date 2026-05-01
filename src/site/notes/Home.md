@@ -19,9 +19,9 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]                                                                |
 | [[Gate of Wisdom/C/Commandment Reading Plan April\|Commandment Reading Plan April]]                                                            |
 | [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]                                                            |
-| [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]                                                                |
 | [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                              |
 | [[Gate of Wisdom/C/Commandment Reading Plan July\|Commandment Reading Plan July]]                                                              |
 | [[Gate of Wisdom/C/Commandment Reading Plan August\|Commandment Reading Plan August]]                                                          |

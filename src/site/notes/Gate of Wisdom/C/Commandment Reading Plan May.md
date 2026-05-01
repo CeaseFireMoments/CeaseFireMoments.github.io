@@ -47,7 +47,21 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # May
 
-**May 1**: Exodus 22:22-24 – “Do not take advantage of the widow or the fatherless. If you do... My anger will be aroused...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(protect vulnerable)  
+**May 1**: Exodus 22:22-24 – “Do not take advantage of the widow or the fatherless. If you do... My anger will be aroused...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor #DoNot #JudgmentMishpatim 
+
+Of any widow or fatherless child:
+
+Do Not
+- take advantage of (ʿanah (עָנָה) afflict, oppress, humiliate, rape)
+
+Consequence
+- If they cry at all to YHWH
+	- YHWH will hear
+	- His wrath will grow hot
+	- He will kill 
+	- you with the sword <mark style="background: #CD04BBA6;">//death by violence//</mark>
+			- your wives will be widows
+			- your children will be fatherless
 
 **May 2**: Leviticus 19:11 – “Do not steal. Do not lie. Do not deceive one another.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(honesty)  
 

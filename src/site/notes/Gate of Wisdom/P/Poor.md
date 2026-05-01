@@ -54,9 +54,9 @@ Greek: ptochos (πτωχός) poor, beggar, destitute
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
 
 { .block-language-dataview}
 
