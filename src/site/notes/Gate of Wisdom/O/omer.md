@@ -21,8 +21,8 @@
 
 # Connections
 
-| file.inlinks                                                                                |
-| ------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/04.24.26 Shabbat Reading.md\\|04.24.26 Shabbat Reading]]</li></ul> |
+| file.inlinks                                                                                    |
+| ----------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.04.24 Shabbat Reading.md\\|2026.04.24 Shabbat Reading]]</li></ul> |
 
 { .block-language-dataview}

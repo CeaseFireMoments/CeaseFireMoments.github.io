@@ -24,8 +24,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/04.24.26 Shabbat Reading.md\\|04.24.26 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony.md\\|Ark of the Testimony]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony.md\\|Ark of the Testimony]]</li><li>[[Torah Portions/2026.04.24 Shabbat Reading.md\\|2026.04.24 Shabbat Reading]]</li><li>[[Torah Portions/2026.05.02 Shabbat Reading.md\\|2026.05.02 Shabbat Reading]]</li></ul> |
 
 { .block-language-dataview}
