@@ -10,6 +10,7 @@
 - ger (גֵּר) [[Gate of Wisdom/S/Stranger\|Stranger]], resident alien  
 - nokhri (נָכְרִי) [[Gate of Wisdom/F/Foreigner\|Foreigner]], alien  
 - 'ezrach (אֶזְרָח) native-born  
+- ‘ămîṯeḵā (עֲמִיתֶךָ) neighbor
 
 # Additional Info
 - toshav often appears together with ger (ger vetoshav) to describe non-native residents living among Israel with limited rights.

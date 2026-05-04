@@ -47,7 +47,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # May
 
-**May 1**: Exodus 22:22-24 – “Do not take advantage of the widow or the fatherless. If you do... My anger will be aroused...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor #DoNot #JudgmentMishpatim 
+**May 1**: [Exodus 22:22-24](https://www.biblegateway.com/passage/?search=Exodus%2022%3A22-24&version=WEB;NET;OJB) – “Do not take advantage of the widow or the fatherless. If you do... My anger will be aroused...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor #DoNot #JudgmentMishpatim 
 
 Of any widow or fatherless child:
 
@@ -59,17 +59,56 @@ Consequence
 	- YHWH will hear
 	- His wrath will grow hot
 	- He will kill 
-	- you with the sword <mark style="background: #CD04BBA6;">//death by violence//</mark>
+		- you with the sword <mark style="background: #CD04BBA6;">//death by violence//</mark>
 			- your wives will be widows
 			- your children will be fatherless
 
-**May 2**: Leviticus 19:11 – “Do not steal. Do not lie. Do not deceive one another.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(honesty)  
+**May 2**: [Leviticus 19:11](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A11&version=WEB;NET;OJB) – “Do not steal. Do not lie. Do not deceive one another.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim 
 
-**May 3**: Leviticus 19:13 – “Do not defraud or rob your neighbor. Do not hold back the wages of a hired worker overnight.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(fair wages)  
+Do not
+- steal (meaning to steal, thieve, or carry away secretly (literally or figuratively))
+- lie (meaning to lie, deal falsely, or cheat)
+- deceive another (meaning to deceive, deny falsely, deal falsely, lie, dissemble, or fail (in word or deed))
 
-**May 4**: Leviticus 19:15 – “Do not pervert justice; do not show partiality to the poor or favoritism to the great...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(impartial justice)  
+**May 3**: [Leviticus 19:13](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A13&version=WEB;NET;OJB) – “Do not defraud or rob your neighbor. Do not hold back the wages of a hired worker overnight.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot  #JudgmentMishpatim 
 
-**May 5**: Leviticus 19:35-36 – “Do not use dishonest standards when measuring length, weight or quantity. Use honest scales...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(honest measures)  
+Do not
+- oppress your neighbor (neighbor ‘ămîṯeḵā (עֲמִיתֶךָ) = a peer or equal within your covenant community)
+- rob your neighbor
+- keep wages of a hired servant/laborer
+	- overnight with you
+	- until morning 
+
+<mark style="background: #CD04BBA6;">Related scriptures Deuteronomy 24:14-15, James 5:4</mark>
+
+**May 4**: [Leviticus 19:15](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A15&version=WEB;NET;OJB) – “Do not pervert justice; do not show partiality to the poor or favoritism to the great...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim #Dos 
+
+Do not
+- injustice in [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment\|Judgment]]
+- be partial to the poor
+- show favoritism to the great
+
+Do
+- judge your neighbor (neighbor ‘ămîṯeḵā (עֲמִיתֶךָ) = a peer or equal within your covenant community)
+	- in [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]
+
+**May 5**: [Leviticus 19:35-36](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A35-36&version=WEB;NET;OJB) – “Do not use dishonest standards when measuring length, weight or quantity. Use honest scales...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot  #Dos #JudgmentMishpatim 
+
+Do not
+- do no [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]] in [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment\|Judgment]] in measures of:
+	- length
+	- weight
+	- or quantity
+
+Do
+- have balances
+- just weights
+- a just ephah (form of dry measurement)
+- a just hin (form of liquid measurement)
+
+Because
+- I am YHWH your god
+	- who brought you out of the land of Egypt
 
 **May 6**: Deuteronomy 25:13-16 – “Do not have two differing weights in your bag...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(integrity in business)  
 

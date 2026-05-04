@@ -19,8 +19,9 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Torah Portions/2026.05.02 Shabbat Reading\|2026.05.02 Shabbat Reading]]                                                                      |
 | [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]                                                                |
+| [[Gate of Wisdom/S/Sojourner\|Sojourner]]                                                                                                      |
+| [[Torah Portions/2026.05.02 Shabbat Reading\|2026.05.02 Shabbat Reading]]                                                                      |
 | [[Gate of Wisdom/C/Commandment Reading Plan April\|Commandment Reading Plan April]]                                                            |
 | [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]                                                            |
 | [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                              |
@@ -31,7 +32,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/C/Commandment Reading Plan November\|Commandment Reading Plan November]]                                                      |
 | [[Gate of Wisdom/C/Commandment Reading Plan December\|Commandment Reading Plan December]]                                                      |
 | [[Gate of Wisdom/C/Commandment Reading Plan January\|Commandment Reading Plan January]]                                                        |
-| [[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]                                                                        |
 | [[Torah Portions/2026.04.24 Shabbat Reading\|2026.04.24 Shabbat Reading]]                                                                      |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/43 The Seventh Day is for Healing (42 Luke)\|43 The Seventh Day is for Healing (42 Luke)]] |
 | [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                                                             |
