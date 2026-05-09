@@ -113,6 +113,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]                                      |
 | [[Gate of Wisdom/Appointed Time/Feast of Weeks\|Feast of Weeks]]                                                            |
 | [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]                                                        |
+| [[Gate of Wisdom/Appointed Time/First Fruits\|First Fruits]]                                                                |
 | [[Gate of Wisdom/F/Foreigner\|Foreigner]]                                                                                   |
 | [[Gate of Wisdom/F/Forgive\|Forgive]]                                                                                       |
 | [[Gate of Wisdom/Consequence/Disobedience/Forgiveness\|Forgiveness]]                                                        |

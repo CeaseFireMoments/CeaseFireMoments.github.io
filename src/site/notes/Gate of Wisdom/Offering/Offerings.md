@@ -31,7 +31,7 @@ Scroll down for brief overview of each. Follow the link for an indepth look.
 - Trespass / [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]] - Asham (אָשָׁם)
 -  [[Zunpublished/Wave Offering\|Wave Offering]] - Tenufah
 - [[Zunpublished/Heave Offering\|Heave Offering]] - Terumah (תְּרוּמָה)
-*  [[Zunpublished/First Fruits\|First Fruits]] Offering - Bikkurim
+*  [[Gate of Wisdom/Appointed Time/First Fruits\|First Fruits]] Offering - Bikkurim
 * [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]] - Nesek (נֶסֶךְ)
 *  [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] - Korban Pesach
 * [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]] - Sin offering made for national sins.
@@ -243,7 +243,7 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 	* matanah - While both words can be translated as "gift," "matanah" has a broader, more general meaning, while "terumah" carries a more specialized and religious connotation, particularly within the context of Jewish tradition and the Torah
 		* 1 Corinthians 16 [[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-16\|1 Cor-16]]
 		* 2 Corinthians 8 [[_The Scrolls/4. The Gospels and The Apostles/47 - 2 Corinthians/2 Cor-08\|2 Cor-08]]
-### [[Zunpublished/First Fruits\|First Fruits]] Offering - Bikkurim
+### [[Gate of Wisdom/Appointed Time/First Fruits\|First Fruits]] Offering - Bikkurim
 - Offering Type: Grain or produce offering
 - Offered by: <mark style="background: #E0CC4BA6;">Individual or community</mark>
 - Offering for: <mark style="background: #E6852CA6;">Thanksgiving for harvest, acknowledgment of God’s provision</mark>

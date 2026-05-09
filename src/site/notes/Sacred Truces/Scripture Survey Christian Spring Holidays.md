@@ -57,7 +57,7 @@ After he had arrested him, he also put him in prison, handing him over to four s
 
 - Easter does not appear anywhere in the Bible. The word didn't even exist until well into the 2nd Century. Some translations replaced the word Passover with Easter.
 - The first day of the week would be from Sundown on Saturday to Sundown on Sunday. 
-- In Biblical times they would have been observing [[Zunpublished/First Fruits\|First Fruits]] {[[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]])}. 
+- In Biblical times they would have been observing [[Gate of Wisdom/Appointed Time/First Fruits\|First Fruits]] {[[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]])}. 
 - In Bible times they would have observed First Fruits, celebrating and remembering their Messiah, Yeshua/Jesus as being the First Fruit. 
 - Nothing resembling the current traditions were observed by anyone in the Bible, nor the disciples of the disciples. 
 
