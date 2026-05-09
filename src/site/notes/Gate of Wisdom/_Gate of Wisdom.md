@@ -230,6 +230,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]                                                                          |
 | [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]                                                                        |
 | [[Gate of Wisdom/S/Sacrifice\|Sacrifice]]                                                                                   |
+| [[Gate of Wisdom/S/salvation\|salvation]]                                                                                   |
 | [[Gate of Wisdom/S/Sanctify\|Sanctify]]                                                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]                                                                         |
 | [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                      |

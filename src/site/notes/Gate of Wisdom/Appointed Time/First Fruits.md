@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/first-fruits/","tags":["#GateWisdom","AppointedTime"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/first-fruits/","tags":["#GateWisdom","AppointedTime","F"]}
 ---
 
 # Define
