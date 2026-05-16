@@ -43,9 +43,9 @@ E lohim: Plural Noun
 
 # Connections
 
-| file.inlinks                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li></ul> |
+| file.inlinks                                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li></ul> |
 
 { .block-language-dataview}
 

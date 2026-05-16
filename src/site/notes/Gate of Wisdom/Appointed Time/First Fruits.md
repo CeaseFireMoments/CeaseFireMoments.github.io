@@ -22,6 +22,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li><li>[[Sacred Truces/Scripture Survey Christian Spring Holidays.md\\|Scripture Survey Christian Spring Holidays]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li></ul> |
+| <ul><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Sacred Truces/Scripture Survey Christian Spring Holidays.md\\|Scripture Survey Christian Spring Holidays]]</li><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li></ul> |
 
 { .block-language-dataview}
