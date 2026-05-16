@@ -26,7 +26,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Eunuch - The most common definition of a eunuch in the Bible is a man who has been physically castrated, impotent or was born that way. Deut-23 
 - [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] - Singular referring to the Seventh Day Rest in verses 2 and 6. The Sabbath Day is a covenant sign.
 - [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]] - Plural in vs 4 [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
-- [[Zunpublished/Covenant\|Covenant]] - YHWH's covenant with [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]], given at [[Zunpublished/Mount Sinai\|Mount Sinai]]. Revealed in Moses [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]], promised to Abraham [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]], and renewed in the Servant (Isa 42:6; 49:8).
+- [[Zunpublished/Covenant\|Covenant]] - YHWH's covenant with [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]], given at [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mount Sinai\|Mount Sinai]]. Revealed in Moses [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]], promised to Abraham [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]], and renewed in the Servant (Isa 42:6; 49:8).
 	- [[Sacred Truces/What is the New Covenant\|What is the New Covenant]] Fulfillment Heb-08, Eph 02 
 - [[Gate of Wisdom/M/Memorial\|Memorial]] - permanent remembrance or enduring name in God’s house.
 - [[Gate of Wisdom/N/Name\|Name]] name, reputation, fame, memorial, renown, identity. To have a name with God is to have recognition, covenant belonging, and honor.

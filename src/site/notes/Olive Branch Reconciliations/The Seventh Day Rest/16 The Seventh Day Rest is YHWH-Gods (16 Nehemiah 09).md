@@ -46,7 +46,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 	- water from a rock
 - YWHW commanded them to go into the land he swore to give them
 ## **When**:
-- On [[Zunpublished/Mount Sinai\|Mount Sinai]] implies at the time of the Exodus 
+- On [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mount Sinai\|Mount Sinai]] implies at the time of the Exodus 
 
 ## **Why**: 
 - Bread for hunger.
