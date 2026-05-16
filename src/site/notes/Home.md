@@ -19,6 +19,7 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Torah Portions/2026.05.16 Shabbat Reading\|2026.05.16 Shabbat Reading]]                                                                      |
 | [[Torah Portions/2026.05.09 Shabbat Reading\|2026.05.09 Shabbat Reading]]                                                                      |
 | [[Gate of Wisdom/S/salvation\|salvation]]                                                                                                      |
 | [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]                                                                |
@@ -38,7 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                                                             |
 | [[Gate of Wisdom/S/Sanctify\|Sanctify]]                                                                                                        |
 | [[Gate of Wisdom/Beings/Animals/creeping thing\|creeping thing]]                                                                               |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Philippi\|Philippi]]                                                                          |
 
 { .block-language-dataview}
 
