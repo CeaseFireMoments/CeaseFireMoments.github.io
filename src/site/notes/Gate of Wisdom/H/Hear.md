@@ -18,6 +18,6 @@ Using only the bible as a reference. do not do a deep dive or give explanations 
 
 | file.inlinks                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/23 Isa-01 Yada Yada.md\\|23 Isa-01 Yada Yada]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Yada Yada Pauses/23 Isa-01 Yada Yada.md\\|23 Isa-01 Yada Yada]]</li></ul> |
 
 { .block-language-dataview}

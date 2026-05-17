@@ -25,6 +25,6 @@ Eli the priest later foolishly sent the ark of the covenant out to battle, and i
 
 | file.inlinks                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm.md\\|The Unseen Realm]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm.md\\|The Unseen Realm]]</li><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li></ul> |
 
 { .block-language-dataview}

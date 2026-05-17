@@ -54,6 +54,6 @@ And it came to pass, as her soul was in departing, (for she died) that she calle
 
 | file.inlinks                                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Benjamin.md\\|Benjamin]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Beings/Human Beings/Benjamin.md\\|Benjamin]]</li><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li></ul> |
 
 { .block-language-dataview}

@@ -110,33 +110,209 @@ Because
 - I am YHWH your god
 	- who brought you out of the land of Egypt
 
-**May 6**: Deuteronomy 25:13-16 – “Do not have two differing weights in your bag...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(integrity in business)  
+**May 6**: [Deuteronomy 25:13-16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A35-36&version=WEB;NET;OJB) – “Do not have two differing weights in your bag...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor #DoNot #JudgmentMishpatim #Dos 
 
-**May 7**: Exodus 23:1-3 – “Do not spread false reports. Do not follow the crowd in doing wrong...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(false witness / justice)  
+- Do Not
+	- be [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] 
+		- in [[Gate of Wisdom/J/Judge\|Judge]]ments
+		- measures of
+			- length
+			- weight
+			- quantity
+- Do
+	- have just
+		- balances
+		- weights
+		- ephah
+		- hin
+- Because
+	- I am YHWH your god
+		- who brought you out of the land of Egypt
 
-**May 8**: Leviticus 19:12 – “Do not swear falsely by my name and so profane the name of your God.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (truthful oaths)  
+**May 7**: [Exodus 23:1-3](https://www.biblegateway.com/passage/?search=Exodus%2023%3A1-3&version=WEB;NET;OJB) – “Do not spread false reports. Do not follow the crowd in doing wrong...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor #DoNot #JudgmentMishpatim 
 
-**May 9**: Deuteronomy 23:21-23 – “If you make a vow to the LORD... do not be slow to pay it...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) (fulfill vows)  
+Do Not
+- spread a false report
+- join your hand with the wicked
+	- to be a malicious witness
+- follow a crowd to do evil
+- testify in court to side with a multitude to pervert justice
+- favor a poor man in his cause
 
-**May 10**: Numbers 30:2 – “When a man makes a vow... he must not break his word but must do everything he said.” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) (vows, general application)  
+**May 8**: [Leviticus 19:12](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A12&version=WEB;NET;OJB) – “Do not swear falsely by my name and so profane the name of your God.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #LoveGod #DoNot #CommandMitzvot 
 
-**May 11**: Leviticus 19:29 – “Do not degrade your daughter by making her a prostitute...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(protect family purity)  
+Do Not
+- swear by my [[Gate of Wisdom/N/Name\|Name]] falsely (misusing or polluting the sacred reputation and holiness of YHWH)
+- profane the name of your god (profane=defile, pollute, or desecrate, treat as [[Gate of Wisdom/C/Common\|Common]])
 
-**May 12**: Leviticus 18:6-18 (summary) – “No one is to approach any close relative to have sexual relations...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (forbidden relations)  
+Because
+- I am YHWH
 
-**May 13**: Leviticus 20:10-21 (selected non-Temple) – Prohibitions against certain immoral relations. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / judgment  
+**May 9**: [Deuteronomy 23:21-23](https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A21-23&version=WEB;NET;OJB) – “If you make a vow to the LORD... do not be slow to pay it...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) #LoveGod #Dos #DoNot #OrdinanceMishmerot 
 
-**May 14**: Deuteronomy 22:13-21 (general principles of marital honesty) – Avoid false accusations in family matters. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+Do not
+- be slack to pay what you vowed to YHWH
+	- YHWH will require it of you
 
-**May 15**: Deuteronomy 24:1-4 – Regulations on divorce and remarriage (general equity). - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+Do
+- if you refrain from making a vow
+	- it will be no sin in you
+- observe and do
+	- what has gone out of your lips
+	- whatever you vowed to YHWH 
+		- as a [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]
+		- which you have promised with your mouth
 
-**May 16**: Deuteronomy 22:6-7 – “If you come across a bird’s nest... do not take the mother with the young.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (compassion to creatures)  
+**May 10**: [Numbers 30:2](https://www.biblegateway.com/passage/?search=Numbers%2030%3A2&version=WEB;NET;OJB) – “When a man makes a vow... he must not break his word but must do everything he said.” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) #LoveGod #Dos #DoNot #OrdinanceMishmerot 
 
-**May 17**: Deuteronomy 25:4 – “Do not muzzle an ox while it is treading out the grain.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(fairness to working animals)  
+Do Not
+- break your word
+	- a vow to YHWH
+	- swear an oath to bind your soul with bond
 
-**May 18**: Exodus 23:4-5 – “If you come across your enemy’s ox or donkey... return it to him.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(return lost property)  
+Do
+- according to all that proceeds out of your mouth
 
-**May 19**: Deuteronomy 22:1-3 – “If you see your fellow Israelite’s ox or sheep straying, do not ignore it...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(restore lost items)  
+**May 11**: [Leviticus 19:29](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A29&version=WEB;NET;OJB) – “Do not degrade your daughter by making her a prostitute...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim 
+
+Do not
+- profane your daughter
+	- make her a prostitute
+
+Because
+- the land may fall to prostitution
+- the land may become full of wickeness
+
+**May 12**: Leviticus 18:6-18 – “No one is to approach any close relative to have sexual relations...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveNeighbor #DoNot #StatuesChuqim 
+
+Do not uncover the nakeness (haves-x) with
+- any close relatives
+- father
+- mother
+- father's wife
+- sister
+	- daughter of your father
+	- daughter of your mother
+	- born at home or abroad
+- son's daughter
+- daughter's daughter
+- father's wife's daughter (she is your sister)
+- father's sister
+- mother's sister
+- father's brother (his wife, she is your aunt)
+- daughter-in-law (your son's wife)
+- brother's wife
+- a woman and 
+	- her daughter
+	- her son's daughter
+	- her daughter's daughter
+- wife in addition to her sister
+	- to be a rival
+	- while her sister is still alive
+
+**May 13**: [Leviticus 20:10-21](https://www.biblegateway.com/passage/?search=Leviticus%2020%3A10-21&version=WEB;NET;OJB)  – Prohibitions against certain immoral relations. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / judgment  #LoveNeighbor #DoNot #StatuesChuqim 
+
+Do not
+- commit [[Gate of Wisdom/A/Adultery\|Adultery]] with
+	- another man's wife
+	- a neighbor's wife
+- lies with (haves-x)
+	- father's wife
+	- daughter-in-law
+		- committed a perversion
+	- male with a male (like as a woman)
+		- committed an [[Gate of Wisdom/Abomination/Abomination\|Abomination]]
+	- a wife and her daughter
+		- it is wickedness
+		- death by burning with fire
+	- an animal
+	- a sister (his father's or mother's daughter)
+		- a shameful thing
+		- cut off in the sight of the children of their people (cut off - meaning uncertain)
+		- the man shall bear his iniquity
+	- a woman during her monthly
+		- cut off from from among their people
+	- mother's sister or father's sister
+		- they shall bear their iniquity
+	- uncle's wife
+		- they shall bear their sin
+		- they shall die childless
+	- brother's wife
+		- an impurity
+		- they shall be childless
+
+Consequences
+- adulterer AND adulteress put to death
+- both put to death (unless otherwise noted above)
+
+**May 14**: [Deuteronomy 22:13-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A13-21&version=WEB;NET;OJB)  –  Accusations in family matters. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor  #JudgmentMishpatim #Dos 
+
+Man takes a wife
+- accuses her of of not being a virgin
+- brings her to the elder's at the gate
+	- her father and mother prove she was a virgin
+		- the man is 
+			- chastised
+			- fined 100 shekels of silver
+			- she will be his wife
+			- he may not put her away all his days
+	- he proves she wasn't
+		- the woman is 
+			- brought to her father's house
+			- the men of the city stone her to death
+			- she has done folly in Israel
+				- because she play a prostitute in her father's house
+				- remove the evil from among you
+
+**May 15**: [Deuteronomy 24:1-4](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A1-4&version=WEB;NET;OJB) – Regulations on divorce and remarriage. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Judgment #Dos 
+
+Man takes a wife
+- she finds no favor in his eyes
+	- found some unseemly thing in her (some form of sexual indecency, immodesty, or repulsive condition)
+	- he shall write her a certificate of divorce
+		- she may go and be another man's wife
+- he divorces her and she remarries - the new husband writes a certificate of divorce or dies
+	- he may not take her as his wife again
+		- she is defiled (to him - not in general)
+		- that would be an abomination to YHWH
+		- do not cause the land to sin
+			- which YHWH gave you as an inheritance
+	
+**May 16**: [Deuteronomy 22:6-7](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A6-7&version=WEB;NET;OJB) – “If you come across a bird’s nest... do not take the mother with the young.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #DoNot #do #CommandMitzvot 
+
+Do Not
+- Take the hen with the young
+	- bird's nest found with young one's or eggs
+
+Do
+- let the hen go
+- may take the young
+
+<mark style="background: #CD04BBA6;">Note: interesting note here in some communities of Judaism this is considered one of the "least" of these commands (see Matthew 5). 
+</mark>
+
+**May 17**: [Deuteronomy 25:4](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A4&version=WEB;NET;OJB) – “Do not muzzle an ox while it is treading out the grain.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #DoNot #JudgmentMishpatim 
+
+Do not
+- muzzle the ox when he treads out the grain
+
+**May 18**: [Exodus 23:4-5](https://www.biblegateway.com/passage/?search=Exodus%2023%3A4-5&version=WEB;NET;OJB) – “If you come across your enemy’s ox or donkey... return it to him.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Dos #JudgmentMishpatim 
+
+Do
+- help the enemy's ox or donkey
+	- if it goes astray - bring it back
+	- fallen down under it's load - help him
+
+**May 19**: [Deuteronomy 22:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A1-3&version=WEB;NET;OJB) – “If you see your fellow Israelite’s ox or sheep straying, do not ignore it...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #Dos #JudgmentMishpatim 
+
+Do not
+- ignore your brother's ox, sheep, donkey, garment, anything he has lost and you have found (brother means covenant community member)
+	- if they go astray - bring them back
+		- if the brother isn't near you or you don't know him
+			- bring it to your home
+			- it will be with you until your brother comes looking for it
+			- you will give it back to him
+	- do not hide it
 
 **May 20**: Leviticus 19:18 (revisited emphasis) – “Love your neighbor as yourself.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
 

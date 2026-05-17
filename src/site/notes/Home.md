@@ -19,10 +19,10 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]                                                                |
 | [[Torah Portions/2026.05.16 Shabbat Reading\|2026.05.16 Shabbat Reading]]                                                                      |
 | [[Torah Portions/2026.05.09 Shabbat Reading\|2026.05.09 Shabbat Reading]]                                                                      |
 | [[Gate of Wisdom/S/salvation\|salvation]]                                                                                                      |
-| [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]                                                                |
 | [[Torah Portions/2026.05.02 Shabbat Reading\|2026.05.02 Shabbat Reading]]                                                                      |
 | [[Gate of Wisdom/C/Commandment Reading Plan April\|Commandment Reading Plan April]]                                                            |
 | [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]                                                            |

@@ -16,6 +16,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li><li>[[Gate of Wisdom/Offering/Peace Offering.md\\|Peace Offering]]</li><li>[[Gate of Wisdom/Offering/Burnt Offering.md\\|Burnt Offering]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04.md\\|Lev-04]]</li><li>[[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-50.md\\|Ps-50]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Offering/Peace Offering.md\\|Peace Offering]]</li><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li><li>[[Gate of Wisdom/Offering/Burnt Offering.md\\|Burnt Offering]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04.md\\|Lev-04]]</li><li>[[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-50.md\\|Ps-50]]</li></ul> |
 
 { .block-language-dataview}
