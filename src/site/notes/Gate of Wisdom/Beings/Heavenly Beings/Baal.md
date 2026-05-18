@@ -66,6 +66,6 @@ Elijah rose up against the apostate king Ahab over the worship of Baal
 
 | file.inlinks                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Gate of Wisdom/Beings/Heavenly Beings/Bel.md\\|Bel]]</li><li>[[Yada Yada Pauses/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Gate of Wisdom/Beings/Heavenly Beings/Bel.md\\|Bel]]</li></ul> |
 
 { .block-language-dataview}

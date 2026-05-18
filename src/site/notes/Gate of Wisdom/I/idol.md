@@ -20,6 +20,6 @@
 
 | file.inlinks                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li></ul> |
+| <ul><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li></ul> |
 
 { .block-language-dataview}
