@@ -28,7 +28,7 @@
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Red Sea\|Red Sea]]
 - [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]
 - [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]
-- [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]
+- [[Gate of Wisdom/C/Return of the Gods\|Return of the Gods]]
 - [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
 - [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]

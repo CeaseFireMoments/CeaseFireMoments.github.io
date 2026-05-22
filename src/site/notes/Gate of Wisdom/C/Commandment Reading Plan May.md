@@ -314,21 +314,156 @@ Do not
 			- you will give it back to him
 	- do not hide it
 
-**May 20**: Leviticus 19:18 (revisited emphasis) – “Love your neighbor as yourself.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+**May 20**: [Leviticus 19:18](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A18&version=WEB;NET;OJB)  – “Love your neighbor as yourself.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #Dos #DoNot #CommandMitzvot 
 
-**May 21**: Leviticus 25:14-17 – “Do not take advantage of each other...” (in buying/selling). - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+Do not
+- take vengeance
+- bear a grudge
+	- against the children of your people
 
-**May 22**: Leviticus 25:35-38 – “If any of your fellow Israelites become poor... help them...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(aid the needy)  
+Do
+- love your neighbor
+	- as yourself
 
-**May 23**: Deuteronomy 15:12-15 – “If any of your people... sell themselves to you... let them go free...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) (release in seventh year)  
+Because
+- I am YHWH
 
-**May 24**: Exodus 21:2-6 (general servant release principles, non-male exclusive). - **[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])**  
+**May 21**: [Leviticus 25:14-17](https://www.biblegateway.com/passage/?search=Leviticus%2025%3A14-17&version=WEB;NET;OJB) – “Do not take advantage of each other...”. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim 
 
-**May 25**: Deuteronomy 23:15-16 – “If a slave has taken refuge with you, do not hand them over...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(protect refugees)  
+If you sell anything
+- to  your neighbor
 
-**May 26**: Leviticus 19:23-25 – “When you enter the land... regard its fruit as forbidden... in the fifth year you may eat its fruit.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (fruit trees)  
+If you buy anything
+- from your neighbor
 
-**May 27**: Deuteronomy 20:19-20 – “When you lay siege... do not destroy its trees...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (preserve fruit trees)  
+Do not
+- wrong one another
+
+According to the number of years after the Jubilee
+- you shall by from your neighbor
+- according to the number of crops he will sell you
+- according to the length of the years
+	- you shall increase your price
+	- shortness you shall diminish your price
+	- for he is selling you the number of crops
+
+Because
+- you shall fear your god
+- I am YHWH your god
+
+**May 22**: [Leviticus 25:35-38](https://www.biblegateway.com/passage/?search=Leviticus%2025%3A35-38&version=WEB;NET;OJB) – “If any of your fellow Israelites become poor... help them...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Dos #DoNot #JudgmentMishpatim 
+
+If your brother (fellow covenant community member) has
+- become poor
+- his hand can't support himself
+
+Do
+- you uphold him
+- he will live with you
+	- like an [[Gate of Wisdom/S/Stranger\|Stranger]]
+	- like an [[Gate of Wisdom/S/Sojourner\|Sojourner]]
+
+Do not
+- take no interest from him
+	- lend him money at interest
+- take no profit from him
+	-  give him food for profit
+
+Because
+- fear your god
+- I am YHWH
+	- who brought you out of the land of Egypt
+		- to give you the land of Canaan
+		- and to be your god
+
+**May 23**: [Deuteronomy 15:12-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2015%3A12-15&version=WEB;NET;OJB) – “If any of your people... sell themselves to you... let them go free...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) #LoveNeighbor #Dos #OrdinanceMishmerot 
+
+If your brother, a Hebrew man or woman
+- is sold to you
+- serves you six years
+
+Do
+- in the seventh year let him go free
+- not empty - furnish him liberally out of
+	- the flock
+	- threshing floor
+	- wine press
+
+Because
+- YHWH your god has blessed you
+	- remember you were a slave in the land of Egypt
+	- YHWH, your god redeemed you
+
+**May 24**: [Exodus 21:2-6](https://www.biblegateway.com/passage/?search=Exodus%2021%3A2-6&version=WEB;NET;OJB). - **[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])**  #LoveNeighbor #Dos #OrdinanceMishmerot 
+
+If you buy a Hebrew servant
+- shall serve six years
+
+Do
+- in the seventh year he shall go free
+	- without paying anything
+- if he comes in by himself
+	- he shall go out by himself
+- if he is married
+	- his wife shall go out with him
+- if his master gives him a wife and she bears him sons and daughters
+	- the wife and the children shall be her master's
+	- he shall go out by himself
+	- but if the servant says plainly I love my master, my wife, my children I will not go out free
+		- his master shall
+			- bring him to god <mark style="background: #CD04BBA6;">//to the nearest sanctuary or leadership counsel, judges//</mark>
+				- bring him to the door or to the door post
+			- bore his ear through with an awl
+			- he shall serve his master forever
+
+**May 25**: [Deuteronomy 23:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A15-16&version=WEB;NET;OJB) – “If a slave has taken refuge with you, do not hand them over...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim  #Dos 
+
+If a servant
+- escapes from his master to you
+
+Do Not
+- deliver to his master
+- oppress him
+
+Do
+- he shall dwell with you
+	- among you
+	- in a place which he shall choose
+	- within one of your gates
+	- where it pleases him best
+
+**May 26**: [Leviticus 19:23-25](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A23-25&version=WEB;NET;OJB) – “When you enter the land... regard its fruit as forbidden... in the fifth year you may eat its fruit.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** #Dos #StatuesChuqim #DoNot 
+
+When you come into the land
+- have planted all kinds of trees for food
+
+Do
+- for three years
+	- treat their fruit as forbidden
+		- it shall not be eaten
+- in the fourth year
+	- all it's fruit is [[Gate of Wisdom/H/Holy\|Holy]]/set apart 
+		- for giving praise to YHWH
+- in the fifth year
+	- eat of it's fruit
+
+Because
+- I am YHWH your god
+
+**May 27**: [Deuteronomy 20:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy%2020%3A19-20&version=WEB;NET;OJB) – “When you lay siege... do not destroy its trees...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #Dos #CommandMitzvot #DoNot 
+
+When you besiege a city a long time
+
+Do Not
+- destroy it's trees by wielding an ax against them
+- cut them down
+	- Is a tree like a man that should be besieged by you?
+
+Do
+- eat of them
+- trees that you know are not good for food
+	- destroy and cut them down
+- build siege works against the city that makes war with you until it falls
 
 **May 28**: Deuteronomy 22:8 – “When you build a new house, make a parapet around your roof...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(safety)  
 

@@ -24,5 +24,5 @@
 { .block-language-dataview}
 
 
-Heiser, Michael S.. [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible. Lexham Press. Kindle Edition.] 
+Heiser, Michael S.. [[Gate of Wisdom/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible. Lexham Press. Kindle Edition.] 
 - It was at Babylon where people sought to “make a name (shem) for themselves” by building a tower that reached to the heavens, the realm of the gods.

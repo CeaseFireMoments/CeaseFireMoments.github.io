@@ -39,7 +39,7 @@
 - [[Sacred Truces/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]
 - [[Sacred Truces/Know the Children of God How\|Know the Children of God How]]
 - [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]
-- [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]
+- [[Gate of Wisdom/C/Return of the Gods\|Return of the Gods]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 - [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]

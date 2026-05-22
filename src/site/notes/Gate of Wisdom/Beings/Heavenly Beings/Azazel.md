@@ -12,7 +12,7 @@
 
 # NOTES:
 
-### EISER, MICHAEL S.. [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]: RECOVERING THE SUPERNATURAL WORLDVIEW OF THE BIBLE. LEXHAM PRESS. KINDLE EDITION.
+### EISER, MICHAEL S.. [[Gate of Wisdom/The Unseen Realm\|The Unseen Realm]]: RECOVERING THE SUPERNATURAL WORLDVIEW OF THE BIBLE. LEXHAM PRESS. KINDLE EDITION.
 
 The word “Azazel” in the Hebrew text can be translated “the goat that goes away.”
 

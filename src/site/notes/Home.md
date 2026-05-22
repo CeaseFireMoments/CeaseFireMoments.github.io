@@ -17,28 +17,28 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 If you follow us on [our word press site](https://calltoceasefire.wordpress.com/), you'll receive notification via email of new content. Or follow us on [X](https://x.com/CalltoCeaseFire) or [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/) for new content in your feed. 
 
 
-| Latest Drops                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]                                                                |
-| [[Torah Portions/2026.05.16 Shabbat Reading\|2026.05.16 Shabbat Reading]]                                                                      |
-| [[Torah Portions/2026.05.09 Shabbat Reading\|2026.05.09 Shabbat Reading]]                                                                      |
-| [[Gate of Wisdom/S/salvation\|salvation]]                                                                                                      |
-| [[Torah Portions/2026.05.02 Shabbat Reading\|2026.05.02 Shabbat Reading]]                                                                      |
-| [[Gate of Wisdom/C/Commandment Reading Plan April\|Commandment Reading Plan April]]                                                            |
-| [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]                                                            |
-| [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                              |
-| [[Gate of Wisdom/C/Commandment Reading Plan July\|Commandment Reading Plan July]]                                                              |
-| [[Gate of Wisdom/C/Commandment Reading Plan August\|Commandment Reading Plan August]]                                                          |
-| [[Gate of Wisdom/C/Commandment Reading Plan September\|Commandment Reading Plan September]]                                                    |
-| [[Gate of Wisdom/C/Commandment Reading Plan October\|Commandment Reading Plan October]]                                                        |
-| [[Gate of Wisdom/C/Commandment Reading Plan November\|Commandment Reading Plan November]]                                                      |
-| [[Gate of Wisdom/C/Commandment Reading Plan December\|Commandment Reading Plan December]]                                                      |
-| [[Gate of Wisdom/C/Commandment Reading Plan January\|Commandment Reading Plan January]]                                                        |
-| [[Torah Portions/2026.04.24 Shabbat Reading\|2026.04.24 Shabbat Reading]]                                                                      |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/43 The Seventh Day is for Healing (42 Luke)\|43 The Seventh Day is for Healing (42 Luke)]] |
-| [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                                                             |
-| [[Gate of Wisdom/S/Sanctify\|Sanctify]]                                                                                                        |
-| [[Gate of Wisdom/Beings/Animals/creeping thing\|creeping thing]]                                                                               |
+| Latest Drops                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]                                             |
+| [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]] |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mount Sinai\|Mount Sinai]]                                                 |
+| [[Torah Portions/2026.05.16 Shabbat Reading\|2026.05.16 Shabbat Reading]]                                                   |
+| [[Torah Portions/2026.05.09 Shabbat Reading\|2026.05.09 Shabbat Reading]]                                                   |
+| [[Gate of Wisdom/Appointed Time/First Fruits\|First Fruits]]                                                                |
+| [[Gate of Wisdom/S/salvation\|salvation]]                                                                                   |
+| [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment\|Judgment]]                                          |
+| [[Gate of Wisdom/S/Sojourner\|Sojourner]]                                                                                   |
+| [[Torah Portions/2026.05.02 Shabbat Reading\|2026.05.02 Shabbat Reading]]                                                   |
+| [[Gate of Wisdom/T/Testimony\|Testimony]]                                                                                   |
+| [[Gate of Wisdom/C/Commandment Reading Plan April\|Commandment Reading Plan April]]                                         |
+| [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]                                         |
+| [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                           |
+| [[Gate of Wisdom/C/Commandment Reading Plan July\|Commandment Reading Plan July]]                                           |
+| [[Gate of Wisdom/C/Commandment Reading Plan August\|Commandment Reading Plan August]]                                       |
+| [[Gate of Wisdom/C/Commandment Reading Plan September\|Commandment Reading Plan September]]                                 |
+| [[Gate of Wisdom/C/Commandment Reading Plan October\|Commandment Reading Plan October]]                                     |
+| [[Gate of Wisdom/C/Commandment Reading Plan November\|Commandment Reading Plan November]]                                   |
+| [[Gate of Wisdom/C/Commandment Reading Plan December\|Commandment Reading Plan December]]                                   |
 
 { .block-language-dataview}
 

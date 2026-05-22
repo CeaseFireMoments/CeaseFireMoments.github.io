@@ -24,7 +24,7 @@ It is not a future place, it is a present state of being.
 # People
 - 
 
-# Heiser, Michael S.. [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible (p. 288). Lexham Press. Kindle Edition. 
+# Heiser, Michael S.. [[Gate of Wisdom/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible (p. 288). Lexham Press. Kindle Edition. 
 
 - The kingdom will come. The divine holy ones loyal to Yahweh and Yahweh’s people are his agents to expand that kingdom. But the nations and the gods who rule them (“princes” in Daniel’s description) will stand opposed. As the kingdom of God grows, the dominions of the dark powers will shrink and their gods will ultimately perish.
 

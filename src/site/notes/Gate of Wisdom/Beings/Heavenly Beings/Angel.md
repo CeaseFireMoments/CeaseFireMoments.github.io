@@ -6,7 +6,7 @@ Described as looking like normal people in the scriptures.
 
 ## NOTES:
 
-### Heiser, Michael S.. [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible (p. 171). Lexham Press. Kindle Edition.
+### Heiser, Michael S.. [[Gate of Wisdom/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible (p. 171). Lexham Press. Kindle Edition.
 
   
 

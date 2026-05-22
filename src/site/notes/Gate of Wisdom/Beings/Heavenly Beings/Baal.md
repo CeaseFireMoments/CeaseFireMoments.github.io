@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/baal/","tags":["#GateWisdom","Being","HeavenlyBeing","B"]}
 ---
 
-# EISER, MICHAEL S.. [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]. 
+# EISER, MICHAEL S.. [[Gate of Wisdom/The Unseen Realm\|The Unseen Realm]]. 
 - In the Ugaritic texts, the god Baal is called “the one who rides the clouds.”5 The description became an official title of Baal, Consequently, any figure to whom the title was attributed was a god.
 
 - In an effort to make the point that Yahweh, the God of Israel, deserved worship instead of Baal, the biblical writers occasionally pilfered this stock description of Baal as “cloud rider” and assigned it to Yahweh (emphasis in the following passages is added).
 
-# Cahn, Jonathan. [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]. 
+# Cahn, Jonathan. [[Gate of Wisdom/C/Return of the Gods\|Return of the Gods]]. 
 
 ## Other names: 
 - Baal
