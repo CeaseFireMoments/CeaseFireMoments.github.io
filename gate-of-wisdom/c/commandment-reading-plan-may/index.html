@@ -845,6 +845,10 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/c/return-of-the-gods/">Return of the Gods </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/c/ten-commandments/">Ten Commandments </a>
 </div>
 </div>
@@ -1683,6 +1687,10 @@ CTRL + K
 <span class="foldername">S</span>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/s/genesis-god-s-spirit-in-creation-podcast/">Genesis-God’s Spirit in Creation Podcast </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/s/sacrifice/">Sacrifice </a>
 </div>
 </div>
@@ -1925,6 +1933,10 @@ CTRL + K
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/gate-of-wisdom/">_Gate of Wisdom </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/the-unseen-realm/">The Unseen Realm </a>
 </div>
 </div>
 </div>
@@ -2739,7 +2751,7 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-05-18T12:23:31.741Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-05-18T12:23:31.741Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-05-18T12:23:31.741Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-05-22T18:09:39.120Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-05-22T18:09:39.120Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-05-22T18:09:39.120Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
 <h1 data-note-icon="">Commandment Reading Plan May</h1>
@@ -3212,14 +3224,248 @@ Starting March 20; 365 day</p>
 </ul>
 </li>
 </ul>
-<p><strong>May 20</strong>: Leviticus 19:18 (revisited emphasis) – “Love your neighbor as yourself.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>May 21</strong>: Leviticus 25:14-17 – “Do not take advantage of each other...” (in buying/selling). - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>May 22</strong>: Leviticus 25:35-38 – “If any of your fellow Israelites become poor... help them...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(aid the needy)</p>
-<p><strong>May 23</strong>: Deuteronomy 15:12-15 – “If any of your people... sell themselves to you... let them go free...” <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a>/ <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a>) (release in seventh year)</p>
-<p><strong>May 24</strong>: Exodus 21:2-6 (general servant release principles, non-male exclusive). - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a>/ <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a>)</strong></p>
-<p><strong>May 25</strong>: Deuteronomy 23:15-16 – “If a slave has taken refuge with you, do not hand them over...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(protect refugees)</p>
-<p><strong>May 26</strong>: Leviticus 19:23-25 – “When you enter the land... regard its fruit as forbidden... in the fifth year you may eat its fruit.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> (fruit trees)</p>
-<p><strong>May 27</strong>: Deuteronomy 20:19-20 – “When you lay siege... do not destroy its trees...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> (preserve fruit trees)</p>
+<p><strong>May 20</strong>: <a href="https://www.biblegateway.com/passage/?search=Leviticus%2019%3A18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:18</a> – “Love your neighbor as yourself.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a></p>
+<p>Do not</p>
+<ul>
+<li>take vengeance</li>
+<li>bear a grudge
+<ul>
+<li>against the children of your people</li>
+</ul>
+</li>
+</ul>
+<p>Do</p>
+<ul>
+<li>love your neighbor
+<ul>
+<li>as yourself</li>
+</ul>
+</li>
+</ul>
+<p>Because</p>
+<ul>
+<li>I am YHWH</li>
+</ul>
+<p><strong>May 21</strong>: <a href="https://www.biblegateway.com/passage/?search=Leviticus%2025%3A14-17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 25:14-17</a> – “Do not take advantage of each other...”. - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a></p>
+<p>If you sell anything</p>
+<ul>
+<li>to your neighbor</li>
+</ul>
+<p>If you buy anything</p>
+<ul>
+<li>from your neighbor</li>
+</ul>
+<p>Do not</p>
+<ul>
+<li>wrong one another</li>
+</ul>
+<p>According to the number of years after the Jubilee</p>
+<ul>
+<li>you shall by from your neighbor</li>
+<li>according to the number of crops he will sell you</li>
+<li>according to the length of the years
+<ul>
+<li>you shall increase your price</li>
+<li>shortness you shall diminish your price</li>
+<li>for he is selling you the number of crops</li>
+</ul>
+</li>
+</ul>
+<p>Because</p>
+<ul>
+<li>you shall fear your god</li>
+<li>I am YHWH your god</li>
+</ul>
+<p><strong>May 22</strong>: <a href="https://www.biblegateway.com/passage/?search=Leviticus%2025%3A35-38&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 25:35-38</a> – “If any of your fellow Israelites become poor... help them...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a></p>
+<p>If your brother (fellow covenant community member) has</p>
+<ul>
+<li>become poor</li>
+<li>his hand can't support himself</li>
+</ul>
+<p>Do</p>
+<ul>
+<li>you uphold him</li>
+<li>he will live with you
+<ul>
+<li>like an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/stranger/">Stranger</a></li>
+<li>like an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/sojourner/">Sojourner</a></li>
+</ul>
+</li>
+</ul>
+<p>Do not</p>
+<ul>
+<li>take no interest from him
+<ul>
+<li>lend him money at interest</li>
+</ul>
+</li>
+<li>take no profit from him
+<ul>
+<li>give him food for profit</li>
+</ul>
+</li>
+</ul>
+<p>Because</p>
+<ul>
+<li>fear your god</li>
+<li>I am YHWH
+<ul>
+<li>who brought you out of the land of Egypt
+<ul>
+<li>to give you the land of Canaan</li>
+<li>and to be your god</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>May 23</strong>: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2015%3A12-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 15:12-15</a> – “If any of your people... sell themselves to you... let them go free...” <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a>/ <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a>) <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#OrdinanceMishmerot">#OrdinanceMishmerot</a></p>
+<p>If your brother, a Hebrew man or woman</p>
+<ul>
+<li>is sold to you</li>
+<li>serves you six years</li>
+</ul>
+<p>Do</p>
+<ul>
+<li>in the seventh year let him go free</li>
+<li>not empty - furnish him liberally out of
+<ul>
+<li>the flock</li>
+<li>threshing floor</li>
+<li>wine press</li>
+</ul>
+</li>
+</ul>
+<p>Because</p>
+<ul>
+<li>YHWH your god has blessed you
+<ul>
+<li>remember you were a slave in the land of Egypt</li>
+<li>YHWH, your god redeemed you</li>
+</ul>
+</li>
+</ul>
+<p><strong>May 24</strong>: <a href="https://www.biblegateway.com/passage/?search=Exodus%2021%3A2-6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 21:2-6</a>. - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a>/ <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a>)</strong> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#OrdinanceMishmerot">#OrdinanceMishmerot</a></p>
+<p>If you buy a Hebrew servant</p>
+<ul>
+<li>shall serve six years</li>
+</ul>
+<p>Do</p>
+<ul>
+<li>in the seventh year he shall go free
+<ul>
+<li>without paying anything</li>
+</ul>
+</li>
+<li>if he comes in by himself
+<ul>
+<li>he shall go out by himself</li>
+</ul>
+</li>
+<li>if he is married
+<ul>
+<li>his wife shall go out with him</li>
+</ul>
+</li>
+<li>if his master gives him a wife and she bears him sons and daughters
+<ul>
+<li>the wife and the children shall be her master's</li>
+<li>he shall go out by himself</li>
+<li>but if the servant says plainly I love my master, my wife, my children I will not go out free
+<ul>
+<li>his master shall
+<ul>
+<li>bring him to god <mark style="background:#cd04BBA6">//to the nearest sanctuary or leadership counsel, judges//</mark>
+<ul>
+<li>bring him to the door or to the door post</li>
+</ul>
+</li>
+<li>bore his ear through with an awl</li>
+<li>he shall serve his master forever</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>May 25</strong>: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A15-16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 23:15-16</a> – “If a slave has taken refuge with you, do not hand them over...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></p>
+<p>If a servant</p>
+<ul>
+<li>escapes from his master to you</li>
+</ul>
+<p>Do Not</p>
+<ul>
+<li>deliver to his master</li>
+<li>oppress him</li>
+</ul>
+<p>Do</p>
+<ul>
+<li>he shall dwell with you
+<ul>
+<li>among you</li>
+<li>in a place which he shall choose</li>
+<li>within one of your gates</li>
+<li>where it pleases him best</li>
+</ul>
+</li>
+</ul>
+<p><strong>May 26</strong>: <a href="https://www.biblegateway.com/passage/?search=Leviticus%2019%3A23-25&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:23-25</a> – “When you enter the land... regard its fruit as forbidden... in the fifth year you may eat its fruit.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#StatuesChuqim">#StatuesChuqim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></p>
+<p>When you come into the land</p>
+<ul>
+<li>have planted all kinds of trees for food</li>
+</ul>
+<p>Do</p>
+<ul>
+<li>for three years
+<ul>
+<li>treat their fruit as forbidden
+<ul>
+<li>it shall not be eaten</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>in the fourth year
+<ul>
+<li>all it's fruit is <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/h/holy/">Holy</a>/set apart
+<ul>
+<li>for giving praise to YHWH</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>in the fifth year
+<ul>
+<li>eat of it's fruit</li>
+</ul>
+</li>
+</ul>
+<p>Because</p>
+<ul>
+<li>I am YHWH your god</li>
+</ul>
+<p><strong>May 27</strong>: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2020%3A19-20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 20:19-20</a> – “When you lay siege... do not destroy its trees...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></p>
+<p>When you besiege a city a long time</p>
+<p>Do Not</p>
+<ul>
+<li>destroy it's trees by wielding an ax against them</li>
+<li>cut them down
+<ul>
+<li>Is a tree like a man that should be besieged by you?</li>
+</ul>
+</li>
+</ul>
+<p>Do</p>
+<ul>
+<li>eat of them</li>
+<li>trees that you know are not good for food
+<ul>
+<li>destroy and cut them down</li>
+</ul>
+</li>
+<li>build siege works against the city that makes war with you until it falls</li>
+</ul>
 <p><strong>May 28</strong>: Deuteronomy 22:8 – “When you build a new house, make a parapet around your roof...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(safety)</p>
 <p><strong>May 29</strong>: Deuteronomy 23:24-25 – “If you enter your neighbor’s vineyard... you may eat... but you must not put any in a basket.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(limited eating from neighbor’s field)</p>
 <p><strong>May 30</strong>: Deuteronomy 24:6 – “Do not take a pair of millstones... as security for a debt.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(protect livelihood)</p>
