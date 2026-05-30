@@ -59,7 +59,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Luke 4:16, 31 [[Olive Branch Reconciliations/The Seventh Day Rest/41 The Seventh Day is for Gathering (42 Luke)\|41 The Seventh Day is for Gathering (42 Luke)]]
 - Luke 13:10–17 [[Olive Branch Reconciliations/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke)\|42 The Seventh Day is for Healing (42 Luke)]]
 - Luke 14:1–6 [[Olive Branch Reconciliations/The Seventh Day Rest/43 The Seventh Day is for Healing (42 Luke)\|43 The Seventh Day is for Healing (42 Luke)]]
-- Matthew 12:1–8, Mark 2:23–28, Luke 6:1–9
+- Matthew 12:1–8, Mark 2:23–28, Luke 6:1–9 [[Olive Branch Reconciliations/The Seventh Day Rest/44 The Seventh Day is a day for Mercy (40 Matthew)\|44 The Seventh Day is a day for Mercy (40 Matthew)]]
 - John 5:9–18
 - John 7:22–23
 - John 9:14–16 

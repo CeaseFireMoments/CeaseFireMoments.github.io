@@ -262,6 +262,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]                                                               |
 | [[Gate of Wisdom/S/Synagogue\|Synagogue]]                                                                      |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]                                           |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread\|Table of Showbread]]           |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]            |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]  |
 | [[Gate of Wisdom/Beings/Human Beings/teacher\|teacher]]                                                        |

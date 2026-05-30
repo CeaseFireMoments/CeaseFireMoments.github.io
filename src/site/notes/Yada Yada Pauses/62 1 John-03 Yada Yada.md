@@ -138,7 +138,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 				- and sees his brother in need, 
 					- then closes his heart of compassion against him, 
 						- how does God's love remain in him? [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v23\|Exod-25#v23]], [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-24#v9\|Lev-24#v9]]
-#### The [[Zunpublished/Table of Showbread\|Table of Showbread]] provide bread each week for the Priests who owned nothing. They were provided for by some of the people's offerings.  
+#### The [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread\|Table of Showbread]] provide bread each week for the Priests who owned nothing. They were provided for by some of the people's offerings.  
 
 - My little children, 
 	- let's not love 
@@ -251,7 +251,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 
 [^24]: [[Zunpublished/Set Apart Place\|Set Apart Place]] - Everyone who has this hope set on him purifies himself.”
 
-[^25]: [[Zunpublished/Table of Showbread\|Table of Showbread]] - Whoever has the world’s goods, and sees his brother in need, and closes his heart of compassion against him...”  The table held **bread continually before Yahweh**, representing God’s **ongoing provision and fellowship** with His people (see Leviticus 24:5–9)
+[^25]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread\|Table of Showbread]] - Whoever has the world’s goods, and sees his brother in need, and closes his heart of compassion against him...”  The table held **bread continually before Yahweh**, representing God’s **ongoing provision and fellowship** with His people (see Leviticus 24:5–9)
 
 [^26]: [[Zunpublished/Lampstand\|Lampstand]] In this the children of God are revealed
 
