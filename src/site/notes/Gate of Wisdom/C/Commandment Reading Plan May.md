@@ -465,10 +465,59 @@ Do
 	- destroy and cut them down
 - build siege works against the city that makes war with you until it falls
 
-**May 28**: Deuteronomy 22:8 – “When you build a new house, make a parapet around your roof...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(safety)  
+**May 28**: [Deuteronomy 22:8](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A8&version=WEB;NET;OJB) – “When you build a new house, make a parapet around your roof...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #JudgmentMishpatim #Dos 
 
-**May 29**: Deuteronomy 23:24-25 – “If you enter your neighbor’s vineyard... you may eat... but you must not put any in a basket.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(limited eating from neighbor’s field)  
+When you build a new house
 
-**May 30**: Deuteronomy 24:6 – “Do not take a pair of millstones... as security for a debt.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(protect livelihood)  
+Do
+- make a railing around the roof
 
-**May 31**: Deuteronomy 24:10-13 – “When you make a loan... do not go into their house to get what is offered...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(dignity in lending)  
+Because
+- keep someone from falling
+	- so you don't bring blood on your house
+
+**May 29**: [Deuteronomy 23:24-25](https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A24-25&version=WEB;NET;OJB) – “If you enter your neighbor’s vineyard... you may eat... but you must not put any in a basket.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #JudgmentMishpatim #Dos #DoNot 
+
+When you come into your neighbor's vineyard or standing grain
+
+Do
+- eat your fill of grapes
+	- at your pleasure
+- pluck the ears with your hand
+
+Do not
+- put any grapes in your container
+- use a sickle on your neighbor's standing grain
+
+**May 30**: [Deuteronomy 24:6](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A6&version=WEB;NET;OJB) – “Do not take a pair of millstones... as security for a debt.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #JudgmentMishpatim #DoNot 
+
+Do not
+- take the mill or the upper millstone as a pledge
+
+Because
+- you take a life in pledge
+
+<mark style="background: #CD04BBA6;">Millstones were a way of earning a living and supporting families.</mark>
+
+**May 31**: [Deuteronomy 24:10-13](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A10-13&version=WEB;NET;OJB) – “When you make a loan... do not go into their house to get what is offered...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot 
+
+When you lend your neighbor
+- any kind of loan
+
+Do not
+- go into his house to get his pledge
+- if he is a poor man
+	- do not sleep with his pledge
+
+Do
+- stand outside
+	- the man will bring the pledge outside to you
+- if he is a poor man
+	- restore to him the pledge
+		- when the sun goes down
+		- so he may sleep in his garment and bless you
+
+It shall be [[Gate of Wisdom/Right Standing/Righteousness\|righteousness]] to you
+- before YHWH your god
+
+<mark style="background: #CD04BBA6;">Seems to refer to using clothing as a guarantee for loan repayment. Clothing was of high value. </mark>
