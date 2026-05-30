@@ -76,6 +76,7 @@ But <mark style="background: #D7CD91A6;">he</mark> said to <mark style="backgrou
 - Most likely everyone in this scene was someone who adhered to Jewish customs as well as religion, but this is not explicitly stated. 
 ## Jesus replaced the Sabbath:
 - Not yet.
+- Jesus here says he is Lord of the Sabbath
 
 ## Other Notes:
 - Hosea 6:6
@@ -84,7 +85,9 @@ But <mark style="background: #D7CD91A6;">he</mark> said to <mark style="backgrou
 	- but instead, they broke their covenant like Adam and were unfaithful to Yah. 
 	- Jesus also sited Hosea 6:6 to the Pharisees when they questions him eating with the tax collectors and sinners. - Matthew 9:13
 
-<mark style="background: #CD04BBA6;">My Observations</mark> if you place rules and ritual over a true need of someone, it isn't pleasing to Yah.  Rule=don't eat the showbread, Need=hunger. But if you ignore all the rules except the one where you bring a sacrifice because you broke a rule - it's not pleasing to Yah. What pleases him is that you obey all the rules so you don't have to bring an [[Gate of Wisdom/Offering/Offerings\|Offerings]] to get back into right relationship with him in the first place.
+<mark style="background: #CD04BBA6;">My Observations</mark> 
+
+Hosea 6:6: if you place rules and ritual over a true need of someone, it isn't pleasing to Yah.  Rule=don't eat the showbread, Need=hunger. But if you ignore all the rules except the one where you bring a sacrifice because you broke a rule - it's not pleasing to Yah. What pleases him is that you obey all the rules so you don't have to bring an [[Gate of Wisdom/Offering/Offerings\|Offerings]] to get back into right relationship with him in the first place.
 - looking deeply at Hosea - we see where they are bringing sacrifices to cover for their unrighteousness instead of being righteous so they didn't need sacrifices. It became a ritual to them. They didn't desire a relationship with YHWH, they desired forgiveness.  The sacrifices had became a religion to them. 
 - Samuel sees to obey is better than sacrifice - 1 Samuel 15:22-23
 - David sees in sacrifices and offerings, burnt and [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]],  Yah doesn't delight but an open ear, doing his will, his law within our hearts - Psalm 40:4-6
@@ -92,6 +95,16 @@ But <mark style="background: #D7CD91A6;">he</mark> said to <mark style="backgrou
 - Isaiah gives a similar message as the one in Hosea, Yah has had enough of the burnt offerings, they are of no delight and are done in vain and have become an [[Gate of Wisdom/Abomination/Abomination\|Abomination]] to him. They bring the blood, wash themselves, get clean, and then go away and get dirty by doing wrong again and again. Yah wants them to stop all that and put the evil away and stop doing it. He wants them to learn to do the right thing, seek justice, relieve the oppressed, defend the fatherless, and plead for the widow. He wants them to live in a way so they do not need to bring a sacrifice at all.  - Isaiah 1:11-17
 - Micah also gives the same message. Yah shows us what is good, to act justly, to love mercy, and to walk humbly with him. - Micah 6:6-8
 - Jesus says a scribe isn't far from [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]] when he says that Jesus said well to love God with all the heart, with all the understanding, all the soul, and all the strength and to love your neighbor as yourself is MORE IMPORTANT than all whole burnt offerings and sacrifices. This seems like he's confirming what Hosea 6:6 means. - Mark 12"28-34
+
+Lord of the Sabbath: The Sabbath was something YHWH set aside on Day 7. 
+- John 1:1–3: "In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made through him. Without him, nothing was made that has been made."
+	- The Word is Jesus - without him, nothing was made that has been made, including the Sabbath.
+- Exodus 20:10-11 but the seventh day is a Sabbath to Yahweh your God ... therefore Yahweh blessed the Sabbath day, and made it holy.
+	- Yah makes it clear the Sabbath is his and why.
+- Matthew 11:28 - Come to me, all you who labor and are heavily burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. For my yoke is easy, and my burden is light.
+	- The Lord of the Sabbath is the one who provides Sabbath rest. The one who gives rest is Jesus.
+	- Mark 2:27 — The Sabbath Was Made For Man, Jesus is not breaking the Sabbath; he is fulfilling its deepest purpose as the one who has authority over it.
+
 
 # Connections
 
