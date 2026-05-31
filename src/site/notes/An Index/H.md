@@ -8,6 +8,7 @@
 - [[Gate of Wisdom/H/Hear\|Hear]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]
 - [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]
+- [[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]
 - [[Yada Yada Pauses/Highlight Legend\|Highlight Legend]]
 - [[Gate of Wisdom/H/Holy\|Holy]]
 - [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]

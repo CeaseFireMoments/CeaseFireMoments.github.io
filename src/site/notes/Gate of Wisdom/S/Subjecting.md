@@ -28,6 +28,8 @@
 * James 4:7 — submit to God
 * 1 Samuel 7:13 — Philistines *kana* before Israel
 * Psalm 18:47 — peoples *kana* under David
+* [[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]
+* [[Gate of Wisdom/E/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]
 
 # Scripture
 
@@ -90,3 +92,11 @@ Those who have have devoted themselves in service to the kedoshim = holy (set ap
 
 [[_The Scrolls/4. The Gospels and The Apostles/60 - 1 Peter/1 Pet-05#v5\|1 Pet-05:5]] In the same way, younger men, be subject to the elders, and all of you clothe yourselves with humility toward one another, because God opposes the proud, but gives grace to the humble. 
 - In the context of Elders shepherding God’s flock and watching over it, becoming examples to the flock
+
+
+
+| file.inlinks                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/49 Ephes-05 Yada Yada.md\\|49 Ephes-05 Yada Yada]]</li><li>[[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus.md\\|Hierarchical Relationships Addressed by God or Jesus]]</li><li>[[Gate of Wisdom/E/Equality Addressed by God or Jesus.md\\|Equality Addressed by God or Jesus]]</li></ul> |
+
+{ .block-language-dataview}

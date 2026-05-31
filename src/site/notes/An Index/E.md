@@ -10,6 +10,7 @@
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]
 - [[Gate of Wisdom/Beings/elder\|elder]]
 - [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
+- [[Gate of Wisdom/E/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]
 - [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]
 - [[Gate of Wisdom/Beings/Human Beings/extortionist\|extortionist]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]
