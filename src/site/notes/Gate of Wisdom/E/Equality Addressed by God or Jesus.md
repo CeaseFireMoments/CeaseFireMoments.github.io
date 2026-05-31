@@ -52,6 +52,6 @@ All equally in need of God
 
 | file.inlinks                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus.md\\|Hierarchical Relationships Addressed by God or Jesus]]</li><li>[[Gate of Wisdom/S/Subjecting.md\\|Subjecting]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/S/Subjecting.md\\|Subjecting]]</li><li>[[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus.md\\|Hierarchical Relationships Addressed by God or Jesus]]</li></ul> |
 
 { .block-language-dataview}

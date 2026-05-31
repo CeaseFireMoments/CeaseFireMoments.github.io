@@ -45,7 +45,7 @@ E lohim: Plural Noun
 
 | file.inlinks                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li></ul> |
+| <ul><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li></ul> |
 
 { .block-language-dataview}
 

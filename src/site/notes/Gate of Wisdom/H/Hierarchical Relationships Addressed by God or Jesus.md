@@ -96,6 +96,6 @@ Husband over wife
 
 | file.inlinks                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/E/Equality Addressed by God or Jesus.md\\|Equality Addressed by God or Jesus]]</li><li>[[Gate of Wisdom/S/Subjecting.md\\|Subjecting]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/S/Subjecting.md\\|Subjecting]]</li><li>[[Gate of Wisdom/E/Equality Addressed by God or Jesus.md\\|Equality Addressed by God or Jesus]]</li></ul> |
 
 { .block-language-dataview}

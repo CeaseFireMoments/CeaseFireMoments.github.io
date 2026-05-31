@@ -19,6 +19,9 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/S/Subjecting\|Subjecting]]                                                                                                                  |
+| [[Gate of Wisdom/E/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]                                                                  |
+| [[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]                              |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/44 The Seventh Day is a day for Mercy (40 Matthew)\|44 The Seventh Day is a day for Mercy (40 Matthew)]] |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                 |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread\|Table of Showbread]]                                                         |
@@ -36,9 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/T/Testimony\|Testimony]]                                                                                                                    |
 | [[Gate of Wisdom/C/Commandment Reading Plan April\|Commandment Reading Plan April]]                                                                          |
 | [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]                                                                          |
-| [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                                            |
-| [[Gate of Wisdom/C/Commandment Reading Plan July\|Commandment Reading Plan July]]                                                                            |
-| [[Gate of Wisdom/C/Commandment Reading Plan August\|Commandment Reading Plan August]]                                                                        |
 
 { .block-language-dataview}
 
