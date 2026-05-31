@@ -102,7 +102,7 @@
 										- in the name of our Lord 
 											- Jesus Christ, 
 											- to the God and Father;
-								- [[Zunpublished/Subjecting\|Subjecting]] yourselves 
+								- [[Gate of Wisdom/S/Subjecting\|Subjecting]] yourselves 
 									- to one another 
 										- in the fear of God.
 									- The wives! 
@@ -110,7 +110,7 @@
 											- Subjecting  yourselves, 
 												- as to the Lord,
 
-##### [[Zunpublished/Subjecting\|Subjecting]]
+##### [[Gate of Wisdom/S/Subjecting\|Subjecting]]
 ##### Having no fellowship with the darkness rather convict it, because all things reproved by the light are manifested - submit to one another for reproving. Isaiah 8:19-20 to the law and to the testimony, if they do not speak according to this word, it is because there is no light in them.
 - The wives! 
 	- to your own husbands 
