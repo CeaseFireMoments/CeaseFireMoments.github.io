@@ -202,34 +202,96 @@ Mishpatim is plural
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-- #LoveNeighbor #DoNot #JudgmentMishpatim #Dos #testing #Deuteronomy24 #05Deut 
+- #LoveNeighbor #DoNot #JudgmentMishpatim #Dos #Deuteronomy24 #05Deut 
 ## 23. Individual Responsibility for Sin
 - **Scripture Reference**: Deuteronomy 24:16
 - **Scripture Text (WEB)**: “The fathers shall not be put to death for the children, nor the children be put to death for the fathers. Every man shall be put to death for his own sin.”
 - **Penalty or Consequence**: Death only for the guilty individual’s sin.
 - **Offering or Ransom**: None specified; justice is the principle.
 
-## 24. Justice for the Vulnerable
-- **Scripture Reference**: Deuteronomy 24:17-18
-- **Scripture Text (WEB)**: “You shall not deprive the foreigner or the fatherless of justice, nor take a widow’s clothing in pledge; but you shall remember that you were a slave in Egypt, and Yahweh your God redeemed you there. Therefore I command you to do this thing.”
-- **Penalty or Consequence**: No explicit penalty, but risks divine judgment (Deut. 28:15-68).
-- **Offering or Ransom**: None; ensuring justice fulfills the command.
+## 24. Justice for the Vulnerable [Deuteronomy 24:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&version=WEB;NET;OJB) 
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- The 
+		- [[Gate of Wisdom/F/Foreigner\|Foreigner]] 
+		- fatherless
+	- Do not
+		- deprive foreigner of justice
+		- take widows clothing in pledge
+
+	- Do
+		- remember you were a slave in Egypt
+		- remember YHWH redeemed you
+- **Penalty or Consequence**: 
+	- No explicit penalty, but risks divine judgment (Deut. 28:15-68).
+- **Offering or Ransom**: 
+	- None; ensuring justice fulfills the command.
+- <mark style="background: #CD04BBA6;">**Personal Observations**</mark>
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
+#LoveNeighbor #DoNot #JudgmentMishpatim #Dos #Deuteronomy24 #05Deut 
 
-## 25. Leaving Gleanings for the Poor
-- **Scripture Reference**: Deuteronomy 24:19-22
-- **Scripture Text (WEB)**: “When you reap your harvest in your field, and have forgotten a sheaf in the field, you shall not go again to get it. It shall be for the foreigner, for the fatherless, and for the widow, that Yahweh your God may bless you in all the work of your hands.”
-- **Penalty or Consequence**: No explicit penalty, but compliance brings blessing; violation risks curses (Deut. 28:15-68).
-- **Offering or Ransom**: None; leaving gleanings fulfills the command.
+## 25. Leaving Gleanings for the Poor [Deuteronomy 24:19-22](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&version=WEB;NET;OJB) 
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- When 
+		- you reap your harvest in your fields
+		- have forgotten a sheaf in the field
+		- beat your olive tree
+		- harvest you vineyard
+
+	- Do not
+		- go again to get the sheaf
+		- go over the boughs again
+		- do not glean it after
+		
+	- Do
+		- the sheaf, bough, fruit will be for 
+			- the [[Gate of Wisdom/F/Foreigner\|Foreigner]]
+			- the fatherless
+			- the widow
+		- remember that you were a slave in the land of Egypt
+		
+	- So that
+		- YHWH may bless you in all the work of your hands
+- **Penalty or Consequence**: 
+	- No explicit penalty, but compliance brings blessing; violation risks curses (Deut. 28:15-68).
+- **Offering or Ransom**: 
+	- None; leaving gleanings fulfills the command.
+- **<mark style="background: #CD04BBA6;">Personal Observations:</mark>**
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
+#LoveNeighbor #DoNot #JudgmentMishpatim #Dos #testing #Deuteronomy24 #05Deut 
 
-## 26. Limit on Flogging
-- **Scripture Reference**: Deuteronomy 25:1-3
-- **Scripture Text (WEB)**: “If there is a controversy between men, and they come to judgment, and the judges judge them, then they shall justify the righteous and condemn the wicked. It shall be, if the wicked man is worthy to be beaten, that the judge shall cause him to lie down and to be beaten before his face, according to his wickedness, by number. Forty stripes he may give him, he shall not exceed; lest, if he should exceed and beat him above this with many stripes, then your brother should seem degraded in your sight.”
-- **Penalty or Consequence**: Up to 40 stripes; exceeding risks degrading the person.
-- **Offering or Ransom**: None specified; limit ensures justice.
+## 26. Limit on Flogging [Deuteronomy 25:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline**: 
+	- A controversy between men
+		- they come to judgment
+		- the judges judge them
+		
+	- Do
+		- justify the righteous
+		- condemn the wicked
+			- if worth to be beaten
+				- judge will 
+					- cause him to lie down
+						- to be beaten before his face
+						- according to his wickedness
+							- by number
+								- may sentence to no more than forty stripes
+		
+	- Do not
+		- give the wicked more than forty stripes
+		
+	- Because
+		- if struck or beat more than forty stripes
+			- your brother <mark style="background: #CD04BBA6;">//the wicked one//</mark> will be degraded in your sight
+- **Penalty or Consequence**: 
+	- Up to 40 stripes; exceeding risks degrading the person.
+- **Offering or Ransom**: 
+	- None specified; limit ensures justice.
+#LoveNeighbor #DoNot #JudgmentMishpatim #Dos #testing #Deuteronomy25 #05Deut 
 
 ## 27. Ox Not to Be Muzzled
 - **Scripture Reference**: Deuteronomy 25:4
@@ -259,19 +321,52 @@ Mishpatim is plural
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## Slander, False Witness
-### **Scripture Reference**: [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]
-- **Scripture Text (WEB)**: “You shall not go around as a slanderer among your people.“ ‘You shall not endanger the life of your neighbor. I am Yahweh.”
-- **Penalty or Consequence**: Violation leads to hatred, which breaks covenant love. (Leviticus 19:17-18)
-- **Offering or Ransom**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-	- False Witness which endangers a life - Death [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
-### **Scripture Reference**: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v11\|James-04#v11]]
-- **Scripture Text:** Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.
-
-Also related [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-19#v15\|Deut-19#v15]]–19: One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. 16 If an unrighteous witness rises up against any man to testify against him of wrongdoing, 17 then both the men, between whom the controversy is, shall stand before Yahweh, before the priests and the judges who shall be in those days; 18 and the judges shall make diligent inquisition; and behold, if the witness is a false witness, and has testified falsely against his brother, 19 then you shall do to him as he had thought to do to his brother. So you shall remove the evil from among you.
-
+# Number of Witnesses Required/False Witness [Deuteronomy 19:15-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- When rising up against a man for 
+		- any iniquity
+		- or any sin that he sins
+		
+	- Do
+		- establish the matter
+			- at the mouth of 
+				- two witnesses
+				- or three witnesses
+		- if an [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] witness testifies
+			- against him of wrongdoing
+				- both the men (man accused of iniquity or sin and the unrighteous witness)
+					- stand before
+						- YHWH
+						- the [[Zunpublished/Priest\|Priest]]
+						- the judges
+					- the judges shall make diligent inquisition
+						- if the witness is a false witness
+							- has testified falsely against his brother (fellow member of his covenant community)
+							- do to him as he thought to do to his brother (the man accused of iniquity or sin)
+							- remove the evil from among you
+			- those who remain shall
+				- hear
+				- fear
+				- never again commit any such evil (false witness) among you
+		
+	- Do not
+		- your eyes shall not pity
+		- life for life
+		- eye for eye
+		- tooth for tooth
+		- hand for hand
+		- foot for foot
+- **Penalty or Consequence:**
+	- A single witness testimony is insufficient to establish guilt; the matter cannot be legally confirmed.
+	- The investigation itself is the mechanism that exposes false witnesses; failure to investigate diligently enables injustice.
+	- Whatever punishment the false witness sought to bring upon the accused falls upon the false witness instead.
+- **Offering or Ransom:**
+	- None specified; the punishment is the ransom
+- <mark style="background: #CD04BBA6;">Personal Observations:</mark>
+		- remove evil from  = "you will burn out"
+		- life for life, eye for eye, etc = measure for measure - meaning the punishment should fit the crime not to be taken literally [^1]
+#LoveNeighbor #DoNot #JudgmentMishpatim #Dos #05Deut #Deuteronomy19 
 # Judgments (Mishpatim) in Exodus
 
 ## 1. Release of Hebrew Slaves
@@ -544,12 +639,28 @@ Also related [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-19#v15
 
 ---
 
-## 31. Justice for the Poor in Lawsuits
+## 31. Justice for the Poor in Lawsuits [Exodus 23:6-9](https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&version=WEB;NET;OJB)
 
-- **Scripture Reference**: Exodus 23:6–8
-- **Scripture Text (WEB)**: "You shall not deny justice to your poor people in their lawsuits. Keep far from a false charge, and don't kill the innocent and righteous: for I will not justify the wicked. You shall take no bribe, for a bribe blinds those who have sight and perverts the words of the righteous."
-- **Penalty or Consequence**: Yahweh will not acquit the one who justifies the wicked; bribery perverts justice.
-- **Offering or Ransom**: None; the prohibition is absolute.
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline**:
+	- Do not
+		- deny justice to poor people in lawsuit
+		- kill the innocent and righteous
+			- Because YHWH will not justify the wicked
+		- take a bride
+			- Because bribes 
+				- blind those who have sight
+				- perverts the words of the righteous
+		- oppress an [[Gate of Wisdom/F/Foreigner\|Foreigner]]
+			- Because you know their heart since you were foreigners in the land of Egypt.
+		
+	- Do
+		- keep far from a false charge
+- **Penalty or Consequence**: 
+	- Yahweh will not acquit the one who justifies the wicked; bribery perverts justice.
+- **Offering or Ransom**: 
+	- None; the prohibition is absolute.
+#LoveNeighbor #DoNot #JudgmentMishpatim #Dos #02Exod #Exodus23 
 
 ---
 
@@ -562,3 +673,57 @@ Also related [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-19#v15
 
 ---
 
+# Judgement (Mishpatim) in Leviticus
+
+
+## Provision for the Poor and Foreigner [Leviticus 19:9-10]
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- When you reap the harvest of your land ...
+
+	- Do No
+		- wholly reap the corners of your field
+		- gather the gleanings of your harvest
+		- glean your vineyard
+		- gather the fallen grapes from your vineyard
+	- Do
+		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/S/Stranger\|Stranger]]
+		- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger
+		- leave //the fallen grapes// for the poor and the stranger
+	- Because
+		- YHWH is your god
+- **Penalty or Consequence**: 
+	- Not explicitly stated; the closing declaration — I am Yahweh your God — functions as both authority and implied accountability.
+- **Offering or Ransom**: 
+	- None; the act of leaving the gleanings is itself the obligation.
+- <mark style="background: #CD04BBA6;">**Personal Observations**</mark>
+	- Ruth 2:2–7
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
+#LoveNeighbor #DoNot #JudgmentMishpatim #Dos #Leviticus19 #03Lev 
+
+## Slander, False Witness [Leviticus 19:16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&version=WEB;NET;OJB) 
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- Do not
+		- go around being a [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]
+		- endanger the life of your neighbor
+
+	- Because
+		- I am YHWH
+- **Penalty or Consequence**: 
+	- Not explicitly stated; the social and covenantal damage of slander is implied — it tears at the fabric of community Yahweh is building.
+	- Violation leads to hatred, which breaks covenant love. (Leviticus 19:17-18)
+	- The closing _"I am Yahweh"_ functions as direct divine accountability — Yahweh himself is the witness.
+- **Offering or Ransom**: 
+	- None specified
+- Deuteronomy 19:15–21 — false witness there, endangering life here.
+- James 4:11   Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.
+- Proverbs 18:21 — _"Death and life are in the power of the tongue"_ — reflects the same understanding. 
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- slandering is treated as something that could cost a life
+		- False Witness which endangers a life - Death [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
+	- **"stand against the blood"** — _la'amod al dam_ (לַעֲמֹד עַל דָּם) — carries judicial weight. It likely refers to bearing false witness in a capital case, withholding testimony that could save a life, or taking action that leads to another's death. The connection to **Deuteronomy 19:15–21** is direct — false witness there, endangering life here.
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
+  #LoveNeighbor #DoNot #JudgmentMishpatim #Leviticus19 #03Lev 
