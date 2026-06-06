@@ -845,6 +845,14 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/c/do-commands/">Do Commands </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/c/do-not-commands/">Do Not Commands </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/c/return-of-the-gods/">Return of the Gods </a>
 </div>
 </div>
@@ -2732,7 +2740,7 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-06-06T20:20:19.201Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-06-06T20:20:19.201Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-06-06T20:20:19.201Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-06-06T20:55:39.855Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-06-06T20:55:39.855Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-06-06T20:55:39.855Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
 <h1 data-note-icon="">Judgments (Mishpatim)</h1>
@@ -2990,7 +2998,7 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h2 id="22-payment-of-wages-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a14-15-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-14-15-a" tabindex="-1">22. Payment of Wages <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 24:14-15</a></h2>
+<h2 id="love-neighbor-payment-of-wages-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a14-15-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-14-15-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Payment of Wages <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 24:14-15</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
 <li><strong>Outline:</strong>
@@ -3055,7 +3063,7 @@ Mishpatim is plural</p>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.</li>
 </ul>
 </li>
-<li><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy24">#Deuteronomy24</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
+<li><a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy24">#Deuteronomy24</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
 </ul>
 <h2 id="23-individual-responsibility-for-sin" tabindex="-1">23. Individual Responsibility for Sin</h2>
 <ul>
@@ -3064,7 +3072,7 @@ Mishpatim is plural</p>
 <li><strong>Penalty or Consequence</strong>: Death only for the guilty individual’s sin.</li>
 <li><strong>Offering or Ransom</strong>: None specified; justice is the principle.</li>
 </ul>
-<h2 id="24-justice-for-the-vulnerable-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a17-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-17-18-a" tabindex="-1">24. Justice for the Vulnerable <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 24:17-18</a></h2>
+<h2 id="love-neighbor-justice-for-the-vulnerable-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a17-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-17-18-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Justice for the Vulnerable <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 24:17-18</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
 <li><strong>Outline:</strong>
@@ -3106,17 +3114,16 @@ Mishpatim is plural</p>
 <ul>
 <li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy24">#Deuteronomy24</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy24">#Deuteronomy24</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
 </ul>
 </li>
 </ul>
-<h2 id="25-leaving-gleanings-for-the-poor-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a19-22-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-19-22-a" tabindex="-1">25. Leaving Gleanings for the Poor <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 24:19-22</a></h2>
+<h2 id="25-love-neighbor-leaving-gleanings-for-the-poor-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a19-22-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-19-22-a" tabindex="-1">25. <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Leaving Gleanings for the Poor <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 24:19-22</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
 <li><strong>Outline:</strong>
 <ul>
-<li>
-<p>When</p>
+<li>When
 <ul>
 <li>you reap your harvest in your fields</li>
 <li>have forgotten a sheaf in the field</li>
@@ -3124,29 +3131,26 @@ Mishpatim is plural</p>
 <li>harvest you vineyard</li>
 </ul>
 </li>
-<li>
-<p>Do not</p>
+<li>Do not
 <ul>
-<li>go again to get the sheaf</li>
-<li>go over the boughs again</li>
-<li>do not glean it after</li>
+<li>go again to get the sheaf <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>go over the boughs again <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>do not glean it after <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
 </ul>
 </li>
-<li>
-<p>Do</p>
+<li>Do
 <ul>
-<li>the sheaf, bough, fruit will be for
+<li>the sheaf, bough, fruit will be for <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
 <ul>
 <li>the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/foreigner/">Foreigner</a></li>
 <li>the fatherless</li>
 <li>the widow</li>
 </ul>
 </li>
-<li>remember that you were a slave in the land of Egypt</li>
+<li>remember that you were a slave in the land of Egypt <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
 </ul>
 </li>
-<li>
-<p>So that</p>
+<li>So that
 <ul>
 <li>YHWH may bless you in all the work of your hands</li>
 </ul>
@@ -3167,11 +3171,11 @@ Mishpatim is plural</p>
 <ul>
 <li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#testing">#testing</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy24">#Deuteronomy24</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy24">#Deuteronomy24</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
 </ul>
 </li>
 </ul>
-<h2 id="26-limit-on-flogging-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2025-3-a1-3-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-25-1-3-a" tabindex="-1">26. Limit on Flogging <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 25:1-3</a></h2>
+<h2 id="love-neighbor-limit-on-flogging-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2025-3-a1-3-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-25-1-3-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Limit on Flogging <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 25:1-3</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
 <li><strong>Outline</strong>:
@@ -3186,8 +3190,8 @@ Mishpatim is plural</p>
 <li>
 <p>Do</p>
 <ul>
-<li>justify the righteous</li>
-<li>condemn the wicked
+<li>justify the righteous <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>condemn the wicked <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
 <ul>
 <li>if worth to be beaten
 <ul>
@@ -3218,7 +3222,7 @@ Mishpatim is plural</p>
 <li>
 <p>Do not</p>
 <ul>
-<li>give the wicked more than forty stripes</li>
+<li>give the wicked more than forty stripes <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
 </ul>
 </li>
 <li>
@@ -3241,7 +3245,7 @@ Mishpatim is plural</p>
 <li><strong>Offering or Ransom</strong>:
 <ul>
 <li>None specified; limit ensures justice.<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#testing">#testing</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy25">#Deuteronomy25</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy25">#Deuteronomy25</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
 </ul>
 </li>
 </ul>
@@ -3283,7 +3287,7 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h1 id="number-of-witnesses-required-false-witness-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2019-3-a15-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-19-15-21-a" tabindex="-1">Number of Witnesses Required/False Witness <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 19:15-21</a></h1>
+<h1 id="love-neighbor-number-of-witnesses-required-false-witness-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2019-3-a15-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-19-15-21-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Number of Witnesses Required/False Witness <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 19:15-21</a></h1>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
 <li><strong>Outline:</strong>
@@ -3302,13 +3306,13 @@ Mishpatim is plural</p>
 <ul>
 <li>at the mouth of
 <ul>
-<li>two witnesses</li>
+<li>two witnesses <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
 <li>or three witnesses</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>if an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/unrighteous/">Unrighteous</a> witness testifies
+<li>if an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/unrighteous/">Unrighteous</a> witness testifies <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
 <ul>
 <li>against him of wrongdoing
 <ul>
@@ -3336,7 +3340,7 @@ Mishpatim is plural</p>
 </li>
 </ul>
 </li>
-<li>those who remain shall
+<li>those who remain shall <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
 <ul>
 <li>hear</li>
 <li>fear</li>
@@ -3350,12 +3354,15 @@ Mishpatim is plural</p>
 <li>
 <p>Do not</p>
 <ul>
-<li>your eyes shall not pity</li>
+<li>your eyes shall not pity: <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
+<ul>
 <li>life for life</li>
 <li>eye for eye</li>
 <li>tooth for tooth</li>
 <li>hand for hand</li>
 <li>foot for foot</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -3375,7 +3382,7 @@ Mishpatim is plural</p>
 <li><mark style="background:#cd04BBA6">Personal Observations:</mark><br>
 - remove evil from = &quot;you will burn out&quot;<br>
 - life for life, eye for eye, etc = measure for measure - meaning the punishment should fit the crime not to be taken literally [^1]<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy19">#Deuteronomy19</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy19">#Deuteronomy19</a></li>
 </ul>
 <h1 id="judgments-mishpatim-in-exodus" tabindex="-1">Judgments (Mishpatim) in Exodus</h1>
 <h2 id="1-release-of-hebrew-slaves-1" tabindex="-1">1. Release of Hebrew Slaves</h2>
@@ -3618,7 +3625,7 @@ Mishpatim is plural</p>
 <li><strong>Offering or Ransom</strong>: None.</li>
 </ul>
 <hr>
-<h2 id="31-justice-for-the-poor-in-lawsuits-a-href-https-www-biblegateway-com-passage-search-exodus-2023-3-a6-9-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-23-6-9-a" tabindex="-1">31. Justice for the Poor in Lawsuits <a href="https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:6-9</a></h2>
+<h2 id="love-neighbor-justice-for-the-poor-in-lawsuits-a-href-https-www-biblegateway-com-passage-search-exodus-2023-3-a6-9-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-23-6-9-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Justice for the Poor in Lawsuits <a href="https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:6-9</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
 <li><strong>Outline</strong>:
@@ -3626,13 +3633,13 @@ Mishpatim is plural</p>
 <li>
 <p>Do not</p>
 <ul>
-<li>deny justice to poor people in lawsuit</li>
-<li>kill the innocent and righteous
+<li>deny justice to poor people in lawsuit <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>kill the innocent and righteous <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
 <ul>
 <li>Because YHWH will not justify the wicked</li>
 </ul>
 </li>
-<li>take a bride
+<li>take a bribe <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
 <ul>
 <li>Because bribes
 <ul>
@@ -3642,7 +3649,7 @@ Mishpatim is plural</p>
 </li>
 </ul>
 </li>
-<li>oppress an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/foreigner/">Foreigner</a>
+<li>oppress an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/foreigner/">Foreigner</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
 <ul>
 <li>Because you know their heart since you were foreigners in the land of Egypt.</li>
 </ul>
@@ -3652,7 +3659,7 @@ Mishpatim is plural</p>
 <li>
 <p>Do</p>
 <ul>
-<li>keep far from a false charge</li>
+<li>keep far from a false charge <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
 </ul>
 </li>
 </ul>
@@ -3665,7 +3672,7 @@ Mishpatim is plural</p>
 <li><strong>Offering or Ransom</strong>:
 <ul>
 <li>None; the prohibition is absolute.<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus23">#Exodus23</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus23">#Exodus23</a></li>
 </ul>
 </li>
 </ul>
@@ -3679,7 +3686,7 @@ Mishpatim is plural</p>
 </ul>
 <hr>
 <h1 id="judgement-mishpatim-in-leviticus" tabindex="-1">Judgement (Mishpatim) in Leviticus</h1>
-<h2 id="provision-for-the-poor-and-foreigner-leviticus-19-9-10" tabindex="-1">Provision for the Poor and Foreigner [Leviticus 19:9-10]</h2>
+<h2 id="love-neighbor-provision-for-the-poor-and-foreigner-leviticus-19-9-10" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Provision for the Poor and Foreigner [Leviticus 19:9-10]</h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
 <li><strong>Outline:</strong>
@@ -3688,20 +3695,20 @@ Mishpatim is plural</p>
 <p>When you reap the harvest of your land ...</p>
 </li>
 <li>
-<p>Do No</p>
+<p>Do Not</p>
 <ul>
-<li>wholly reap the corners of your field</li>
-<li>gather the gleanings of your harvest</li>
-<li>glean your vineyard</li>
-<li>gather the fallen grapes from your vineyard</li>
+<li>wholly reap the corners of your field <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>gather the gleanings of your harvest <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>glean your vineyard <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>gather the fallen grapes from your vineyard <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
 </ul>
 </li>
 <li>
 <p>Do</p>
 <ul>
-<li>leave //the corners of your field// for the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/p/poor/">Poor</a> and the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/stranger/">Stranger</a></li>
-<li>leave //the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/g/gleaning/">gleaning</a>s of your harvest and vineyard for the poor and the Stranger</li>
-<li>leave //the fallen grapes// for the poor and the stranger</li>
+<li>leave //the corners of your field// for the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/p/poor/">Poor</a> and the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/stranger/">Stranger</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>leave //the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/g/gleaning/">gleaning</a>s of your harvest and vineyard for the poor and the Stranger <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>leave //the fallen grapes// for the poor and the stranger <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
 </ul>
 </li>
 <li>
@@ -3727,11 +3734,11 @@ Mishpatim is plural</p>
 <li>Ruth 2:2–7</li>
 <li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Leviticus19">#Leviticus19</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#03Lev">#03Lev</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#Leviticus19">#Leviticus19</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#03Lev">#03Lev</a></li>
 </ul>
 </li>
 </ul>
-<h2 id="slander-false-witness-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a16-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-16-a" tabindex="-1">Slander, False Witness <a href="https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:16</a></h2>
+<h2 id="love-neighbor-slander-false-witness-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a16-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-16-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Slander, False Witness <a href="https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:16</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
 <li><strong>Outline:</strong>
@@ -3739,8 +3746,8 @@ Mishpatim is plural</p>
 <li>
 <p>Do not</p>
 <ul>
-<li>go around being a <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/slanderer/">slanderer</a></li>
-<li>endanger the life of your neighbor</li>
+<li>go around being a <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/slanderer/">slanderer</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>endanger the life of your neighbor <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
 </ul>
 </li>
 <li>
@@ -3776,7 +3783,7 @@ Mishpatim is plural</p>
 <li><strong>&quot;stand against the blood&quot;</strong> — <em>la'amod al dam</em> (לַעֲמֹד עַל דָּם) — carries judicial weight. It likely refers to bearing false witness in a capital case, withholding testimony that could save a life, or taking action that leads to another's death. The connection to <strong>Deuteronomy 19:15–21</strong> is direct — false witness there, endangering life here.</li>
 <li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Leviticus19">#Leviticus19</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#03Lev">#03Lev</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#Leviticus19">#Leviticus19</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#03Lev">#03Lev</a></li>
 </ul>
 </li>
 </ul>
@@ -3873,15 +3880,15 @@ On this page
 </li>
 <li><a href="#21-pledges-and-loans">21. Pledges and Loans</a>
 </li>
-<li><a href="#22-payment-of-wages-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a14-15-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-14-15-a">22. Payment of Wages Deuteronomy 24:14-15</a>
+<li><a href="#love-neighbor-payment-of-wages-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a14-15-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-14-15-a">#LoveNeighbor Payment of Wages Deuteronomy 24:14-15</a>
 </li>
 <li><a href="#23-individual-responsibility-for-sin">23. Individual Responsibility for Sin</a>
 </li>
-<li><a href="#24-justice-for-the-vulnerable-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a17-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-17-18-a">24. Justice for the Vulnerable Deuteronomy 24:17-18</a>
+<li><a href="#love-neighbor-justice-for-the-vulnerable-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a17-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-17-18-a">#LoveNeighbor Justice for the Vulnerable Deuteronomy 24:17-18</a>
 </li>
-<li><a href="#25-leaving-gleanings-for-the-poor-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a19-22-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-19-22-a">25. Leaving Gleanings for the Poor Deuteronomy 24:19-22</a>
+<li><a href="#25-love-neighbor-leaving-gleanings-for-the-poor-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a19-22-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-19-22-a">25. #LoveNeighbor Leaving Gleanings for the Poor Deuteronomy 24:19-22</a>
 </li>
-<li><a href="#26-limit-on-flogging-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2025-3-a1-3-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-25-1-3-a">26. Limit on Flogging Deuteronomy 25:1-3</a>
+<li><a href="#love-neighbor-limit-on-flogging-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2025-3-a1-3-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-25-1-3-a">#LoveNeighbor Limit on Flogging Deuteronomy 25:1-3</a>
 </li>
 <li><a href="#27-ox-not-to-be-muzzled">27. Ox Not to Be Muzzled</a>
 </li>
@@ -3893,7 +3900,7 @@ On this page
 </li>
 </ol>
 </li>
-<li><a href="#number-of-witnesses-required-false-witness-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2019-3-a15-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-19-15-21-a">Number of Witnesses Required/False Witness Deuteronomy 19:15-21</a>
+<li><a href="#love-neighbor-number-of-witnesses-required-false-witness-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2019-3-a15-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-19-15-21-a">#LoveNeighbor Number of Witnesses Required/False Witness Deuteronomy 19:15-21</a>
 </li>
 <li><a href="#judgments-mishpatim-in-exodus">Judgments (Mishpatim) in Exodus</a>
 <ol>
@@ -3957,7 +3964,7 @@ On this page
 </li>
 <li><a href="#30-return-of-an-enemy-s-lost-animal">30. Return of an Enemy's Lost Animal</a>
 </li>
-<li><a href="#31-justice-for-the-poor-in-lawsuits-a-href-https-www-biblegateway-com-passage-search-exodus-2023-3-a6-9-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-23-6-9-a">31. Justice for the Poor in Lawsuits Exodus 23:6-9</a>
+<li><a href="#love-neighbor-justice-for-the-poor-in-lawsuits-a-href-https-www-biblegateway-com-passage-search-exodus-2023-3-a6-9-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-23-6-9-a">#LoveNeighbor Justice for the Poor in Lawsuits Exodus 23:6-9</a>
 </li>
 <li><a href="#32-protection-of-the-resident-alien">32. Protection of the Resident Alien</a>
 </li>
@@ -3965,9 +3972,9 @@ On this page
 </li>
 <li><a href="#judgement-mishpatim-in-leviticus">Judgement (Mishpatim) in Leviticus</a>
 <ol>
-<li><a href="#provision-for-the-poor-and-foreigner-leviticus-19-9-10">Provision for the Poor and Foreigner [Leviticus 19:9-10]</a>
+<li><a href="#love-neighbor-provision-for-the-poor-and-foreigner-leviticus-19-9-10">#LoveNeighbor Provision for the Poor and Foreigner [Leviticus 19:9-10]</a>
 </li>
-<li><a href="#slander-false-witness-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a16-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-16-a">Slander, False Witness Leviticus 19:16</a>
+<li><a href="#love-neighbor-slander-false-witness-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a16-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-16-a">#LoveNeighbor Slander, False Witness Leviticus 19:16</a>
 </li>
 </ol>
 </li>
@@ -3991,6 +3998,8 @@ On this page
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/c/commandment-reading-plan-october/" data-note-icon="" class="backlink">Commandment Reading Plan October</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/c/commandment-reading-plan-september/" data-note-icon="" class="backlink">Commandment Reading Plan September</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/c/commandment-reading-plan/" data-note-icon="" class="backlink">Commandment Reading Plan</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/c/do-commands/" data-note-icon="" class="backlink">Do Commands</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/c/do-not-commands/" data-note-icon="" class="backlink">Do Not Commands</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/consequence/disobedience/separation-from-yah/judgment/" data-note-icon="" class="backlink">Judgment</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/tablets-of-testimony/" data-note-icon="" class="backlink">Tablets of Testimony</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/j/judge/" data-note-icon="" class="backlink">Judge</a>
