@@ -207,6 +207,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- Whatever punishment the false witness sought to bring upon the accused falls upon the false witness instead.
 - **Offering or Ransom:**
 	- None specified; the punishment is the ransom
+- Matthew 18:15-17
 
 ## **June 7**: Justice for the Poor in Lawsuits [Exodus 23:6-9](https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&version=WEB;NET;OJB)
 
@@ -230,7 +231,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Offering or Ransom**: 
 	- None; the prohibition is absolute.
 
-**June 8**: Slander, False Witness [Leviticus 19:16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&version=WEB;NET;OJB)
+## **June 8**: Slander, False Witness [Leviticus 19:16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- Do not
