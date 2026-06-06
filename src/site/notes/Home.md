@@ -20,9 +20,9 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | Latest Drops                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                                                               |
+| [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                                            |
 | [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                                                     |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread\|Table of Showbread]]                                                         |
-| [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                                            |
 | [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]                                                                                                      |
 | [[Gate of Wisdom/S/Subjecting\|Subjecting]]                                                                                                                  |

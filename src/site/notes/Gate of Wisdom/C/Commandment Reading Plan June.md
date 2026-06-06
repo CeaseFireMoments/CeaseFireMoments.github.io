@@ -45,24 +45,34 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # June
 
-**June 1**: [Deuteronomy 24:14-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&version=WEB;NET;OJB) – “Do not take advantage of a hired worker who is poor...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim #Dos 
+**June 1**: Payment of Wages [Deuteronomy 24:14-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&version=WEB;NET;OJB) 
 
-A poor and needy hired servant
-- one of your brothers (member of your covenant community)
-- one of the [[Gate of Wisdom/F/Foreigner\|Foreigner]]s who are in your land within your gates
-
-Do not
-- oppress
-- let sun go down on his wages
-
-Do
-- in his day given him  his wages
-
-Because
-- he is poor
-- he sets his heart on it
-- if he cry against you to YHWH
-	- it will be a sin to you
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- A poor and needy hired servant
+		- one of your brothers (member of your covenant community)
+		- one of the [[Gate of Wisdom/F/Foreigner\|Foreigner]]s who are in your land within your gates
+		
+	- Do not
+		- oppress
+		- let sun go down on his wages
+		
+	- Do
+		- in his day given him  his wages
+		
+	- Because
+		- he is poor
+		- he sets his heart on it
+		- if he cry against you to YHWH
+			- it will be a sin to you
+- **Penalty or Consequence**: 
+	- Cry of hired servant against you to YHWH
+		- Cry qara (קָרָא) — or more precisely in this context tza'aq (צָעַק) — the same root used of Israel's cry under Egyptian oppression (Ex. 2:23; 3:7). Yahweh's response to that cry was not mediated through offerings. It was direct action.
+	- Sin, with implied divine judgment (Deut. 28:15-68).
+- **Offering or Ransom**: 
+	- None; prompt payment avoids sin.
+		- pay him that day. Once the sun sets, no sacrifice covers it, the debt is now before Yahweh.
+	- James 5:1-4 echoes Deuteronomy 24 almost directly and adds no offering — only the warning that the cries have reached _Yahweh Tzva'ot_:
 
 **June 2**: [Deuteronomy 24:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&version=WEB;NET;OJB) – “Do not deprive the foreigner or the fatherless of justice...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim #Dos 
 
