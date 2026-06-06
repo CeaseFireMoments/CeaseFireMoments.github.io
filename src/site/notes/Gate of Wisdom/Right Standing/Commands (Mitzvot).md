@@ -15,9 +15,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li></ul> |
 
 { .block-language-dataview}
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free.  Jesus became our Passover Lamb offering.
@@ -67,11 +67,56 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
-### **Scripture Reference**: [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v3\|Exod-20#v3]]
-- **Scripture Text (WEB):** You shall have no other gods before me.
+
+## I Am Yahweh Your God: [Exodus 20:2](https://www.biblegateway.com/passage/?search=Exodus+20:2&version=WEB;NET;OJB) 
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* **Outline:**
+   * YHWH (יְהוָה) (The god of Abraham, Isaac, and Jacob's personal covenant name)
+	- Your God = ĕlōheykā
+	- Brought you out of the land
+	- Brought you out of the house of slavery (brutely oppressed, forced labor)
+* **Blessing:**
+   * Yahweh's steadfast love to thousands of those who love Him and keep His commandments (Exodus 20:6)
+   * Long life in the land (Exodus 20:12)
+   * General blessings for covenant obedience (Deuteronomy 28:1–14)
+   * Yahweh Himself as the blessing — "I will be your God and you shall be my people" (Exodus 6:7; Leviticus 26:12)
+* **Penalty or Consequence:**
+   * Rejection of Yahweh as God leads to covenant curses (Deuteronomy 28:15–68)
+   * Yahweh visits iniquity on those who hate Him to the third and fourth generation (Exodus 20:5)
+   * Destruction and exile for abandoning the covenant (Leviticus 26:27–33)
+* **Offering or Ransom?:**
+   * No offering covers the deliberate rejection of Yahweh as God (Numbers 15:30–31)
+   * Repentance and return to covenant are the path back (Deuteronomy 30:1–3)
+#LoveGod #02Exod #Exodus20 
+
 ### **Scripture Reference**: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]]
 - **Scripture Text (WEB):** Resist the devil, and he will flee from you."
 - **Blessing**:  James says, the adversary will flee
+
+## Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**
+	- Do 
+		- Hear Israel #Dos 
+			- YHWH is our god
+			- YHWH is one
+- **Blessing:**
+    - None explicitly stated in the verse itself
+	    - The broader context of Deuteronomy 6 ties obedience to these words to long life and prosperity in the land (Deut. 6:2-3)
+	    - Loving Yahweh with all heart, soul, and strength follows immediately (Deut. 6:5) as the natural response to this declaration
+- **Penalty or Consequence:**
+    - None explicitly stated
+	    - Idolatry — the implicit violation of this declaration — carries severe consequences throughout Deuteronomy (Deut. 6:14-15; Deut. 8:19-20)
+	    - Yahweh describes himself as a jealous God (_El Qanna_ — אֵל קַנָּא) in the immediate context (Deut. 6:15)
+- **Offering or Ransom:**
+    - None prescribed
+- Personal Observations
+	- Hear in Hebrew isn't just about listening, it carries the implied meaning of action as well. Hear, obey. If you do not do something after hearing - you never heard in the first place.
+	- One echad (אֶחָד) = one, unity, alone
+		- In Hebrew mindset of Deuteronomy 6:4, "Yahweh echad" affirms Yahweh as the sole God/El, unique and undivided in loyalty and worship, with no other gods/elohim alongside Him.
+ 
+ #LoveGod #05Deut #Deuteronomy06
 ## 4. Love Yahweh Your God
 - **Scripture Reference**: Deuteronomy 6:5
 - **Scripture Text (WEB)**: “You shall love Yahweh your God with all your heart, with all your soul, and with all your might.”
@@ -425,104 +470,249 @@
 
 ---
 
-2. **No Other Gods Before Me**
-
-- **Scripture Reference:** Exodus 20:3
-- **Scripture Text (WEB):** "You shall have no other gods before me."
-- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
-- **Penalty or Consequence:** Death (Exodus 22:20); judgment on generations (Exodus 20:5).
-- **Offering or Ransom?:** No offering covers intentional idolatry; it is a deliberate high-handed sin (Numbers 15:30–31).
-
----
-
-3. **No Carved Images or Idols**
-
-- **Scripture Reference:** Exodus 20:4–5
-- **Scripture Text (WEB):** "You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. You shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God."
-- **Blessing:** Steadfast love to thousands who love and obey (Exodus 20:6).
-- **Penalty or Consequence:** Visited unto the third and fourth generation of those who hate Him (Exodus 20:5).
-- **Offering or Ransom?:** No offering covers deliberate idol worship (Numbers 15:30–31).
-
----
-
-4. **Do Not Take the Name of Yahweh in Vain**
-
-- **Scripture Reference:** Exodus 20:7
-- **Scripture Text (WEB):** "You shall not take the name of Yahweh your God in vain, for Yahweh will not hold him guiltless who takes his name in vain."
-- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
-- **Penalty or Consequence:** Yahweh will not hold him guiltless (Exodus 20:7); blasphemy of the Name carries death (Leviticus 24:16).
-- **Offering or Ransom?:** No offering specified for deliberate, high-handed misuse.
+## 2. No Other Gods Before Me  [Exodus 20:3](https://www.biblegateway.com/passage/?search=Exodus%2020%3A3&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**
+	- Before My Face 
+	- Do not
+		- have any other gods before YHWH
+- **Blessing:** 
+	- General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** 
+	- Death (Exodus 22:20); judgment on generations (Exodus 20:5).
+- **Offering or Ransom?:** 
+	- No offering covers intentional idolatry; it is a deliberate high-handed sin (Numbers 15:30–31).
+- Personal Observations:
+	- Before = upon, over, above, beside, against, in relation to
+	- My Face = presence, sight
+	- "besides me," "in my presence," "in addition to me," or "alongside me.
+#LoveGod #CommandMitzvot #DoNot #Exodus20 #02Exod 
 
 ---
 
-5. **Remember the Sabbath and Keep It Holy**
+## 3. No Carved Images or Idols [Exodus 20:4-6](https://www.biblegateway.com/passage/?search=Exodus%2020%3A4-6&version=WEB;NET;OJB)
 
-- **Scripture Reference:** Exodus 20:8–11
-- **Scripture Text (WEB):** "Remember the Sabbath day, to keep it holy. You shall labor six days, and do all your work, but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates; for in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore Yahweh blessed the Sabbath day, and made it holy."
-- **Blessing:** Holiness and rest in Yahweh's pattern of creation (Genesis 2:3); sign of the covenant (Exodus 31:13).
-- **Penalty or Consequence:** Death for those who work on the Sabbath (Exodus 31:14–15; Numbers 15:32–36).
-- **Offering or Ransom?:** No offering substitutes for Sabbath violation when done deliberately (Numbers 15:30–31).
-
----
-
-6. **Honor Your Father and Mother**
-
-- **Scripture Reference:** Exodus 20:12
-- **Scripture Text (WEB):** "Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you."
-- **Blessing:** Long life in the land (Exodus 20:12).
-- **Penalty or Consequence:** Death for striking or cursing a parent (Exodus 21:15, 17).
-- **Offering or Ransom?:** Not specified for dishonoring parents.
-
----
-
-7. **Do Not Murder**
-
-- **Scripture Reference:** Exodus 20:13
-- **Scripture Text (WEB):** "You shall not murder."
-- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
-- **Penalty or Consequence:** Death — the murderer shall be put to death (Exodus 21:12).
-- **Offering or Ransom?:** No ransom accepted for the life of a murderer (Numbers 35:31).
-
----
-
-8. **Do Not Commit Adultery**
-
-- **Scripture Reference:** Exodus 20:14
-- **Scripture Text (WEB):** "You shall not commit adultery."
-- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
-- **Penalty or Consequence:** Death for both parties (Leviticus 20:10).
-- **Offering or Ransom?:** No offering specified; a deliberate, high-handed violation (Numbers 15:30–31).
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**
+	- Do not 
+		- make for yourself
+			- an [[Gate of Wisdom/I/idol\|idol]]
+			- an [[Gate of Wisdom/I/image\|image]] (any likeness) of anything that is
+				- in the [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]s
+				- beneath the earth
+				- in the water under the earth
+		- To the idol or image do not 
+			- bow
+			- serve
+	- Because
+		- YHWH is a jealous god
+		- visits the iniquity of the fathers on the children
+		- on the third and fourth generations of those who hate me
+		- shows loving kindness to thousands of those who love me
+		- shows loving kindness to those who keep his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
+- **Blessing:** 
+	- Steadfast love to thousands who love and obey (Exodus 20:6).
+- **Penalty or Consequence:** 
+	- Visited unto the third and fourth generation of those who hate Him (Exodus 20:5).
+- **Offering or Ransom?:** 
+	- No offering covers deliberate idol worship (Numbers 15:30–31).
+#LoveGod #CommandMitzvot #DoNot #Exodus20 #02Exod 
 
 ---
 
-9. **Do Not Steal**
+## 4. Do Not Take the Name of Yahweh in Vain [Exodus 20:7](https://www.biblegateway.com/passage/?search=Exodus%2020%3A7&version=WEB;NET;OJB)
 
-- **Scripture Reference:** Exodus 20:15
-- **Scripture Text (WEB):** "You shall not steal."
-- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
-- **Penalty or Consequence:** Restitution required (Exodus 22:1–4); kidnapping (man-stealing) carries death (Exodus 21:16).
-- **Offering or Ransom?:** Restitution plus one-fifth added for theft with false oath (Leviticus 6:1–7); guilt offering required.
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**
+	- Do not
+		- misuse the name of YHWH
+	- Because
+		- YHWH will not hold him guiltless
+			- who misuses his name
+- **Blessing:** 
+	- General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** 
+	- Yahweh will not hold him guiltless (Exodus 20:7); blasphemy of the Name carries death (Leviticus 24:16).
+- **Offering or Ransom?:** 
+	- No offering specified for deliberate, high-handed misuse.
+- Personal Observations
+	- - [[Gate of Wisdom/N/Name\|Name]]
+		- A more literal rendering: "You shall not carry/bear the name of YHWH your God to/for emptiness/vanity."
+		- suggests bearing or carrying God's name — not just casually "taking" or uttering it, but identifying with it, representing it, or invoking it as one's own (like bearing a family name or title).
+		- It goes beyond simple speech to include how one lives while claiming to belong to God
+	- Vanity - empty, false, or self-serving purposes (e.g., false oaths, invoking God to justify wrongdoing, or claiming to represent Him while living contrary to His character)
+#LoveGod #CommandMitzvot #DoNot #Exodus20 #02Exod 
 
 ---
 
-10. **Do Not Bear False Witness**
-
-- **Scripture Reference:** Exodus 20:16
-- **Scripture Text (WEB):** "You shall not give false testimony against your neighbor."
-- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
-- **Penalty or Consequence:** The false witness shall receive what he intended for the accused (Deuteronomy 19:18–19).
-- **Offering or Ransom?:** Not specified in Exodus; related to false oaths requiring a guilt offering (Leviticus 6:1–7).
+## 5. Remember the Sabbath and Keep It Holy [Exodus 20:8-11](https://www.biblegateway.com/passage/?search=Exodus%2020%3A8-11&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**
+	- Seventh Day
+		- a [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] day
+		- To YHWH your god
+		- YHWH rested on the seventh day
+			- after making the heaven and earth
+			- after making the sea
+			- after making everything in the heavens, earth, and sea
+		- YHWH blessed this day
+		- YHWH set this day apart
+	- Do
+		- Remember the Sabbath Day
+		- Keep Sabbath Day Holy (Set-apart)
+		- Labor six days
+		- Do all your work
+	- Do Not on Seventh Day
+		- do any work
+			- you
+			- your son nor daughter
+			- you servants
+			- your livestock
+			- a stranger who is within your gates (home)
+- **Blessing:** 
+	- Holiness and rest in Yahweh's pattern of creation (Genesis 2:3); sign of the covenant (Exodus 31:13).
+- **Penalty or Consequence:** 
+	- Death for those who work on the Sabbath (Exodus 31:14–15; Numbers 15:32–36).
+- **Offering or Ransom?:** 
+	- No offering substitutes for Sabbath violation when done deliberately (Numbers 15:30–31).
+#LoveGod #CommandMitzvot #DoNot #Exodus20 #02Exod 
 
 ---
 
-11. **Do Not Covet**
+## #LoveNeighbor  Honor Your Father and Mother [Exodus 20:12](https://www.biblegateway.com/passage/?search=Exodus%2020%3A12&version=WEB;NET;OJB) 
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**
+	- Do
+		- Honor your #Dos 
+			- father
+			- mother
+	- Because
+		- your days may be long in the land
+			- which YHWH gives you
+- **Blessing:** 
+	- Long life in the land (Exodus 20:12).
+- **Penalty or Consequence:** 
+	- Death for striking or cursing a parent (Exodus 21:15, 17).
+- **Offering or Ransom?:** 
+	- Not specified for dishonoring parents.
+- Personal Observations:
+	- Honor
+		- treat someone as significant, important, or “weighty” by actions and attitude,
+		- It is the same root as כָּבוֹד (kābôd / kavod), which is often translated “glory” or “honor” and frequently describes God’s glory (i.e., His weighty importance and majesty).
+	- Blessing
+		- days may be long in the land which YHWH, elohim gives you.
+ #Exodus20 #02Exod 
 
-- **Scripture Reference:** Exodus 20:17
-- **Scripture Text (WEB):** "You shall not covet your neighbor's house. You shall not covet your neighbor's wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor's."
-- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
-- **Penalty or Consequence:** No explicit civil penalty — this is a command governing the heart; consequences manifest in covetousness leading to further sins (Joshua 7:21; 2 Samuel 11).
-- **Offering or Ransom?:** Not specified — this is an inward command; no offering covers unrepentant covetousness.
+---
 
+## #LoveNeighbor  Do Not Murder [Exodus 20:13](https://www.biblegateway.com/passage/?search=Exodus%2020%3A13&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**
+	- Do Not
+		- Murder
+- **Blessing:** 
+	- General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** 
+	- Death — the murderer shall be put to death (Exodus 21:12).
+- **Offering or Ransom?:** 
+	- No ransom accepted for the life of a murderer (Numbers 35:31).
+- Personal Observation:
+	- Murder
+		- unlawful or unjust taking of human life
+			- Intent: Hatred, enmity, lying in wait, or ambush
+			- Malice or recklessness
+			- No justification - Not self-defense, not judicial execution, not authorized warfare or divine command
+		- illegal, wrongful, or unauthorized killing that brings bloodguilt
+		- does not prohibit all taking of life - specifically a life taken wrongfully
+	- Examples:
+		- Exodus 21:12–14
+		- Numbers 35:9–34
+		- Deuteronomy 19:1–13
+		- Deuteronomy 21:1–9
+		- Exodus 21:28–32
+		- Exodus 22:2–3
+		- Leviticus 24:17
+-  #CommandMitzvot #DoNot  #Exodus20 #02Exod 
+
+---
+
+## 8. #LoveNeighbor  Do Not Commit Adultery [Exodus 20:14](https://www.biblegateway.com/passage/?search=Exodus%2020%3A14&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline**
+	- Do Not
+		- commit [[Gate of Wisdom/A/Adultery\|Adultery]] #DoNot 
+- **Blessing:** 
+	- General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** 
+	- Death for both parties (Leviticus 20:10).
+- **Offering or Ransom?:** 
+	- No offering specified; a deliberate, high-handed violation (Numbers 15:30–31).
+ #Exodus20 #02Exod  
+---
+
+## 9. #LoveNeighbor  Do Not Steal [Exodus 20:15](https://www.biblegateway.com/passage/?search=Exodus%2020%3A15&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline**
+	- Do not
+		- Steal #DoNot 
+- **Blessing:** 
+	- General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** 
+	- Restitution required (Exodus 22:1–4); kidnapping (man-stealing) carries death (Exodus 21:16).
+- **Offering or Ransom?:** 
+	- Restitution plus one-fifth added for theft with false oath (Leviticus 6:1–7); guilt offering required.
+- Personal Observations
+	- Steal - taking something that belongs to another without consent
+		- Literal theft of objects, animals, or goods (e.g., stealing silver, idols, or livestock).
+		- Kidnapping ("man-stealing" or stealing a person), which carried severe penalties, including the death penalty in some contexts (see Exodus 21:16; Deuteronomy 24:7).
+		- Deception or "stealing the mind/heart" — figuratively, to deceive someone (e.g., "stealing" their trust or withholding truth). (see Genesis 31:20, 26)
+		- Ganav emphasizes stealth or secrecy more than violent robbery (which might use other Hebrew terms like gazal for open plunder).
+#Exodus20 #02Exod  #CommandMitzvot 
+---
+
+## 10. Do Not Bear False Witness [Exodus 20:16](https://www.biblegateway.com/passage/?search=Exodus%2020%3A16&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline**
+	- Do not
+		- give false testimony
+			- against your neighbor
+
+- **Blessing:** 
+	- General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** 
+	- The false witness shall receive what he intended for the accused (Deuteronomy 19:18–19).
+- **Offering or Ransom?:** 
+	- Not specified in Exodus; related to false oaths requiring a guilt offering (Leviticus 6:1–7).
+- Personal Observations
+	- Leviticus 19:16, James 4:11, Proverbs 18:21
+	- Give/Speak ʿānâ (ענה): meaning "to answer," "to respond," or "to testify/declare." It implies actively speaking up or responding in a formal or public setting
+	- Testimony ʿēd (עֵד): refers to someone who testifies or the act of testimony itself, 
+	- False/Falsehood šāqer (שָׁקֶר): "deception," "lie," or "untruth." It implies something intentionally deceptive or unreliable, often in the context of speech or together means "false witness" or "false testimony," an accusation
+	- Neighbor - fellow - broadly any other person
+#LoveNeighbor #JudgmentMishpatim #DoNot #LoveGod  #Exodus20 #02Exod  #CommandMitzvot 
+---
+
+## 11. #LoveNeighbor  Do Not Covet [Exodus 20:17](https://www.biblegateway.com/passage/?search=Exodus%2020%3A17&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**
+	- Do not 
+		- Covet your neighbor/other person's #DoNot 
+			- house
+			- wife
+			- servant (male or female)
+			- ox
+			- donkey
+			- anything that is theirs
+- **Blessing:** 
+	- General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** 
+	- No explicit civil penalty — this is a command governing the heart; consequences manifest in covetousness leading to further sins (Joshua 7:21; 2 Samuel 11).
+- **Offering or Ransom?:** 
+	- Not specified — this is an inward command; no offering covers unrepentant covetousness.
+- Personal Observations
+	-  Covet hāmad or ḥāmaḏ (חָמַד) - To desire, to take pleasure in, to delight in, or to long for something. It implies a strong craving or lust that goes beyond mere admiration and can lead to actions like theft, adultery, or other violations of the commandments. 
+	- Internal matter of the heart and mind, not just an action.
+#Exodus20 #02Exod  
 ---
 
 12. **Do Not Make Gods of Silver or Gold**

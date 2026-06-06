@@ -19,9 +19,10 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                                                               |
-| [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                                            |
 | [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                                                     |
+| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                                                               |
+| [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]                                                                          |
+| [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                                            |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread\|Table of Showbread]]                                                         |
 | [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]                                                                                                      |
@@ -38,7 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Torah Portions/2026.05.09 Shabbat Reading\|2026.05.09 Shabbat Reading]]                                                                                    |
 | [[Gate of Wisdom/Appointed Time/First Fruits\|First Fruits]]                                                                                                 |
 | [[Gate of Wisdom/S/salvation\|salvation]]                                                                                                                    |
-| [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment\|Judgment]]                                                                           |
 
 { .block-language-dataview}
 

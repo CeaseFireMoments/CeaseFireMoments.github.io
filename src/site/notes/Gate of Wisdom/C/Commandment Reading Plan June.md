@@ -45,20 +45,17 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # June
 
-**June 1**: Payment of Wages [Deuteronomy 24:14-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&version=WEB;NET;OJB) 
+## **June 1**: Payment of Wages [Deuteronomy 24:14-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&version=WEB;NET;OJB) 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- A poor and needy hired servant
 		- one of your brothers (member of your covenant community)
 		- one of the [[Gate of Wisdom/F/Foreigner\|Foreigner]]s who are in your land within your gates
-		
 	- Do not
 		- oppress
 		- let sun go down on his wages
-		
 	- Do
 		- in his day given him  his wages
-		
 	- Because
 		- he is poor
 		- he sets his heart on it
@@ -73,7 +70,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- pay him that day. Once the sun sets, no sacrifice covers it, the debt is now before Yahweh.
 	- James 5:1-4 echoes Deuteronomy 24 almost directly and adds no offering — only the warning that the cries have reached _Yahweh Tzva'ot_:
 
-**June 2**: Justice for the Vulnerable [Deuteronomy 24:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&version=WEB;NET;OJB)
+## **June 2**: Justice for the Vulnerable [Deuteronomy 24:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- The 
@@ -82,7 +79,6 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- Do not
 		- deprive foreigner of justice
 		- take widows clothing in pledge
-
 	- Do
 		- remember you were a slave in Egypt
 		- remember YHWH redeemed you
@@ -91,7 +87,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Offering or Ransom**: 
 	- None; ensuring justice fulfills the command.
 
-**June 3**: – Leaving Gleanings for the Poor [Deuteronomy 24:19-22](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&version=WEB;NET;OJB) 
+## **June 3**: – Leaving Gleanings for the Poor [Deuteronomy 24:19-22](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&version=WEB;NET;OJB) 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- When 
@@ -119,7 +115,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Offering or Ransom**: 
 	- None; leaving gleanings fulfills the command.
 
-**June 4**: Provision for the Poor and Foreigner [Leviticus 19:9-10]
+## **June 4**: Provision for the Poor and Foreigner [Leviticus 19:9-10]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- When you reap the harvest of your land ...
@@ -140,7 +136,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Offering or Ransom**: 
 	- None; the act of leaving the gleanings is itself the obligation.
 
-**June 5**: Limit on Flogging [Deuteronomy 25:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&version=WEB;NET;OJB)
+## **June 5**: Limit on Flogging [Deuteronomy 25:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline**: 
 	- A controversy between men
@@ -169,7 +165,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Offering or Ransom**: 
 	- None specified; limit ensures justice.
 
-**June 6**: Number of Witnesses Required/False Witness [Deuteronomy 19:15-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&version=WEB;NET;OJB)
+## **June 6**: Number of Witnesses Required/False Witness [Deuteronomy 19:15-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- When rising up against a man for 
@@ -212,7 +208,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Offering or Ransom:**
 	- None specified; the punishment is the ransom
 
-**June 7**: Justice for the Poor in Lawsuits [Exodus 23:6-9](https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&version=WEB;NET;OJB)
+## **June 7**: Justice for the Poor in Lawsuits [Exodus 23:6-9](https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline**:
