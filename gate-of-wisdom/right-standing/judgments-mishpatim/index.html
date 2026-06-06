@@ -2732,7 +2732,7 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-06-06T04:26:38.477Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-06-06T04:26:38.477Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-06-06T04:26:38.477Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-06-06T15:43:11.914Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-06-06T15:43:11.914Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-06-06T15:43:11.914Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
 <h1 data-note-icon="">Judgments (Mishpatim)</h1>
@@ -2779,11 +2779,11 @@ Mishpatim is plural</p>
 </thead>
 <tbody class="table-view-tbody">
 <tr>
-<td><ul><li><a class="internal-link is-unresolved" href="/404" target="">No Other Gods</a></li><li><a class="internal-link is-unresolved" href="/404" target="">59 James-04 Yada Yada</a></li><li><a class="internal-link" target="" data-note-icon="" href="/olive-branch-reconciliations/the-seventh-day-rest/16-the-seventh-day-rest-is-yhwh-gods-16-nehemiah-09/">16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/t/torah/">Torah</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commandments/">Commandments</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/j/judge/">Judge</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Tablets of Testimony</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/consequence/disobedience/separation-from-yah/judgment/">Judgment</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan September</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan October</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan March</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan November</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan May</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan December</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan July</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan August</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan January</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan April</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan June</a></li></ul></td>
+<td><ul><li><a class="internal-link is-unresolved" href="/404" target="">No Other Gods</a></li><li><a class="internal-link is-unresolved" href="/404" target="">59 James-04 Yada Yada</a></li><li><a class="internal-link" target="" data-note-icon="" href="/olive-branch-reconciliations/the-seventh-day-rest/16-the-seventh-day-rest-is-yhwh-gods-16-nehemiah-09/">16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/t/torah/">Torah</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commandments/">Commandments</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/j/judge/">Judge</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Tablets of Testimony</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan October</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan September</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan May</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan November</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan June</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan March</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan January</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan December</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan July</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan August</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan April</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/consequence/disobedience/separation-from-yah/judgment/">Judgment</a></li></ul></td>
 </tr>
 </tbody>
 </table></div>
-<h4 id="it-seems-initially-the-passover-lamb-of-the-gate-of-wisdom-offering-passover-offering-passover-offering-could-be-applied-just-as-the-hebrews-in-egypt-applied-the-blood-to-their-door-posts-the-emphasis-is-on-seeking-fellowship-with-god-and-gratitude-for-his-redemption-this-graphs-one-into-the-congregation-of-israel-becoming-one-of-yah-god-s-people-brought-out-of-bondage-and-set-free-jesus-became-our-passover-lamb-offering" tabindex="-1">It seems initially the Passover Lamb of the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/passover-offering/">Passover Offering</a> could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.</h4>
+<h2 id="it-seems-initially-the-passover-lamb-of-the-gate-of-wisdom-offering-passover-offering-passover-offering-could-be-applied-just-as-the-hebrews-in-egypt-applied-the-blood-to-their-door-posts-the-emphasis-is-on-seeking-fellowship-with-god-and-gratitude-for-his-redemption-this-graphs-one-into-the-congregation-of-israel-becoming-one-of-yah-god-s-people-brought-out-of-bondage-and-set-free-jesus-became-our-passover-lamb-offering" tabindex="-1">It seems initially the Passover Lamb of the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/passover-offering/">Passover Offering</a> could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.</h2>
 <h2 id="jesus-as-an-offering" tabindex="-1">Jesus as an Offering</h2>
 <ul>
 <li>
@@ -2803,14 +2803,14 @@ Mishpatim is plural</p>
 </li>
 </ul>
 <h1 id="list-of-judgments-mishpatim-in-deuteronomy" tabindex="-1">List of Judgments (Mishpatim) in Deuteronomy</h1>
-<h4 id="1-release-of-hebrew-slaves" tabindex="-1">1. Release of Hebrew Slaves</h4>
+<h2 id="1-release-of-hebrew-slaves" tabindex="-1">1. Release of Hebrew Slaves</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 15:12-15</li>
 <li><strong>Scripture Text (WEB)</strong>: “If your brother, a Hebrew man, or a Hebrew woman, is sold to you, and serves you six years, then in the seventh year you shall let him go free from you. When you let him go free from you, you shall not let him go empty. You shall furnish him liberally out of your flock, out of your threshing floor, and out of your winepress. As Yahweh your God has blessed you, you shall give to him. You shall remember that you were a slave in the land of Egypt, and Yahweh your God redeemed you. Therefore I command you this thing today.”</li>
 <li><strong>Penalty or Consequence</strong>: No explicit penalty for non-compliance, but failure to release or provide for the slave violates the covenant, implying divine judgment (general covenant curses in Deut. 28:15-68).</li>
 <li><strong>Offering or Ransom</strong>: None specified; the act of freeing and providing for the slave fulfills the command.</li>
 </ul>
-<h4 id="2-debt-cancellation-every-seven-years" tabindex="-1">2. Debt Cancellation Every Seven Years</h4>
+<h2 id="2-debt-cancellation-every-seven-years" tabindex="-1">2. Debt Cancellation Every Seven Years</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 15:1-3</li>
 <li><strong>Scripture Text (WEB)</strong>: “At the end of every seven years, you shall cancel debts. This is the way it shall be: every creditor shall release that which he has lent to his neighbor. He shall not require payment from his neighbor and his brother, because Yahweh’s release has been proclaimed. Of a foreigner you may require it; but whatever of yours is with your brother, your hand shall release.”</li>
@@ -2822,7 +2822,7 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="3-lending-to-the-poor" tabindex="-1">3. Lending to the Poor</h4>
+<h2 id="3-lending-to-the-poor" tabindex="-1">3. Lending to the Poor</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 15:7-11</li>
 <li><strong>Scripture Text (WEB)</strong>: “If a poor man, one of your brothers, is with you within any of your gates in your land which Yahweh your God gives you, you shall not harden your heart, nor shut your hand from your poor brother; but you shall surely open your hand to him, and shall surely lend him sufficient for his need, in that which he lacks.”</li>
@@ -2834,7 +2834,7 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="4-treatment-of-female-captives" tabindex="-1">4. Treatment of Female Captives</h4>
+<h2 id="4-treatment-of-female-captives" tabindex="-1">4. Treatment of Female Captives</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 21:10-14</li>
 <li><strong>Scripture Text (WEB)</strong>: “When you go out to battle against your enemies, and Yahweh your God delivers them into your hands and you carry them away captive, and see among the captives a beautiful woman, and you are attracted to her, and desire to take her as your wife, then you shall bring her home to your house. She shall shave her head, and trim her nails. She shall take off the clothing of her captivity, and shall remain in your house, and bewail her father and her mother a full month. After that you shall go in to her and be her husband, and she shall be your wife. It shall be, if you have no delight in her, then you shall let her go where she desires; but you shall not sell her at all for money. You shall not deal with her as a slave, because you have humbled her.”</li>
@@ -2846,7 +2846,7 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="5-rights-of-the-firstborn" tabindex="-1">5. Rights of the Firstborn</h4>
+<h2 id="5-rights-of-the-firstborn" tabindex="-1">5. Rights of the Firstborn</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 21:15-17</li>
 <li><strong>Scripture Text (WEB)</strong>: “If a man has two wives, the one beloved and the other hated, and they have borne him children, both the beloved and the hated, and if the firstborn son is hers who was hated, then it shall be, in the day that he causes his sons to inherit that which he has, that he may not give the son of the beloved the rights of the firstborn before the son of the hated, who is the firstborn; but he shall acknowledge the firstborn, the son of the hated, by giving him a double portion of all that he has; for he is the beginning of his strength. The right of the firstborn is his.”</li>
@@ -2858,14 +2858,14 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="7-hanging-on-a-tree" tabindex="-1">7. Hanging on a Tree</h4>
+<h2 id="7-hanging-on-a-tree" tabindex="-1">7. Hanging on a Tree</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 21:22-23</li>
 <li><strong>Scripture Text (WEB)</strong>: “If a man has committed a sin worthy of death, and he is put to death, and you hang him on a tree, his body shall not remain all night on the tree, but you shall surely bury him the same day; for he who is hanged is accursed of God. That way you shall not defile your land which Yahweh your God gives you for an inheritance.”</li>
 <li><strong>Penalty or Consequence</strong>: Death (for the underlying sin); body must be buried same day to avoid defiling the land.</li>
 <li><strong>Offering or Ransom</strong>: None specified; burial fulfills the command to avoid land defilement.</li>
 </ul>
-<h4 id="8-returning-lost-property" tabindex="-1">8. Returning Lost Property</h4>
+<h2 id="8-returning-lost-property" tabindex="-1">8. Returning Lost Property</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 22:1-3</li>
 <li><strong>Scripture Text (WEB)</strong>: “You shall not see your brother’s ox or his sheep go astray and hide yourself from them. You shall surely bring them again to your brother. If your brother isn’t near to you, or if you don’t know him, then you shall bring it home to your house, and it shall be with you until your brother looks for it, and you shall restore it to him. So you shall do with his donkey, and so you shall do with his garment, and so you shall do with every lost thing of your brother’s, which he has lost and you have found. You shall not hide yourself.”</li>
@@ -2877,7 +2877,7 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="9-helping-with-fallen-animals" tabindex="-1">9. Helping with Fallen Animals</h4>
+<h2 id="9-helping-with-fallen-animals" tabindex="-1">9. Helping with Fallen Animals</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 22:4</li>
 <li><strong>Scripture Text (WEB)</strong>: “You shall not see your brother’s donkey or his ox fallen down by the way, and hide yourself from them. You shall surely help him to lift them up again.”</li>
@@ -2888,7 +2888,7 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="11-bird-s-nest-law" tabindex="-1">11. Bird’s Nest Law</h4>
+<h2 id="11-bird-s-nest-law" tabindex="-1">11. Bird’s Nest Law</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 22:6-7</li>
 <li><strong>Scripture Text (WEB)</strong>: “If a bird’s nest is found before you in the way, in any tree or on the ground, with young ones or eggs, and the hen sitting on the young, or on the eggs, you shall not take the hen with the young. You shall surely let the hen go, but the young you may take for yourself, that it may be well with you, and that you may prolong your days.”</li>
@@ -2900,28 +2900,28 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="12-building-a-parapet" tabindex="-1">12. Building a Parapet</h4>
+<h2 id="12-building-a-parapet" tabindex="-1">12. Building a Parapet</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 22:8</li>
 <li><strong>Scripture Text (WEB)</strong>: “When you build a new house, then you shall make a railing around your roof, so that you don’t bring blood on your house if anyone falls from there.”</li>
 <li><strong>Penalty or Consequence</strong>: Bloodguilt if someone falls due to negligence.</li>
 <li><strong>Offering or Ransom</strong>: None specified; building the parapet prevents guilt.</li>
 </ul>
-<h4 id="13-adultery-with-a-betrothed-woman" tabindex="-1">13. Adultery with a Betrothed Woman</h4>
+<h2 id="13-adultery-with-a-betrothed-woman" tabindex="-1">13. Adultery with a Betrothed Woman</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 22:23-24</li>
 <li><strong>Scripture Text (WEB)</strong>: “If there is a young lady who is a virgin pledged to be married to a husband, and a man finds her in the city, and lies with her, then you shall bring them both out to the gate of that city, and you shall stone them to death with stones: the young lady, because she didn’t cry, being in the city; and the man, because he has humbled his neighbor’s wife. So you shall remove the evil from among you.”</li>
 <li><strong>Penalty or Consequence</strong>: Death by stoning for both.</li>
 <li><strong>Offering or Ransom</strong>: None specified; no atonement provided. <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/sins-requiring-death-no-offering/">Sins Requiring Death - No Offering</a></li>
 </ul>
-<h4 id="14-rape-of-a-betrothed-woman-in-the-country" tabindex="-1">14. Rape of a Betrothed Woman in the Country</h4>
+<h2 id="14-rape-of-a-betrothed-woman-in-the-country" tabindex="-1">14. Rape of a Betrothed Woman in the Country</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 22:25-27</li>
 <li><strong>Scripture Text (WEB)</strong>: “But if the man finds the lady who is pledged to be married in the field, and the man forces her and lies with her, then only the man who lay with her shall die; but to the young lady you shall do nothing. There is in the young lady no sin worthy of death; for as when a man rises against his neighbor and kills him, even so is this matter; for he found her in the field, the pledged to be married lady cried, and there was no one to save her.”</li>
 <li><strong>Penalty or Consequence</strong>: Death for the man; woman is innocent.</li>
 <li><strong>Offering or Ransom</strong>: None specified. <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/sins-requiring-death-no-offering/">Sins Requiring Death - No Offering</a></li>
 </ul>
-<h4 id="15-rape-of-an-unbetrothed-virgin" tabindex="-1">15. Rape of an Unbetrothed Virgin</h4>
+<h2 id="15-rape-of-an-unbetrothed-virgin" tabindex="-1">15. Rape of an Unbetrothed Virgin</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 22:28-29</li>
 <li><strong>Scripture Text (WEB)</strong>: “If a man finds a lady who is a virgin, who is not pledged to be married, and lays hold of her, and lies with her, and they are found, then the man who lay with her shall give to the lady’s father fifty shekels of silver. She shall be his wife, because he has humbled her. He may not put her away all his days.”</li>
@@ -2933,7 +2933,7 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="16-incest-with-father-s-wife" tabindex="-1">16. Incest with Father’s Wife</h4>
+<h2 id="16-incest-with-father-s-wife" tabindex="-1">16. Incest with Father’s Wife</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 22:30</li>
 <li><strong>Scripture Text (WEB)</strong>: “A man shall not take his father’s wife, and shall not uncover his father’s skirt.”</li>
@@ -2945,14 +2945,14 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="17-false-accusation-of-unchastity" tabindex="-1">17. False Accusation of Unchastity</h4>
+<h2 id="17-false-accusation-of-unchastity" tabindex="-1">17. False Accusation of Unchastity</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 22:13-19</li>
 <li><strong>Scripture Text (WEB)</strong>: “If any man takes a wife, and goes in to her, hates her, and accuses her of shameful things, saying, ‘I took this woman, and when I came near to her, I didn’t find in her the tokens of virginity,’ then the young lady’s father and mother shall take and bring the tokens of the young lady’s virginity to the elders of the city in the gate… If this thing is true, that the tokens of virginity were not found in the young lady, then they shall bring out the young lady to the door of her father’s house, and the men of her city shall stone her to death with stones, because she has done folly in Israel, to play the prostitute in her father’s house. So you shall remove the evil from among you.”</li>
 <li><strong>Penalty or Consequence</strong>: If false, husband is fined 100 shekels, whipped, and cannot divorce her (22:19); if true, wife is stoned (22:21).</li>
 <li><strong>Offering or Ransom</strong>: For false accusation, 100 shekels paid to the father; no atonement for guilty wife. <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/sins-requiring-death-no-offering/">Sins Requiring Death - No Offering</a></li>
 </ul>
-<h4 id="18-divorce-regulations" tabindex="-1">18. Divorce Regulations</h4>
+<h2 id="18-divorce-regulations" tabindex="-1">18. Divorce Regulations</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 24:1-4</li>
 <li><strong>Scripture Text (WEB)</strong>: “When a man takes a wife and marries her, then it shall be, if she finds no favor in his eyes because he has found some unseemly thing in her, that he shall write her a bill of divorce, give it in her hand, and send her out of his house. When she has departed out of his house, she may go and be another man’s wife. If the latter husband hates her, and writes her a bill of divorce… or if the latter husband dies… her former husband, who sent her away, may not take her again to be his wife after she is defiled; for that is an abomination to Yahweh.”</li>
@@ -2964,21 +2964,21 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="19-kidnapping" tabindex="-1">19. Kidnapping</h4>
+<h2 id="19-kidnapping" tabindex="-1">19. Kidnapping</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 24:7</li>
 <li><strong>Scripture Text (WEB)</strong>: “If a man is found stealing any of his brothers of the children of Israel, and he deals with him as a slave, or sells him, then that thief shall die. So you shall remove the evil from among you.”</li>
 <li><strong>Penalty or Consequence</strong>: Death.</li>
 <li><strong>Offering or Ransom</strong>: None specified; no atonement provided. <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/sins-requiring-death-no-offering/">Sins Requiring Death - No Offering</a></li>
 </ul>
-<h4 id="20-fair-treatment-of-lepers" tabindex="-1">20. Fair Treatment of Lepers</h4>
+<h2 id="20-fair-treatment-of-lepers" tabindex="-1">20. Fair Treatment of Lepers</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 24:8-9</li>
 <li><strong>Scripture Text (WEB)</strong>: “Be careful in the plague of leprosy, that you observe diligently and do according to all that the Levitical priests teach you. As I commanded them, so you shall observe to do. Remember what Yahweh your God did to Miriam, by the way as you came out of Egypt.”</li>
 <li><strong>Penalty or Consequence</strong>: No explicit penalty, but Miriam’s leprosy (Num. 12:10) implies divine punishment for disobedience.</li>
 <li><strong>Offering or Ransom</strong>: None specified; priestly instructions (Lev. 13–14) include offerings for cleansing.</li>
 </ul>
-<h4 id="21-pledges-and-loans" tabindex="-1">21. Pledges and Loans</h4>
+<h2 id="21-pledges-and-loans" tabindex="-1">21. Pledges and Loans</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 24:10-13</li>
 <li><strong>Scripture Text (WEB)</strong>: “When you lend your neighbor any kind of loan, you shall not go into his house to get his pledge. You shall stand outside, and the man to whom you lend shall bring the pledge out to you. If he is a poor man, you shall not sleep with his pledge. You shall surely restore to him the pledge when the sun goes down, that he may sleep in his garment and bless you. It shall be righteousness to you before Yahweh your God.”</li>
@@ -2990,26 +2990,69 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="22-prompt-payment-of-wages" tabindex="-1">22. Prompt Payment of Wages</h4>
+<h2 id="22-prompt-payment-of-wages" tabindex="-1">22. Prompt Payment of Wages</h2>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></p>
+<h3 id="strong-scripture-reference-strong-deuteronomy-24-14-15" tabindex="-1"><strong>Scripture Reference</strong>: Deuteronomy 24:14-15</h3>
+<h3 id="strong-scripture-text-web-strong" tabindex="-1"><strong>Scripture Text (WEB)</strong>:</h3>
 <ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 24:14-15</li>
-<li><strong>Scripture Text (WEB)</strong>: “You shall not oppress a hired servant who is poor and needy, whether he is one of your brothers, or one of the foreigners who are in your land within your gates. In his day you shall give him his wages, neither shall the sun go down on it, for he is poor and sets his heart on it; lest he cry against you to Yahweh, and it be sin to you.”</li>
-<li><strong>Penalty or Consequence</strong>: Sin, with implied divine judgment (Deut. 28:15-68).</li>
-<li><strong>Offering or Ransom</strong>: None; prompt payment avoids sin.
+<li>“You shall not oppress a hired servant who is poor and needy, whether he is one of your brothers, or one of the foreigners who are in your land within your gates. In his day you shall give him his wages, neither shall the sun go down on it, for he is poor and sets his heart on it; lest he cry against you to Yahweh, and it be sin to you.”</li>
+</ul>
+<h3 id="strong-penalty-or-consequence-strong" tabindex="-1"><strong>Penalty or Consequence</strong>:</h3>
+<ul>
+<li>Sin, with implied divine judgment (Deut. 28:15-68).</li>
+</ul>
+<h3 id="strong-offering-or-ransom-strong" tabindex="-1"><strong>Offering or Ransom</strong>:</h3>
+<ul>
+<li>None; prompt payment avoids sin.
 <ul>
 <li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.</li>
 </ul>
 </li>
 </ul>
-<h4 id="23-individual-responsibility-for-sin" tabindex="-1">23. Individual Responsibility for Sin</h4>
+<h3 id="strong-outline-strong" tabindex="-1"><strong>Outline:</strong></h3>
+<ul>
+<li>
+<p>A poor and needy hired servant</p>
+<ul>
+<li>one of your brothers (member of your covenant community)</li>
+<li>one of the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/foreigner/">Foreigner</a>s who are in your land within your gates</li>
+</ul>
+</li>
+<li>
+<p>Do not</p>
+<ul>
+<li>oppress</li>
+<li>let sun go down on his wages</li>
+</ul>
+</li>
+<li>
+<p>Do</p>
+<ul>
+<li>in his day given him his wages</li>
+</ul>
+</li>
+<li>
+<p>Because</p>
+<ul>
+<li>he is poor</li>
+<li>he sets his heart on it</li>
+<li>if he cry against you to YHWH
+<ul>
+<li>it will be a sin to you</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="23-individual-responsibility-for-sin" tabindex="-1">23. Individual Responsibility for Sin</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 24:16</li>
 <li><strong>Scripture Text (WEB)</strong>: “The fathers shall not be put to death for the children, nor the children be put to death for the fathers. Every man shall be put to death for his own sin.”</li>
 <li><strong>Penalty or Consequence</strong>: Death only for the guilty individual’s sin.</li>
 <li><strong>Offering or Ransom</strong>: None specified; justice is the principle.</li>
 </ul>
-<h4 id="24-justice-for-the-vulnerable" tabindex="-1">24. Justice for the Vulnerable</h4>
+<h2 id="24-justice-for-the-vulnerable" tabindex="-1">24. Justice for the Vulnerable</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 24:17-18</li>
 <li><strong>Scripture Text (WEB)</strong>: “You shall not deprive the foreigner or the fatherless of justice, nor take a widow’s clothing in pledge; but you shall remember that you were a slave in Egypt, and Yahweh your God redeemed you there. Therefore I command you to do this thing.”</li>
@@ -3021,7 +3064,7 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="25-leaving-gleanings-for-the-poor" tabindex="-1">25. Leaving Gleanings for the Poor</h4>
+<h2 id="25-leaving-gleanings-for-the-poor" tabindex="-1">25. Leaving Gleanings for the Poor</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 24:19-22</li>
 <li><strong>Scripture Text (WEB)</strong>: “When you reap your harvest in your field, and have forgotten a sheaf in the field, you shall not go again to get it. It shall be for the foreigner, for the fatherless, and for the widow, that Yahweh your God may bless you in all the work of your hands.”</li>
@@ -3033,14 +3076,14 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="26-limit-on-flogging" tabindex="-1">26. Limit on Flogging</h4>
+<h2 id="26-limit-on-flogging" tabindex="-1">26. Limit on Flogging</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 25:1-3</li>
 <li><strong>Scripture Text (WEB)</strong>: “If there is a controversy between men, and they come to judgment, and the judges judge them, then they shall justify the righteous and condemn the wicked. It shall be, if the wicked man is worthy to be beaten, that the judge shall cause him to lie down and to be beaten before his face, according to his wickedness, by number. Forty stripes he may give him, he shall not exceed; lest, if he should exceed and beat him above this with many stripes, then your brother should seem degraded in your sight.”</li>
 <li><strong>Penalty or Consequence</strong>: Up to 40 stripes; exceeding risks degrading the person.</li>
 <li><strong>Offering or Ransom</strong>: None specified; limit ensures justice.</li>
 </ul>
-<h4 id="27-ox-not-to-be-muzzled" tabindex="-1">27. Ox Not to Be Muzzled</h4>
+<h2 id="27-ox-not-to-be-muzzled" tabindex="-1">27. Ox Not to Be Muzzled</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 25:4</li>
 <li><strong>Scripture Text (WEB)</strong>: “You shall not muzzle the ox when he treads out the grain.”</li>
@@ -3052,21 +3095,21 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h4 id="28-levirate-marriage" tabindex="-1">28. Levirate Marriage</h4>
+<h2 id="28-levirate-marriage" tabindex="-1">28. Levirate Marriage</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 25:5-10</li>
 <li><strong>Scripture Text (WEB)</strong>: “If <strong>brothers dwell together</strong>, and one of them dies and has no son, the wife of the dead shall not be married outside to a stranger. Her husband’s brother shall go in to her, and take her as his wife… If the man doesn’t want to take his brother’s wife, then his brother’s wife shall go up to the gate to the elders, and say, ‘My husband’s brother refuses to raise up to his brother a name in Israel…’ Then the elders of his city shall call him… and she shall pull his sandal off his foot, and spit in his face… His name shall be called in Israel, ‘The house of him who had his sandal pulled off.’”</li>
 <li><strong>Penalty or Consequence</strong>: Public humiliation (sandal removal, spitting) for refusing.</li>
 <li><strong>Offering or Ransom</strong>: None; marriage or public act resolves the obligation.</li>
 </ul>
-<h4 id="29-unfair-fighting" tabindex="-1">29. Unfair Fighting</h4>
+<h2 id="29-unfair-fighting" tabindex="-1">29. Unfair Fighting</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 25:11-12</li>
 <li><strong>Scripture Text (WEB)</strong>: “When men strive together one with another, and the wife of one draws near to deliver her husband out of the hand of him who strikes him, and puts out her hand, and grabs him by his private parts, then you shall cut off her hand. Your eye shall have no pity.”</li>
 <li><strong>Penalty or Consequence</strong>: Hand amputation.</li>
 <li><strong>Offering or Ransom</strong>: None specified; no atonement provided.</li>
 </ul>
-<h4 id="30-honest-weights-and-measures" tabindex="-1">30. Honest Weights and Measures</h4>
+<h2 id="30-honest-weights-and-measures" tabindex="-1">30. Honest Weights and Measures</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 25:13-16</li>
 <li><strong>Scripture Text (WEB)</strong>: “You shall not have in your bag diverse weights, a great and a small. You shall not have in your house diverse measures, a great and a small… For all who do such things, all who do unrighteously, are an abomination to Yahweh your God.”</li>
@@ -3096,6 +3139,263 @@ Mishpatim is plural</p>
 <li><strong>Scripture Text:</strong> Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.</li>
 </ul>
 <p>Also related <a class="internal-link is-unresolved" href="/404" target="">Deut-19#v15</a>–19: One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. 16 If an unrighteous witness rises up against any man to testify against him of wrongdoing, 17 then both the men, between whom the controversy is, shall stand before Yahweh, before the priests and the judges who shall be in those days; 18 and the judges shall make diligent inquisition; and behold, if the witness is a false witness, and has testified falsely against his brother, 19 then you shall do to him as he had thought to do to his brother. So you shall remove the evil from among you.</p>
+<h1 id="judgments-mishpatim-in-exodus" tabindex="-1">Judgments (Mishpatim) in Exodus</h1>
+<h2 id="1-release-of-hebrew-slaves-1" tabindex="-1">1. Release of Hebrew Slaves</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:2–6</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If you buy a Hebrew servant, he shall serve six years and in the seventh he shall go out free without paying anything. If he comes in by himself, he shall go out by himself. If he is married, then his wife shall go out with him. If his master gives him a wife and she bears him sons or daughters, the wife and her children shall be her master's, and he shall go out by himself. But if the servant shall plainly say, 'I love my master, my wife, and my children. I will not go out free;' then his master shall bring him to God, and shall bring him to the door or the doorpost, and his master shall bore his ear through with an awl, and he shall serve him forever.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Failure to release implies covenant violation; the servant who refuses freedom is permanently bound (ear-boring ritual).</li>
+<li><strong>Offering or Ransom</strong>: None specified.</li>
+</ul>
+<hr>
+<h2 id="2-rights-of-a-female-slave" tabindex="-1">2. Rights of a Female Slave</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:7–11</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If a man sells his daughter to be a female servant, she shall not go out as the male servants do. If she doesn't please her master, who has married her to himself, then he shall let her be redeemed. He shall have no right to sell her to a foreign people, since he has dealt deceitfully with her. If he marries her to his son, he shall deal with her as a daughter. If he takes another wife to himself, he shall not diminish her food, her clothing, and her marital rights. If he doesn't do these three things for her, she shall go out for nothing, without payment of money.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: She goes free without payment if her rights are withheld.</li>
+<li><strong>Offering or Ransom</strong>: None; freedom itself is the remedy.</li>
+</ul>
+<hr>
+<h2 id="3-death-penalty-for-murder" tabindex="-1">3. Death Penalty for Murder</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:12–14</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;One who strikes a man so that he dies shall surely be put to death, but not if God delivers him into his hand; then I will appoint you a place where he shall flee. If a man schemes and kills another man deliberately, you shall take him even from my altar, that he may die.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Death; no altar refuge for premeditated murder.</li>
+<li><strong>Offering or Ransom</strong>: None permitted for intentional murder (cf. Num. 35:31).</li>
+</ul>
+<hr>
+<h2 id="4-death-penalty-for-striking-a-parent" tabindex="-1">4. Death Penalty for Striking a Parent</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:15</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;Anyone who attacks his father or his mother shall be surely put to death.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Death.</li>
+<li><strong>Offering or Ransom</strong>: None specified.</li>
+</ul>
+<hr>
+<h2 id="5-death-penalty-for-kidnapping" tabindex="-1">5. Death Penalty for Kidnapping</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:16</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;Anyone who kidnaps a man and sells him, or if he is found in his hand, he shall surely be put to death.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Death.</li>
+<li><strong>Offering or Ransom</strong>: None specified.</li>
+</ul>
+<hr>
+<h2 id="6-death-penalty-for-cursing-a-parent" tabindex="-1">6. Death Penalty for Cursing a Parent</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:17</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;Anyone who curses his father or his mother shall surely be put to death.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Death.</li>
+<li><strong>Offering or Ransom</strong>: None specified.</li>
+</ul>
+<hr>
+<h2 id="7-injury-from-a-fight-compensation-for-lost-time" tabindex="-1">7. Injury from a Fight — Compensation for Lost Time</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:18–19</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If men quarrel and one strikes the other with a stone, or with his fist, and he doesn't die, but is confined to bed; if he rises again and walks around with his staff, then he who struck him shall be cleared; only he shall pay for the loss of his time, and shall provide for his healing until he is thoroughly healed.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Compensation for lost time and medical costs.</li>
+<li><strong>Offering or Ransom</strong>: Restitution payment.</li>
+</ul>
+<hr>
+<h2 id="8-injury-to-a-slave-by-their-master" tabindex="-1">8. Injury to a Slave by Their Master</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:20–21</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If a man strikes his servant or his maid with a rod, and he dies under his hand, he shall surely be punished. Notwithstanding, if he gets up after a day or two, he shall not be punished, for he is his property.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Punishment if the slave dies immediately; no penalty if the slave recovers within two days.</li>
+<li><strong>Offering or Ransom</strong>: None specified.</li>
+</ul>
+<hr>
+<h2 id="9-injury-causing-miscarriage-or-further-harm" tabindex="-1">9. Injury Causing Miscarriage or Further Harm</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:22–25</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If men fight and hurt a pregnant woman so that she gives birth prematurely, and yet no further injury follows, he shall be surely fined as much as the woman's husband demands and the judges allow. But if any injury follows, then you must take life for life, eye for eye, tooth for tooth, hand for hand, foot for foot, burning for burning, wound for wound, and bruise for bruise.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Fine if no lasting harm; lex talionis (life for life, etc.) if lasting injury results.</li>
+<li><strong>Offering or Ransom</strong>: Monetary fine determined by husband and judges; or equivalent physical restitution.</li>
+</ul>
+<hr>
+<h2 id="10-injury-to-eye-or-tooth-of-a-slave" tabindex="-1">10. Injury to Eye or Tooth of a Slave</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:26–27</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If a man strikes his servant's eye, or his maid's eye, and destroys it, he shall let him go free for his eye's sake. If he strikes out his male servant's tooth, or his female servant's tooth, he shall let him go free for his tooth's sake.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Slave goes free.</li>
+<li><strong>Offering or Ransom</strong>: Freedom serves as restitution.</li>
+</ul>
+<hr>
+<h2 id="11-death-caused-by-a-goring-ox" tabindex="-1">11. Death Caused by a Goring Ox</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:28–32</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If a bull gores a man or a woman to death, the bull shall surely be stoned, and its meat shall not be eaten; but the owner of the bull shall not be held responsible. But if the bull had a habit of goring in the past, and it has been testified to its owner, and he has not kept it in, but it has killed a man or a woman, the bull shall be stoned, and its owner shall also be put to death. If a ransom is laid on him, then he shall give for the redemption of his life whatever is laid on him. Whether it has gored a son or has gored a daughter, according to this judgment it shall be done to him. If the bull gores a male servant or a female servant, he shall give to their master thirty shekels of silver, and the ox shall be stoned.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Bull stoned; owner liable to death or ransom if ox was a known danger; 30 shekels for a killed slave.</li>
+<li><strong>Offering or Ransom</strong>: Ransom amount set by the injured party; 30 shekels for a slave.</li>
+</ul>
+<hr>
+<h2 id="12-liability-for-an-uncovered-pit" tabindex="-1">12. Liability for an Uncovered Pit</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:33–34</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If a man opens a pit, or if a man digs a pit and doesn't cover it, and a bull or a donkey falls into it, the owner of the pit shall make it good. He shall give money to its owner, and the dead animal shall be his.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Full restitution to the animal's owner; the dead animal becomes the pit owner's property.</li>
+<li><strong>Offering or Ransom</strong>: Market value restitution.</li>
+</ul>
+<hr>
+<h2 id="13-one-ox-killing-another" tabindex="-1">13. One Ox Killing Another</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 21:35–36</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If one man's bull injures another's bull so that it dies, then they shall sell the live bull and divide its price; and they shall also divide the dead animal. Or if it is known that the bull was in the habit of goring in the past, and its owner has not kept it in, he shall surely pay bull for bull, and the dead animal shall be his own.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Shared loss if the ox had no prior record; full replacement if it did.</li>
+<li><strong>Offering or Ransom</strong>: Restitution of equivalent animal.</li>
+</ul>
+<hr>
+<h2 id="14-theft-of-ox-or-sheep-restitution" tabindex="-1">14. Theft of Ox or Sheep — Restitution</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:1</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If a man steals an ox or a sheep, and kills it or sells it, he shall pay five oxen for an ox, and four sheep for a sheep.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Fivefold restitution for an ox; fourfold for a sheep.</li>
+<li><strong>Offering or Ransom</strong>: Multiplied restitution.</li>
+</ul>
+<hr>
+<h2 id="15-self-defense-against-a-thief" tabindex="-1">15. Self-Defense Against a Thief</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:2–3</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If the thief is found breaking in, and is struck so that he dies, there shall be no guilt of bloodshed for him. If the sun has risen on him, there shall be guilt of bloodshed for him. He shall make restitution. If he has nothing, then he shall be sold for his theft.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: No penalty if thief is killed at night; blood guilt if killed in daylight. If thief cannot repay, he is sold.</li>
+<li><strong>Offering or Ransom</strong>: Full restitution required; enslavement if insolvent.</li>
+</ul>
+<hr>
+<h2 id="16-restitution-for-grazing-damage" tabindex="-1">16. Restitution for Grazing Damage</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:5</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If a man causes a field or vineyard to be eaten, and lets his animal loose so that it grazes in another man's field, he shall make restitution from the best of his own field, and from the best of his own vineyard.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Restitution from the offender's best produce.</li>
+<li><strong>Offering or Ransom</strong>: Equivalent or superior produce as restitution.</li>
+</ul>
+<hr>
+<h2 id="17-restitution-for-fire-damage" tabindex="-1">17. Restitution for Fire Damage</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:6</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If fire breaks out and catches in thorns so that the shocks of grain, or the standing grain, or the field are consumed, he who kindled the fire shall surely make restitution.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Full restitution for damaged crops.</li>
+<li><strong>Offering or Ransom</strong>: Restitution payment.</li>
+</ul>
+<hr>
+<h2 id="18-liability-for-property-left-in-another-s-care" tabindex="-1">18. Liability for Property Left in Another's Care</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:7–13</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If a man delivers to his neighbor money or stuff to keep, and it is stolen out of the man's house, if the thief is found, he shall pay double. If the thief isn't found, then the master of the house shall come near to God, to find out if he hasn't put his hand on his neighbor's goods... If it is stolen from him, he shall make restitution to its owner. If it is torn in pieces, let him bring it for evidence. He shall not make good that which was torn.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Double restitution if thief is found; oath before God if thief unknown; no liability if animal was torn by beasts (with evidence).</li>
+<li><strong>Offering or Ransom</strong>: Double restitution or sworn oath.</li>
+</ul>
+<hr>
+<h2 id="19-borrowed-animal-that-is-injured-or-dies" tabindex="-1">19. Borrowed Animal That Is Injured or Dies</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:14–15</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If a man borrows anything of his neighbor's, and it is injured, or dies, its owner not being with it, he shall surely make restitution. If its owner is with it, he shall not make it good. If it is a hired thing, it came for its hire.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Full restitution if owner was absent; no penalty if owner was present; none if hired (cost covered by hire fee).</li>
+<li><strong>Offering or Ransom</strong>: Restitution of the animal's value.</li>
+</ul>
+<hr>
+<h2 id="20-seduction-of-an-unbetrothed-virgin" tabindex="-1">20. Seduction of an Unbetrothed Virgin</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:16–17</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If a man entices a virgin who isn't pledged to be married, and lies with her, he shall surely pay a dowry for her to be his wife. If her father utterly refuses to give her to him, he shall pay money according to the dowry of virgins.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Full bride price paid regardless of whether marriage occurs.</li>
+<li><strong>Offering or Ransom</strong>: Monetary payment equivalent to a bride price.</li>
+</ul>
+<hr>
+<h2 id="21-death-penalty-for-sorcery" tabindex="-1">21. Death Penalty for Sorcery</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:18</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;You shall not allow a sorceress to live.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Death.</li>
+<li><strong>Offering or Ransom</strong>: None specified.</li>
+</ul>
+<hr>
+<h2 id="22-death-penalty-for-bestiality" tabindex="-1">22. Death Penalty for Bestiality</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:19</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;Whoever has sex with an animal shall surely be put to death.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Death.</li>
+<li><strong>Offering or Ransom</strong>: None specified.</li>
+</ul>
+<hr>
+<h2 id="23-death-penalty-for-sacrificing-to-other-gods" tabindex="-1">23. Death Penalty for Sacrificing to Other Gods</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:20</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;He who sacrifices to any god, except to Yahweh only, shall be utterly destroyed.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Total destruction (cherem — devotion to destruction).</li>
+<li><strong>Offering or Ransom</strong>: None permitted.</li>
+</ul>
+<hr>
+<h2 id="24-protection-of-the-stranger-widow-and-orphan" tabindex="-1">24. Protection of the Stranger, Widow, and Orphan</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:21–24</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;You shall not wrong an alien or oppress him, for you were aliens in the land of Egypt. You shall not take advantage of any widow or fatherless child. If you take advantage of them at all, and they cry at all to me, I will surely hear their cry; and my wrath will grow hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Divine judgment — death by sword; families left as widows and orphans.</li>
+<li><strong>Offering or Ransom</strong>: None; divine retribution is the consequence.</li>
+</ul>
+<hr>
+<h2 id="25-lending-and-interest-among-israelites" tabindex="-1">25. Lending and Interest Among Israelites</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:25–27</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If you lend money to any of my people with you who is poor, you shall not be to him as a creditor; neither shall you charge him interest. If you take your neighbor's garment as collateral, you shall restore it to him before the sun goes down, for that is his only covering, it is his garment for his skin. What else will he sleep in? It will happen, when he cries to me, that I will hear, for I am gracious.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Divine hearing of the poor man's cry implies divine response against the creditor.</li>
+<li><strong>Offering or Ransom</strong>: None specified; relational and covenantal obligation.</li>
+</ul>
+<hr>
+<h2 id="26-judges-and-leaders-not-to-be-cursed" tabindex="-1">26. Judges and Leaders Not to Be Cursed</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:28</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;You shall not blaspheme God, nor curse a ruler of your people.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Not explicitly stated here; implied by covenantal context (cf. Lev. 24:15–16).</li>
+<li><strong>Offering or Ransom</strong>: None specified.</li>
+</ul>
+<hr>
+<h2 id="27-firstfruits-and-firstborn-obligations" tabindex="-1">27. Firstfruits and Firstborn Obligations</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:29–30</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;You shall not delay to offer from your harvest and from the outflow of your presses. You shall give the firstborn of your sons to me. You shall do likewise with your cattle and with your sheep. It shall be seven days with its mother, then on the eighth day you shall give it to me.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Not explicitly stated; delay implies covenant unfaithfulness.</li>
+<li><strong>Offering or Ransom</strong>: Firstborn sons redeemed (cf. Exod. 13:13); firstborn animals given on the eighth day.</li>
+</ul>
+<hr>
+<h2 id="28-prohibition-on-eating-torn-meat" tabindex="-1">28. Prohibition on Eating Torn Meat</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 22:31</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;You shall be holy men to me, therefore you shall not eat any meat that is torn by animals in the field. You shall cast it to the dogs.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Not explicitly stated; violation defiles holiness status.</li>
+<li><strong>Offering or Ransom</strong>: None; the meat is discarded.</li>
+</ul>
+<hr>
+<h2 id="29-prohibition-of-false-reports-and-unjust-verdicts" tabindex="-1">29. Prohibition of False Reports and Unjust Verdicts</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 23:1–3</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;You shall not spread a false report. Don't join your hand with the wicked to be a malicious witness. You shall not follow a crowd to do evil; neither shall you testify in court to side with a multitude to pervert justice; neither shall you favor a poor man in his cause.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Not explicitly stated; justice itself is the standard upheld.</li>
+<li><strong>Offering or Ransom</strong>: None specified.</li>
+</ul>
+<hr>
+<h2 id="30-return-of-an-enemy-s-lost-animal" tabindex="-1">30. Return of an Enemy's Lost Animal</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 23:4–5</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;If you meet your enemy's ox or his donkey going astray, you shall surely bring it back to him again. If you see the donkey of him who hates you fallen down under his burden, don't leave him; you shall surely help him with it.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Not explicitly stated; obligation is moral and covenantal.</li>
+<li><strong>Offering or Ransom</strong>: None.</li>
+</ul>
+<hr>
+<h2 id="31-justice-for-the-poor-in-lawsuits" tabindex="-1">31. Justice for the Poor in Lawsuits</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 23:6–8</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;You shall not deny justice to your poor people in their lawsuits. Keep far from a false charge, and don't kill the innocent and righteous: for I will not justify the wicked. You shall take no bribe, for a bribe blinds those who have sight and perverts the words of the righteous.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Yahweh will not acquit the one who justifies the wicked; bribery perverts justice.</li>
+<li><strong>Offering or Ransom</strong>: None; the prohibition is absolute.</li>
+</ul>
+<hr>
+<h2 id="32-protection-of-the-resident-alien" tabindex="-1">32. Protection of the Resident Alien</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Exodus 23:9</li>
+<li><strong>Scripture Text (WEB)</strong>: &quot;You shall not oppress a foreigner, for you know the heart of a foreigner, since you were foreigners in the land of Egypt.&quot;</li>
+<li><strong>Penalty or Consequence</strong>: Not explicitly stated here; divine response implied (cf. Exod. 22:21–24).</li>
+<li><strong>Offering or Ransom</strong>: None.</li>
+</ul>
+<hr>
 </main>
 <aside>
 <div class="sidebar">
@@ -3190,6 +3490,18 @@ On this page
 <li><a href="#21-pledges-and-loans">21. Pledges and Loans</a>
 </li>
 <li><a href="#22-prompt-payment-of-wages">22. Prompt Payment of Wages</a>
+<ol>
+<li><a href="#strong-scripture-reference-strong-deuteronomy-24-14-15">Scripture Reference: Deuteronomy 24:14-15</a>
+</li>
+<li><a href="#strong-scripture-text-web-strong">Scripture Text (WEB):</a>
+</li>
+<li><a href="#strong-penalty-or-consequence-strong">Penalty or Consequence:</a>
+</li>
+<li><a href="#strong-offering-or-ransom-strong">Offering or Ransom:</a>
+</li>
+<li><a href="#strong-outline-strong">Outline:</a>
+</li>
+</ol>
 </li>
 <li><a href="#23-individual-responsibility-for-sin">23. Individual Responsibility for Sin</a>
 </li>
@@ -3214,6 +3526,74 @@ On this page
 <li><a href="#strong-scripture-reference-strong-the-scrolls-4-the-gospels-and-the-apostles-59-james-james-04-v11-james-04-v11">Scripture Reference: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v11|James-04#v11]]</a>
 </li>
 </ol>
+</li>
+</ol>
+</li>
+<li><a href="#judgments-mishpatim-in-exodus">Judgments (Mishpatim) in Exodus</a>
+<ol>
+<li><a href="#1-release-of-hebrew-slaves-1">1. Release of Hebrew Slaves</a>
+</li>
+<li><a href="#2-rights-of-a-female-slave">2. Rights of a Female Slave</a>
+</li>
+<li><a href="#3-death-penalty-for-murder">3. Death Penalty for Murder</a>
+</li>
+<li><a href="#4-death-penalty-for-striking-a-parent">4. Death Penalty for Striking a Parent</a>
+</li>
+<li><a href="#5-death-penalty-for-kidnapping">5. Death Penalty for Kidnapping</a>
+</li>
+<li><a href="#6-death-penalty-for-cursing-a-parent">6. Death Penalty for Cursing a Parent</a>
+</li>
+<li><a href="#7-injury-from-a-fight-compensation-for-lost-time">7. Injury from a Fight — Compensation for Lost Time</a>
+</li>
+<li><a href="#8-injury-to-a-slave-by-their-master">8. Injury to a Slave by Their Master</a>
+</li>
+<li><a href="#9-injury-causing-miscarriage-or-further-harm">9. Injury Causing Miscarriage or Further Harm</a>
+</li>
+<li><a href="#10-injury-to-eye-or-tooth-of-a-slave">10. Injury to Eye or Tooth of a Slave</a>
+</li>
+<li><a href="#11-death-caused-by-a-goring-ox">11. Death Caused by a Goring Ox</a>
+</li>
+<li><a href="#12-liability-for-an-uncovered-pit">12. Liability for an Uncovered Pit</a>
+</li>
+<li><a href="#13-one-ox-killing-another">13. One Ox Killing Another</a>
+</li>
+<li><a href="#14-theft-of-ox-or-sheep-restitution">14. Theft of Ox or Sheep — Restitution</a>
+</li>
+<li><a href="#15-self-defense-against-a-thief">15. Self-Defense Against a Thief</a>
+</li>
+<li><a href="#16-restitution-for-grazing-damage">16. Restitution for Grazing Damage</a>
+</li>
+<li><a href="#17-restitution-for-fire-damage">17. Restitution for Fire Damage</a>
+</li>
+<li><a href="#18-liability-for-property-left-in-another-s-care">18. Liability for Property Left in Another's Care</a>
+</li>
+<li><a href="#19-borrowed-animal-that-is-injured-or-dies">19. Borrowed Animal That Is Injured or Dies</a>
+</li>
+<li><a href="#20-seduction-of-an-unbetrothed-virgin">20. Seduction of an Unbetrothed Virgin</a>
+</li>
+<li><a href="#21-death-penalty-for-sorcery">21. Death Penalty for Sorcery</a>
+</li>
+<li><a href="#22-death-penalty-for-bestiality">22. Death Penalty for Bestiality</a>
+</li>
+<li><a href="#23-death-penalty-for-sacrificing-to-other-gods">23. Death Penalty for Sacrificing to Other Gods</a>
+</li>
+<li><a href="#24-protection-of-the-stranger-widow-and-orphan">24. Protection of the Stranger, Widow, and Orphan</a>
+</li>
+<li><a href="#25-lending-and-interest-among-israelites">25. Lending and Interest Among Israelites</a>
+</li>
+<li><a href="#26-judges-and-leaders-not-to-be-cursed">26. Judges and Leaders Not to Be Cursed</a>
+</li>
+<li><a href="#27-firstfruits-and-firstborn-obligations">27. Firstfruits and Firstborn Obligations</a>
+</li>
+<li><a href="#28-prohibition-on-eating-torn-meat">28. Prohibition on Eating Torn Meat</a>
+</li>
+<li><a href="#29-prohibition-of-false-reports-and-unjust-verdicts">29. Prohibition of False Reports and Unjust Verdicts</a>
+</li>
+<li><a href="#30-return-of-an-enemy-s-lost-animal">30. Return of an Enemy's Lost Animal</a>
+</li>
+<li><a href="#31-justice-for-the-poor-in-lawsuits">31. Justice for the Poor in Lawsuits</a>
+</li>
+<li><a href="#32-protection-of-the-resident-alien">32. Protection of the Resident Alien</a>
 </li>
 </ol>
 </li>
@@ -3243,6 +3623,7 @@ On this page
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/right-standing/commandments/" data-note-icon="" class="backlink">Commandments</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/t/torah/" data-note-icon="" class="backlink">Torah</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/gate-of-wisdom/" data-note-icon="" class="backlink">_Gate of Wisdom</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/" data-note-icon="" class="backlink">Home</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/olive-branch-reconciliations/the-seventh-day-rest/16-the-seventh-day-rest-is-yhwh-gods-16-nehemiah-09/" data-note-icon="" class="backlink">16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/yada-yada-pauses/59-james-04-yada-yada/" data-note-icon="" class="backlink">59 James-04 Yada Yada</a>
 </div></div>
