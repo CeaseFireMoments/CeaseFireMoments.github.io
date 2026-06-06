@@ -35,6 +35,8 @@
 - [[Gate of Wisdom/C/covetous\|covetous]]
 - [[Gate of Wisdom/Beings/Animals/creeping thing\|creeping thing]]
 - [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]]
+- [[Gate of Wisdom/C/Do Commands\|Do Commands]]
+- [[Gate of Wisdom/C/Do Not Commands\|Do Not Commands]]
 - [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
 - [[Sacred Truces/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]
 - [[Sacred Truces/Know the Children of God How\|Know the Children of God How]]

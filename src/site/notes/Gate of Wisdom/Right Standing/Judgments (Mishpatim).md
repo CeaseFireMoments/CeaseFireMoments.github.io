@@ -171,7 +171,7 @@ Mishpatim is plural
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## 22. Payment of Wages [Deuteronomy 24:14-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&version=WEB;NET;OJB) 
+## #LoveNeighbor Payment of Wages [Deuteronomy 24:14-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&version=WEB;NET;OJB) 
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
@@ -202,14 +202,14 @@ Mishpatim is plural
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-- #LoveNeighbor  #Deuteronomy24 #05Deut 
+-  #Deuteronomy24 #05Deut 
 ## 23. Individual Responsibility for Sin
 - **Scripture Reference**: Deuteronomy 24:16
 - **Scripture Text (WEB)**: “The fathers shall not be put to death for the children, nor the children be put to death for the fathers. Every man shall be put to death for his own sin.”
 - **Penalty or Consequence**: Death only for the guilty individual’s sin.
 - **Offering or Ransom**: None specified; justice is the principle.
 
-## 24. Justice for the Vulnerable [Deuteronomy 24:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&version=WEB;NET;OJB) 
+## #LoveNeighbor Justice for the Vulnerable [Deuteronomy 24:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&version=WEB;NET;OJB) 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- The 
@@ -229,9 +229,9 @@ Mishpatim is plural
 - <mark style="background: #CD04BBA6;">**Personal Observations**</mark>
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-#LoveNeighbor #Deuteronomy24 #05Deut 
+ #Deuteronomy24 #05Deut 
 
-## 25. Leaving Gleanings for the Poor [Deuteronomy 24:19-22](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&version=WEB;NET;OJB) 
+## 25. #LoveNeighbor Leaving Gleanings for the Poor [Deuteronomy 24:19-22](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&version=WEB;NET;OJB) 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- When 
@@ -239,19 +239,16 @@ Mishpatim is plural
 		- have forgotten a sheaf in the field
 		- beat your olive tree
 		- harvest you vineyard
-
 	- Do not
-		- go again to get the sheaf
-		- go over the boughs again
-		- do not glean it after
-		
+		- go again to get the sheaf #DoNot 
+		- go over the boughs again #DoNot 
+		- do not glean it after #DoNot 
 	- Do
-		- the sheaf, bough, fruit will be for 
+		- the sheaf, bough, fruit will be for #Dos 
 			- the [[Gate of Wisdom/F/Foreigner\|Foreigner]]
 			- the fatherless
 			- the widow
-		- remember that you were a slave in the land of Egypt
-		
+		- remember that you were a slave in the land of Egypt #Dos 
 	- So that
 		- YHWH may bless you in all the work of your hands
 - **Penalty or Consequence**: 
@@ -261,9 +258,9 @@ Mishpatim is plural
 - **<mark style="background: #CD04BBA6;">Personal Observations:</mark>**
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-#LoveNeighbor #DoNot #JudgmentMishpatim #Dos #testing #Deuteronomy24 #05Deut 
+#Deuteronomy24 #05Deut  
 
-## 26. Limit on Flogging [Deuteronomy 25:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&version=WEB;NET;OJB)
+## #LoveNeighbor Limit on Flogging [Deuteronomy 25:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline**: 
 	- A controversy between men
@@ -271,8 +268,8 @@ Mishpatim is plural
 		- the judges judge them
 		
 	- Do
-		- justify the righteous
-		- condemn the wicked
+		- justify the righteous #Dos 
+		- condemn the wicked #Dos 
 			- if worth to be beaten
 				- judge will 
 					- cause him to lie down
@@ -282,7 +279,7 @@ Mishpatim is plural
 								- may sentence to no more than forty stripes
 		
 	- Do not
-		- give the wicked more than forty stripes
+		- give the wicked more than forty stripes #DoNot
 		
 	- Because
 		- if struck or beat more than forty stripes
@@ -291,7 +288,7 @@ Mishpatim is plural
 	- Up to 40 stripes; exceeding risks degrading the person.
 - **Offering or Ransom**: 
 	- None specified; limit ensures justice.
-#LoveNeighbor #DoNot #JudgmentMishpatim #Dos #testing #Deuteronomy25 #05Deut 
+ #Deuteronomy25 #05Deut 
 
 ## 27. Ox Not to Be Muzzled
 - **Scripture Reference**: Deuteronomy 25:4
@@ -321,7 +318,7 @@ Mishpatim is plural
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-# Number of Witnesses Required/False Witness [Deuteronomy 19:15-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&version=WEB;NET;OJB)
+# #LoveNeighbor Number of Witnesses Required/False Witness [Deuteronomy 19:15-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- When rising up against a man for 
@@ -329,11 +326,11 @@ Mishpatim is plural
 		- or any sin that he sins
 		
 	- Do
-		- establish the matter
+		- establish the matter 
 			- at the mouth of 
-				- two witnesses
+				- two witnesses #Dos 
 				- or three witnesses
-		- if an [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] witness testifies
+		- if an [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] witness testifies #Dos 
 			- against him of wrongdoing
 				- both the men (man accused of iniquity or sin and the unrighteous witness)
 					- stand before
@@ -345,18 +342,18 @@ Mishpatim is plural
 							- has testified falsely against his brother (fellow member of his covenant community)
 							- do to him as he thought to do to his brother (the man accused of iniquity or sin)
 							- remove the evil from among you
-			- those who remain shall
+			- those who remain shall #Dos 
 				- hear
 				- fear
 				- never again commit any such evil (false witness) among you
 		
 	- Do not
-		- your eyes shall not pity
-		- life for life
-		- eye for eye
-		- tooth for tooth
-		- hand for hand
-		- foot for foot
+		- your eyes shall not pity: #DoNot 
+			- life for life 
+			- eye for eye
+			- tooth for tooth
+			- hand for hand
+			- foot for foot
 - **Penalty or Consequence:**
 	- A single witness testimony is insufficient to establish guilt; the matter cannot be legally confirmed.
 	- The investigation itself is the mechanism that exposes false witnesses; failure to investigate diligently enables injustice.
@@ -366,7 +363,7 @@ Mishpatim is plural
 - <mark style="background: #CD04BBA6;">Personal Observations:</mark>
 		- remove evil from  = "you will burn out"
 		- life for life, eye for eye, etc = measure for measure - meaning the punishment should fit the crime not to be taken literally [^1]
-#LoveNeighbor #DoNot #JudgmentMishpatim #Dos #05Deut #Deuteronomy19 
+#05Deut #Deuteronomy19 
 # Judgments (Mishpatim) in Exodus
 
 ## 1. Release of Hebrew Slaves
@@ -639,28 +636,28 @@ Mishpatim is plural
 
 ---
 
-## 31. Justice for the Poor in Lawsuits [Exodus 23:6-9](https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&version=WEB;NET;OJB)
+## #LoveNeighbor Justice for the Poor in Lawsuits [Exodus 23:6-9](https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline**:
 	- Do not
-		- deny justice to poor people in lawsuit
-		- kill the innocent and righteous
+		- deny justice to poor people in lawsuit #DoNot 
+		- kill the innocent and righteous #DoNot 
 			- Because YHWH will not justify the wicked
-		- take a bride
+		- take a bribe #DoNot 
 			- Because bribes 
 				- blind those who have sight
 				- perverts the words of the righteous
-		- oppress an [[Gate of Wisdom/F/Foreigner\|Foreigner]]
+		- oppress an [[Gate of Wisdom/F/Foreigner\|Foreigner]] #DoNot 
 			- Because you know their heart since you were foreigners in the land of Egypt.
 		
 	- Do
-		- keep far from a false charge
+		- keep far from a false charge  #Dos 
 - **Penalty or Consequence**: 
 	- Yahweh will not acquit the one who justifies the wicked; bribery perverts justice.
 - **Offering or Ransom**: 
 	- None; the prohibition is absolute.
-#LoveNeighbor #DoNot #JudgmentMishpatim #Dos #02Exod #Exodus23 
+#02Exod #Exodus23 
 
 ---
 
@@ -676,20 +673,20 @@ Mishpatim is plural
 # Judgement (Mishpatim) in Leviticus
 
 
-## Provision for the Poor and Foreigner [Leviticus 19:9-10]
+## #LoveNeighbor Provision for the Poor and Foreigner [Leviticus 19:9-10]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- When you reap the harvest of your land ...
 
-	- Do No
-		- wholly reap the corners of your field
-		- gather the gleanings of your harvest
-		- glean your vineyard
-		- gather the fallen grapes from your vineyard
+	- Do Not
+		- wholly reap the corners of your field #DoNot
+		- gather the gleanings of your harvest #DoNot
+		- glean your vineyard #DoNot
+		- gather the fallen grapes from your vineyard #DoNot
 	- Do
-		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/S/Stranger\|Stranger]]
-		- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger
-		- leave //the fallen grapes// for the poor and the stranger
+		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/S/Stranger\|Stranger]] #Dos 
+		- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger #Dos 
+		- leave //the fallen grapes// for the poor and the stranger #Dos 
 	- Because
 		- YHWH is your god
 - **Penalty or Consequence**: 
@@ -700,14 +697,14 @@ Mishpatim is plural
 	- Ruth 2:2–7
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-#LoveNeighbor #DoNot #JudgmentMishpatim #Dos #Leviticus19 #03Lev 
+  #Leviticus19 #03Lev  
 
-## Slander, False Witness [Leviticus 19:16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&version=WEB;NET;OJB) 
+##  #LoveNeighbor Slander, False Witness [Leviticus 19:16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&version=WEB;NET;OJB) 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- Do not
-		- go around being a [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]
-		- endanger the life of your neighbor
+		- go around being a [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]] #DoNot 
+		- endanger the life of your neighbor #DoNot 
 
 	- Because
 		- I am YHWH
@@ -726,4 +723,4 @@ Mishpatim is plural
 	- **"stand against the blood"** — _la'amod al dam_ (לַעֲמֹד עַל דָּם) — carries judicial weight. It likely refers to bearing false witness in a capital case, withholding testimony that could save a life, or taking action that leads to another's death. The connection to **Deuteronomy 19:15–21** is direct — false witness there, endangering life here.
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-  #LoveNeighbor #DoNot #JudgmentMishpatim #Leviticus19 #03Lev 
+ #Leviticus19 #03Lev 

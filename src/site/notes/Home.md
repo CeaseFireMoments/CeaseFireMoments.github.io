@@ -19,8 +19,10 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                                                     |
+| [[Gate of Wisdom/C/Do Not Commands\|Do Not Commands]]                                                                                                        |
+| [[Gate of Wisdom/C/Do Commands\|Do Commands]]                                                                                                                |
 | [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                                                               |
+| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                                                     |
 | [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]                                                                          |
 | [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                                            |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread\|Table of Showbread]]                                                         |
@@ -37,8 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mount Sinai\|Mount Sinai]]                                                                                  |
 | [[Torah Portions/2026.05.16 Shabbat Reading\|2026.05.16 Shabbat Reading]]                                                                                    |
 | [[Torah Portions/2026.05.09 Shabbat Reading\|2026.05.09 Shabbat Reading]]                                                                                    |
-| [[Gate of Wisdom/Appointed Time/First Fruits\|First Fruits]]                                                                                                 |
-| [[Gate of Wisdom/S/salvation\|salvation]]                                                                                                                    |
 
 { .block-language-dataview}
 
