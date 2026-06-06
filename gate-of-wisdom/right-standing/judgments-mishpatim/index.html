@@ -2732,7 +2732,7 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-06-06T16:24:57.982Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-06-06T16:24:57.982Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-06-06T16:24:57.982Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-06-06T18:41:17.721Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-06-06T18:41:17.721Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-06-06T18:41:17.721Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
 <h1 data-note-icon="">Judgments (Mishpatim)</h1>
@@ -3055,7 +3055,7 @@ Mishpatim is plural</p>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.</li>
 </ul>
 </li>
-<li><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#testing">#testing</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy24">#Deuteronomy24</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
+<li><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy24">#Deuteronomy24</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
 </ul>
 <h2 id="23-individual-responsibility-for-sin" tabindex="-1">23. Individual Responsibility for Sin</h2>
 <ul>
@@ -3064,36 +3064,186 @@ Mishpatim is plural</p>
 <li><strong>Penalty or Consequence</strong>: Death only for the guilty individual’s sin.</li>
 <li><strong>Offering or Ransom</strong>: None specified; justice is the principle.</li>
 </ul>
-<h2 id="24-justice-for-the-vulnerable" tabindex="-1">24. Justice for the Vulnerable</h2>
+<h2 id="24-justice-for-the-vulnerable-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a17-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-17-18-a" tabindex="-1">24. Justice for the Vulnerable <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 24:17-18</a></h2>
 <ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 24:17-18</li>
-<li><strong>Scripture Text (WEB)</strong>: “You shall not deprive the foreigner or the fatherless of justice, nor take a widow’s clothing in pledge; but you shall remember that you were a slave in Egypt, and Yahweh your God redeemed you there. Therefore I command you to do this thing.”</li>
-<li><strong>Penalty or Consequence</strong>: No explicit penalty, but risks divine judgment (Deut. 28:15-68).</li>
-<li><strong>Offering or Ransom</strong>: None; ensuring justice fulfills the command.
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><strong>Outline:</strong>
 <ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.</li>
+<li>
+<p>The</p>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/foreigner/">Foreigner</a></li>
+<li>fatherless</li>
+</ul>
+</li>
+<li>
+<p>Do not</p>
+<ul>
+<li>deprive foreigner of justice</li>
+<li>take widows clothing in pledge</li>
+</ul>
+</li>
+<li>
+<p>Do</p>
+<ul>
+<li>remember you were a slave in Egypt</li>
+<li>remember YHWH redeemed you</li>
 </ul>
 </li>
 </ul>
-<h2 id="25-leaving-gleanings-for-the-poor" tabindex="-1">25. Leaving Gleanings for the Poor</h2>
+</li>
+<li><strong>Penalty or Consequence</strong>:
 <ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 24:19-22</li>
-<li><strong>Scripture Text (WEB)</strong>: “When you reap your harvest in your field, and have forgotten a sheaf in the field, you shall not go again to get it. It shall be for the foreigner, for the fatherless, and for the widow, that Yahweh your God may bless you in all the work of your hands.”</li>
-<li><strong>Penalty or Consequence</strong>: No explicit penalty, but compliance brings blessing; violation risks curses (Deut. 28:15-68).</li>
-<li><strong>Offering or Ransom</strong>: None; leaving gleanings fulfills the command.
+<li>No explicit penalty, but risks divine judgment (Deut. 28:15-68).</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom</strong>:
+<ul>
+<li>None; ensuring justice fulfills the command.</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6"><strong>Personal Observations</strong></mark>
 <ul>
 <li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.<br>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy24">#Deuteronomy24</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
 </ul>
 </li>
 </ul>
-<h2 id="26-limit-on-flogging" tabindex="-1">26. Limit on Flogging</h2>
+<h2 id="25-leaving-gleanings-for-the-poor-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a19-22-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-19-22-a" tabindex="-1">25. Leaving Gleanings for the Poor <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 24:19-22</a></h2>
 <ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 25:1-3</li>
-<li><strong>Scripture Text (WEB)</strong>: “If there is a controversy between men, and they come to judgment, and the judges judge them, then they shall justify the righteous and condemn the wicked. It shall be, if the wicked man is worthy to be beaten, that the judge shall cause him to lie down and to be beaten before his face, according to his wickedness, by number. Forty stripes he may give him, he shall not exceed; lest, if he should exceed and beat him above this with many stripes, then your brother should seem degraded in your sight.”</li>
-<li><strong>Penalty or Consequence</strong>: Up to 40 stripes; exceeding risks degrading the person.</li>
-<li><strong>Offering or Ransom</strong>: None specified; limit ensures justice.</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>
+<p>When</p>
+<ul>
+<li>you reap your harvest in your fields</li>
+<li>have forgotten a sheaf in the field</li>
+<li>beat your olive tree</li>
+<li>harvest you vineyard</li>
+</ul>
+</li>
+<li>
+<p>Do not</p>
+<ul>
+<li>go again to get the sheaf</li>
+<li>go over the boughs again</li>
+<li>do not glean it after</li>
+</ul>
+</li>
+<li>
+<p>Do</p>
+<ul>
+<li>the sheaf, bough, fruit will be for
+<ul>
+<li>the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/foreigner/">Foreigner</a></li>
+<li>the fatherless</li>
+<li>the widow</li>
+</ul>
+</li>
+<li>remember that you were a slave in the land of Egypt</li>
+</ul>
+</li>
+<li>
+<p>So that</p>
+<ul>
+<li>YHWH may bless you in all the work of your hands</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence</strong>:
+<ul>
+<li>No explicit penalty, but compliance brings blessing; violation risks curses (Deut. 28:15-68).</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom</strong>:
+<ul>
+<li>None; leaving gleanings fulfills the command.</li>
+</ul>
+</li>
+<li><strong><mark style="background:#cd04BBA6">Personal Observations:</mark></strong>
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.<br>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#testing">#testing</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy24">#Deuteronomy24</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="26-limit-on-flogging-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2025-3-a1-3-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-25-1-3-a" tabindex="-1">26. Limit on Flogging <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 25:1-3</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><strong>Outline</strong>:
+<ul>
+<li>
+<p>A controversy between men</p>
+<ul>
+<li>they come to judgment</li>
+<li>the judges judge them</li>
+</ul>
+</li>
+<li>
+<p>Do</p>
+<ul>
+<li>justify the righteous</li>
+<li>condemn the wicked
+<ul>
+<li>if worth to be beaten
+<ul>
+<li>judge will
+<ul>
+<li>cause him to lie down
+<ul>
+<li>to be beaten before his face</li>
+<li>according to his wickedness
+<ul>
+<li>by number
+<ul>
+<li>may sentence to no more than forty stripes</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Do not</p>
+<ul>
+<li>give the wicked more than forty stripes</li>
+</ul>
+</li>
+<li>
+<p>Because</p>
+<ul>
+<li>if struck or beat more than forty stripes
+<ul>
+<li>your brother <mark style="background:#cd04BBA6">//the wicked one//</mark> will be degraded in your sight</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence</strong>:
+<ul>
+<li>Up to 40 stripes; exceeding risks degrading the person.</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom</strong>:
+<ul>
+<li>None specified; limit ensures justice.<br>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#testing">#testing</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy25">#Deuteronomy25</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a></li>
+</ul>
+</li>
 </ul>
 <h2 id="27-ox-not-to-be-muzzled" tabindex="-1">27. Ox Not to Be Muzzled</h2>
 <ul>
@@ -3133,24 +3283,100 @@ Mishpatim is plural</p>
 </ul>
 </li>
 </ul>
-<h2 id="slander-false-witness" tabindex="-1">Slander, False Witness</h2>
-<h3 id="strong-scripture-reference-strong-the-scrolls-1-torah-law-of-moses-03-leviticus-lev-19-v16-lev-19-v16" tabindex="-1"><strong>Scripture Reference</strong>: <a class="internal-link is-unresolved" href="/404" target="">Lev-19#v16</a></h3>
+<h1 id="number-of-witnesses-required-false-witness-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2019-3-a15-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-19-15-21-a" tabindex="-1">Number of Witnesses Required/False Witness <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 19:15-21</a></h1>
 <ul>
-<li><strong>Scripture Text (WEB)</strong>: “You shall not go around as a slanderer among your people.“ ‘You shall not endanger the life of your neighbor. I am Yahweh.”</li>
-<li><strong>Penalty or Consequence</strong>: Violation leads to hatred, which breaks covenant love. (Leviticus 19:17-18)</li>
-<li><strong>Offering or Ransom</strong>:
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><strong>Outline:</strong>
 <ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.</li>
-<li>False Witness which endangers a life - Death <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/sins-requiring-death-no-offering/">Sins Requiring Death - No Offering</a></li>
+<li>
+<p>When rising up against a man for</p>
+<ul>
+<li>any iniquity</li>
+<li>or any sin that he sins</li>
+</ul>
+</li>
+<li>
+<p>Do</p>
+<ul>
+<li>establish the matter
+<ul>
+<li>at the mouth of
+<ul>
+<li>two witnesses</li>
+<li>or three witnesses</li>
 </ul>
 </li>
 </ul>
-<h3 id="strong-scripture-reference-strong-the-scrolls-4-the-gospels-and-the-apostles-59-james-james-04-v11-james-04-v11" tabindex="-1"><strong>Scripture Reference</strong>: <a class="internal-link is-unresolved" href="/404" target="">James-04#v11</a></h3>
+</li>
+<li>if an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/unrighteous/">Unrighteous</a> witness testifies
 <ul>
-<li><strong>Scripture Text:</strong> Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.</li>
+<li>against him of wrongdoing
+<ul>
+<li>both the men (man accused of iniquity or sin and the unrighteous witness)
+<ul>
+<li>stand before
+<ul>
+<li>YHWH</li>
+<li>the <a class="internal-link is-unresolved" href="/404" target="">Priest</a></li>
+<li>the judges</li>
 </ul>
-<p>Also related <a class="internal-link is-unresolved" href="/404" target="">Deut-19#v15</a>–19: One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. 16 If an unrighteous witness rises up against any man to testify against him of wrongdoing, 17 then both the men, between whom the controversy is, shall stand before Yahweh, before the priests and the judges who shall be in those days; 18 and the judges shall make diligent inquisition; and behold, if the witness is a false witness, and has testified falsely against his brother, 19 then you shall do to him as he had thought to do to his brother. So you shall remove the evil from among you.</p>
+</li>
+<li>the judges shall make diligent inquisition
+<ul>
+<li>if the witness is a false witness
+<ul>
+<li>has testified falsely against his brother (fellow member of his covenant community)</li>
+<li>do to him as he thought to do to his brother (the man accused of iniquity or sin)</li>
+<li>remove the evil from among you</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>those who remain shall
+<ul>
+<li>hear</li>
+<li>fear</li>
+<li>never again commit any such evil (false witness) among you</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Do not</p>
+<ul>
+<li>your eyes shall not pity</li>
+<li>life for life</li>
+<li>eye for eye</li>
+<li>tooth for tooth</li>
+<li>hand for hand</li>
+<li>foot for foot</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>A single witness testimony is insufficient to establish guilt; the matter cannot be legally confirmed.</li>
+<li>The investigation itself is the mechanism that exposes false witnesses; failure to investigate diligently enables injustice.</li>
+<li>Whatever punishment the false witness sought to bring upon the accused falls upon the false witness instead.</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None specified; the punishment is the ransom</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6">Personal Observations:</mark><br>
+- remove evil from = &quot;you will burn out&quot;<br>
+- life for life, eye for eye, etc = measure for measure - meaning the punishment should fit the crime not to be taken literally [^1]<br>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy19">#Deuteronomy19</a></li>
+</ul>
 <h1 id="judgments-mishpatim-in-exodus" tabindex="-1">Judgments (Mishpatim) in Exodus</h1>
 <h2 id="1-release-of-hebrew-slaves-1" tabindex="-1">1. Release of Hebrew Slaves</h2>
 <ul>
@@ -3392,12 +3618,56 @@ Mishpatim is plural</p>
 <li><strong>Offering or Ransom</strong>: None.</li>
 </ul>
 <hr>
-<h2 id="31-justice-for-the-poor-in-lawsuits" tabindex="-1">31. Justice for the Poor in Lawsuits</h2>
+<h2 id="31-justice-for-the-poor-in-lawsuits-a-href-https-www-biblegateway-com-passage-search-exodus-2023-3-a6-9-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-23-6-9-a" tabindex="-1">31. Justice for the Poor in Lawsuits <a href="https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:6-9</a></h2>
 <ul>
-<li><strong>Scripture Reference</strong>: Exodus 23:6–8</li>
-<li><strong>Scripture Text (WEB)</strong>: &quot;You shall not deny justice to your poor people in their lawsuits. Keep far from a false charge, and don't kill the innocent and righteous: for I will not justify the wicked. You shall take no bribe, for a bribe blinds those who have sight and perverts the words of the righteous.&quot;</li>
-<li><strong>Penalty or Consequence</strong>: Yahweh will not acquit the one who justifies the wicked; bribery perverts justice.</li>
-<li><strong>Offering or Ransom</strong>: None; the prohibition is absolute.</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><strong>Outline</strong>:
+<ul>
+<li>
+<p>Do not</p>
+<ul>
+<li>deny justice to poor people in lawsuit</li>
+<li>kill the innocent and righteous
+<ul>
+<li>Because YHWH will not justify the wicked</li>
+</ul>
+</li>
+<li>take a bride
+<ul>
+<li>Because bribes
+<ul>
+<li>blind those who have sight</li>
+<li>perverts the words of the righteous</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>oppress an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/foreigner/">Foreigner</a>
+<ul>
+<li>Because you know their heart since you were foreigners in the land of Egypt.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Do</p>
+<ul>
+<li>keep far from a false charge</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence</strong>:
+<ul>
+<li>Yahweh will not acquit the one who justifies the wicked; bribery perverts justice.</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom</strong>:
+<ul>
+<li>None; the prohibition is absolute.<br>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus23">#Exodus23</a></li>
+</ul>
+</li>
 </ul>
 <hr>
 <h2 id="32-protection-of-the-resident-alien" tabindex="-1">32. Protection of the Resident Alien</h2>
@@ -3408,6 +3678,108 @@ Mishpatim is plural</p>
 <li><strong>Offering or Ransom</strong>: None.</li>
 </ul>
 <hr>
+<h1 id="judgement-mishpatim-in-leviticus" tabindex="-1">Judgement (Mishpatim) in Leviticus</h1>
+<h2 id="provision-for-the-poor-and-foreigner-leviticus-19-9-10" tabindex="-1">Provision for the Poor and Foreigner [Leviticus 19:9-10]</h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>
+<p>When you reap the harvest of your land ...</p>
+</li>
+<li>
+<p>Do No</p>
+<ul>
+<li>wholly reap the corners of your field</li>
+<li>gather the gleanings of your harvest</li>
+<li>glean your vineyard</li>
+<li>gather the fallen grapes from your vineyard</li>
+</ul>
+</li>
+<li>
+<p>Do</p>
+<ul>
+<li>leave //the corners of your field// for the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/p/poor/">Poor</a> and the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/stranger/">Stranger</a></li>
+<li>leave //the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/g/gleaning/">gleaning</a>s of your harvest and vineyard for the poor and the Stranger</li>
+<li>leave //the fallen grapes// for the poor and the stranger</li>
+</ul>
+</li>
+<li>
+<p>Because</p>
+<ul>
+<li>YHWH is your god</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence</strong>:
+<ul>
+<li>Not explicitly stated; the closing declaration — I am Yahweh your God — functions as both authority and implied accountability.</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom</strong>:
+<ul>
+<li>None; the act of leaving the gleanings is itself the obligation.</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6"><strong>Personal Observations</strong></mark>
+<ul>
+<li>Ruth 2:2–7</li>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.<br>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Leviticus19">#Leviticus19</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#03Lev">#03Lev</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="slander-false-witness-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a16-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-16-a" tabindex="-1">Slander, False Witness <a href="https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:16</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>
+<p>Do not</p>
+<ul>
+<li>go around being a <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/slanderer/">slanderer</a></li>
+<li>endanger the life of your neighbor</li>
+</ul>
+</li>
+<li>
+<p>Because</p>
+<ul>
+<li>I am YHWH</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence</strong>:
+<ul>
+<li>Not explicitly stated; the social and covenantal damage of slander is implied — it tears at the fabric of community Yahweh is building.</li>
+<li>Violation leads to hatred, which breaks covenant love. (Leviticus 19:17-18)</li>
+<li>The closing <em>&quot;I am Yahweh&quot;</em> functions as direct divine accountability — Yahweh himself is the witness.</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom</strong>:
+<ul>
+<li>None specified</li>
+</ul>
+</li>
+<li>Deuteronomy 19:15–21 — false witness there, endangering life here.</li>
+<li>James 4:11 Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.</li>
+<li>Proverbs 18:21 — <em>&quot;Death and life are in the power of the tongue&quot;</em> — reflects the same understanding.</li>
+<li><mark style="background:#cd04BBA6">Personal Observations</mark>
+<ul>
+<li>slandering is treated as something that could cost a life
+<ul>
+<li>False Witness which endangers a life - Death <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/sins-requiring-death-no-offering/">Sins Requiring Death - No Offering</a></li>
+</ul>
+</li>
+<li><strong>&quot;stand against the blood&quot;</strong> — <em>la'amod al dam</em> (לַעֲמֹד עַל דָּם) — carries judicial weight. It likely refers to bearing false witness in a capital case, withholding testimony that could save a life, or taking action that leads to another's death. The connection to <strong>Deuteronomy 19:15–21</strong> is direct — false witness there, endangering life here.</li>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.<br>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Leviticus19">#Leviticus19</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#03Lev">#03Lev</a></li>
+</ul>
+</li>
+</ul>
 </main>
 <aside>
 <div class="sidebar">
@@ -3505,11 +3877,11 @@ On this page
 </li>
 <li><a href="#23-individual-responsibility-for-sin">23. Individual Responsibility for Sin</a>
 </li>
-<li><a href="#24-justice-for-the-vulnerable">24. Justice for the Vulnerable</a>
+<li><a href="#24-justice-for-the-vulnerable-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a17-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-17-18-a">24. Justice for the Vulnerable Deuteronomy 24:17-18</a>
 </li>
-<li><a href="#25-leaving-gleanings-for-the-poor">25. Leaving Gleanings for the Poor</a>
+<li><a href="#25-leaving-gleanings-for-the-poor-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a19-22-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-19-22-a">25. Leaving Gleanings for the Poor Deuteronomy 24:19-22</a>
 </li>
-<li><a href="#26-limit-on-flogging">26. Limit on Flogging</a>
+<li><a href="#26-limit-on-flogging-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2025-3-a1-3-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-25-1-3-a">26. Limit on Flogging Deuteronomy 25:1-3</a>
 </li>
 <li><a href="#27-ox-not-to-be-muzzled">27. Ox Not to Be Muzzled</a>
 </li>
@@ -3519,15 +3891,9 @@ On this page
 </li>
 <li><a href="#30-honest-weights-and-measures">30. Honest Weights and Measures</a>
 </li>
-<li><a href="#slander-false-witness">Slander, False Witness</a>
-<ol>
-<li><a href="#strong-scripture-reference-strong-the-scrolls-1-torah-law-of-moses-03-leviticus-lev-19-v16-lev-19-v16">Scripture Reference: [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16|Lev-19#v16]]</a>
-</li>
-<li><a href="#strong-scripture-reference-strong-the-scrolls-4-the-gospels-and-the-apostles-59-james-james-04-v11-james-04-v11">Scripture Reference: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v11|James-04#v11]]</a>
-</li>
 </ol>
 </li>
-</ol>
+<li><a href="#number-of-witnesses-required-false-witness-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2019-3-a15-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-19-15-21-a">Number of Witnesses Required/False Witness Deuteronomy 19:15-21</a>
 </li>
 <li><a href="#judgments-mishpatim-in-exodus">Judgments (Mishpatim) in Exodus</a>
 <ol>
@@ -3591,9 +3957,17 @@ On this page
 </li>
 <li><a href="#30-return-of-an-enemy-s-lost-animal">30. Return of an Enemy's Lost Animal</a>
 </li>
-<li><a href="#31-justice-for-the-poor-in-lawsuits">31. Justice for the Poor in Lawsuits</a>
+<li><a href="#31-justice-for-the-poor-in-lawsuits-a-href-https-www-biblegateway-com-passage-search-exodus-2023-3-a6-9-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-23-6-9-a">31. Justice for the Poor in Lawsuits Exodus 23:6-9</a>
 </li>
 <li><a href="#32-protection-of-the-resident-alien">32. Protection of the Resident Alien</a>
+</li>
+</ol>
+</li>
+<li><a href="#judgement-mishpatim-in-leviticus">Judgement (Mishpatim) in Leviticus</a>
+<ol>
+<li><a href="#provision-for-the-poor-and-foreigner-leviticus-19-9-10">Provision for the Poor and Foreigner [Leviticus 19:9-10]</a>
+</li>
+<li><a href="#slander-false-witness-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a16-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-16-a">Slander, False Witness Leviticus 19:16</a>
 </li>
 </ol>
 </li>
