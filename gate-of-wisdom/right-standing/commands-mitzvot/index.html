@@ -2732,7 +2732,7 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-06-06T20:11:36.747Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-06-06T20:11:36.747Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-06-06T20:11:36.747Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-06-06T20:20:19.201Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-06-06T20:20:19.201Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-06-06T20:20:19.201Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
 <h1 data-note-icon="">Commands (Mitzvot)</h1>
@@ -2851,7 +2851,7 @@ CTRL + K
 </ul>
 </li>
 </ul>
-<h2 id="i-am-yahweh-your-god-a-href-https-www-biblegateway-com-passage-search-exodus-20-2-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-2-a" tabindex="-1">I Am Yahweh Your God: <a href="https://www.biblegateway.com/passage/?search=Exodus+20:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:2</a></h2>
+<h2 id="love-god-i-am-yahweh-your-god-a-href-https-www-biblegateway-com-passage-search-exodus-20-2-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-2-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> I Am Yahweh Your God: <a href="https://www.biblegateway.com/passage/?search=Exodus+20:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:2</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
 <li><strong>Outline:</strong>
@@ -2892,7 +2892,7 @@ CTRL + K
 <li><strong>Scripture Text (WEB):</strong> Resist the devil, and he will flee from you.&quot;</li>
 <li><strong>Blessing</strong>: James says, the adversary will flee</li>
 </ul>
-<h2 id="hear-yahweh-is-one-a-href-https-www-biblegateway-com-passage-search-deuteronomy-206-3-a4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-4-a" tabindex="-1">Hear - Yahweh is One <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 6:4</a></h2>
+<h2 id="love-god-hear-yahweh-is-one-a-href-https-www-biblegateway-com-passage-search-deuteronomy-206-3-a4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-4-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> Hear - Yahweh is One <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 6:4</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
 <li><strong>Outline:</strong>
@@ -2945,7 +2945,7 @@ CTRL + K
 </ul>
 </li>
 </ul>
-<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy06">#Deuteronomy06</a></p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut">#05Deut</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Deuteronomy06">#Deuteronomy06</a></p>
 <h2 id="4-love-yahweh-your-god" tabindex="-1">4. Love Yahweh Your God</h2>
 <ul>
 <li><strong>Scripture Reference</strong>: Deuteronomy 6:5</li>
@@ -3442,7 +3442,7 @@ CTRL + K
 <li><strong>Offering or Ransom?:</strong> Not applicable — this is a sovereign command to a foreign ruler.</li>
 </ul>
 <hr>
-<h2 id="2-no-other-gods-before-me-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a3-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-3-a" tabindex="-1">2. No Other Gods Before Me <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:3</a></h2>
+<h2 id="love-god-no-other-gods-before-me-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a3-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-3-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> No Other Gods Before Me <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:3</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
 <li><strong>Outline:</strong>
@@ -3450,7 +3450,7 @@ CTRL + K
 <li>Before My Face</li>
 <li>Do not
 <ul>
-<li>have any other gods before YHWH</li>
+<li>have any other gods before YHWH <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
 </ul>
 </li>
 </ul>
@@ -3475,19 +3475,19 @@ CTRL + K
 <li>Before = upon, over, above, beside, against, in relation to</li>
 <li>My Face = presence, sight</li>
 <li>&quot;besides me,&quot; &quot;in my presence,&quot; &quot;in addition to me,&quot; or &quot;alongside me.<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a></li>
 </ul>
 </li>
 </ul>
 <hr>
-<h2 id="3-no-carved-images-or-idols-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a4-6-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-4-6-a" tabindex="-1">3. No Carved Images or Idols <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A4-6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:4-6</a></h2>
+<h2 id="love-god-no-carved-images-or-idols-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a4-6-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-4-6-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> No Carved Images or Idols <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A4-6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:4-6</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
 <li><strong>Outline:</strong>
 <ul>
 <li>Do not
 <ul>
-<li>make for yourself
+<li>make for yourself <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
 <ul>
 <li>an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/i/idol/">idol</a></li>
 <li>an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/i/image/">image</a> (any likeness) of anything that is
@@ -3499,7 +3499,7 @@ CTRL + K
 </li>
 </ul>
 </li>
-<li>To the idol or image do not
+<li>To the idol or image do not <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
 <ul>
 <li>bow</li>
 <li>serve</li>
@@ -3531,19 +3531,19 @@ CTRL + K
 <li><strong>Offering or Ransom?:</strong>
 <ul>
 <li>No offering covers deliberate idol worship (Numbers 15:30–31).<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a></li>
 </ul>
 </li>
 </ul>
 <hr>
-<h2 id="4-do-not-take-the-name-of-yahweh-in-vain-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a7-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-7-a" tabindex="-1">4. Do Not Take the Name of Yahweh in Vain <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:7</a></h2>
+<h2 id="love-god-do-not-take-the-name-of-yahweh-in-vain-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a7-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-7-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> Do Not Take the Name of Yahweh in Vain <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:7</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
 <li><strong>Outline:</strong>
 <ul>
 <li>Do not
 <ul>
-<li>misuse the name of YHWH</li>
+<li>misuse the name of YHWH <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
 </ul>
 </li>
 <li>Because
@@ -3586,12 +3586,12 @@ CTRL + K
 </ul>
 </li>
 <li>Vanity - empty, false, or self-serving purposes (e.g., false oaths, invoking God to justify wrongdoing, or claiming to represent Him while living contrary to His character)<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a></li>
 </ul>
 </li>
 </ul>
 <hr>
-<h2 id="5-remember-the-sabbath-and-keep-it-holy-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a8-11-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-8-11-a" tabindex="-1">5. Remember the Sabbath and Keep It Holy <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A8-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:8-11</a></h2>
+<h2 id="love-god-remember-the-sabbath-and-keep-it-holy-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a8-11-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-8-11-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> Remember the Sabbath and Keep It Holy <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A8-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:8-11</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
 <li><strong>Outline:</strong>
@@ -3613,15 +3613,15 @@ CTRL + K
 </li>
 <li>Do
 <ul>
-<li>Remember the Sabbath Day</li>
-<li>Keep Sabbath Day Holy (Set-apart)</li>
-<li>Labor six days</li>
-<li>Do all your work</li>
+<li>Remember the Sabbath Day <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>Keep Sabbath Day Holy (Set-apart) <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>Labor six days <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>Do all your work <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
 </ul>
 </li>
-<li>Do Not on Seventh Day
+<li>Do Not
 <ul>
-<li>do any work
+<li>on Seventh Day do not do any work <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
 <ul>
 <li>you</li>
 <li>your son nor daughter</li>
@@ -3647,7 +3647,7 @@ CTRL + K
 <li><strong>Offering or Ransom?:</strong>
 <ul>
 <li>No offering substitutes for Sabbath violation when done deliberately (Numbers 15:30–31).<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a></li>
 </ul>
 </li>
 </ul>
@@ -3766,10 +3766,10 @@ CTRL + K
 </li>
 </ul>
 </li>
-<li><a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a></li>
+<li><a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a></li>
 </ul>
 <hr>
-<h2 id="8-love-neighbor-do-not-commit-adultery-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a14-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-14-a" tabindex="-1">8. <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Do Not Commit Adultery <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:14</a></h2>
+<h2 id="love-neighbor-do-not-commit-adultery-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a14-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-14-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Do Not Commit Adultery <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:14</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
 <li><strong>Outline</strong>
@@ -3799,7 +3799,7 @@ CTRL + K
 </li>
 </ul>
 <hr>
-<h2 id="9-love-neighbor-do-not-steal-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a15-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-15-a" tabindex="-1">9. <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Do Not Steal <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:15</a></h2>
+<h2 id="love-neighbor-do-not-steal-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a15-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-15-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Do Not Steal <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:15</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
 <li><strong>Outline</strong>
@@ -3841,7 +3841,7 @@ CTRL + K
 </li>
 </ul>
 <hr>
-<h2 id="10-do-not-bear-false-witness-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a16-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-16-a" tabindex="-1">10. Do Not Bear False Witness <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:16</a></h2>
+<h2 id="love-neighbor-do-not-bear-false-witness-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a16-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-16-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Do Not Bear False Witness <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:16</a></h2>
 <ul>
 <li>
 <p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
@@ -3851,7 +3851,7 @@ CTRL + K
 <ul>
 <li>Do not
 <ul>
-<li>give false testimony
+<li>give false testimony <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
 <ul>
 <li>against your neighbor</li>
 </ul>
@@ -3886,12 +3886,12 @@ CTRL + K
 <li>Testimony ʿēd (עֵד): refers to someone who testifies or the act of testimony itself,</li>
 <li>False/Falsehood šāqer (שָׁקֶר): &quot;deception,&quot; &quot;lie,&quot; or &quot;untruth.&quot; It implies something intentionally deceptive or unreliable, often in the context of speech or together means &quot;false witness&quot; or &quot;false testimony,&quot; an accusation</li>
 <li>Neighbor - fellow - broadly any other person<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#JudgmentMishpatim">#JudgmentMishpatim</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a></li>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#Exodus20">#Exodus20</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod">#02Exod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#CommandMitzvot">#CommandMitzvot</a></li>
 </ul>
 </li>
 </ul>
 <hr>
-<h2 id="11-love-neighbor-do-not-covet-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a17-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-17-a" tabindex="-1">11. <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Do Not Covet <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:17</a></h2>
+<h2 id="love-neighbor-do-not-covet-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a17-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-17-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> Do Not Covet <a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:17</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
 <li><strong>Outline:</strong>
@@ -5075,13 +5075,13 @@ On this page
 </li>
 </ol>
 </li>
-<li><a href="#i-am-yahweh-your-god-a-href-https-www-biblegateway-com-passage-search-exodus-20-2-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-2-a">I Am Yahweh Your God: Exodus 20:2</a>
+<li><a href="#love-god-i-am-yahweh-your-god-a-href-https-www-biblegateway-com-passage-search-exodus-20-2-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-2-a">#LoveGod I Am Yahweh Your God: Exodus 20:2</a>
 <ol>
 <li><a href="#strong-scripture-reference-strong-the-scrolls-4-the-gospels-and-the-apostles-59-james-james-04-v7-james-04-v7-1">Scripture Reference: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7|James-04#v7]]</a>
 </li>
 </ol>
 </li>
-<li><a href="#hear-yahweh-is-one-a-href-https-www-biblegateway-com-passage-search-deuteronomy-206-3-a4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-4-a">Hear - Yahweh is One Deuteronomy 6:4</a>
+<li><a href="#love-god-hear-yahweh-is-one-a-href-https-www-biblegateway-com-passage-search-deuteronomy-206-3-a4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-4-a">#LoveGod Hear - Yahweh is One Deuteronomy 6:4</a>
 </li>
 <li><a href="#4-love-yahweh-your-god">4. Love Yahweh Your God</a>
 </li>
@@ -5167,25 +5167,25 @@ On this page
 </li>
 <li><a href="#commands-mitzvot-in-exodus">Commands (Mitzvot) in Exodus</a>
 <ol>
-<li><a href="#2-no-other-gods-before-me-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a3-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-3-a">2. No Other Gods Before Me Exodus 20:3</a>
+<li><a href="#love-god-no-other-gods-before-me-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a3-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-3-a">#LoveGod No Other Gods Before Me Exodus 20:3</a>
 </li>
-<li><a href="#3-no-carved-images-or-idols-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a4-6-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-4-6-a">3. No Carved Images or Idols Exodus 20:4-6</a>
+<li><a href="#love-god-no-carved-images-or-idols-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a4-6-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-4-6-a">#LoveGod No Carved Images or Idols Exodus 20:4-6</a>
 </li>
-<li><a href="#4-do-not-take-the-name-of-yahweh-in-vain-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a7-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-7-a">4. Do Not Take the Name of Yahweh in Vain Exodus 20:7</a>
+<li><a href="#love-god-do-not-take-the-name-of-yahweh-in-vain-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a7-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-7-a">#LoveGod Do Not Take the Name of Yahweh in Vain Exodus 20:7</a>
 </li>
-<li><a href="#5-remember-the-sabbath-and-keep-it-holy-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a8-11-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-8-11-a">5. Remember the Sabbath and Keep It Holy Exodus 20:8-11</a>
+<li><a href="#love-god-remember-the-sabbath-and-keep-it-holy-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a8-11-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-8-11-a">#LoveGod Remember the Sabbath and Keep It Holy Exodus 20:8-11</a>
 </li>
 <li><a href="#love-neighbor-honor-your-father-and-mother-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a12-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-12-a">#LoveNeighbor Honor Your Father and Mother Exodus 20:12</a>
 </li>
 <li><a href="#love-neighbor-do-not-murder-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a13-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-13-a">#LoveNeighbor Do Not Murder Exodus 20:13</a>
 </li>
-<li><a href="#8-love-neighbor-do-not-commit-adultery-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a14-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-14-a">8. #LoveNeighbor Do Not Commit Adultery Exodus 20:14</a>
+<li><a href="#love-neighbor-do-not-commit-adultery-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a14-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-14-a">#LoveNeighbor Do Not Commit Adultery Exodus 20:14</a>
 </li>
-<li><a href="#9-love-neighbor-do-not-steal-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a15-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-15-a">9. #LoveNeighbor Do Not Steal Exodus 20:15</a>
+<li><a href="#love-neighbor-do-not-steal-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a15-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-15-a">#LoveNeighbor Do Not Steal Exodus 20:15</a>
 </li>
-<li><a href="#10-do-not-bear-false-witness-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a16-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-16-a">10. Do Not Bear False Witness Exodus 20:16</a>
+<li><a href="#love-neighbor-do-not-bear-false-witness-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a16-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-16-a">#LoveNeighbor Do Not Bear False Witness Exodus 20:16</a>
 </li>
-<li><a href="#11-love-neighbor-do-not-covet-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a17-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-17-a">11. #LoveNeighbor Do Not Covet Exodus 20:17</a>
+<li><a href="#love-neighbor-do-not-covet-a-href-https-www-biblegateway-com-passage-search-exodus-2020-3-a17-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-17-a">#LoveNeighbor Do Not Covet Exodus 20:17</a>
 </li>
 </ol>
 </li>
