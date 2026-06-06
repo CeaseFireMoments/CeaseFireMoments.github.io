@@ -68,7 +68,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
-## I Am Yahweh Your God: [Exodus 20:2](https://www.biblegateway.com/passage/?search=Exodus+20:2&version=WEB;NET;OJB) 
+## #LoveGod I Am Yahweh Your God: [Exodus 20:2](https://www.biblegateway.com/passage/?search=Exodus+20:2&version=WEB;NET;OJB) 
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * **Outline:**
@@ -94,7 +94,7 @@
 - **Scripture Text (WEB):** Resist the devil, and he will flee from you."
 - **Blessing**:  James says, the adversary will flee
 
-## Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
+## #LoveGod Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do 
@@ -116,7 +116,7 @@
 	- One echad (אֶחָד) = one, unity, alone
 		- In Hebrew mindset of Deuteronomy 6:4, "Yahweh echad" affirms Yahweh as the sole God/El, unique and undivided in loyalty and worship, with no other gods/elohim alongside Him.
  
- #LoveGod #05Deut #Deuteronomy06
+ #05Deut #Deuteronomy06
 ## 4. Love Yahweh Your God
 - **Scripture Reference**: Deuteronomy 6:5
 - **Scripture Text (WEB)**: “You shall love Yahweh your God with all your heart, with all your soul, and with all your might.”
@@ -470,12 +470,12 @@
 
 ---
 
-## 2. No Other Gods Before Me  [Exodus 20:3](https://www.biblegateway.com/passage/?search=Exodus%2020%3A3&version=WEB;NET;OJB)
+## #LoveGod No Other Gods Before Me  [Exodus 20:3](https://www.biblegateway.com/passage/?search=Exodus%2020%3A3&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Before My Face 
 	- Do not
-		- have any other gods before YHWH
+		- have any other gods before YHWH #DoNot 
 - **Blessing:** 
 	- General blessings for obedience (Deuteronomy 28:1–14).
 - **Penalty or Consequence:** 
@@ -486,22 +486,22 @@
 	- Before = upon, over, above, beside, against, in relation to
 	- My Face = presence, sight
 	- "besides me," "in my presence," "in addition to me," or "alongside me.
-#LoveGod #CommandMitzvot #DoNot #Exodus20 #02Exod 
+#Exodus20 #02Exod 
 
 ---
 
-## 3. No Carved Images or Idols [Exodus 20:4-6](https://www.biblegateway.com/passage/?search=Exodus%2020%3A4-6&version=WEB;NET;OJB)
+## #LoveGod No Carved Images or Idols [Exodus 20:4-6](https://www.biblegateway.com/passage/?search=Exodus%2020%3A4-6&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do not 
-		- make for yourself
+		- make for yourself #DoNot 
 			- an [[Gate of Wisdom/I/idol\|idol]]
 			- an [[Gate of Wisdom/I/image\|image]] (any likeness) of anything that is
 				- in the [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]s
 				- beneath the earth
 				- in the water under the earth
-		- To the idol or image do not 
+		- To the idol or image do not  #DoNot 
 			- bow
 			- serve
 	- Because
@@ -516,16 +516,16 @@
 	- Visited unto the third and fourth generation of those who hate Him (Exodus 20:5).
 - **Offering or Ransom?:** 
 	- No offering covers deliberate idol worship (Numbers 15:30–31).
-#LoveGod #CommandMitzvot #DoNot #Exodus20 #02Exod 
+#Exodus20 #02Exod 
 
 ---
 
-## 4. Do Not Take the Name of Yahweh in Vain [Exodus 20:7](https://www.biblegateway.com/passage/?search=Exodus%2020%3A7&version=WEB;NET;OJB)
+## #LoveGod Do Not Take the Name of Yahweh in Vain [Exodus 20:7](https://www.biblegateway.com/passage/?search=Exodus%2020%3A7&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do not
-		- misuse the name of YHWH
+		- misuse the name of YHWH #DoNot 
 	- Because
 		- YHWH will not hold him guiltless
 			- who misuses his name
@@ -541,11 +541,11 @@
 		- suggests bearing or carrying God's name — not just casually "taking" or uttering it, but identifying with it, representing it, or invoking it as one's own (like bearing a family name or title).
 		- It goes beyond simple speech to include how one lives while claiming to belong to God
 	- Vanity - empty, false, or self-serving purposes (e.g., false oaths, invoking God to justify wrongdoing, or claiming to represent Him while living contrary to His character)
-#LoveGod #CommandMitzvot #DoNot #Exodus20 #02Exod 
+#Exodus20 #02Exod 
 
 ---
 
-## 5. Remember the Sabbath and Keep It Holy [Exodus 20:8-11](https://www.biblegateway.com/passage/?search=Exodus%2020%3A8-11&version=WEB;NET;OJB)
+## #LoveGod Remember the Sabbath and Keep It Holy [Exodus 20:8-11](https://www.biblegateway.com/passage/?search=Exodus%2020%3A8-11&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Seventh Day
@@ -558,12 +558,12 @@
 		- YHWH blessed this day
 		- YHWH set this day apart
 	- Do
-		- Remember the Sabbath Day
-		- Keep Sabbath Day Holy (Set-apart)
-		- Labor six days
-		- Do all your work
-	- Do Not on Seventh Day
-		- do any work
+		- Remember the Sabbath Day #Dos 
+		- Keep Sabbath Day Holy (Set-apart) #Dos 
+		- Labor six days #Dos 
+		- Do all your work #Dos 
+	- Do Not 
+		- on Seventh Day do not do any work #DoNot 
 			- you
 			- your son nor daughter
 			- you servants
@@ -575,7 +575,7 @@
 	- Death for those who work on the Sabbath (Exodus 31:14–15; Numbers 15:32–36).
 - **Offering or Ransom?:** 
 	- No offering substitutes for Sabbath violation when done deliberately (Numbers 15:30–31).
-#LoveGod #CommandMitzvot #DoNot #Exodus20 #02Exod 
+#Exodus20 #02Exod 
 
 ---
 
@@ -632,11 +632,11 @@
 		- Exodus 21:28–32
 		- Exodus 22:2–3
 		- Leviticus 24:17
--  #CommandMitzvot #DoNot  #Exodus20 #02Exod 
+- #Exodus20 #02Exod 
 
 ---
 
-## 8. #LoveNeighbor  Do Not Commit Adultery [Exodus 20:14](https://www.biblegateway.com/passage/?search=Exodus%2020%3A14&version=WEB;NET;OJB)
+## #LoveNeighbor  Do Not Commit Adultery [Exodus 20:14](https://www.biblegateway.com/passage/?search=Exodus%2020%3A14&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline**
 	- Do Not
@@ -650,7 +650,7 @@
  #Exodus20 #02Exod  
 ---
 
-## 9. #LoveNeighbor  Do Not Steal [Exodus 20:15](https://www.biblegateway.com/passage/?search=Exodus%2020%3A15&version=WEB;NET;OJB)
+## #LoveNeighbor  Do Not Steal [Exodus 20:15](https://www.biblegateway.com/passage/?search=Exodus%2020%3A15&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline**
 	- Do not
@@ -670,11 +670,11 @@
 #Exodus20 #02Exod  #CommandMitzvot 
 ---
 
-## 10. Do Not Bear False Witness [Exodus 20:16](https://www.biblegateway.com/passage/?search=Exodus%2020%3A16&version=WEB;NET;OJB)
+## #LoveNeighbor Do Not Bear False Witness [Exodus 20:16](https://www.biblegateway.com/passage/?search=Exodus%2020%3A16&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline**
 	- Do not
-		- give false testimony
+		- give false testimony #DoNot 
 			- against your neighbor
 
 - **Blessing:** 
@@ -689,10 +689,10 @@
 	- Testimony ʿēd (עֵד): refers to someone who testifies or the act of testimony itself, 
 	- False/Falsehood šāqer (שָׁקֶר): "deception," "lie," or "untruth." It implies something intentionally deceptive or unreliable, often in the context of speech or together means "false witness" or "false testimony," an accusation
 	- Neighbor - fellow - broadly any other person
-#LoveNeighbor #JudgmentMishpatim #DoNot #LoveGod  #Exodus20 #02Exod  #CommandMitzvot 
+#Exodus20 #02Exod  #CommandMitzvot 
 ---
 
-## 11. #LoveNeighbor  Do Not Covet [Exodus 20:17](https://www.biblegateway.com/passage/?search=Exodus%2020%3A17&version=WEB;NET;OJB)
+## #LoveNeighbor  Do Not Covet [Exodus 20:17](https://www.biblegateway.com/passage/?search=Exodus%2020%3A17&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do not 
