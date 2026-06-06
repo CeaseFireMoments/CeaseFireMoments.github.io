@@ -17,7 +17,7 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li></ul> |
+| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
 
 { .block-language-dataview}
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free.  Jesus became our Passover Lamb offering.
@@ -411,4 +411,1085 @@
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
 
+# Commands (Mitzvot) in Exodus
+
+---
+
+1. **Let My People Go**
+
+- **Scripture Reference:** Exodus 5:1
+- **Scripture Text (WEB):** "Let my people go, that they may hold a feast to me in the wilderness."
+- **Blessing:** Obedience leads to life and blessing (Deuteronomy 30:16).
+- **Penalty or Consequence:** The ten plagues fell upon Egypt for Pharaoh's refusal (Exodus 7–12).
+- **Offering or Ransom?:** Not applicable — this is a sovereign command to a foreign ruler.
+
+---
+
+2. **No Other Gods Before Me**
+
+- **Scripture Reference:** Exodus 20:3
+- **Scripture Text (WEB):** "You shall have no other gods before me."
+- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** Death (Exodus 22:20); judgment on generations (Exodus 20:5).
+- **Offering or Ransom?:** No offering covers intentional idolatry; it is a deliberate high-handed sin (Numbers 15:30–31).
+
+---
+
+3. **No Carved Images or Idols**
+
+- **Scripture Reference:** Exodus 20:4–5
+- **Scripture Text (WEB):** "You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. You shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God."
+- **Blessing:** Steadfast love to thousands who love and obey (Exodus 20:6).
+- **Penalty or Consequence:** Visited unto the third and fourth generation of those who hate Him (Exodus 20:5).
+- **Offering or Ransom?:** No offering covers deliberate idol worship (Numbers 15:30–31).
+
+---
+
+4. **Do Not Take the Name of Yahweh in Vain**
+
+- **Scripture Reference:** Exodus 20:7
+- **Scripture Text (WEB):** "You shall not take the name of Yahweh your God in vain, for Yahweh will not hold him guiltless who takes his name in vain."
+- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** Yahweh will not hold him guiltless (Exodus 20:7); blasphemy of the Name carries death (Leviticus 24:16).
+- **Offering or Ransom?:** No offering specified for deliberate, high-handed misuse.
+
+---
+
+5. **Remember the Sabbath and Keep It Holy**
+
+- **Scripture Reference:** Exodus 20:8–11
+- **Scripture Text (WEB):** "Remember the Sabbath day, to keep it holy. You shall labor six days, and do all your work, but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates; for in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore Yahweh blessed the Sabbath day, and made it holy."
+- **Blessing:** Holiness and rest in Yahweh's pattern of creation (Genesis 2:3); sign of the covenant (Exodus 31:13).
+- **Penalty or Consequence:** Death for those who work on the Sabbath (Exodus 31:14–15; Numbers 15:32–36).
+- **Offering or Ransom?:** No offering substitutes for Sabbath violation when done deliberately (Numbers 15:30–31).
+
+---
+
+6. **Honor Your Father and Mother**
+
+- **Scripture Reference:** Exodus 20:12
+- **Scripture Text (WEB):** "Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you."
+- **Blessing:** Long life in the land (Exodus 20:12).
+- **Penalty or Consequence:** Death for striking or cursing a parent (Exodus 21:15, 17).
+- **Offering or Ransom?:** Not specified for dishonoring parents.
+
+---
+
+7. **Do Not Murder**
+
+- **Scripture Reference:** Exodus 20:13
+- **Scripture Text (WEB):** "You shall not murder."
+- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** Death — the murderer shall be put to death (Exodus 21:12).
+- **Offering or Ransom?:** No ransom accepted for the life of a murderer (Numbers 35:31).
+
+---
+
+8. **Do Not Commit Adultery**
+
+- **Scripture Reference:** Exodus 20:14
+- **Scripture Text (WEB):** "You shall not commit adultery."
+- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** Death for both parties (Leviticus 20:10).
+- **Offering or Ransom?:** No offering specified; a deliberate, high-handed violation (Numbers 15:30–31).
+
+---
+
+9. **Do Not Steal**
+
+- **Scripture Reference:** Exodus 20:15
+- **Scripture Text (WEB):** "You shall not steal."
+- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** Restitution required (Exodus 22:1–4); kidnapping (man-stealing) carries death (Exodus 21:16).
+- **Offering or Ransom?:** Restitution plus one-fifth added for theft with false oath (Leviticus 6:1–7); guilt offering required.
+
+---
+
+10. **Do Not Bear False Witness**
+
+- **Scripture Reference:** Exodus 20:16
+- **Scripture Text (WEB):** "You shall not give false testimony against your neighbor."
+- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** The false witness shall receive what he intended for the accused (Deuteronomy 19:18–19).
+- **Offering or Ransom?:** Not specified in Exodus; related to false oaths requiring a guilt offering (Leviticus 6:1–7).
+
+---
+
+11. **Do Not Covet**
+
+- **Scripture Reference:** Exodus 20:17
+- **Scripture Text (WEB):** "You shall not covet your neighbor's house. You shall not covet your neighbor's wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor's."
+- **Blessing:** General blessings for obedience (Deuteronomy 28:1–14).
+- **Penalty or Consequence:** No explicit civil penalty — this is a command governing the heart; consequences manifest in covetousness leading to further sins (Joshua 7:21; 2 Samuel 11).
+- **Offering or Ransom?:** Not specified — this is an inward command; no offering covers unrepentant covetousness.
+
+---
+
+12. **Do Not Make Gods of Silver or Gold**
+
+- **Scripture Reference:** Exodus 20:23
+- **Scripture Text (WEB):** "You shall not make alongside me gods of silver, or gods of gold for yourselves."
+- **Blessing:** Yahweh's presence and blessing where His name is honored (Exodus 20:24).
+- **Penalty or Consequence:** Death (Exodus 22:20); judgment in the plagues and the golden calf episode (Exodus 32:27–28, 35).
+- **Offering or Ransom?:** No offering covers intentional idolatry (Numbers 15:30–31).
+
+---
+
+13. **Build the Altar of Earth or Uncut Stone**
+
+- **Scripture Reference:** Exodus 20:24–25
+- **Scripture Text (WEB):** "You shall make an altar of earth for me, and shall sacrifice on it your burnt offerings and your peace offerings, your sheep and your cattle. In every place where I record my name I will come to you and I will bless you. If you make me an altar of stone, you shall not build it of cut stones; for if you lift up your tool on it, you have polluted it."
+- **Blessing:** Yahweh will come and bless in every place His name is recorded (Exodus 20:24).
+- **Penalty or Consequence:** The altar is polluted if built with cut stone (Exodus 20:25).
+- **Offering or Ransom?:** Not applicable — this governs the manner of offering, not an offering itself.
+
+---
+
+14. **Do Not Go Up by Steps to the Altar**
+
+- **Scripture Reference:** Exodus 20:26
+- **Scripture Text (WEB):** "You shall not go up by steps to my altar, that your nakedness may not be exposed on it."
+- **Blessing:** Dignity and holiness in approaching Yahweh.
+- **Penalty or Consequence:** Defilement of the altar implied; exposure of nakedness before Yahweh considered shameful.
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+15. **Hebrew Servants Must Be Released in the Seventh Year**
+
+- **Scripture Reference:** Exodus 21:2
+- **Scripture Text (WEB):** "If you buy a Hebrew servant, he shall serve six years and in the seventh he shall go out free without paying anything."
+- **Blessing:** Freedom and restoration of the servant; reflects the Sabbath principle.
+- **Penalty or Consequence:** Not explicitly stated in Exodus; failure to release servants judged severely by Yahweh (Jeremiah 34:17).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+16. **The Servant Who Chooses to Stay Must Be Marked at the Door**
+
+- **Scripture Reference:** Exodus 21:5–6
+- **Scripture Text (WEB):** "But if the servant shall plainly say, 'I love my master, my wife, and my children. I will not go out free;' then his master shall bring him to God, and shall bring him to the door or to the doorpost, and his master shall bore his ear through with an awl, and he shall serve him forever."
+- **Blessing:** Permanent covenant belonging; a picture of voluntary loving service.
+- **Penalty or Consequence:** Not applicable — this is a voluntary arrangement.
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+17. **A Daughter Sold as a Servant Has Specific Rights**
+
+- **Scripture Reference:** Exodus 21:7–11
+- **Scripture Text (WEB):** "If a man sells his daughter to be a female servant, she shall not go out as the male servants do. If she doesn't please her master, who has married her to himself, then he shall let her be redeemed. He shall have no right to sell her to a foreign people, since he has dealt deceitfully with her. If he marries another wife, her food, her clothing, and her marital rights shall not be diminished. If he doesn't do these three things for her, she shall go out for nothing, without payment of money."
+- **Blessing:** Protection and rights for vulnerable women.
+- **Penalty or Consequence:** She goes free without cost if her rights are violated (Exodus 21:11).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+18. **One Who Strikes and Kills a Man Shall Be Put to Death**
+
+- **Scripture Reference:** Exodus 21:12
+- **Scripture Text (WEB):** "One who strikes a man so that he dies shall surely be put to death."
+- **Blessing:** Justice and the sanctity of human life upheld.
+- **Penalty or Consequence:** Death (Exodus 21:12); accidental killing allows flight to a city of refuge (Exodus 21:13).
+- **Offering or Ransom?:** No ransom accepted for a murderer's life (Numbers 35:31).
+
+---
+
+19. **The Premeditated Murderer Shall Be Taken from the Altar to Die**
+
+- **Scripture Reference:** Exodus 21:14
+- **Scripture Text (WEB):** "But if a man schemes against his neighbor, to kill him with cunning, you shall take him from my altar, that he may die."
+- **Blessing:** Justice maintained; no sanctuary for intentional murderers.
+- **Penalty or Consequence:** Death, even if the person has fled to the altar (Exodus 21:14; 1 Kings 2:28–34).
+- **Offering or Ransom?:** No ransom (Numbers 35:31).
+
+---
+
+20. **One Who Strikes Father or Mother Shall Be Put to Death**
+
+- **Scripture Reference:** Exodus 21:15
+- **Scripture Text (WEB):** "Anyone who attacks his father or his mother shall be surely put to death."
+- **Blessing:** Reverence and protection of parental authority.
+- **Penalty or Consequence:** Death (Exodus 21:15).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+21. **Kidnapping Carries the Death Penalty**
+
+- **Scripture Reference:** Exodus 21:16
+- **Scripture Text (WEB):** "Anyone who kidnaps a man, whether he sells him or is found with him in his hand, shall surely be put to death."
+- **Blessing:** Protection of freedom and human dignity.
+- **Penalty or Consequence:** Death (Exodus 21:16).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+22. **One Who Curses Father or Mother Shall Be Put to Death**
+
+- **Scripture Reference:** Exodus 21:17
+- **Scripture Text (WEB):** "Anyone who curses his father or his mother shall surely be put to death."
+- **Blessing:** Upholding of parental honor and family structure.
+- **Penalty or Consequence:** Death (Exodus 21:17).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+23. **Restitution for Injuring Another in a Fight**
+
+- **Scripture Reference:** Exodus 21:18–19
+- **Scripture Text (WEB):** "If men quarrel and one strikes the other with a stone, or with his fist, and he doesn't die, but is confined to bed; if he rises again and walks around with his staff, then he who struck him shall be cleared; only he shall pay for the loss of his time, and shall provide for his healing until he is thoroughly healed."
+- **Blessing:** Justice proportional to harm caused.
+- **Penalty or Consequence:** Restitution for lost time and medical costs (Exodus 21:19).
+- **Offering or Ransom?:** Not applicable — civil restitution required.
+
+---
+
+24. **Owner of a Slave Who Dies Under the Rod Shall Be Punished**
+
+- **Scripture Reference:** Exodus 21:20
+- **Scripture Text (WEB):** "If a man strikes his servant or his maid with a rod, and he dies under his hand, he shall surely be punished."
+- **Blessing:** Protection of servants' lives.
+- **Penalty or Consequence:** Punishment — nature unspecified but understood as death when clearly deliberate (Exodus 21:20).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+25. **A Slave Freed If Permanently Injured by Owner**
+
+- **Scripture Reference:** Exodus 21:26–27
+- **Scripture Text (WEB):** "If a man strikes his servant's eye, or his maid's eye, and destroys it, he shall let him go free for his eye's sake. If he strikes out his male servant's tooth, or his female servant's tooth, he shall let him go free for his tooth's sake."
+- **Blessing:** Protection and dignity for servants.
+- **Penalty or Consequence:** Freedom granted to the servant (Exodus 21:26–27).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+26. **Restitution for an Ox That Gores**
+
+- **Scripture Reference:** Exodus 21:28–32
+- **Scripture Text (WEB):** "If a bull gores a man or a woman to death, the bull shall surely be stoned, and its meat shall not be eaten; but the owner of the bull shall not be held responsible. But if the bull had a habit of goring in the past, and it has been testified to its owner, and he has not kept it in, but it has killed a man or a woman, the bull shall be stoned, and its owner shall also be put to death. If a ransom is laid on him, then he shall give for the redemption of his life whatever is laid on him."
+- **Blessing:** Justice that accounts for negligence and prior knowledge.
+- **Penalty or Consequence:** Death of the animal; death or ransom for negligent owner (Exodus 21:29–30).
+- **Offering or Ransom?:** Ransom may be accepted in lieu of owner's death (Exodus 21:30).
+
+---
+
+27. **Restitution for an Ox Falling into an Uncovered Pit**
+
+- **Scripture Reference:** Exodus 21:33–34
+- **Scripture Text (WEB):** "If a man opens a pit, or if a man digs a pit and doesn't cover it, and an ox or a donkey falls into it, the owner of the pit shall make it good. He shall give money to its owner, and the dead animal shall be his."
+- **Blessing:** Accountability for negligence.
+- **Penalty or Consequence:** Full restitution to the owner of the dead animal (Exodus 21:34).
+- **Offering or Ransom?:** Not applicable — civil restitution.
+
+---
+
+28. **Restitution When One Man's Ox Kills Another's**
+
+- **Scripture Reference:** Exodus 21:35–36
+- **Scripture Text (WEB):** "If one man's bull injures another's, so that it dies, then they shall sell the live bull, and divide its price; and they shall also divide the dead animal. Or if it is known that the bull was in the habit of goring in the past, and its owner has not kept it in, he shall surely pay bull for bull, and the dead animal shall be his own."
+- **Blessing:** Equitable resolution of disputes between neighbors.
+- **Penalty or Consequence:** Shared loss in negligence; full restitution for known dangerous animals (Exodus 21:35–36).
+- **Offering or Ransom?:** Not applicable — civil restitution.
+
+---
+
+29. **Restitution for Theft of Ox or Sheep**
+
+- **Scripture Reference:** Exodus 22:1
+- **Scripture Text (WEB):** "If a man steals an ox or a sheep, and kills it or sells it, he shall pay five oxen for an ox, and four sheep for a sheep."
+- **Blessing:** Justice and deterrence of theft.
+- **Penalty or Consequence:** Fivefold for an ox; fourfold for a sheep (Exodus 22:1).
+- **Offering or Ransom?:** Civil restitution; guilt offering also required when theft involved a false oath (Leviticus 6:1–7).
+
+---
+
+30. **A Thief Found Breaking In — Self-Defense Provision**
+
+- **Scripture Reference:** Exodus 22:2–3
+- **Scripture Text (WEB):** "If the thief is found breaking in, and is struck so that he dies, there shall be no guilt of bloodshed for him. If the sun has risen on him, there shall be guilt of bloodshed for him. He shall make restitution. If he has nothing, then he shall be sold for his theft."
+- **Blessing:** Protection for homeowners; proportionate justice.
+- **Penalty or Consequence:** No bloodguilt for nighttime defense; bloodguilt if the thief is killed in daylight; thief sold into service if unable to pay restitution (Exodus 22:2–3).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+31. **Restitution for Grazing Animals in Another's Field**
+
+- **Scripture Reference:** Exodus 22:5
+- **Scripture Text (WEB):** "If a man grazes his livestock in a field or vineyard, and lets them loose so that they graze in another man's field, he shall make restitution from the best of his own field and from the best of his own vineyard."
+- **Blessing:** Protection of a neighbor's livelihood.
+- **Penalty or Consequence:** Restitution from the best of the offender's own field (Exodus 22:5).
+- **Offering or Ransom?:** Not applicable — civil restitution.
+
+---
+
+32. **Restitution for Fire That Spreads and Destroys**
+
+- **Scripture Reference:** Exodus 22:6
+- **Scripture Text (WEB):** "If fire breaks out and catches in thorns so that the shocks of grain, or the standing grain, or the field are consumed, he who kindled the fire shall surely make restitution."
+- **Blessing:** Accountability for damage caused by negligence.
+- **Penalty or Consequence:** Full restitution for destroyed crops (Exodus 22:6).
+- **Offering or Ransom?:** Not applicable — civil restitution.
+
+---
+
+33. **Restitution for Goods Stolen While in Another's Keeping**
+
+- **Scripture Reference:** Exodus 22:7–8
+- **Scripture Text (WEB):** "If a man delivers to his neighbor money or stuff to keep, and it is stolen out of the man's house, if the thief is found, he shall pay double. If the thief is not found, then the master of the house shall come near to God, to find out if he hasn't put his hand on his neighbor's goods."
+- **Blessing:** Trust and integrity in community commerce.
+- **Penalty or Consequence:** Thief pays double; oath before God required when thief is unknown (Exodus 22:7–8).
+- **Offering or Ransom?:** Not specified — civil restitution.
+
+---
+
+34. **Disputes Over Lost Animals Must Come Before God**
+
+- **Scripture Reference:** Exodus 22:9
+- **Scripture Text (WEB):** "For every matter of trespass, whether it is for ox, for donkey, for sheep, for clothing, or for any kind of lost thing, about which one says, 'This is mine,' the cause of both parties shall come before God. He whom God condemns shall pay double to his neighbor."
+- **Blessing:** Righteous resolution of disputes.
+- **Penalty or Consequence:** The condemned party pays double (Exodus 22:9).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+35. **No Restitution for an Animal That Dies in Another's Care Naturally**
+
+- **Scripture Reference:** Exodus 22:10–11
+- **Scripture Text (WEB):** "If a man delivers to his neighbor a donkey, an ox, a sheep, or any animal to keep, and it dies or is injured, or is driven away, no man seeing it; the oath of Yahweh shall be between them both, that he has not put his hand on his neighbor's goods; and its owner shall accept this, and he shall not make restitution."
+- **Blessing:** Protection of honest keepers from unjust liability.
+- **Penalty or Consequence:** Oath sufficient; no restitution required if animal dies or is lost without negligence (Exodus 22:10–11).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+36. **Restitution If a Borrowed Animal Is Harmed**
+
+- **Scripture Reference:** Exodus 22:14
+- **Scripture Text (WEB):** "If a man borrows anything of his neighbor's, and it is injured, or dies, its owner not being with it, he shall surely make restitution."
+- **Blessing:** Accountability when borrowing.
+- **Penalty or Consequence:** Full restitution (Exodus 22:14); none if owner was present (Exodus 22:15).
+- **Offering or Ransom?:** Not applicable — civil restitution.
+
+---
+
+37. **A Man Who Seduces an Unbetrothed Virgin Must Marry Her or Pay the Bride Price**
+
+- **Scripture Reference:** Exodus 22:16–17
+- **Scripture Text (WEB):** "If a man entices a virgin who isn't pledged to be married, and lies with her, he shall surely pay a dowry for her to be his wife. If her father utterly refuses to give her to him, he shall pay money according to the dowry of virgins."
+- **Blessing:** Protection of women's honor and future.
+- **Penalty or Consequence:** Marriage or payment of the bride price (Exodus 22:16–17).
+- **Offering or Ransom?:** Not applicable — civil restitution.
+
+---
+
+38. **Do Not Permit a Sorceress to Live**
+
+- **Scripture Reference:** Exodus 22:18
+- **Scripture Text (WEB):** "You shall not allow a sorceress to live."
+- **Blessing:** Purity of the community before Yahweh.
+- **Penalty or Consequence:** Death (Exodus 22:18; Leviticus 20:27).
+- **Offering or Ransom?:** No offering covers deliberate witchcraft (Numbers 15:30–31).
+
+---
+
+39. **Whoever Lies with an Animal Shall Be Put to Death**
+
+- **Scripture Reference:** Exodus 22:19
+- **Scripture Text (WEB):** "Whoever has sex with an animal shall surely be put to death."
+- **Blessing:** Holiness in all aspects of life.
+- **Penalty or Consequence:** Death (Exodus 22:19; Leviticus 20:15–16).
+- **Offering or Ransom?:** No offering covers this deliberate act.
+
+---
+
+40. **Whoever Sacrifices to Any God but Yahweh Shall Be Destroyed**
+
+- **Scripture Reference:** Exodus 22:20
+- **Scripture Text (WEB):** "He who sacrifices to any god, except to Yahweh only, shall be utterly destroyed."
+- **Blessing:** Covenant loyalty to Yahweh alone.
+- **Penalty or Consequence:** Complete destruction — cherem (חֵרֶם), devoted to destruction (Exodus 22:20).
+- **Offering or Ransom?:** No offering covers intentional idolatry (Numbers 15:30–31).
+
+---
+
+41. **Do Not Wrong or Oppress a Foreigner**
+
+- **Scripture Reference:** Exodus 22:21
+- **Scripture Text (WEB):** "You shall not wrong a foreigner or oppress him, for you were foreigners in the land of Egypt."
+- **Blessing:** Yahweh's protection and blessing for those who show justice to the vulnerable.
+- **Penalty or Consequence:** Yahweh's wrath, death by the sword (Exodus 22:24).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+42. **Do Not Afflict Any Widow or Fatherless Child**
+
+- **Scripture Reference:** Exodus 22:22
+- **Scripture Text (WEB):** "You shall not afflict any widow or fatherless child."
+- **Blessing:** Yahweh's covenant care extended through Israel to the vulnerable.
+- **Penalty or Consequence:** Yahweh's burning anger; death by sword; their wives made widows and children fatherless (Exodus 22:23–24).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+43. **Do Not Charge Interest to a Poor Brother**
+
+- **Scripture Reference:** Exodus 22:25
+- **Scripture Text (WEB):** "If you lend money to any of my people with you who is poor, you shall not be to him as a creditor; neither shall you charge him interest."
+- **Blessing:** Reflecting Yahweh's generosity; communal protection.
+- **Penalty or Consequence:** Implicit judgment — Yahweh hears the cry of the oppressed (Exodus 22:23, 27).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+44. **Return a Neighbor's Cloak Before Sunset**
+
+- **Scripture Reference:** Exodus 22:26–27
+- **Scripture Text (WEB):** "If you take your neighbor's garment as collateral, you shall restore it to him before the sun goes down, for that is his only covering, it is his garment for his skin. What will he sleep in? It will happen, when he cries to me, that I will hear, for I am gracious."
+- **Blessing:** Yahweh's graciousness reflected in community practice.
+- **Penalty or Consequence:** Yahweh will hear the cry of the poor man (Exodus 22:27).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+45. **Do Not Revile God or Curse a Ruler of Your People**
+
+- **Scripture Reference:** Exodus 22:28
+- **Scripture Text (WEB):** "You shall not blaspheme God, nor curse a ruler of your people."
+- **Blessing:** Order and reverence in the community.
+- **Penalty or Consequence:** Death for blasphemy (Leviticus 24:16); the command itself implies severe consequence.
+- **Offering or Ransom?:** Not specified.
+
+---
+
+46. **Do Not Delay Offering Your Firstfruits and Firstborn**
+
+- **Scripture Reference:** Exodus 22:29–30
+- **Scripture Text (WEB):** "You shall not delay to offer from your harvest and from the outflow of your presses. You shall give the firstborn of your sons to me. You shall do likewise with your cattle and with your sheep. Seven days it shall be with its mother, then on the eighth day you shall give it to me."
+- **Blessing:** Yahweh's covenant provision in return for first-fruits obedience.
+- **Penalty or Consequence:** Implied — withholding from Yahweh is robbery (Malachi 3:8–10).
+- **Offering or Ransom?:** The firstborn of sons is to be redeemed (Exodus 13:13; Numbers 18:15–16).
+
+---
+
+47. **Be Holy Men — Do Not Eat Flesh Torn by Wild Beasts**
+
+- **Scripture Reference:** Exodus 22:31
+- **Scripture Text (WEB):** "You shall be holy men to me, therefore you shall not eat any meat that is torn by animals in the field. You shall cast it to the dogs."
+- **Blessing:** Holiness and distinction as Yahweh's people.
+- **Penalty or Consequence:** Not specified explicitly; violation defiles covenant holiness.
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+48. **Do Not Spread a False Report**
+
+- **Scripture Reference:** Exodus 23:1
+- **Scripture Text (WEB):** "You shall not spread a false report. Don't join your hand with the wicked to be a malicious witness."
+- **Blessing:** Justice and integrity in the community.
+- **Penalty or Consequence:** The false witness receives what was intended for the accused (Deuteronomy 19:18–19).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+49. **Do Not Follow a Crowd to Do Evil or Pervert Justice**
+
+- **Scripture Reference:** Exodus 23:2
+- **Scripture Text (WEB):** "You shall not follow a crowd to do evil; neither shall you testify in court to side with a crowd to pervert justice."
+- **Blessing:** Upright justice; Yahweh's approval.
+- **Penalty or Consequence:** Not specified, but perversion of justice is an abomination (Proverbs 17:15).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+50. **Do Not Show Partiality to a Poor Man in His Dispute**
+
+- **Scripture Reference:** Exodus 23:3
+- **Scripture Text (WEB):** "and you shall not favor a poor man in his dispute."
+- **Blessing:** Impartial justice reflects Yahweh's character.
+- **Penalty or Consequence:** Not specified; perverting justice is condemned throughout Scripture.
+- **Offering or Ransom?:** Not specified.
+
+---
+
+51. **Return Your Enemy's Lost Animal**
+
+- **Scripture Reference:** Exodus 23:4
+- **Scripture Text (WEB):** "If you meet your enemy's ox or his donkey going astray, you shall surely bring it back to him again."
+- **Blessing:** Overcoming enmity through acts of justice and kindness.
+- **Penalty or Consequence:** Not specified.
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+52. **Help Your Enemy's Fallen Animal**
+
+- **Scripture Reference:** Exodus 23:5
+- **Scripture Text (WEB):** "If you see the donkey of him who hates you fallen down under his burden, don't leave him. You shall surely help him with it."
+- **Blessing:** Yahweh's justice expressed through practical mercy to all.
+- **Penalty or Consequence:** Not specified.
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+53. **Do Not Deny Justice to the Poor in Their Disputes**
+
+- **Scripture Reference:** Exodus 23:6
+- **Scripture Text (WEB):** "You shall not deny justice to your poor people in their lawsuits."
+- **Blessing:** Yahweh's justice and protection for the vulnerable.
+- **Penalty or Consequence:** Yahweh hears the cry of the oppressed (Exodus 22:23, 27).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+54. **Keep Far from a False Matter — Do Not Kill the Innocent**
+
+- **Scripture Reference:** Exodus 23:7
+- **Scripture Text (WEB):** "Keep far from a false charge, and don't kill the innocent and righteous: for I will not justify the wicked."
+- **Blessing:** Yahweh's justification of those who pursue righteousness.
+- **Penalty or Consequence:** Yahweh will not justify the wicked (Exodus 23:7).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+55. **Do Not Take a Bribe**
+
+- **Scripture Reference:** Exodus 23:8
+- **Scripture Text (WEB):** "You shall take no bribe, for a bribe blinds those who have sight and perverts the words of the righteous."
+- **Blessing:** Clarity of sight and integrity in leadership.
+- **Penalty or Consequence:** Blindness of judgment; perversion of righteousness (Exodus 23:8).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+56. **Do Not Oppress a Foreigner**
+
+- **Scripture Reference:** Exodus 23:9
+- **Scripture Text (WEB):** "You shall not oppress a foreigner, for you know the heart of a foreigner, since you were foreigners in the land of Egypt."
+- **Blessing:** Yahweh's blessing to those who show justice to the stranger.
+- **Penalty or Consequence:** Yahweh's wrath (see Exodus 22:21–24).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+57. **Let the Land Rest in the Seventh Year**
+
+- **Scripture Reference:** Exodus 23:10–11
+- **Scripture Text (WEB):** "For six years you shall sow your land, and shall gather in its increase, but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the animal of the field shall eat. In the same way, you shall deal with your vineyard and with your olive grove."
+- **Blessing:** Rest for the land; provision for the poor and animals; reflection of Yahweh's Sabbath provision.
+- **Penalty or Consequence:** Exile from the land until it enjoyed its Sabbaths (Leviticus 26:34–35; 2 Chronicles 36:21).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+58. **Rest on the Seventh Day — Including Animals and Servants**
+
+- **Scripture Reference:** Exodus 23:12
+- **Scripture Text (WEB):** "Six days you shall do your work, and on the seventh day you shall rest, that your ox and your donkey may have rest, and the son of your handmaid, and the foreigner may be refreshed."
+- **Blessing:** Rest and refreshment for all under Israel's household.
+- **Penalty or Consequence:** Death for deliberate Sabbath violation (Exodus 31:14–15; Numbers 15:32–36).
+- **Offering or Ransom?:** No offering substitutes for deliberate Sabbath violation.
+
+---
+
+59. **Do Not Mention the Names of Other Gods**
+
+- **Scripture Reference:** Exodus 23:13
+- **Scripture Text (WEB):** "Be careful to do all things that I have said to you; and don't invoke the name of other gods, nor let them be heard out of your mouth."
+- **Blessing:** Covenant purity with Yahweh.
+- **Penalty or Consequence:** Death for idolatry (Exodus 22:20).
+- **Offering or Ransom?:** No offering covers deliberate invoking of other gods.
+
+---
+
+60. **Three Times a Year You Shall Keep a Feast to Yahweh**
+
+- **Scripture Reference:** Exodus 23:14
+- **Scripture Text (WEB):** "You shall observe a feast to me three times a year."
+- **Blessing:** Yahweh's covenant blessings poured out on the land (Exodus 23:25–26).
+- **Penalty or Consequence:** Implied — neglect of appointed times is covenant unfaithfulness.
+- **Offering or Ransom?:** Offerings brought to Yahweh at these feasts are integral (Exodus 23:18).
+
+---
+
+61. **Keep the Feast of Unleavened Bread (Passover)**
+
+- **Scripture Reference:** Exodus 23:15
+- **Scripture Text (WEB):** "You shall observe the feast of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month Abib (for in it you came out of Egypt), and no one shall appear before me empty."
+- **Blessing:** Commemoration of redemption; covenant renewal.
+- **Penalty or Consequence:** One who eats leaven during Passover is cut off (Exodus 12:15).
+- **Offering or Ransom?:** Offerings required; no one is to appear before Yahweh empty (Exodus 23:15).
+
+---
+
+62. **Keep the Feast of Harvest (Shavuot/Weeks)**
+
+- **Scripture Reference:** Exodus 23:16a
+- **Scripture Text (WEB):** "and the feast of harvest, the first fruits of your labors, which you sow in the field."
+- **Blessing:** Acknowledgment of Yahweh as provider of the harvest.
+- **Penalty or Consequence:** Not specified; neglect implies covenant unfaithfulness.
+- **Offering or Ransom?:** Firstfruits offerings brought (Leviticus 23:15–21).
+
+---
+
+63. **Keep the Feast of Ingathering (Sukkot/Tabernacles)**
+
+- **Scripture Reference:** Exodus 23:16b
+- **Scripture Text (WEB):** "and the feast of ingathering, at the end of the year, when you gather in your labors out of the field."
+- **Blessing:** Celebration of Yahweh's provision and remembrance of the wilderness journey.
+- **Penalty or Consequence:** Not specified in Exodus; later — nations that do not keep Sukkot receive no rain (Zechariah 14:17–19).
+- **Offering or Ransom?:** Offerings required (Numbers 29:12–38).
+
+---
+
+64. **All Males Shall Appear Before Yahweh Three Times a Year**
+
+- **Scripture Reference:** Exodus 23:17
+- **Scripture Text (WEB):** "Three times in the year all your males shall appear before the Lord Yahweh."
+- **Blessing:** Covenant presence with Yahweh; His blessing on the people and land.
+- **Penalty or Consequence:** Implied — failure to appear is covenant neglect.
+- **Offering or Ransom?:** No one shall appear before Yahweh empty (Exodus 23:15; 34:20).
+
+---
+
+65. **Do Not Offer the Blood of a Sacrifice with Leavened Bread**
+
+- **Scripture Reference:** Exodus 23:18a
+- **Scripture Text (WEB):** "You shall not offer the blood of my sacrifice with leavened bread."
+- **Blessing:** Ritual purity before Yahweh.
+- **Penalty or Consequence:** Not specified explicitly; leaven is linked to corruption (1 Corinthians 5:6–8 draws on this concept).
+- **Offering or Ransom?:** Not applicable — this governs the manner of sacrifice.
+
+---
+
+66. **Do Not Let the Fat of the Feast Remain Until Morning**
+
+- **Scripture Reference:** Exodus 23:18b
+- **Scripture Text (WEB):** "The fat of my feast shall not remain all night until the morning."
+- **Blessing:** Purity and complete consecration of the offering to Yahweh.
+- **Penalty or Consequence:** Not specified explicitly.
+- **Offering or Ransom?:** Governs the handling of the sacrifice itself.
+
+---
+
+67. **Bring the Best Firstfruits to the House of Yahweh**
+
+- **Scripture Reference:** Exodus 23:19a
+- **Scripture Text (WEB):** "You shall bring the first of the first fruits of your ground into the house of Yahweh your God."
+- **Blessing:** Yahweh's covenant provision and blessing of the land (Deuteronomy 26:10–11).
+- **Penalty or Consequence:** Withholding firstfruits is robbery of Yahweh (Malachi 3:8–10).
+- **Offering or Ransom?:** The firstfruits themselves are the offering.
+
+---
+
+68. **Do Not Boil a Young Goat in Its Mother's Milk**
+
+- **Scripture Reference:** Exodus 23:19b
+- **Scripture Text (WEB):** "You shall not boil a young goat in its mother's milk."
+- **Blessing:** Holiness and distinction as Yahweh's people.
+- **Penalty or Consequence:** Not specified; violation defiles covenant holiness.
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+69. **Obey the Angel Yahweh Sends — Do Not Rebel Against Him**
+
+- **Scripture Reference:** Exodus 23:21
+- **Scripture Text (WEB):** "Pay attention to him, and listen to his voice. Don't provoke him, for he will not pardon your disobedience, for my name is in him."
+- **Blessing:** Yahweh's presence, protection, and victory over enemies (Exodus 23:22–23).
+- **Penalty or Consequence:** He will not pardon rebellion; Yahweh's name is in him (Exodus 23:21).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+70. **Do Not Bow Down to the Gods of Canaan or Serve Them**
+
+- **Scripture Reference:** Exodus 23:24
+- **Scripture Text (WEB):** "You shall not bow down to their gods, nor serve them, nor follow their practices, but you shall utterly overthrow them and demolish their pillars."
+- **Blessing:** Yahweh's blessing, healing, and removal of sickness (Exodus 23:25–26).
+- **Penalty or Consequence:** Judgment; becoming ensnared (Exodus 23:33).
+- **Offering or Ransom?:** No offering covers deliberate idolatry (Numbers 15:30–31).
+
+---
+
+71. **Utterly Overthrow Canaanite Gods and Demolish Their Pillars**
+
+- **Scripture Reference:** Exodus 23:24b
+- **Scripture Text (WEB):** "you shall utterly overthrow them and demolish their pillars."
+- **Blessing:** A land cleansed for Yahweh's presence.
+- **Penalty or Consequence:** Leaving them becomes a snare (Exodus 23:33; Judges 2:3).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+72. **Make No Covenant with the Inhabitants of Canaan**
+
+- **Scripture Reference:** Exodus 23:32
+- **Scripture Text (WEB):** "You shall make no covenant with them, nor with their gods."
+- **Blessing:** Covenant purity and Yahweh's blessing on the land.
+- **Penalty or Consequence:** Their gods become a snare to Israel (Exodus 23:33).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+73. **Do Not Let Them Dwell in the Land**
+
+- **Scripture Reference:** Exodus 23:33
+- **Scripture Text (WEB):** "They shall not dwell in your land, lest they make you sin against me, for if you serve their gods, it will surely be a snare to you."
+- **Blessing:** Protection of Israel's covenant identity before Yahweh.
+- **Penalty or Consequence:** Their presence becomes a snare leading to sin against Yahweh (Exodus 23:33).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+74. **Build the Tabernacle and Its Furnishings According to the Pattern**
+
+- **Scripture Reference:** Exodus 25:8–9
+- **Scripture Text (WEB):** "Let them make me a sanctuary, that I may dwell among them. According to all that I show you, the pattern of the tabernacle, and the pattern of all of its furniture, even so you shall make it."
+- **Blessing:** Yahweh's presence dwelling among Israel.
+- **Penalty or Consequence:** Death for unauthorized approach or deviation from the pattern (Leviticus 10:1–2; Numbers 4:15, 20).
+- **Offering or Ransom?:** Not applicable directly; the tabernacle is itself the place of offering.
+
+---
+
+75. **Make the Ark of the Covenant According to the Pattern**
+
+- **Scripture Reference:** Exodus 25:10–22
+- **Scripture Text (WEB):** "They shall make an ark of acacia wood. Its length shall be two and a half cubits, its width a cubit and a half, and a cubit and a half its height..."
+- **Blessing:** Yahweh's meeting place with Israel; the presence of the Torah.
+- **Penalty or Consequence:** Death for touching or mishandling the Ark (1 Samuel 6:19; 2 Samuel 6:6–7).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+76. **Make the Table of Showbread According to the Pattern**
+
+- **Scripture Reference:** Exodus 25:23–30
+- **Scripture Text (WEB):** "You shall make a table of acacia wood... You shall set the bread of the presence on the table before me always."
+- **Blessing:** Perpetual covenant meal before Yahweh; symbol of Yahweh's ongoing provision.
+- **Penalty or Consequence:** Not specified in Exodus; unauthorized eating brings death (1 Samuel 21:4–6 implies strict regulation).
+- **Offering or Ransom?:** The showbread itself functions as a perpetual offering before Yahweh.
+
+---
+
+77. **Make the Menorah (Lampstand) According to the Pattern**
+
+- **Scripture Reference:** Exodus 25:31–40
+- **Scripture Text (WEB):** "You shall make a lampstand of pure gold... See that you make them after the pattern for them, which has been shown to you on the mountain."
+- **Blessing:** The light of Yahweh's presence continually burning in the sanctuary.
+- **Penalty or Consequence:** Death for those who mishandle holy things (Leviticus 10:1–2).
+- **Offering or Ransom?:** Not applicable directly.
+
+---
+
+78. **Make the Tabernacle with Curtains and Coverings According to the Pattern**
+
+- **Scripture Reference:** Exodus 26:1–37
+- **Scripture Text (WEB):** "Moreover you shall make the tabernacle with ten curtains of fine twined linen, and blue, purple, and scarlet..."
+- **Blessing:** A fitting dwelling for Yahweh's glory among Israel.
+- **Penalty or Consequence:** Deviation from the pattern — unauthorized approach brings death (Numbers 4:15, 20).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+79. **Make the Altar of Burnt Offering According to the Pattern**
+
+- **Scripture Reference:** Exodus 27:1–8
+- **Scripture Text (WEB):** "You shall make the altar of acacia wood, five cubits long, and five cubits wide; the altar shall be square; and its height shall be three cubits."
+- **Blessing:** The central place of atonement and covenant worship.
+- **Penalty or Consequence:** Offering outside the prescribed place forbidden (Leviticus 17:1–9).
+- **Offering or Ransom?:** The altar is the place of all offerings.
+
+---
+
+80. **Make the Court of the Tabernacle According to the Pattern**
+
+- **Scripture Reference:** Exodus 27:9–19
+- **Scripture Text (WEB):** "Moreover you shall make the court of the tabernacle..."
+- **Blessing:** The sacred boundary demarcating Yahweh's dwelling.
+- **Penalty or Consequence:** Violation of boundaries — unauthorized entry brings death.
+- **Offering or Ransom?:** Not applicable directly.
+
+---
+
+81. **Command Israel to Bring Pure Olive Oil for the Lamp**
+
+- **Scripture Reference:** Exodus 27:20
+- **Scripture Text (WEB):** "You shall command the children of Israel, that they bring to you pure olive oil beaten for the light, to cause a lamp to burn continually."
+- **Blessing:** The perpetual light before Yahweh; symbol of Israel's covenant responsibility to maintain worship.
+- **Penalty or Consequence:** Not specified; letting the lamp go out would violate the command of perpetual light.
+- **Offering or Ransom?:** The oil itself is a perpetual offering to maintain the lamp.
+
+---
+
+82. **Make the Priestly Garments for Aaron and His Sons**
+
+- **Scripture Reference:** Exodus 28:2–4
+- **Scripture Text (WEB):** "You shall make holy garments for Aaron your brother, for glory and for beauty. You shall speak to all who are wise-hearted, whom I have filled with the spirit of wisdom, that they make Aaron's garments to consecrate him, that he may minister to me in the priest's office."
+- **Blessing:** Yahweh's glory displayed through the priesthood; holiness in approach to Yahweh.
+- **Penalty or Consequence:** Ministering without the proper garments brings death (Exodus 28:43).
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+83. **Aaron Shall Bear the Names of Israel on His Shoulders Before Yahweh**
+
+- **Scripture Reference:** Exodus 28:12
+- **Scripture Text (WEB):** "You shall put the two stones on the shoulder straps of the ephod, to be stones of memorial for the children of Israel. Aaron shall bear their names before Yahweh on his two shoulders for a memorial."
+- **Blessing:** Intercession and representation of all Israel before Yahweh.
+- **Penalty or Consequence:** Not specified; failure to represent Israel before Yahweh would be a failure of priestly duty.
+- **Offering or Ransom?:** Not applicable directly.
+
+---
+
+84. **The Breastplate of Judgment Shall Be on Aaron's Heart When He Enters Before Yahweh**
+
+- **Scripture Reference:** Exodus 28:29–30
+- **Scripture Text (WEB):** "Aaron shall bear the names of the children of Israel in the breastplate of judgment on his heart, when he goes in to the holy place, for a memorial before Yahweh continually. You shall put in the breastplate of judgment the Urim and the Thummim; and they shall be on Aaron's heart, when he goes in before Yahweh..."
+- **Blessing:** Israel's judgment continually before Yahweh; access to divine guidance through the Urim and Thummim.
+- **Penalty or Consequence:** Not specified; failure of priestly intercession could result in Israel lacking Yahweh's guidance.
+- **Offering or Ransom?:** Not applicable.
+
+---
+
+85. **Aaron Shall Bear the Iniquity of the Holy Things**
+
+- **Scripture Reference:** Exodus 28:38
+- **Scripture Text (WEB):** "It shall be on Aaron's forehead, and Aaron shall bear the iniquity of the holy things, which the children of Israel shall hallow in all their holy gifts; and it shall be always on his forehead, that they may be accepted before Yahweh."
+- **Blessing:** Israel's offerings made acceptable before Yahweh through the high priest's intercession.
+- **Penalty or Consequence:** Without the high priest's bearing of iniquity, offerings would not be accepted.
+- **Offering or Ransom?:** The high priest's wearing of the plate is itself part of the atoning function.
+
+---
+
+86. **Priests Must Not Minister Without Proper Garments — or They Die**
+
+- **Scripture Reference:** Exodus 28:43
+- **Scripture Text (WEB):** "They shall be on Aaron, and on his sons, when they go into the Tent of Meeting, or when they come near to the altar to minister in the holy place, that they don't bear iniquity, and die. It shall be a statute forever to him and to his descendants after him."
+- **Blessing:** Priestly ministry sustained; Israel's covenant access to Yahweh maintained.
+- **Penalty or Consequence:** Death for ministering improperly clothed (Exodus 28:43).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+87. **Consecrate Aaron and His Sons — Seven Days**
+
+- **Scripture Reference:** Exodus 29:35
+- **Scripture Text (WEB):** "Thus you shall do to Aaron, and to his sons, according to all that I have commanded you. You shall consecrate them seven days."
+- **Blessing:** A properly consecrated priesthood to serve Yahweh and intercede for Israel.
+- **Penalty or Consequence:** Approaching without consecration brings death (Leviticus 10:1–2).
+- **Offering or Ransom?:** Ordination offerings are prescribed in Exodus 29:1–34 (bull, two rams, unleavened bread, wave offering).
+
+---
+
+88. **Offer Two Lambs Daily — The Continual Burnt Offering (Tamid)**
+
+- **Scripture Reference:** Exodus 29:38–42
+- **Scripture Text (WEB):** "Now this is that which you shall offer on the altar: two lambs a year old day by day continually. The one lamb you shall offer in the morning; and the other lamb you shall offer at evening..."
+- **Blessing:** Yahweh meets with Israel continually; His presence sustained through the daily offering.
+- **Penalty or Consequence:** Interruption of the Tamid was considered a sign of covenant judgment (Daniel 8:11–13; 11:31).
+- **Offering or Ransom?:** The Tamid (תָּמִיד) is the foundational continual burnt offering.
+
+---
+
+89. **Make the Altar of Incense According to the Pattern**
+
+- **Scripture Reference:** Exodus 30:1–10
+- **Scripture Text (WEB):** "You shall make an altar to burn incense on. You shall make it of acacia wood... Aaron shall burn incense of sweet spices on it every morning. When he tends the lamps, he shall burn it."
+- **Blessing:** The perpetual fragrance of prayer and intercession before Yahweh (Psalm 141:2; Revelation 8:3–4).
+- **Penalty or Consequence:** Offering unauthorized incense brings death (Leviticus 10:1–2).
+- **Offering or Ransom?:** The incense offering is a daily perpetual offering.
+
+---
+
+90. **Every Man Shall Give a Ransom for His Soul When Numbered**
+
+- **Scripture Reference:** Exodus 30:12–13
+- **Scripture Text (WEB):** "When you take a census of the children of Israel, according to those who are numbered among them, then each man shall give a ransom for his soul to Yahweh when you number them, that there be no plague among them when you number them. They shall give this — everyone who passes over to those who are numbered — half a shekel..."
+- **Blessing:** Protection from plague; atonement for each soul counted.
+- **Penalty or Consequence:** Plague upon Israel for numbering without ransom (2 Samuel 24:1–17 shows judgment for improper census).
+- **Offering or Ransom?:** Yes — the half-shekel is explicitly a ransom (kofer, כֹּפֶר) for each soul.
+
+---
+
+91. **Make the Bronze Laver and Its Stand for Washing**
+
+- **Scripture Reference:** Exodus 30:18–21
+- **Scripture Text (WEB):** "You shall also make a basin of brass, and its base of brass, in which to wash. You shall put it between the Tent of Meeting and the altar, and you shall put water in it. Aaron and his sons shall wash their hands and their feet from it... so that they won't die..."
+- **Blessing:** Priestly purity maintained; covenant access to Yahweh preserved.
+- **Penalty or Consequence:** Death for approaching Yahweh without washing (Exodus 30:20–21).
+- **Offering or Ransom?:** Not applicable directly — the washing is preparation for offering.
+
+---
+
+92. **Make the Holy Anointing Oil According to the Formula**
+
+- **Scripture Reference:** Exodus 30:22–25
+- **Scripture Text (WEB):** "Moreover Yahweh spoke to Moses, saying, 'Also take fine spices: of liquid myrrh, five hundred shekels; and of fragrant cinnamon half as much, even two hundred and fifty; and of fragrant cane, two hundred and fifty; and of cassia, five hundred, after the shekel of the sanctuary; and a hin of olive oil. You shall make it a holy anointing oil...'"
+- **Blessing:** Consecration of the tabernacle and priesthood; Yahweh's anointing for service.
+- **Penalty or Consequence:** Death or being cut off for misuse or unauthorized replication (Exodus 30:33).
+- **Offering or Ransom?:** Not applicable — this consecrates the means of offering.
+
+---
+
+93. **Do Not Pour the Holy Anointing Oil on an Outsider or Replicate It**
+
+- **Scripture Reference:** Exodus 30:32–33
+- **Scripture Text (WEB):** "It shall not be poured on man's flesh, neither shall you make any like it according to its composition. It is holy, and it shall be holy to you. Whoever compounds any like it, or whoever puts any of it on a stranger, he shall be cut off from his people."
+- **Blessing:** The sanctity of Yahweh's consecration kept pure.
+- **Penalty or Consequence:** Cut off from the people (Exodus 30:33).
+- **Offering or Ransom?:** Not specified.
+
+---
+
+94. **Make the Holy Incense According to the Formula — Do Not Replicate It**
+
+- **Scripture Reference:** Exodus 30:34–38
+- **Scripture Text (WEB):** "Yahweh said to Moses, 'Take to yourself sweet spices... You shall make of these a perfume, a confection after the art of the perfumer, seasoned with salt, pure and holy. You shall beat some of it very small, and put some of it before the covenant in the Tent of Meeting, where I will meet with you. It shall be to you most holy. The perfume which you shall make, you shall not make for yourselves according to its composition. It shall be to you holy for Yahweh. Whoever shall make any like it to smell of it, he shall be cut off from his people.'"
+- **Blessing:** The holy fragrance of Yahweh's presence; acceptable intercession before Him.
+- **Penalty or Consequence:** Cut off from the people for making unauthorized incense (Exodus 30:38).
+- **Offering or Ransom?:** Not applicable — the incense is itself an offering.
+
+---
+
+95. **Keep the Sabbath — It Is a Sign Between Yahweh and Israel Forever**
+
+- **Scripture Reference:** Exodus 31:13–14
+- **Scripture Text (WEB):** "Surely you shall keep my Sabbaths, for it is a sign between me and you throughout your generations, that you may know that I am Yahweh who sanctifies you. You shall keep the Sabbath therefore, for it is holy to you. Everyone who profanes it shall surely be put to death; for whoever does any work on it, that soul shall be cut off from among his people."
+- **Blessing:** The Sabbath as the covenant sign of sanctification between Yahweh and Israel.
+- **Penalty or Consequence:** Death; being cut off from the people (Exodus 31:14–15).
+- **Offering or Ransom?:** No offering substitutes for deliberate Sabbath violation (Numbers 15:30–31).
+
+---
+
+96. **Whoever Does Work on the Sabbath Shall Be Put to Death**
+
+- **Scripture Reference:** Exodus 31:15
+- **Scripture Text (WEB):** "Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, holy to Yahweh. Whoever does any work on the Sabbath day shall surely be put to death."
+- **Blessing:** Rest and covenant fidelity.
+- **Penalty or Consequence:** Death (Exodus 31:15; Numbers 15:32–36).
+- **Offering or Ransom?:** No offering covers intentional Sabbath violation (Numbers 15:30–31).
+
+---
+
+97. **Do Not Make a Molten God**
+
+- **Scripture Reference:** Exodus 34:17
+- **Scripture Text (WEB):** "You shall make no molten gods for yourselves."
+- **Blessing:** Exclusive covenant loyalty to Yahweh.
+- **Penalty or Consequence:** Death (Exodus 22:20); destruction as with the golden calf (Exodus 32:27–28, 35).
+- **Offering or Ransom?:** No offering covers deliberate idolatry (Numbers 15:30–31).
+
+---
+
+98. **Keep the Feast of Unleavened Bread (Repeated Covenant)**
+
+- **Scripture Reference:** Exodus 34:18
+- **Scripture Text (WEB):** "You shall keep the feast of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, in the time of the month Abib; for in the month Abib you came out of Egypt."
+- **Blessing:** Covenant remembrance of redemption from Egypt.
+- **Penalty or Consequence:** Cut off for eating leaven during Passover (Exodus 12:15).
+- **Offering or Ransom?:** Offerings required at the feast; no one appears before Yahweh empty (Exodus 34:20).
+
+---
+
+99. **Redeem Every Firstborn of a Donkey with a Lamb or Break Its Neck**
+
+- **Scripture Reference:** Exodus 34:20a
+- **Scripture Text (WEB):** "All the firstborn of your donkeys you shall redeem with a lamb, and if you will not redeem it, then you shall break its neck."
+- **Blessing:** Acknowledging Yahweh as owner of all firstborn.
+- **Penalty or Consequence:** The animal's neck is broken if not redeemed.
+- **Offering or Ransom?:** Yes — the lamb is the ransom/redemption price for the unclean animal.
+
+---
+
+100. **Redeem Every Firstborn Son**
+
+- **Scripture Reference:** Exodus 34:20b
+- **Scripture Text (WEB):** "All the firstborn of your sons you shall redeem."
+- **Blessing:** Consecration of Israel's firstborn to Yahweh; recognition of His deliverance in Egypt.
+- **Penalty or Consequence:** Not specified explicitly in this passage; context of Passover and the death of Egypt's firstborn gives weight to the command.
+- **Offering or Ransom?:** Yes — five shekels of silver as the redemption price (Numbers 18:15–16).
+
+---
+
+101. **No One Shall Appear Before Yahweh Empty**
+
+- **Scripture Reference:** Exodus 34:20c
+- **Scripture Text (WEB):** "None shall appear before me empty."
+- **Blessing:** Yahweh honored with gifts in every approach; covenant generosity.
+- **Penalty or Consequence:** Not specified explicitly; appearing empty-handed is covenant disrespect.
+- **Offering or Ransom?:** An offering is required every time one appears before Yahweh.
+
+---
+
+102. **Six Days You Shall Work, the Seventh You Shall Rest — Even in Plowing and Harvest**
+
+- **Scripture Reference:** Exodus 34:21
+- **Scripture Text (WEB):** "Six days you shall work, but on the seventh day you shall rest. In plowing time and in harvest you shall rest."
+- **Blessing:** Covenant rest even at the busiest agricultural seasons; trust in Yahweh's provision.
+- **Penalty or Consequence:** Death for Sabbath violation (Exodus 31:14–15).
+- **Offering or Ransom?:** No offering covers deliberate Sabbath violation.
+
+---
+
+103. **Keep the Feast of Weeks — the Firstfruits of Wheat Harvest**
+
+- **Scripture Reference:** Exodus 34:22a
+- **Scripture Text (WEB):** "You shall observe the feast of weeks with the first fruits of wheat harvest..."
+- **Blessing:** Thanksgiving for Yahweh's provision of the harvest.
+- **Penalty or Consequence:** Not specified; neglect is covenant unfaithfulness.
+- **Offering or Ransom?:** Firstfruits offerings required (Leviticus 23:15–21).
+
+---
+
+104. **Keep the Feast of Ingathering at the Year's End**
+
+- **Scripture Reference:** Exodus 34:22b
+- **Scripture Text (WEB):** "...and the feast of ingathering at the year's end."
+- **Blessing:** Celebration of Yahweh's harvest provision; covenant remembrance of the wilderness.
+- **Penalty or Consequence:** Nations that do not keep Sukkot receive no rain (Zechariah 14:17).
+- **Offering or Ransom?:** Offerings required (Numbers 29:12–38).
+
+---
+
+105. **Do Not Offer the Blood of a Sacrifice with Leaven**
+
+- **Scripture Reference:** Exodus 34:25a
+- **Scripture Text (WEB):** "You shall not offer the blood of my sacrifice with leavened bread."
+- **Blessing:** Purity before Yahweh in offering.
+- **Penalty or Consequence:** Not specified explicitly; ritual impurity of the offering implied.
+- **Offering or Ransom?:** Governs the manner of sacrifice.
+
+---
+
+106. **The Passover Sacrifice Shall Not Remain Until Morning**
+
+- **Scripture Reference:** Exodus 34:25b
+- **Scripture Text (WEB):** "The sacrifice of the feast of the Passover shall not be left until the morning."
+- **Blessing:** Complete devotion of the Passover offering to Yahweh.
+- **Penalty or Consequence:** Not specified here; the Passover regulations are severe (Exodus 12:15).
+- **Offering or Ransom?:** Governs the handling of the Passover sacrifice.
+
+---
+
+107. **Bring the Best Firstfruits to the House of Yahweh (Repeated)**
+
+- **Scripture Reference:** Exodus 34:26a
+- **Scripture Text (WEB):** "You shall bring the first of the first fruits of your ground to the house of Yahweh your God."
+- **Blessing:** Yahweh's covenant blessing on the land and its produce.
+- **Penalty or Consequence:** Withholding firstfruits is robbery (Malachi 3:8–10).
+- **Offering or Ransom?:** The firstfruits themselves are the offering.
+
+---
+
+108. **Do Not Boil a Young Goat in Its Mother's Milk (Repeated)**
+
+- **Scripture Reference:** Exodus 34:26b
+- **Scripture Text (WEB):** "You shall not boil a young goat in its mother's milk."
+- **Blessing:** Holiness and distinction as Yahweh's people; not following the customs of the nations.
+- **Penalty or Consequence:** Not specified; covenant defilement implied.
+- **Offering or Ransom?:** Not applicable.
 

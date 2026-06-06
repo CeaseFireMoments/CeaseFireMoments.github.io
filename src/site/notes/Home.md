@@ -19,6 +19,9 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                                                               |
+| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                                                     |
+| [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread\|Table of Showbread]]                                                         |
 | [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                                            |
 | [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]                                                                                                      |
@@ -27,7 +30,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]                              |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/44 The Seventh Day is a day for Mercy (40 Matthew)\|44 The Seventh Day is a day for Mercy (40 Matthew)]] |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                 |
-| [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread\|Table of Showbread]]                                                         |
 | [[Gate of Wisdom/Beings/Human Beings/Pharisee\|Pharisee]]                                                                                                    |
 | [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]                                                                              |
 | [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]                                  |
@@ -37,8 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/Appointed Time/First Fruits\|First Fruits]]                                                                                                 |
 | [[Gate of Wisdom/S/salvation\|salvation]]                                                                                                                    |
 | [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment\|Judgment]]                                                                           |
-| [[Gate of Wisdom/S/Sojourner\|Sojourner]]                                                                                                                    |
-| [[Torah Portions/2026.05.02 Shabbat Reading\|2026.05.02 Shabbat Reading]]                                                                                    |
 
 { .block-language-dataview}
 
