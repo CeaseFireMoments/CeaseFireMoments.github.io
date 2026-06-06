@@ -45,21 +45,171 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # June
 
-**June 1**: Deuteronomy 24:14-15 – “Do not take advantage of a hired worker who is poor...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(timely wages)  
+**June 1**: [Deuteronomy 24:14-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&version=WEB;NET;OJB) – “Do not take advantage of a hired worker who is poor...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim #Dos 
 
-**June 2**: Deuteronomy 24:17-18 – “Do not deprive the foreigner or the fatherless of justice...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(justice for vulnerable)  
+A poor and needy hired servant
+- one of your brothers (member of your covenant community)
+- one of the [[Gate of Wisdom/F/Foreigner\|Foreigner]]s who are in your land within your gates
 
-**June 3**: Deuteronomy 24:19-22 – Leave overlooked produce for the poor/foreigner/widow. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(gleaning)  
+Do not
+- oppress
+- let sun go down on his wages
 
-**June 4**: Leviticus 19:9-10 (revisited) – Leave edges and gleanings. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+Do
+- in his day given him  his wages
 
-**June 5**: Deuteronomy 25:1-3 – “When people have a dispute... the judge must decide... but not more than forty lashes.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(fair punishment)  
+Because
+- he is poor
+- he sets his heart on it
+- if he cry against you to YHWH
+	- it will be a sin to you
 
-**June 6**: Deuteronomy 19:15-21 – “One witness is not enough... a malicious witness...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(witness rules)  
+**June 2**: [Deuteronomy 24:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&version=WEB;NET;OJB) – “Do not deprive the foreigner or the fatherless of justice...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim #Dos 
 
-**June 7**: Exodus 23:6-9 – “Do not deny justice to your poor people... Do not accept a bribe...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(no bribery)  
+[[Gate of Wisdom/F/Foreigner\|Foreigner]] or the fatherless
 
-**June 8**: Leviticus 19:16 – “Do not go about spreading slander... Do not do anything that endangers your neighbor’s life.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+Do not
+- deprive of justice
+
+Widow
+
+Do not
+- take clothing in pledge
+
+Do
+- remember you were a slave in Egypt
+- remember YHWH redeemed you
+
+
+**June 3**: [Deuteronomy 24:19-22](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&version=WEB;NET;OJB) – Leave overlooked produce for the poor/foreigner/widow. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Dos #JudgmentMishpatim #DoNot 
+
+When 
+- you reap your harvest in your fields
+- have forgotten a sheaf in the field
+- beat your olive tree
+- harvest you vineyard
+
+Do not
+- go again to get the sheaf
+- go over the boughs again
+- do not glean it after
+
+Do
+- the sheaf, bough, fruit will be for 
+	- the [[Gate of Wisdom/F/Foreigner\|Foreigner]]
+	- the fatherless
+	- the widow
+- remember that you were a slave in the land of Egypt
+
+So that
+- YHWH may bless you in all the work of your hands
+
+**June 4**: [Leviticus 19:9-10]() (revisited) – Leave edges and gleanings. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+
+When you reap the harvest of your land ...
+
+Do No
+- wholly reap the corners of your field
+- gather the gleanings of your harvest
+- glean your vineyard
+- gather the fallen grapes from your vineyard
+Do
+- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/S/Stranger\|Stranger]]
+- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger
+- leave //the fallen grapes// for the poor and the stranger
+Because
+- YHWH is your god
+
+**June 5**: [Deuteronomy 25:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&version=WEB;NET;OJB) – “When people have a dispute... the judge must decide... but not more than forty lashes.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Dos #JudgmentMishpatim 
+
+A controversy between men
+- they come to judgment
+- the judges judge them
+
+Do
+- justify the righteous
+- condemn the wicked
+	- if worth to be beaten
+		- judge will 
+			- cause him to lie down
+				- to be beaten before his face
+				- according to his wickedness
+					- by number
+						- may sentence to no more than forty stripes
+
+Do not
+- give the wicked more than forty stripes
+
+Because
+- if struck or beat more than forty stripes
+	- your brother <mark style="background: #CD04BBA6;">//the wicked one//</mark> will be degraded in your sight
+
+**June 6**: [Deuteronomy 19:15-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&version=WEB;NET;OJB) – “One witness is not enough... a malicious witness...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim #Dos 
+
+When rising up against a man for 
+- any iniquity
+- or any sin that he sins
+
+Do
+- establish the matter
+	- at the mouth of 
+		- two witnesses
+		- or three witnesses
+- if an [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] witness testifies
+	- against him of wrongdoing
+		- both the men (man accused of iniquity or sin and the unrighteous witness)
+			- stand before
+				- YHWH
+				- the [[Zunpublished/Priest\|Priest]]
+				- the judges
+			- the judges shall make diligent inquisition
+				- if the witness is a false witness
+					- has testified falsely against his brother (fellow member of his covenant community)
+					- do to him as he thought to do to his brother (the man accused of iniquity or sin)
+					- remove the evil from among you
+	- those who remain shall
+		- hear
+		- fear
+		- never again commit any such evil (false witness) among you
+
+Do not
+- your eyes shall not pity
+- life for life
+- eye for eye
+- tooth for tooth
+- hand for hand
+- foot for foot
+
+remove evil from  = "you will burn out"
+
+life for life, eye for eye, etc = measure for measure - meaning the punishment should fit the crime not to be taken literally [^1]
+
+**June 7**: [Exodus 23:6-9]() – “Do not deny justice to your poor people... Do not accept a bribe...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim #Dos 
+
+Do not
+- deny justice to poor people in lawsuit
+- kill the innocent and righteous
+	- Because YHWH will not justify the wicked
+- take a bride
+	- Because bribes 
+		- blind those who have sight
+		- perverts the words of the righteous
+- oppress an [[Gate of Wisdom/F/Foreigner\|Foreigner]]
+	- Because you know their heart since you were foreigners in the land of Egypt.
+
+Do
+- keep far from a false charge
+
+**June 8**: [Leviticus 19:16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&version=WEB;NET;OJB) – “Do not go about spreading slander... Do not do anything that endangers your neighbor’s life.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor #DoNot #JudgmentMishpatim 
+
+Do not
+- go around being a [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]
+- endanger the life of your neighbor
+
+Because
+- I am YHWH
+
+<mark style="background: #CD04BBA6;">slandering is treated as something that could cost a life</mark>
 
 **June 9**: Deuteronomy 22:9-11 – Do not mix seeds, plow with ox and donkey, or wear mixed fabrics (general separation). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
 
@@ -107,3 +257,4 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 
 
 
+[^1]: [[Gate of Wisdom/I/Idiom\|Idiom]] life for life, eye for eye - meaning is measure for measure - the punishment should fit the crime

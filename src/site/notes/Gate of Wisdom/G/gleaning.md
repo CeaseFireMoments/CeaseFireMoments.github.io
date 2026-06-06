@@ -20,8 +20,8 @@
 
 # Connections
 
-| file.inlinks                                                                                              |
-| --------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
+| file.inlinks                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li></ul> |
 
 { .block-language-dataview}

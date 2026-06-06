@@ -19,6 +19,9 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                                            |
+| [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                                                                  |
+| [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]                                                                                                      |
 | [[Gate of Wisdom/S/Subjecting\|Subjecting]]                                                                                                                  |
 | [[Gate of Wisdom/E/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]                                                                  |
 | [[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]                              |
@@ -36,9 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment\|Judgment]]                                                                           |
 | [[Gate of Wisdom/S/Sojourner\|Sojourner]]                                                                                                                    |
 | [[Torah Portions/2026.05.02 Shabbat Reading\|2026.05.02 Shabbat Reading]]                                                                                    |
-| [[Gate of Wisdom/T/Testimony\|Testimony]]                                                                                                                    |
-| [[Gate of Wisdom/C/Commandment Reading Plan April\|Commandment Reading Plan April]]                                                                          |
-| [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]                                                                          |
 
 { .block-language-dataview}
 
