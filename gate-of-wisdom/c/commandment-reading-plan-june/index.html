@@ -2744,7 +2744,7 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-06-14T02:51:17.808Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-06-14T02:51:17.808Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-06-14T02:51:17.808Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-06-14T02:54:30.859Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-06-14T02:54:30.859Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-06-14T02:54:30.859Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
 <h1 data-note-icon="">Commandment Reading Plan June</h1>
@@ -3233,14 +3233,453 @@ Starting March 20; 365 day</p>
 <li>James 4:11 Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.</li>
 <li>Proverbs 18:21 — <em>&quot;Death and life are in the power of the tongue&quot;</em> — reflects the same understanding.</li>
 </ul>
-<p><strong>June 9</strong>: Deuteronomy 22:9-11 – Do not mix seeds, plow with ox and donkey, or wear mixed fabrics (general separation). - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong></p>
-<p><strong>June 10</strong>: Deuteronomy 23:17-18 – “No Israelite man or woman is to become a shrine prostitute...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> (moral purity)</p>
-<p><strong>June 11</strong>: Leviticus 11 (selected clean animals summary) – “These are the regulations concerning animals...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> (dietary distinctions)</p>
-<p><strong>June 12</strong>: Leviticus 17:10-14 – “I will set my face against any Israelite... who eats blood...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> (no blood)</p>
-<p><strong>June 13</strong>: Deuteronomy 14:3-21 (summary clean/unclean) – Do not eat detestable things. - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong></p>
-<p><strong>June 14</strong>: Leviticus 19:19 – “Keep my decrees. Do not mate different kinds of animals...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong></p>
-<p><strong>June 15</strong>: Deuteronomy 12:23-25 – “Be sure you do not eat the blood...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong></p>
-<p><strong>June 16</strong>: Exodus 23:19 / Deuteronomy 14:21 – “Do not cook a young goat in its mother’s milk.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> (separation)</p>
+<h2 id="strong-june-9-strong-do-not-mix-seeds-animals-materials-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-9-11-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-9-11-a-and-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a19-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-19-a" tabindex="-1"><strong>June 9</strong>: Do Not Mix: Seeds, Animals, Materials <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+22:9-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 22:9-11</a> and <a href="https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:19</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Do Not
+<ul>
+<li>sow vineyard with two kinds of seeds <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
+<ul>
+<li>all the fruit will be defiled</li>
+<li>all the seed will be defiled</li>
+<li>the increase of the vineyard will be defiled</li>
+</ul>
+</li>
+<li>plow with an ox and a donkey together <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>wear clothes of wool and linen woven together <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>cross-breed different animals <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>sow field with two kinds of seeds <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>wear a garment made of two kinds of material <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Verse 9 — if mixed seed is sown in a vineyard, the <strong>whole yield is forfeited</strong> — both the seed sown and the fruit of the vineyard become <em>qodesh</em> (set apart/dedicated), rendered unusable for common use</li>
+<li>The language &quot;lest the whole yield be forfeited&quot; (<em>pen tiqadash</em> — פֶּן־תִּקְדַּשׁ) implies the mixture itself becomes defiled/dedicated and is lost to the owner</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>The forfeiture of the yield appears to function as the consequence in itself — no redemption path is given for the mixed vineyard's produce</li>
+</ul>
+</li>
+<li>**<mark style="background:#cd04BBA6">Personal Observations:</mark>
+<ul>
+<li>Wool, Linen, Mixed Materials
+<ul>
+<li>Mixed stuff - fabric sha'atnez (שַׁעַטְנֵז) only found in these two verses</li>
+<li>etymology is debated</li>
+<li>Priest were prohibited from wearing wool in the inner court - only permitted to wear linen Ezekiel 44:17. This makes linen associated with <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/h/holy/">Holy</a> set apart place and wool with <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/c/common/">Common</a> place.</li>
+<li>Linen is strongly associated with the priests and being set apart. Priest garments, tabernacle curtains, messengers attire, the bride in Revelation 19:8</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-june-10-strong-no-sacred-prostitution-a-href-https-www-biblegateway-com-passage-search-deuteronomy-23-17-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-23-17-18-a" tabindex="-1"><strong>June 10</strong>: No Sacred Prostitution: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+23:17-18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 23:17-18</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Do Not
+<ul>
+<li>prostitute the daughters of <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/israel/">Israel</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>sodomite the sons of <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/israel/">Israel</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>bring the wages of a prostitute (a dog) into the House of YHWH for any vow (<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/dwelling-places/tabernacle/tabernacle/">Tabernacle</a> ) <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
+<ul>
+<li>female</li>
+<li>male</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Bringing such wages into the house of Yahweh for any vow is explicitly forbidden — implying the offering would be rejected and defiling rather than accepted</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>The wages themselves cannot be converted into an acceptable offering — no redemption path is given; the money is categorically disqualified from Yahweh's house</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6">Personal Observations</mark>:
+<ul>
+<li>the wages of a <em>qedeshah</em> or <em>kelev</em> are called an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/abomination/abomination/">Abomination</a> (<em>to'evah</em> — תּוֹעֵבָה)
+<ul>
+<li>carries the weight of something that provokes Yahweh's strongest rejection (cf. Deut. 7:25; 12:31; 17:1; 18:12; 22:5)</li>
+</ul>
+</li>
+<li>prostitute in v 17 - refers to the pagan fertility cults that employed female and male prostitutes in various rituals</li>
+<li>prostitute (a dog) in v 18 - refers to a regular prostitute</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-june-11-strong-clean-and-unclean-animals-a-href-https-www-biblegateway-com-passage-search-leviticus-11-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-11-a" tabindex="-1"><strong>June 11</strong>: Clean and Unclean Animals: <a href="https://www.biblegateway.com/passage/?search=Leviticus+11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 11</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>
+<p>This is the law of the animal, and of the bird, and of every living creature that moves in the waters, and of every creature that creeps on the earth, 47 to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.’</p>
+</li>
+<li>
+<p>Do Eat (living things which are food) <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></p>
+<ul>
+<li>Animals: which parts the hoof and is cloven-footed, and chews the cud</li>
+<li>In the waters, seas, rivers: whatever has fins and scales</li>
+<li>Insects: all winged creeping things that go on all fours, which have long, jointed legs for hopping on the earth. Even of these you may eat: any kind of locust, any kind of katydid, any kind of cricket, and any kind of grasshopper</li>
+<li>If any animal of which you may eat dies, he who touches its carcass shall be unclean until the evening. He who eats of its carcass shall wash his clothes, and be unclean until the evening. He also who carries its carcass shall wash his clothes, and be unclean until the evening.</li>
+</ul>
+</li>
+<li>
+<p>Do if something causes uncleanliness</p>
+<ul>
+<li>wash clothes</li>
+<li>unclean until the evening</li>
+<li>vessel of wood, or clothing, or skin, or sack wash with water</li>
+<li>earthen vessel break it</li>
+</ul>
+</li>
+<li>
+<p>Do Not Eat (living things which are not food) <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></p>
+<ul>
+<li>Animals:
+<ul>
+<li>These are <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/u/unclean/">Unclean</a></li>
+<li>Do not eat their meat</li>
+<li>Do not touch their carcasses -</li>
+<li>Of those that chew the cud, or of those who part the hoof (because they do not do both):
+<ul>
+<li>camel</li>
+<li>hyrax</li>
+<li>hare</li>
+<li>pig</li>
+</ul>
+</li>
+<li>Whatever goes on its paws, among all animals that go on all fours</li>
+</ul>
+</li>
+<li>In the waters, seas, rivers:
+<ul>
+<li>These are <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/abomination/abomination/">Abomination</a></li>
+<li>Detest them</li>
+<li>Do not eat of their meat</li>
+<li>Detest their carcasses</li>
+<li>All that don’t have fins and scales
+<ul>
+<li>All that move</li>
+<li>all the living creatures</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Birds:
+<ul>
+<li>Detest them</li>
+<li>These are <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/abomination/abomination/">Abomination</a></li>
+<li>eagle</li>
+<li>vulture, the black vulture</li>
+<li>red kite, any kind of black kite</li>
+<li>any kind of raven</li>
+<li>the horned owl, the screech owl, the little owl, the cormorant, the great owl, 18 the white owl, the desert owl</li>
+<li>the gull,</li>
+<li>any kind of hawk</li>
+<li>the osprey</li>
+<li>the stork</li>
+<li>any kind of heron</li>
+<li>the hoopoe</li>
+<li>the bat.</li>
+</ul>
+</li>
+<li>Insects:
+<ul>
+<li>These are <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/abomination/abomination/">Abomination</a></li>
+<li>All flying insects that walk on all fours</li>
+<li>All winged creeping things which have four feet</li>
+</ul>
+</li>
+<li>Creeping things
+<ul>
+<li>These are <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/u/unclean/">Unclean</a></li>
+<li>Can make you abominable</li>
+<li>Can defile</li>
+<li>the weasel</li>
+<li>the rat</li>
+<li>any kind of great lizard, the gecko, and the monitor lizard, the wall lizard, the skink, and the chameleon</li>
+<li>Whatever goes on its belly, and whatever goes on all fours, or whatever has many feet, even all creeping things that creep on the earth,</li>
+<li>Anything they fall on when they are dead shall be unclean
+<ul>
+<li>any vessel of wood, or clothing, or skin, or sack, whatever vessel it is, with which any work is done, it must be put into water, and it shall be unclean until the evening. Then it will be clean.</li>
+<li>earthen vessel into which any of them falls and all that is in it shall be unclean. You shall break it.</li>
+<li>All food which may be eaten which is soaked in water shall be unclean.</li>
+<li>All drink that may be drunk in every such vessel shall be unclean.</li>
+<li>Everything whereupon part of their carcass falls shall be unclean; whether oven, or range for pots, it shall be broken in pieces.</li>
+<li>a spring or a cistern in which water is gathered shall be clean, but that which touches their carcass shall be unclean</li>
+<li>If part of their carcass falls on any sowing seed which is to be sown, it is clean. But if water is put on the seed, and part of their carcass falls on it, it is unclean to you.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Do Not - these will make you unclean <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></p>
+<ul>
+<li>touch their carcass</li>
+<li>carry any part of their carcass
+<ul>
+<li>wash cloths</li>
+<li>unclean until the evening</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Because</p>
+<ul>
+<li>I am YHWH your god</li>
+<li>I brought you out of Egypt</li>
+<li>You will be holy as YHWH is holy</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated in the chapter</li>
+<li>Ties obedience to being <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/h/holy/">Holy</a> — <em>&quot;you shall be holy, for I am holy&quot;</em> (Lev. 11:44-45) — holiness is the implied blessing of distinction from the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/nation/">nation</a>s
+<ul>
+<li>Yahweh's redemption of Israel from Egypt is cited as the basis (Lev. 11:45) — obedience here is a response to already-received blessing</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Touching the carcass of an unclean animal renders the person unclean until evening (Lev. 11:24-28; 11:31-32)</li>
+<li>Any vessel, garment, or object contacted by an unclean carcass becomes unclean and must be washed or destroyed depending on material (Lev. 11:32-35)</li>
+<li>An oven or cooking range contacted by a carcass must be broken down — it is unclean (Lev. 11:35)</li>
+<li>A spring or cistern remains clean but any person touching the carcass within it is unclean (Lev. 11:36)</li>
+<li>Seed that has been wetted and contacts a carcass becomes unclean (Lev. 11:38)</li>
+<li>Eating or carrying the carcass of a clean animal that died on its own renders the person unclean until evening and requires washing of clothes (Lev. 11:39-40)</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed for eating unclean animals</li>
+<li>Uncleanness from carcass contact is resolved by time and washing — evening plus water (Lev. 11:25, 28, 32, 40)</li>
+<li>Broken or destroyed vessels have no redemption path — they are simply destroyed (Lev. 11:33, 35)</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6">Personal Observations</mark>:
+<ul>
+<li>In other texts there are ways something can be move from unclean, to common, to clean, to set apart. For example a cup can move between them based on outward things that happen to it. However, the unclean living beings are unclean by definition of characteristics which can not be changed. Thus they can not move between the categories. <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/c/unclean-common-clean-holy/">Unclean, Common, Clean, Holy</a></li>
+<li>Acts 10:14-15 <a href="https://youtu.be/TgIwmRp4xec" target="_blank" class="external-link">Acts 10:14-15 video</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-june-12-strong-no-blood-shall-be-eaten-a-href-https-www-biblegateway-com-passage-search-leviticus-17-10-14-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-17-10-14-a-and-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2012-3-a23-25-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-12-23-25-a" tabindex="-1"><strong>June 12</strong>: No Blood Shall Be Eaten: <a href="https://www.biblegateway.com/passage/?search=Leviticus+17:10-14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 17:10–14</a> and <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2012%3A23-25&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 12:23-25</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Any
+<ul>
+<li>man of the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/house-of-israel/">House of Israel</a></li>
+<li>any <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/stranger/">Stranger</a> who lives among the men of the House of Israel</li>
+<li>no person among <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/israelites/">Israelites</a></li>
+</ul>
+</li>
+<li>Do Not
+<ul>
+<li>eat any kind of blood <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
+<ul>
+<li>I will set my face against that <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/soul/">Soul</a></li>
+<li>I will cut him off from among his people</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>life of the flesh is in the blood</li>
+<li>I have given you an altar to make <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/consequence/disobedience/atonement/">Atonement</a> for your souls
+<ul>
+<li>for it is the blood that makes atonement by reason of the life</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>When hunting any animal or bird that may be eaten <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>poor out its blood</li>
+<li>cover the blood with dust</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated in this passage</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Any person of the house of Israel or stranger who eats blood — YHWH will set His face against that person and cut them off from among their people (Lev. 17:10)</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None explicitly stated in this passage.</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6">Personal Observation</mark>:
+<ul>
+<li>There is a distinction made in noting the hunting is of an animal that may be eaten.</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-june-13-strong-clean-and-unclean-foods-a-href-https-www-biblegateway-com-passage-search-deuteronomy-14-3-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-14-3-21-a" tabindex="-1"><strong>June 13</strong>: Clean and Unclean Foods: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+14:3-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 14:3-21</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Do not Eat <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
+<ul>
+<li>any abominable (<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/abomination/abomination/">Abomination</a>) thing</li>
+<li>they are <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/u/unclean/">Unclean</a></li>
+<li>them that chew the cud, or of those who have the hoof split (because they do not have both)
+<ul>
+<li>camel</li>
+<li>hare</li>
+<li>rabbit</li>
+<li>pig</li>
+</ul>
+</li>
+<li>doesn’t have fins and scales</li>
+<li>unclean birds
+<ul>
+<li>eagle</li>
+<li>vulture</li>
+<li>osprey</li>
+<li>the red kite, the kite of any kind</li>
+<li>the falcon</li>
+<li>every raven of any kind</li>
+<li>the ostrich</li>
+<li>the owl</li>
+<li>seagull</li>
+<li>hawk of any kind</li>
+<li>little owl, the great owl, the horned owl</li>
+<li>pelican</li>
+<li>vulture</li>
+<li>cormorant</li>
+<li>stork</li>
+<li>heron after its kind</li>
+<li>hoopoe</li>
+<li>bat</li>
+</ul>
+</li>
+<li>All winged creeping things</li>
+<li>anything that dies of itself
+<ul>
+<li>give it to the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/stranger/">Stranger</a> living among you who is within your gates</li>
+<li>sell it to a <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/foreigner/">Foreigner</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do Eat <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>ox</li>
+<li>sheep</li>
+<li>goat</li>
+<li>deer</li>
+<li>gazelle</li>
+<li>roebuck</li>
+<li>wild goat</li>
+<li>ibex</li>
+<li>antelope</li>
+<li>chamois.</li>
+<li>Every animal that parts the hoof, and has the hoof split in two and chews the cud</li>
+<li>whatever has fins and scales</li>
+<li>all clean birds</li>
+</ul>
+</li>
+<li>Do not boil a goat in it's mother's milk</li>
+<li>Because
+<ul>
+<li>you are a <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/h/holy/">Holy</a> people to YHWH</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated within the passage</li>
+<li>The immediate context frames Israel as <em>&quot;a holy people to Yahweh your God&quot;</em> and <em>&quot;a people for his own possession&quot;</em> (Deut. 14:2) — the dietary distinctions are tied directly to this identity and status as already-received blessing</li>
+<li>Distinction from the nations is itself the implied blessing — holiness as separation unto Yahweh</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Eating unclean animals renders one ceremonially unclean (implied; cross-referenced in Leviticus 11:26–31).</li>
+<li>The abomination language of v.3 (<em>to'evah</em> — תּוֹעֵבָה) implies that eating what is forbidden is a violation of holy status before Yahweh — the same weight carried throughout Deuteronomy (cf. Deut. 7:25; 12:31; 17:1)</li>
+<li>The animal that dies of itself may be given to the foreigner or sold to a stranger but <strong>not eaten by Israel</strong> (v.21) — the distinction between Israel and the nations is the stated rationale</li>
+<li>No specific penalty in Deuteronomy; general covenant curses apply (Deuteronomy 28:15–68).</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed within the passage</li>
+<li>Uncleanness from carcass contact is resolved by washing and time per Leviticus 11 — Deuteronomy 14 does not elaborate a remedy here</li>
+<li>The animal that dies of itself (v.21) has a disposal path — give or sell to outsiders — but no ransom or offering for the Israelite who eats it is named</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6"><strong>Personal Observation</strong></mark>:
+<ul>
+<li>All through out scripture there is a distinction made between the stranger and foreigner. Neither are completely integrated as a part of the Israelites. Once one was &quot;graphed&quot; or &quot;adopted&quot; in and became followers of YHWH, they were known as an Israelite and identified with one of the tribes. Like <a class="internal-link is-unresolved" href="/404" target="">Caleb</a>.
+<ul>
+<li>you can GIVE it to a stranger - A resident alien/sojourner living <strong>among</strong> the Israelites, often integrated to some degree, protected by law, and included in provisions like gleanings (Leviticus 19:10), feasts, and equal justice.</li>
+<li>you can SELL it to the foreigner - from another land or people who does not reside among Israel (more distant or temporary outsider)</li>
+</ul>
+</li>
+<li>Once one was &quot;graphed&quot; or &quot;adopted&quot; in and became followers of YHWH, they were known as an Israelite and identified with one of the tribes. Like <a class="internal-link is-unresolved" href="/404" target="">Caleb</a> who was fully incorporated into Israel.
+<ul>
+<li>Caleb is identified as a Kenizzite (Numbers 32:12; Joshua 14:6), suggesting possible non-Israelite ancestry absorbed into Judah — yet he is fully counted among the tribe of Judah and among the faithful</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-june-14-strong-see-june-9th-do-not-mix-seeds-animals-materials-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-9-11-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-9-11-a-and-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a19-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-19-a" tabindex="-1"><strong>June 14</strong>: See June 9th Do Not Mix: Seeds, Animals, Materials <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+22:9-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 22:9-11</a> and <a href="https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:19</a></h2>
+<h2 id="strong-june-15-strong-see-strong-june-12-strong-no-blood-shall-be-eaten-a-href-https-www-biblegateway-com-passage-search-leviticus-17-10-14-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-17-10-14-a-and-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2012-3-a23-25-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-12-23-25-a" tabindex="-1"><strong>June 15</strong>: See <strong>June 12</strong>: No Blood Shall Be Eaten: <a href="https://www.biblegateway.com/passage/?search=Leviticus+17:10-14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 17:10–14</a> and <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2012%3A23-25&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 12:23-25</a></h2>
+<h2 id="strong-june-16-strong-exodus-23-19-see-strong-june-13-strong-clean-and-unclean-foods-a-href-https-www-biblegateway-com-passage-search-deuteronomy-14-3-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-14-3-21-a" tabindex="-1"><strong>June 16</strong>: Exodus 23:19 see <strong>June 13</strong>: Clean and Unclean Foods: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+14:3-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 14:3-21</a></h2>
 <p><strong>June 17</strong>: Leviticus 23:22 – Leave harvest portions for poor. - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
 <p><strong>June 18</strong>: Deuteronomy 16:18-20 – “Appoint judges... Judge fairly... do not pervert justice...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(establish justice)</p>
 <p><strong>June 19</strong>: Deuteronomy 17:8-13 – Difficult cases referred to higher judgment. - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
@@ -3320,6 +3759,22 @@ On this page
 </li>
 <li><a href="#strong-june-8-strong-slander-false-witness-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a16-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-16-a">June 8: Slander, False Witness Leviticus 19:16</a>
 </li>
+<li><a href="#strong-june-9-strong-do-not-mix-seeds-animals-materials-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-9-11-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-9-11-a-and-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a19-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-19-a">June 9: Do Not Mix: Seeds, Animals, Materials Deuteronomy 22:9-11 and Leviticus 19:19</a>
+</li>
+<li><a href="#strong-june-10-strong-no-sacred-prostitution-a-href-https-www-biblegateway-com-passage-search-deuteronomy-23-17-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-23-17-18-a">June 10: No Sacred Prostitution: Deuteronomy 23:17-18</a>
+</li>
+<li><a href="#strong-june-11-strong-clean-and-unclean-animals-a-href-https-www-biblegateway-com-passage-search-leviticus-11-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-11-a">June 11: Clean and Unclean Animals: Leviticus 11</a>
+</li>
+<li><a href="#strong-june-12-strong-no-blood-shall-be-eaten-a-href-https-www-biblegateway-com-passage-search-leviticus-17-10-14-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-17-10-14-a-and-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2012-3-a23-25-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-12-23-25-a">June 12: No Blood Shall Be Eaten: Leviticus 17:10–14 and Deuteronomy 12:23-25</a>
+</li>
+<li><a href="#strong-june-13-strong-clean-and-unclean-foods-a-href-https-www-biblegateway-com-passage-search-deuteronomy-14-3-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-14-3-21-a">June 13: Clean and Unclean Foods: Deuteronomy 14:3-21</a>
+</li>
+<li><a href="#strong-june-14-strong-see-june-9th-do-not-mix-seeds-animals-materials-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-9-11-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-9-11-a-and-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a19-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-19-a">June 14: See June 9th Do Not Mix: Seeds, Animals, Materials Deuteronomy 22:9-11 and Leviticus 19:19</a>
+</li>
+<li><a href="#strong-june-15-strong-see-strong-june-12-strong-no-blood-shall-be-eaten-a-href-https-www-biblegateway-com-passage-search-leviticus-17-10-14-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-17-10-14-a-and-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2012-3-a23-25-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-12-23-25-a">June 15: See June 12: No Blood Shall Be Eaten: Leviticus 17:10–14 and Deuteronomy 12:23-25</a>
+</li>
+<li><a href="#strong-june-16-strong-exodus-23-19-see-strong-june-13-strong-clean-and-unclean-foods-a-href-https-www-biblegateway-com-passage-search-deuteronomy-14-3-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-14-3-21-a">June 16: Exodus 23:19 see June 13: Clean and Unclean Foods: Deuteronomy 14:3-21</a>
+</li>
 </ol>
 </li>
 </ol>
@@ -3331,7 +3786,6 @@ On this page
 <div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/an-index/c/" data-note-icon="" class="backlink">C</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/an-index/r/" data-note-icon="" class="backlink">R</a>
 </div><div class="backlink-card"><i icon-name="link"></i><a href="/gate-of-wisdom/c/commandment-reading-plan/" data-note-icon="" class="backlink">Commandment Reading Plan</a>
-</div><div class="backlink-card"><i icon-name="link"></i><a href="/" data-note-icon="" class="backlink">Home</a>
 </div></div>
 </div>
 </div>
