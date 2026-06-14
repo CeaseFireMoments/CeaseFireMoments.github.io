@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/forgiveness/","tags":["#GateWisdom","ConsequenceDisobedience","F"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/forgiveness/","tags":["#GateWisdom","ConsequenceDisobedience","F"],"dg-note-properties":{"tags":["#GateWisdom","ConsequenceDisobedience","F"],"Published":null}}
 ---
 
 # Define
@@ -34,8 +34,8 @@
 
 
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Yada Yada Pauses/33 Micah-07 Yada Yada.md\\|33 Micah-07 Yada Yada]]</li><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-07.md\\|Micah-07]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

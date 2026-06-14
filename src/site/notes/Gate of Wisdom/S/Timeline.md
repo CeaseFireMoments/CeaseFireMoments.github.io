@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/s/timeline/","tags":["#timeline","#GateWisdom","T","S","W"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/s/timeline/","tags":["#timeline","#GateWisdom","T","S","W"],"dg-note-properties":{"tags":["#timeline","#GateWisdom","T","S","W"]}}
 ---
 
 # OT

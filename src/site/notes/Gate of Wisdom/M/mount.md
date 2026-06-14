@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/m/mount/","tags":["#GateWisdom","M","nothome"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/m/mount/","tags":["#GateWisdom","M","nothome"],"dg-note-properties":{"tags":["#GateWisdom","M","nothome"],"Published":null}}
 ---
 
 See also [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]]
@@ -23,8 +23,8 @@ Luke 9:28  About eight days after Jesus said this, he took Peter, John and James
 
 # Connections
 - 
-| file.inlinks                                                                        |
-| ----------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

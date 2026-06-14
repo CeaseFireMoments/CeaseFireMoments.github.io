@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/teacher/","tags":["#GateWisdom","HumanBeing","T","nothome"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/teacher/","tags":["#GateWisdom","HumanBeing","T","nothome"],"dg-note-properties":{"tags":["#GateWisdom","HumanBeing","T","nothome"],"Bible-References":null}}
 ---
 
 
@@ -85,8 +85,8 @@
 
 
 
-| file.inlinks                                                                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Ruach/Gift/Teaching.md\\|Teaching]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04.md\\|Ephes-04]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

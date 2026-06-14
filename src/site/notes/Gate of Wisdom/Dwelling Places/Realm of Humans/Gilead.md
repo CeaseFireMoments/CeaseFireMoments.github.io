@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/gilead/","tags":["GateWisdom","RealmofHumans","G"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/gilead/","tags":["GateWisdom","RealmofHumans","G"],"dg-note-properties":{"tags":["GateWisdom","RealmofHumans","G"]}}
 ---
 
 # Location: 
@@ -35,8 +35,8 @@
 
 # Connections
 
-| file.inlinks                                                                        |
-| ----------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-31 Yada Yada.md\\|01 Gen-31 Yada Yada]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/chaos/","tags":["#GateWisdom","ConsequenceDisobedience","C"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/chaos/","tags":["#GateWisdom","ConsequenceDisobedience","C"],"dg-note-properties":{"tags":["#GateWisdom","ConsequenceDisobedience","C"],"Published":null}}
 ---
 
 # Define
@@ -24,8 +24,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Yada Yada Pauses/33 Micah-07 Yada Yada.md\\|33 Micah-07 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/28 - Hosea/Hos-12.md\\|Hos-12]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-07.md\\|Micah-07]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/34 - Nahum/Nah-01.md\\|Nah-01]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/34 - Nahum/Nah-02.md\\|Nah-02]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04.md\\|James-04]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

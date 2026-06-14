@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/gift/teaching/","tags":["#GateWisdom","RuachGift","T","nothome"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/gift/teaching/","tags":["#GateWisdom","RuachGift","T","nothome"],"dg-note-properties":{"tags":["#GateWisdom","RuachGift","T","nothome"]}}
 ---
 
 # Define

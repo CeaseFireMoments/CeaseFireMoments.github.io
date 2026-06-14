@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/l/lust/","tags":["#GateWisdom","#L"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/l/lust/","tags":["#GateWisdom","#L"],"dg-note-properties":{"tags":["#GateWisdom","#L"],"Published":null}}
 ---
 
 # Define
@@ -32,10 +32,10 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li><li>[[Gate of Wisdom/Right Standing/Unrighteous.md\\|Unrighteous]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

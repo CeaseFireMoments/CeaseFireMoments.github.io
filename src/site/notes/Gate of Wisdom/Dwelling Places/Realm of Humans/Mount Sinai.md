@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/mount-sinai/","tags":["GateWisdom","RealmofHumans"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/mount-sinai/","tags":["GateWisdom","RealmofHumans"],"dg-note-properties":{"tags":["GateWisdom","RealmofHumans"]}}
 ---
 
 # Location:

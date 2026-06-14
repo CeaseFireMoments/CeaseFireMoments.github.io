@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/statutes-chuqim/","tags":["#GateWisdom","RightStanding","S","C"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/statutes-chuqim/","tags":["#GateWisdom","RightStanding","S","C"],"dg-note-properties":{"tags":["#GateWisdom","RightStanding","S","C"]}}
 ---
 
 # Define
@@ -18,11 +18,11 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44).md\\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20).md\\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
 
@@ -49,6 +49,44 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
+## Do Not Wear Mixed Garments
+- **Scripture Reference**: Deuteronomy 22:5
+- **Scripture Text (WEB)**: “A woman <mark style="background: #FF9EF6A6;">shall not wear</mark> men’s clothing, <mark style="background: #FF9EF6A6;">neither shall</mark> a man put on women’s clothing; for whoever does these things is an abomination to Yahweh your God.”
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: Abomination, implying general curses (Deuteronomy 28:15-68).
+- **Offering or Ransom?**: 
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
+## #LoveGod  ## Do Not Mix: Seeds, Animals, Materials [Deuteronomy 22:9-11](https://www.biblegateway.com/passage/?search=Deuteronomy+22:9-11&version=WEB;NET;OJB) and [Leviticus 19:19](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:**
+	- Do Not
+		- sow vineyard with two kinds of seeds #DoNot 
+			- all the fruit will be defiled
+			- all the seed will be defiled
+			- the increase of the vineyard will be defiled
+		- plow with an ox and a donkey together #DoNot 
+		- wear clothes of wool and linen woven together #DoNot 
+		- cross-breed different animals #DoNot 
+		- sow field with two kinds of seeds #DoNot 
+		- wear a garment made of two kinds of material #DoNot 
+- **Blessing:**
+    - None explicitly stated
+- **Penalty or Consequence:**
+    - Verse 9 — if mixed seed is sown in a vineyard, the **whole yield is forfeited** — both the seed sown and the fruit of the vineyard become _qodesh_ (set apart/dedicated), rendered unusable for common use
+    - The language "lest the whole yield be forfeited" (_pen tiqadash_ — פֶּן־תִּקְדַּשׁ) implies the mixture itself becomes defiled/dedicated and is lost to the owner
+- **Offering or Ransom:**
+    - None prescribed
+    - The forfeiture of the yield appears to function as the consequence in itself — no redemption path is given for the mixed vineyard's produce
+- **<mark style="background: #CD04BBA6;">Personal Observations:</mark>
+	- Wool, Linen, Mixed Materials
+		- Mixed stuff - fabric sha'atnez (שַׁעַטְנֵז) only found in these two verses
+		- etymology is debated
+		- Priest were prohibited from wearing wool in the inner court - only permitted to wear linen Ezekiel 44:17. This makes linen associated with [[Gate of Wisdom/H/Holy\|Holy]] set apart place and wool with [[Gate of Wisdom/C/Common\|Common]] place.
+		- Linen is strongly associated with the priests and being set apart. Priest garments, tabernacle curtains, messengers attire, the bride in Revelation 19:8
+
+ #Deuteronomy22 #05Deut 
 ## 3. Worship and Sacrifice
 - **Scripture Reference:** Deuteronomy 12:2–31
    - **Scripture Text (WEB)**: "You shall surely destroy all the places in which the nations that you shall dispossess served their gods... You shall destroy their name out of that place. You shall not do so to Yahweh your God. But to the place which Yahweh your God shall choose out of all your tribes, to put his name there, you shall seek his habitation, and you shall come there. ... You shall not do all the things that we do here today, every man whatever is right in his own eyes; for you haven't yet come to the rest and to the inheritance which Yahweh your God gives you. But when you go over the Jordan and dwell in the land which Yahweh your God causes you to inherit, and he gives you rest from all your enemies around you, so that you dwell in safety, ... be careful that you are not ensnared to follow them after they are destroyed from before you, and that you not inquire after their gods, saying, "How do these nations serve their gods? I will do likewise." You shall not do so to Yahweh your God; for every abomination to Yahweh, which he hates, they have done to their gods; ... Whatever I command you, be careful to do it. You shall not add to it, nor take away from it." 
@@ -57,13 +95,82 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
-## 4. Dietary statutes
-- **Scripture Reference**: Deuteronomy 14:3–21
-   - **Scripture Text (WEB)**: "You shall not eat any abominable thing. These are the animals which you may eat: Every animal that parts the hoof, and has the hoof split in two and chews the cud, among the animals, you may eat. ... Nevertheless these you shall not eat of them that chew the cud, or of those who have the hoof split: the camel, the hare, and the rabbit. Because they chew the cud but don't part the hoof, they are unclean to you. ... The pig, because it has a split hoof but doesn't chew the cud, is unclean to you. You shall not eat their meat. You shall not touch their carcasses. The pig, because it has a split hoof but doesn't chew the cud, is unclean to you. You shall not eat their meat. You shall not touch their carcasses. These you may eat of all that are in the waters: you may eat whatever has fins and scales. You shall not eat whatever doesn't have fins and scales. It is unclean to you. Of all clean birds you may eat. But these are they of which you shall not eat: the eagle, the vulture, the osprey, the red kite, the falcon, the kite of any kind, every raven of any kind, the ostrich, the owl, the seagull, the hawk of any kind, the little owl, the great owl, the horned owl, the pelican, the vulture, the cormorant, the stork, the heron after its kind, the hoopoe, and the bat. All winged creeping things are unclean to you. They shall not be eaten. Of all clean birds you may eat. You shall not eat of anything that dies of itself. 
-   - **Penalty or Consequence**: Eating unclean animals renders one ceremonially unclean (implied; cross-referenced in Leviticus 11:26–31). No specific penalty in Deuteronomy; general covenant curses apply (Deuteronomy 28:15–68).
-   - **Offering or Ransom**: Purification rituals for uncleanness (Leviticus 11:39–40; Numbers 19:11–22, e.g., water of purification).
-	   - Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification.
+
+## #LoveGod Clean and Unclean Foods: [Deuteronomy 14:3-21](https://www.biblegateway.com/passage/?search=Deuteronomy+14:3-21&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not Eat #DoNot 
+		- any abominable ([[Gate of Wisdom/Abomination/Abomination\|Abomination]]) thing
+		- they are [[Gate of Wisdom/U/Unclean\|Unclean]]
+		- them that chew the cud, or of those who have the hoof split (because they do not have both)
+			- camel
+			- hare
+			- rabbit
+			- pig
+		- doesn’t have fins and scales
+		- unclean birds
+			- eagle
+			- vulture
+			- osprey
+			- the red kite, the kite of any kind
+			- the falcon
+			- every raven of any kind
+			- the ostrich
+			- the owl
+			- seagull
+			- hawk of any kind
+			- little owl, the great owl, the horned owl
+			- pelican
+			- vulture
+			- cormorant
+			- stork
+			- heron after its kind
+			- hoopoe
+			- bat
+		- All winged creeping things
+		- anything that dies of itself
+			- give it to the [[Gate of Wisdom/S/Stranger\|Stranger]] living among you who is within your gates
+			- sell it to a [[Gate of Wisdom/F/Foreigner\|Foreigner]]
+	- Do Eat #Dos 
+		- ox
+		- sheep
+		- goat
+		- deer
+		- gazelle
+		- roebuck
+		- wild goat
+		- ibex
+		- antelope
+		- chamois. 
+		- Every animal that parts the hoof, and has the hoof split in two and chews the cud
+		- whatever has fins and scales
+		- all clean birds
+	- Do not boil a goat in it's mother's milk
+	- Because
+		- you are a [[Gate of Wisdom/H/Holy\|Holy]] people to YHWH
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The immediate context frames Israel as _"a holy people to Yahweh your God"_ and _"a people for his own possession"_ (Deut. 14:2) — the dietary distinctions are tied directly to this identity and status as already-received blessing
+    - Distinction from the nations is itself the implied blessing — holiness as separation unto Yahweh
+- **Penalty or Consequence:**
+    - Eating unclean animals renders one ceremonially unclean (implied; cross-referenced in Leviticus 11:26–31). 
+    - The abomination language of v.3 (_to'evah_ — תּוֹעֵבָה) implies that eating what is forbidden is a violation of holy status before Yahweh — the same weight carried throughout Deuteronomy (cf. Deut. 7:25; 12:31; 17:1)
+    - The animal that dies of itself may be given to the foreigner or sold to a stranger but **not eaten by Israel** (v.21) — the distinction between Israel and the nations is the stated rationale
+    - No specific penalty in Deuteronomy; general covenant curses apply (Deuteronomy 28:15–68).
+- **Offering or Ransom:**
+    - None prescribed within the passage
+    - Uncleanness from carcass contact is resolved by washing and time per Leviticus 11 — Deuteronomy 14 does not elaborate a remedy here
+    - The animal that dies of itself (v.21) has a disposal path — give or sell to outsiders — but no ransom or offering for the Israelite who eats it is named
+- <mark style="background: #CD04BBA6;">**Personal Observation**</mark>:
+	- All through out scripture there is a distinction made between the stranger and foreigner. Neither are completely integrated as a part of the Israelites. Once one was "graphed" or "adopted" in and became followers of YHWH, they were known as an Israelite and identified with one of the tribes. Like [[Zunpublished/Caleb\|Caleb]].
+		- you can GIVE  it to a stranger - A resident alien/sojourner living **among** the Israelites, often integrated to some degree, protected by law, and included in provisions like gleanings (Leviticus 19:10), feasts, and equal justice.  
+		- you can SELL it to the foreigner - from another land or people who does not reside among Israel (more distant or temporary outsider)
+	- Once one was "graphed" or "adopted" in and became followers of YHWH, they were known as an Israelite and identified with one of the tribes. Like [[Zunpublished/Caleb\|Caleb]] who was fully incorporated into Israel.
+		- Caleb is identified as a Kenizzite (Numbers 32:12; Joshua 14:6), suggesting possible non-Israelite ancestry absorbed into Judah — yet he is fully counted among the tribe of Judah and among the faithful
+
+ #Deuteronomy14 #05Deut 
 
 ## 5.  Statutes for festivals: Passover, Weeks, Booths
 - **Scripture Reference**: Deuteronomy 16:1–17
@@ -86,3 +193,139 @@
    - **Offering or Ransom**: No specific offering. Covenant renewal and repentance (Deuteronomy 30:1–10).
 	   - Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
+
+
+# List of Statutes (Chuqim) in Leviticus
+
+## #LoveGod Clean and Unclean Animals: [Leviticus 11](https://www.biblegateway.com/passage/?search=Leviticus+11&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- This is the law of the animal, and of the bird, and of every living creature that moves in the waters, and of every creature that creeps on the earth, 47 to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.’
+	- Do Eat (living things which are food) #Dos 
+		- Animals: which parts the hoof and is cloven-footed, and chews the cud
+		- In the waters, seas, rivers: whatever has fins and scales
+		- Insects: all winged creeping things that go on all fours, which have long, jointed legs for hopping on the earth. Even of these you may eat: any kind of locust, any kind of katydid, any kind of cricket, and any kind of grasshopper
+		- If any animal of which you may eat dies, he who touches its carcass shall be unclean until the evening. He who eats of its carcass shall wash his clothes, and be unclean until the evening. He also who carries its carcass shall wash his clothes, and be unclean until the evening.
+	- Do if something causes uncleanliness
+		- wash clothes
+		- unclean until the evening
+		- vessel of wood, or clothing, or skin, or sack wash with water
+		- earthen vessel break it
+	- Do Not Eat (living things which are not food) #DoNot 
+		- Animals:
+			- These are [[Gate of Wisdom/U/Unclean\|Unclean]]
+			- Do not eat their meat
+			- Do not touch their carcasses			- 
+			- Of those that chew the cud, or of those who part the hoof (because they do not do both): 
+				- camel
+				- hyrax
+				- hare
+				- pig
+			- Whatever goes on its paws, among all animals that go on all fours
+		- In the waters, seas, rivers: 
+			- These are [[Gate of Wisdom/Abomination/Abomination\|Abomination]]
+			- Detest them
+			- Do not eat of their meat
+			- Detest their carcasses
+			- All that don’t have fins and scales
+				- All that move
+				- all the living creatures
+		- Birds:
+			- Detest them
+			- These are [[Gate of Wisdom/Abomination/Abomination\|Abomination]]
+			- eagle
+			- vulture, the black vulture
+			- red kite, any kind of black kite
+			- any kind of raven
+			- the horned owl, the screech owl, the little owl, the cormorant, the great owl, 18 the white owl, the desert owl
+			- the gull, 
+			- any kind of hawk
+			- the osprey
+			- the stork
+			- any kind of heron
+			- the hoopoe
+			- the bat.
+		- Insects:
+			- These are [[Gate of Wisdom/Abomination/Abomination\|Abomination]]
+			- All flying insects that walk on all fours
+			- All winged creeping things which have four feet
+		- Creeping things
+			- These are [[Gate of Wisdom/U/Unclean\|Unclean]]
+			- Can make you abominable
+			- Can defile
+			- the weasel
+			- the rat
+			- any kind of great lizard, the gecko, and the monitor lizard, the wall lizard, the skink, and the chameleon
+			- Whatever goes on its belly, and whatever goes on all fours, or whatever has many feet, even all creeping things that creep on the earth,
+			- Anything they fall on when they are dead shall be unclean
+				- any vessel of wood, or clothing, or skin, or sack, whatever vessel it is, with which any work is done, it must be put into water, and it shall be unclean until the evening. Then it will be clean.
+				- earthen vessel into which any of them falls and all that is in it shall be unclean. You shall break it.
+				- All food which may be eaten which is soaked in water shall be unclean. 
+				- All drink that may be drunk in every such vessel shall be unclean. 
+				- Everything whereupon part of their carcass falls shall be unclean; whether oven, or range for pots, it shall be broken in pieces.
+				- a spring or a cistern in which water is gathered shall be clean, but that which touches their carcass shall be unclean
+				- If part of their carcass falls on any sowing seed which is to be sown, it is clean. But if water is put on the seed, and part of their carcass falls on it, it is unclean to you.
+				
+	- Do Not - these will make you unclean #DoNot 
+		- touch their carcass
+		- carry any part of their carcass
+			- wash cloths
+			- unclean until the evening	
+	- Because
+		- I am YHWH your god
+		- I brought you out of Egypt
+		- You will be holy as YHWH is holy
+- **Blessing:**
+    - None explicitly stated in the chapter
+    -  Ties obedience to being [[Gate of Wisdom/H/Holy\|Holy]] — _"you shall be holy, for I am holy"_ (Lev. 11:44-45) — holiness is the implied blessing of distinction from the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]s
+	    - Yahweh's redemption of Israel from Egypt is cited as the basis (Lev. 11:45) — obedience here is a response to already-received blessing
+- **Penalty or Consequence:**
+    - Touching the carcass of an unclean animal renders the person unclean until evening (Lev. 11:24-28; 11:31-32)
+    - Any vessel, garment, or object contacted by an unclean carcass becomes unclean and must be washed or destroyed depending on material (Lev. 11:32-35)
+    - An oven or cooking range contacted by a carcass must be broken down — it is unclean (Lev. 11:35)
+    - A spring or cistern remains clean but any person touching the carcass within it is unclean (Lev. 11:36)
+    - Seed that has been wetted and contacts a carcass becomes unclean (Lev. 11:38)
+    - Eating or carrying the carcass of a clean animal that died on its own renders the person unclean until evening and requires washing of clothes (Lev. 11:39-40)
+- **Offering or Ransom:**
+    - None prescribed for eating unclean animals
+    - Uncleanness from carcass contact is resolved by time and washing — evening plus water (Lev. 11:25, 28, 32, 40)
+    - Broken or destroyed vessels have no redemption path — they are simply destroyed (Lev. 11:33, 35)
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>:
+	- In other texts there are ways something can be move from unclean, to common, to clean, to set apart. For example a cup can move between them based on outward things that happen to it. However, the unclean living beings are unclean by definition of characteristics which can not be changed. Thus they can not move between the categories. [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+	- Acts 10:14-15  [Acts 10:14-15 video](https://youtu.be/TgIwmRp4xec)
+
+ #Leviticus11 #03Lev 
+
+
+## #LoveGod No Blood Shall Be Eaten: [Leviticus 17:10–14](https://www.biblegateway.com/passage/?search=Leviticus+17:10-14&version=WEB;NET;OJB) and [Deuteronomy 12:23-25](https://www.biblegateway.com/passage/?search=Deuteronomy%2012%3A23-25&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:** 
+	- Any
+		- man of the [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
+		- any [[Gate of Wisdom/S/Stranger\|Stranger]] who lives among the men of the House of Israel
+		- no person among [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]
+	- Do Not
+		- eat any kind of blood #DoNot 
+			- I will set my face against that [[Gate of Wisdom/S/Soul\|Soul]]
+			- I will cut him off from among his people 
+	- Because
+		- life of the flesh is in the blood
+		- I have given you an altar to make [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]] for your souls
+			- for it is the blood that makes atonement by reason of the life
+	- Do
+		- When hunting any animal or bird that may be eaten #Dos 
+			- poor out its blood
+			- cover the blood with dust
+- **Blessing:**
+    - None explicitly stated in this passage
+- **Penalty or Consequence:**
+    - Any person of the house of Israel or stranger who eats blood — YHWH will set His face against that person and cut them off from among their people (Lev. 17:10)
+- **Offering or Ransom:**
+    - None explicitly stated in this passage.
+- <mark style="background: #CD04BBA6;">Personal Observation</mark>:
+	- There is a distinction made in noting the hunting is of an animal that may be eaten.
+
+ #Leviticus17 #03Lev 

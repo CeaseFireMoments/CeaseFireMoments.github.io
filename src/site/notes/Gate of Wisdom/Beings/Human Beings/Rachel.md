@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/rachel/","tags":["#GateWisdom","Being","HumanBeing","R"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/rachel/","tags":["#GateWisdom","Being","HumanBeing","R"],"dg-note-properties":{"tags":["#GateWisdom","Being","HumanBeing","R"]}}
 ---
 
 # Birth and Ancestors
@@ -64,8 +64,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-33 YadaYada.md\\|01 Gen-33 YadaYada]]</li><li>[[Yada Yada Pauses/01 Gen-29 Yada Yada.md\\|01 Gen-29 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-31 Yada Yada.md\\|01 Gen-31 Yada Yada]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Leah.md\\|Leah]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Jacob.md\\|Jacob]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29.md\\|Gen-29]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30.md\\|Gen-30]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31.md\\|Gen-31]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33.md\\|Gen-33]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35.md\\|Gen-35]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-44.md\\|Gen-44]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

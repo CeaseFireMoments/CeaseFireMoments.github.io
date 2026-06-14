@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/s/save/","tags":["#GateWisdom","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/s/save/","tags":["#GateWisdom","S"],"dg-note-properties":{"tags":["#GateWisdom","S"],"Published":null}}
 ---
 
 # Define
@@ -28,11 +28,11 @@ Ps 111:9 “He sent redemption (פְּדוּת) unto his people… Holy and reve
 - Ps 51:14 – “Deliver me from bloodguiltiness… my tongue shall sing of thy righteousness”
 
 
-| file.inlinks                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li><li>[[Gate of Wisdom/S/Save.md\\|Save]]</li><li>[[Gate of Wisdom/R/Ransom.md\\|Ransom]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Redemption.md\\|Redemption]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 
 # Noun Forms

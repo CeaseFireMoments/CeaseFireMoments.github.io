@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/the-witness/","tags":["#GateWisdom","W","MostSetApartPlace"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/the-witness/","tags":["#GateWisdom","W","MostSetApartPlace"],"dg-note-properties":{"tags":["#GateWisdom","W","MostSetApartPlace"]}}
 ---
 
 # Define
@@ -20,9 +20,9 @@ I’ve come to realize there are three versions of “the commandments,” but o
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 

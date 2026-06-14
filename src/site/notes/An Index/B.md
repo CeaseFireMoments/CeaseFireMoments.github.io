@@ -1,32 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/an-index/b/","tags":["#Index"]}
+{"dg-publish":true,"permalink":"/an-index/b/","tags":["#Index"],"dg-note-properties":{"tags":["#Index"],"Published":null}}
 ---
 
 
-- [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]
-- [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]]
-- [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]
-- [[Gate of Wisdom/B/Baptize\|Baptize]]
-- [[Gate of Wisdom/B/Beast\|Beast]]
-- [[Gate of Wisdom/Dwelling Places/Realm of Humans/Beer Lahai Roi\|Beer Lahai Roi]]
-- [[Gate of Wisdom/B/Bekah\|Bekah]]
-- [[Gate of Wisdom/Beings/Heavenly Beings/Bel\|Bel]]
-- [[Gate of Wisdom/Beings/Heavenly Beings/Beney Elohim\|Beney Elohim]]
-- [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]]
-- [[Gate of Wisdom/B/Birthright\|Birthright]]
-- [[Gate of Wisdom/B/Bitterness\|Bitterness]]
-- [[Gate of Wisdom/B/Bless\|Bless]]
-- [[Gate of Wisdom/B/Blessed\|Blessed]]
-- [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]
-- [[Gate of Wisdom/B/Bronze\|Bronze]]
-- [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]
-- [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
-- [[Gate of Wisdom/B/Burden\|Burden]]
-- [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
-- [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]
-- [[Sacred Truces/Matthew 28 v19 Baptizing in the Name\|Matthew 28 v19 Baptizing in the Name]]
-- [[Sacred Truces/Matthew 5 Sermon on the Mount v 1-2 Beatitudes\|Matthew 5 Sermon on the Mount v 1-2 Beatitudes]]
-- [[Sacred Truces/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]
-- [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]
+```dataview
 
-{ .block-language-dataview}
+LIST
+FROM #B
+WHERE dg-publish = true AND dg-home = false
+SORT file.name ASC
+```

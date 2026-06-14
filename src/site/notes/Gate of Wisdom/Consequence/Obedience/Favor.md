@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/obedience/favor/","tags":["#GateWisdom","ConcequenceObedience","F"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/obedience/favor/","tags":["#GateWisdom","ConcequenceObedience","F"],"dg-note-properties":{"tags":["#GateWisdom","ConcequenceObedience","F"],"Published":null}}
 ---
 
 # Define
@@ -24,9 +24,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-33 YadaYada.md\\|01 Gen-33 YadaYada]]</li><li>[[Yada Yada Pauses/01 Gen-28 Yada Yada.md\\|01 Gen-28 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-31 Yada Yada.md\\|01 Gen-31 Yada Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28.md\\|Gen-28]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31.md\\|Gen-31]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33.md\\|Gen-33]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-39.md\\|Gen-39]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
  

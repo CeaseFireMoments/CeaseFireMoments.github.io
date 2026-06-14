@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/perpetural/","tags":["#GateWisdom","Covenant","P"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/perpetural/","tags":["#GateWisdom","Covenant","P"],"dg-note-properties":{"tags":["#GateWisdom","Covenant","P"]}}
 ---
 
 # Define
@@ -14,8 +14,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24).md\\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

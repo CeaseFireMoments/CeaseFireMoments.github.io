@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/cave-of-the-patriarchs/","tags":["#GateWisdom","RealmofHumans","P","C"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/cave-of-the-patriarchs/","tags":["#GateWisdom","RealmofHumans","P","C"],"dg-note-properties":{"tags":["#GateWisdom","RealmofHumans","P","C"]}}
 ---
 
 # Define
@@ -16,8 +16,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre.md\\|Mamre]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

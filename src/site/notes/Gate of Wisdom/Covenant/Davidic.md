@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/davidic/","tags":["thebrain","GateWisdom","nothome","D","Covenant"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/davidic/","tags":["thebrain","GateWisdom","nothome","D","Covenant"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","D","Covenant"]}}
 ---
 
 # Davidic Covenant
@@ -39,9 +39,8 @@
 
 # Connections
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

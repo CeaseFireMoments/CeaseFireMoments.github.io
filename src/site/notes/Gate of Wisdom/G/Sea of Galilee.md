@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/g/sea-of-galilee/","tags":["thebrain","GateWisdom","nothome","S","G"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/g/sea-of-galilee/","tags":["thebrain","GateWisdom","nothome","S","G"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","S","G"]}}
 ---
 
 Sea of Galilee
@@ -52,8 +52,8 @@ S ource: [Villages of Galilee](https://www.bibleodyssey.org/tools/map-gallery/g/
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Torah Portions/2026.05.02 Shabbat Reading.md\\|2026.05.02 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

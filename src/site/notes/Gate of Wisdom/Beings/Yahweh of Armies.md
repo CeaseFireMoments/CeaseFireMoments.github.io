@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/yahweh-of-armies/","tags":["#GateWisdom","Being","Y","A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/yahweh-of-armies/","tags":["#GateWisdom","Being","Y","A"],"dg-note-properties":{"tags":["#GateWisdom","Being","Y","A"],"Bible-References":null}}
 ---
 
 # Define
@@ -19,8 +19,8 @@
 - Psalm 46:7,11 (YHWH Tseva'ot as fortress and refuge)
 - 1 Samuel 17:45 (David invokes YHWH Tseva'ot against Goliath as God of Israel's armies)
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/33 Micah-04 Yada Yada.md\\|33 Micah-04 Yada Yada]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-19.md\\|Isa-19]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-37.md\\|Isa-37]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

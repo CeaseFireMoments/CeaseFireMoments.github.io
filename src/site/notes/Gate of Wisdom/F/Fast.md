@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/f/fast/","tags":["#GateWisdom","F"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/f/fast/","tags":["#GateWisdom","F"],"dg-note-properties":{"tags":["#GateWisdom","F"]}}
 ---
 
 # Define
@@ -48,8 +48,8 @@ Isaiah 58 tzom
 
 # Connections
 - 
-| file.inlinks                                                                 |
-| ---------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

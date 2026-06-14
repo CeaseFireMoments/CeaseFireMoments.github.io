@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/s/soul/","tags":["#GateWisdom","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/s/soul/","tags":["#GateWisdom","S"],"dg-note-properties":{"tags":["#GateWisdom","S"],"Bible-References":null}}
 ---
 
 Using only the bible as a reference. do not do a deep dive or give explanations for how you have come up with the answers. Hebrew and Greek transliteration first, then the original script in parentheses ie chayyah (חַיָּה). Fill in the following form returning only the items you have a response. The topic is: 
@@ -25,10 +25,10 @@ Using only the bible as a reference. do not do a deep dive or give explanations 
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

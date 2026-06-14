@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/s/synagogue/","tags":["#GateWisdom","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/s/synagogue/","tags":["#GateWisdom","S"],"dg-note-properties":{"tags":["#GateWisdom","S"],"Bible-References":null}}
 ---
 
 # Define
@@ -16,8 +16,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke).md\\|42 The Seventh Day is for Healing (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/41 The Seventh Day is for Gathering (42 Luke).md\\|41 The Seventh Day is for Gathering (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark).md\\|36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark)]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Assembly.md\\|Assembly]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

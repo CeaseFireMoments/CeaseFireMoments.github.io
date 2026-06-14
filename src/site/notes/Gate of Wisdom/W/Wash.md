@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/w/wash/","tags":["#GateWisdom","#W"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/w/wash/","tags":["#GateWisdom","#W"],"dg-note-properties":{"tags":["#GateWisdom","#W"]}}
 ---
 
 # Define
@@ -28,11 +28,11 @@
 
 
 - 
-| file.inlinks                                                                                               |
-| ---------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver.md\\|Bronze Laver]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 
 ###### Tags

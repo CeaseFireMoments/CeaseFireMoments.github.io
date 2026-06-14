@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/o/overseer/","tags":["#GateWisdom","O","nothome"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/o/overseer/","tags":["#GateWisdom","O","nothome"],"dg-note-properties":{"tags":["#GateWisdom","O","nothome"],"Bible-References":null}}
 ---
 
 # Define
@@ -30,10 +30,10 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Beings/elder.md\\|elder]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/54 - 1 Timothy/1 Tim-03.md\\|1 Tim-03]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

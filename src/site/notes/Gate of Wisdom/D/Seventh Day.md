@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/d/seventh-day/","tags":["#GateWisdom","#Sabbath","S","D"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/d/seventh-day/","tags":["#GateWisdom","#Sabbath","S","D"],"dg-note-properties":{"tags":["#GateWisdom","#Sabbath","S","D"]}}
 ---
 
 # Related words
@@ -10,11 +10,11 @@
 
 
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke).md\\|42 The Seventh Day is for Healing (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35).md\\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31).md\\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 
 # Additional Info

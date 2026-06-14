@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/separation-from-yah/judgment/","tags":["SeperationDeath","#GateWisdom","J"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/separation-from-yah/judgment/","tags":["SeperationDeath","#GateWisdom","J"],"dg-note-properties":{"tags":["SeperationDeath","#GateWisdom","J"],"Bible-References":null}}
 ---
 
 # Define
@@ -21,8 +21,8 @@
 - Deuteronomy 25:13-15 (honest weights and measures)  
 - Proverbs 11:1 (just balance delights the Lord)
 
-| file.inlinks                                                                                          |
-| ----------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

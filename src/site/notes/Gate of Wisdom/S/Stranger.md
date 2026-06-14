@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/s/stranger/","tags":["#GateWisdom","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/s/stranger/","tags":["#GateWisdom","S"],"dg-note-properties":{"tags":["#GateWisdom","S"],"Bible-References":null}}
 ---
 
 # Define
@@ -21,8 +21,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23).md\\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]</li><li>[[Gate of Wisdom/S/Sojourner.md\\|Sojourner]]</li><li>[[Gate of Wisdom/P/Poor.md\\|Poor]]</li><li>[[Gate of Wisdom/F/Foreigner.md\\|Foreigner]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

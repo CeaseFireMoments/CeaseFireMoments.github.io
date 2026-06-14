@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/sarah/","tags":["#GateWisdom","Being","HumanBeing","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/sarah/","tags":["#GateWisdom","Being","HumanBeing","S"],"dg-note-properties":{"tags":["#GateWisdom","Being","HumanBeing","S"]}}
 ---
 
 Original name: Sarai
@@ -47,8 +47,8 @@ Name changed by Yah/God [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Torah Portions/2026.01.03 Shabbat Reading.md\\|2026.01.03 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs.md\\|Cave of the Patriarchs]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Isaac.md\\|Isaac]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Abraham.md\\|Abraham]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

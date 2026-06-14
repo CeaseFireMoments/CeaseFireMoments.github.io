@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/s/genesis-god-s-spirit-in-creation-podcast/","tags":["#GateWisdom","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/s/genesis-god-s-spirit-in-creation-podcast/","tags":["#GateWisdom","S"],"dg-note-properties":{"tags":["#GateWisdom","S"]}}
 ---
 
 # Author: Bible Project

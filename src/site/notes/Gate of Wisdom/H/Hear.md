@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/h/hear/","tags":["#GateWisdom","H"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/h/hear/","tags":["#GateWisdom","H"],"dg-note-properties":{"tags":["#GateWisdom","H"],"Bible-References":null}}
 ---
 
 Using only the bible as a reference. do not do a deep dive or give explanations for how you have come up with the answers. Hebrew and Greek transliteration first, then the original script in parentheses ie chayyah (חַיָּה). Fill in the following form returning only the items you have a response. 
@@ -16,8 +16,8 @@ Using only the bible as a reference. do not do a deep dive or give explanations 
 
 # Connections
 
-| file.inlinks                                                                        |
-| ----------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/23 Isa-01 Yada Yada.md\\|23 Isa-01 Yada Yada]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/c/chosen-ones/","tags":["#GateWisdom","C"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/c/chosen-ones/","tags":["#GateWisdom","C"],"dg-note-properties":{"tags":["#GateWisdom","C"],"Bible-References":null}}
 ---
 
 Frequently used for God's chosen people (Israel), individuals (e.g., David, the Servant/Messiah), or the faithful remnant
@@ -25,8 +25,8 @@ Frequently used for God's chosen people (Israel), individuals (e.g., David, the 
 
 
 
-| file.inlinks                                                                                                                                                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew).md\\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/set-apart-place/table-of-showbread/","tags":["#GateWisdom","Tabernacle","SetApartPlace"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/set-apart-place/table-of-showbread/","tags":["#GateWisdom","Tabernacle","SetApartPlace"],"dg-note-properties":{"tags":["#GateWisdom","Tabernacle","SetApartPlace"]}}
 ---
 
 # Define
@@ -24,8 +24,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Zunpublished/06.06.26 Shabbat Reading.md\\|06.06.26 Shabbat Reading]]</li><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/44 The Seventh Day is a day for Mercy (40 Matthew).md\\|44 The Seventh Day is a day for Mercy (40 Matthew)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24).md\\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread.md\\|Table of Showbread]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

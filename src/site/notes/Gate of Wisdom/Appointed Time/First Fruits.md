@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/first-fruits/","tags":["#GateWisdom","AppointedTime","F"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/first-fruits/","tags":["#GateWisdom","AppointedTime","F"],"dg-note-properties":{"tags":["#GateWisdom","AppointedTime","F"],"Bible-References":null}}
 ---
 
 # Define
@@ -20,8 +20,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Sacred Truces/Scripture Survey Christian Spring Holidays.md\\|Scripture Survey Christian Spring Holidays]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

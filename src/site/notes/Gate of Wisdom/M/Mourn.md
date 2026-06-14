@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/m/mourn/","tags":["thebrain","GateWisdom","nothome","M"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/m/mourn/","tags":["thebrain","GateWisdom","nothome","M"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","M"]}}
 ---
 
 ### παρακαλέω:
@@ -46,10 +46,10 @@ Same word most often translated to beg or begging in Matthew, not mourn.
 
 # Connections
 - 
-| file.inlinks                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
   

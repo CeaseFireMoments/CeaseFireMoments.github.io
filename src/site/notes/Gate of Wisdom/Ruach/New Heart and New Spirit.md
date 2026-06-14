@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/new-heart-and-new-spirit/","tags":["#heart","#HolySpirt","#Ruach","#Ezekiel11","#Torah","#Law","SacredTruces","S","N","H"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/new-heart-and-new-spirit/","tags":["#heart","#HolySpirt","#Ruach","#Ezekiel11","#Torah","#Law","SacredTruces","S","N","H"],"dg-note-properties":{"tags":["#heart","#HolySpirt","#Ruach","#Ezekiel11","#Torah","#Law","SacredTruces","S","N","H"]}}
 ---
 
 # Ezekiel 11
@@ -14,8 +14,8 @@
 
 # Connections
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

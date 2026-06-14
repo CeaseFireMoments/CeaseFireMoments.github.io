@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/c/commandment-reading-plan-march/","tags":["#readingplan","#C","#R"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/c/commandment-reading-plan-march/","tags":["#readingplan","#C","#R"],"dg-note-properties":{"tags":["#readingplan","#C","#R"],"Bible-References":null}}
 ---
 
 **One-Year FEMALE Reading Plan for All Applicable Biblical [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]**  

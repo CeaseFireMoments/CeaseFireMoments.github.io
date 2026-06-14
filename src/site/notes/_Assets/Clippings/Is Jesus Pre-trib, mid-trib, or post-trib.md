@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/clippings/is-jesus-pre-trib-mid-trib-or-post-trib/"}
+{"dg-publish":true,"permalink":"/assets/clippings/is-jesus-pre-trib-mid-trib-or-post-trib/","dg-note-properties":{"Tags":["clippings","Wordpress","SacredTruces"]}}
 ---
 
 
@@ -126,8 +126,8 @@ Originally published on WordPress https://calltoceasefire.wordpress.com/2023/08/
 
 # Connections
 
-| file.inlinks                                                                                    |
-| ----------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/city-of-nahor/","tags":["#GateWisdom","#RealmofHumans","N"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/city-of-nahor/","tags":["#GateWisdom","#RealmofHumans","N"],"dg-note-properties":{"tags":["#GateWisdom","#RealmofHumans","N"]}}
 ---
 
 located in Aram-naharaim which is a biblical name for Mesopotamia or Syria of the two rivers, the area between the Tigris and Euphrates rivers
@@ -20,8 +20,8 @@ The region of Aram Naharaim was home to West Semitic tribes, including the Arame
 
 # Connections
 
-| file.inlinks                                                                                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-24 Yada Yada.md\\|01 Gen-24 Yada Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24.md\\|Gen-24]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

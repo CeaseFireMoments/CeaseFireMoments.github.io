@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/jacobiac/","tags":["#GateWisdom","Covenant","J"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/jacobiac/","tags":["#GateWisdom","Covenant","J"],"dg-note-properties":{"tags":["#GateWisdom","Covenant","J"]}}
 ---
 
 # Define
@@ -30,8 +30,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/33 Micah-07 Yada Yada.md\\|33 Micah-07 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-32 Yada Yada.md\\|01 Gen-32 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-28 Yada Yada.md\\|01 Gen-28 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-29 Yada Yada.md\\|01 Gen-29 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-31 Yada Yada.md\\|01 Gen-31 Yada Yada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58).md\\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Jacob.md\\|Jacob]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28.md\\|Gen-28]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29.md\\|Gen-29]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31.md\\|Gen-31]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32.md\\|Gen-32]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35.md\\|Gen-35]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-07.md\\|Micah-07]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

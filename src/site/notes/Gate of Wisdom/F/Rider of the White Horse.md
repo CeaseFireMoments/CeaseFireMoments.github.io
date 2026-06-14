@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/f/rider-of-the-white-horse/","tags":["#GateWisdom","W","R","F","T"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/f/rider-of-the-white-horse/","tags":["#GateWisdom","W","R","F","T"],"dg-note-properties":{"tags":["#GateWisdom","W","R","F","T"],"Bible-References":null}}
 ---
 
 # Titles and Roles
@@ -30,10 +30,10 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19).md\\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

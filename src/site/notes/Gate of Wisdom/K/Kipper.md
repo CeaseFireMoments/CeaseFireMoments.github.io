@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/k/kipper/","tags":["#GateWisdom","K"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/k/kipper/","tags":["#GateWisdom","K"],"dg-note-properties":{"tags":["#GateWisdom","K"]}}
 ---
 
 # Define
@@ -20,10 +20,10 @@ The precise meaning of kipper is debated among scholars,
 
 # Connections
 - 
-| file.inlinks                                                                                                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/R/Ransom.md\\|Ransom]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Atonement.md\\|Atonement]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

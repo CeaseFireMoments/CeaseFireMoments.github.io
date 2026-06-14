@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/f/sexual-immorality/","tags":["#GateWisdom","S","F","unrighteous"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/f/sexual-immorality/","tags":["#GateWisdom","S","F","unrighteous"],"dg-note-properties":{"tags":["#GateWisdom","S","F","unrighteous"],"Bible-References":null}}
 ---
 
 # Define
@@ -43,8 +43,8 @@ The Bible consistently condemns fornication/porneia as sin, urging believers to 
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/S/NT Sins by Instruction or Consequence.md\\|NT Sins by Instruction or Consequence]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-05.md\\|1 Cor-05]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

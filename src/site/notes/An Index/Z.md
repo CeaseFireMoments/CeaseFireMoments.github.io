@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/an-index/z/","tags":["#Index"]}
+{"dg-publish":true,"permalink":"/an-index/z/","tags":["#Index"],"dg-note-properties":{"tags":["#Index"],"Published":null}}
 ---
 
 
-- [[Gate of Wisdom/Offering/Zevah\|Zevah]]
-- [[Gate of Wisdom/Z/Zion\|Zion]]
+```dataview
 
-{ .block-language-dataview}
+LIST
+FROM #Z  
+WHERE dg-publish = true AND dg-home = false
+SORT file.name ASC
+```

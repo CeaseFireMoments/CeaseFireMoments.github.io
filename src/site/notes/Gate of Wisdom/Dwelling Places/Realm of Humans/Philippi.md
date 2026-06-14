@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/philippi/","tags":["GateWisdom","P","RealmofHumans"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/philippi/","tags":["GateWisdom","P","RealmofHumans"],"dg-note-properties":{"tags":["GateWisdom","P","RealmofHumans"],"Bible-References":null}}
 ---
 
 # Location: 
@@ -22,11 +22,11 @@
 
 # Connections
 
-| file.inlinks                                                                                    |
-| ----------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.04.24 Shabbat Reading.md\\|2026.04.24 Shabbat Reading]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 
 

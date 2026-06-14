@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/assyria/","tags":["GateWisdom","RealmofHumans","A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/assyria/","tags":["GateWisdom","RealmofHumans","A"],"dg-note-properties":{"tags":["GateWisdom","RealmofHumans","A"],"Bible-References":null}}
 ---
 
 # Location: 
@@ -30,11 +30,11 @@
 
 # Connections
 
-| file.inlinks                                                                                    |
-| ----------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 
 

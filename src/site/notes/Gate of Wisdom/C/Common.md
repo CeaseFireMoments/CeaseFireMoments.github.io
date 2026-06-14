@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/c/common/","tags":["#GateWisdom","C"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/c/common/","tags":["#GateWisdom","C"],"dg-note-properties":{"tags":["#GateWisdom","C"],"Published":null}}
 ---
 
 # Define
@@ -25,10 +25,10 @@
 - [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-10#v10\|Lev-10#v10]] – priests must “distinguish between the holy and the common (חֹל), and between the unclean and the clean”  
 
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44).md\\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22).md\\|26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23).md\\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]</li><li>[[Gate of Wisdom/U/Unclean.md\\|Unclean]]</li><li>[[Gate of Wisdom/C/Unclean, Common, Clean, Holy.md\\|Unclean, Common, Clean, Holy]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Clean.md\\|Clean]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

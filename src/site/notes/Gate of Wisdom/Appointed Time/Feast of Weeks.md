@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/feast-of-weeks/","tags":["#GateWisdom","F","W","AppointedTime"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/feast-of-weeks/","tags":["#GateWisdom","F","W","AppointedTime"],"dg-note-properties":{"tags":["#GateWisdom","F","W","AppointedTime"],"Bible-References":null}}
 ---
 
 See [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] and [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
 
 # Connections
 
-| file.inlinks                                                                                    |
-| ----------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

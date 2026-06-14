@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/a/avad/","tags":["#work","A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/a/avad/","tags":["#work","A"],"dg-note-properties":{"tags":["#work","A"]}}
 ---
 
 # Define
@@ -23,10 +23,10 @@
 
 # Connections
 - 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

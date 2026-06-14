@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/the-lamb/","tags":["#GateWisdom","Being","L"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/the-lamb/","tags":["#GateWisdom","Being","L"],"dg-note-properties":{"tags":["#GateWisdom","Being","L"],"Bible-References":["[[Isa-53]]","[[John-01]]","[[Acts-08]]","[[Rev-05]]","[[Gen-49]]","[[Isa-11]]","[[Rev-12]]","[[Rev-19]]","[[John-10]]","[[Rev-17]]","[[1 Tim-06]]","[[John-01]]","[[Rev-22]]","[[John-20]]"]}}
 ---
 
 # Define
@@ -43,11 +43,11 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14).md\\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 # Birth and Ancestors
 - Timeframe: Before the foundation of the world (Revelation 13:8)

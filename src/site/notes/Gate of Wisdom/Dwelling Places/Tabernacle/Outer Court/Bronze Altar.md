@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/outer-court/bronze-altar/","tags":["#GateWisdom","Tabernacle","OuterCourt","B","A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/outer-court/bronze-altar/","tags":["#GateWisdom","Tabernacle","OuterCourt","B","A"],"dg-note-properties":{"tags":["#GateWisdom","Tabernacle","OuterCourt","B","A"]}}
 ---
 
 ![Bronze Altar.jpg](/img/user/_Assets/attachments/Bronze%20Altar.jpg)
@@ -34,8 +34,8 @@ Revelation 12:11: They overcame him by the blood of the Lamb and by the word of 
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Yada Yada Pauses/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-33 YadaYada.md\\|01 Gen-33 YadaYada]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver.md\\|Bronze Laver]]</li><li>[[Gate of Wisdom/B/Bronze.md\\|Bronze]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33.md\\|Gen-33]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35.md\\|Gen-35]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04.md\\|Lev-04]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-06.md\\|Micah-06]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

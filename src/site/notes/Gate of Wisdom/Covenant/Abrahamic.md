@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/abrahamic/","tags":["#GateWisdom","Covenant","A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/abrahamic/","tags":["#GateWisdom","Covenant","A"],"dg-note-properties":{"tags":["#GateWisdom","Covenant","A"]}}
 ---
 
 Seed, semen = לְזַרְעֲךָ  -  Singular - not plural
@@ -63,8 +63,8 @@ In your seed all nations of the earth will be blessed
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/33 Micah-07 Yada Yada.md\\|33 Micah-07 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-28 Yada Yada.md\\|01 Gen-28 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-26 Yada Yada.md\\|01 Gen-26 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-24 Yada Yada.md\\|01 Gen-24 Yada Yada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56).md\\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]</li><li>[[Gate of Wisdom/Covenant/Mosaic.md\\|Mosaic]]</li><li>[[Gate of Wisdom/Covenant/Jacobiac.md\\|Jacobiac]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Abraham.md\\|Abraham]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24.md\\|Gen-24]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28.md\\|Gen-28]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-07.md\\|Micah-07]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

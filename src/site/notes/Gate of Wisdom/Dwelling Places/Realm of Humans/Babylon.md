@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/babylon/","tags":["GateWisdom","B","RealmofHumans"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/babylon/","tags":["GateWisdom","B","RealmofHumans"],"dg-note-properties":{"tags":["GateWisdom","B","RealmofHumans"]}}
 ---
 
 # Location: 
@@ -25,10 +25,10 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/23 Isa-46 Yada Yada.md\\|23 Isa-46 Yada Yada]]</li><li>[[Torah Portions/2026.01.03 Shabbat Reading.md\\|2026.01.03 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2).md\\|24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-46.md\\|Isa-46]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

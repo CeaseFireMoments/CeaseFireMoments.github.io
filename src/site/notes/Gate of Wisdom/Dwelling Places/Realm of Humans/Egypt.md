@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/egypt/","tags":["GateWisdom","RealmofHumans","E"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/egypt/","tags":["GateWisdom","RealmofHumans","E"],"dg-note-properties":{"tags":["GateWisdom","RealmofHumans","E"]}}
 ---
 
 # Location: 
@@ -29,11 +29,11 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/23 Isa-43 Yada Yada.md\\|23 Isa-43 Yada Yada]]</li><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Torah Portions/2026.01.03 Shabbat Reading.md\\|2026.01.03 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17).md\\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20).md\\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-39.md\\|Gen-39]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-43.md\\|Isa-43]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 
 

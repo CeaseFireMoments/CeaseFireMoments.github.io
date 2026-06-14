@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/d/the-dragons-prophecy/","tags":["thebrain","GateWisdom","nothome","D","JohnathanCahn"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/d/the-dragons-prophecy/","tags":["thebrain","GateWisdom","nothome","D","JohnathanCahn"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","D","JohnathanCahn"]}}
 ---
 
 The Dragon's Prophecy
@@ -9,11 +9,11 @@ J onathan Cahn 2024
 
 # Connections
 - 
-| file.inlinks                                                 |
-| ------------------------------------------------------------ |
-| <ul><li>[[Gate of Wisdom/Beings/Satan.md\\|Satan]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
   
 

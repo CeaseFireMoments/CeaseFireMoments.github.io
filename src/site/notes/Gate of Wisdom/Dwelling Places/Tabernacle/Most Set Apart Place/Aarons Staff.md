@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/aarons-staff/","tags":["#GateWisdom","Tabernacle","MostSetApartPlace","A","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/aarons-staff/","tags":["#GateWisdom","Tabernacle","MostSetApartPlace","A","S"],"dg-note-properties":{"tags":["#GateWisdom","Tabernacle","MostSetApartPlace","A","S"]}}
 ---
 
 # Define
@@ -14,8 +14,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony.md\\|Ark of the Testimony]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

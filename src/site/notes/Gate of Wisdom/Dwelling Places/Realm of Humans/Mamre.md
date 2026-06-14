@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/mamre/","tags":["#GateWisdom","RealmofHumans","M"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/mamre/","tags":["#GateWisdom","RealmofHumans","M"],"dg-note-properties":{"tags":["#GateWisdom","RealmofHumans","M"]}}
 ---
 
 # Define
@@ -17,10 +17,10 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Leah.md\\|Leah]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35.md\\|Gen-35]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 ![Holy Places of hebron.png](/img/user/_Assets/attachments/Holy%20Places%20of%20hebron.png)

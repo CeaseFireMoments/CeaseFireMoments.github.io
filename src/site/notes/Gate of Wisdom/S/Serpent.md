@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/s/serpent/","tags":["thebrain","GateWisdom","nothome","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/s/serpent/","tags":["thebrain","GateWisdom","nothome","S"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","S"]}}
 ---
 
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 ## NOTES:
 

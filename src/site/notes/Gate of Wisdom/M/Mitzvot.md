@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/m/mitzvot/","tags":["#GateWisdom","#M"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/m/mitzvot/","tags":["#GateWisdom","#M"],"dg-note-properties":{"tags":["#GateWisdom","#M"]}}
 ---
 
 commandment, mitzva מצווה – Hebrew conjugation tables](https://www.pealim.com/dict/3764-mitzva/)
@@ -21,8 +21,8 @@ Yah’s Mitzvot let us know what is right in the eyes of Yah. Deuteronomy 13:19
 - [[Gate of Wisdom/T/Tefillos\|Tefillos]]
 
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.05.02 Shabbat Reading.md\\|2026.05.02 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for Them (02 Exod 16).md\\|02 The Seventh Day Rest was for Them (02 Exod 16)]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/Offering/Sin Offering.md\\|Sin Offering]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

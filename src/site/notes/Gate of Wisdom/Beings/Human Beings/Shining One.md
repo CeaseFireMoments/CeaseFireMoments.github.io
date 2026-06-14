@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/shining-one/","tags":["#GateWisdom","Being","HumanBeing","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/shining-one/","tags":["#GateWisdom","Being","HumanBeing","S"],"dg-note-properties":{"tags":["#GateWisdom","Being","HumanBeing","S"],"Published":null}}
 ---
 
 # Define
@@ -29,8 +29,8 @@
 
 
 
-| file.inlinks                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Beings/Heavenly Beings/Lucifer.md\\|Lucifer]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-14.md\\|Isa-14]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

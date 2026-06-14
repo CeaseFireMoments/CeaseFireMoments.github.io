@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/the-camp/camp/","tags":["#GateWisdom","#C","#TheCamp"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/the-camp/camp/","tags":["#GateWisdom","#C","#TheCamp"],"dg-note-properties":{"tags":["#GateWisdom","#C","#TheCamp"],"Published":null}}
 ---
 
 # Define
@@ -24,11 +24,11 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-32 Yada Yada.md\\|01 Gen-32 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/28 - Hosea/Hos-12.md\\|Hos-12]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 - 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/f/forgive/","tags":["#GateWisdom","F"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/f/forgive/","tags":["#GateWisdom","F"],"dg-note-properties":{"tags":["#GateWisdom","F"]}}
 ---
 
 Nasa 
@@ -21,8 +21,8 @@ Leviticus 19:17-18
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer.md\\|Matthew 6 vs09-15 The Lord’s Prayer]]</li><li>[[Sacred Truces/Forgive and Forget for the Forgiver.md\\|Forgive and Forget for the Forgiver]]</li><li>[[The Heralds Messages/Forgive and Forget for the Forgiver.md\\|Forgive and Forget for the Forgiver]]</li><li>[[The Heralds Messages/Forgiveness and Grace for the Forgiven.md\\|Forgiveness and Grace for the Forgiven]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

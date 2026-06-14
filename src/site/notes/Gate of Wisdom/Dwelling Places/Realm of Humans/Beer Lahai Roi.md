@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/beer-lahai-roi/","tags":["#GateWisdom","RealmofHumans","B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/beer-lahai-roi/","tags":["#GateWisdom","RealmofHumans","B"],"dg-note-properties":{"tags":["#GateWisdom","RealmofHumans","B"]}}
 ---
 
 # Define
@@ -30,8 +30,8 @@ Isaac came from the way of Beer Lahai Roi, for he lived in the land of the South
 - [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] lived here
 
 
-| file.inlinks                                                                        |
-| ----------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

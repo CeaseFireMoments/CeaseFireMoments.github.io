@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/ark-of-the-testimony/","tags":["#GateWisdom","Tabernacle","MostSetApartPlace","A","C","T"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/ark-of-the-testimony/","tags":["#GateWisdom","Tabernacle","MostSetApartPlace","A","C","T"],"dg-note-properties":{"tags":["#GateWisdom","Tabernacle","MostSetApartPlace","A","C","T"]}}
 ---
 
 # Define
@@ -23,8 +23,8 @@ Eli the priest later foolishly sent the ark of the covenant out to battle, and i
 
 
 
-| file.inlinks                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Zunpublished/06.06.26 Shabbat Reading.md\\|06.06.26 Shabbat Reading]]</li><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Gate of Wisdom/The Unseen Realm.md\\|The Unseen Realm]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

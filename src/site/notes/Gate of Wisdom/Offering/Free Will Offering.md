@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/free-will-offering/","tags":["#GateWisdom","F","Offering"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/free-will-offering/","tags":["#GateWisdom","F","Offering"],"dg-note-properties":{"tags":["#GateWisdom","F","Offering"],"Bible-References":null}}
 ---
 
 # Define
@@ -20,8 +20,8 @@
 - Post-exilic use: Ezra 3:5; 8:28
 - 
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra).md\\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]</li><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

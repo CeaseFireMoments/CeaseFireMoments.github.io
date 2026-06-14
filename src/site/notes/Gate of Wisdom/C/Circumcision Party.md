@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/c/circumcision-party/","tags":["thebrain","GateWisdom","nothome","C"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/c/circumcision-party/","tags":["thebrain","GateWisdom","nothome","C"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","C"]}}
 ---
 
 Some within the early Christian community, known as the circumcision party, believed that Gentiles needed to adopt Jewish customs, including circumcision, to be saved. This was a point of significant tension, as it contradicted Paul’s gospel of salvation through faith alone.

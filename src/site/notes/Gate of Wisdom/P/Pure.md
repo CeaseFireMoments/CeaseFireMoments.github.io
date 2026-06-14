@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/p/pure/","tags":["thebrain","GateWisdom","nothome","P"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/p/pure/","tags":["thebrain","GateWisdom","nothome","P"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","P"]}}
 ---
 
 Pure
@@ -23,8 +23,8 @@ Flashback: Psalms 51:12
 
 # Connections
 - 
-| file.inlinks                                                                        |
-| ----------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

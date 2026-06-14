@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/slanderer/","tags":["#GateWisdom","S","unrighteous","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/slanderer/","tags":["#GateWisdom","S","unrighteous","HumanBeing"],"dg-note-properties":{"tags":["#GateWisdom","S","unrighteous","HumanBeing"],"Bible-References":null}}
 ---
 
 # Define
@@ -31,8 +31,8 @@
 * James 3:5–6 — NT parallel on the destructive power of the tongue, consistent with the Hebrew gravity of rakil
 * Matthew 12:36 — *"I tell you that every idle word that men speak, they will give account of it in the day of judgment."* (WEB)
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/S/NT Sins by Instruction or Consequence.md\\|NT Sins by Instruction or Consequence]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-05.md\\|1 Cor-05]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

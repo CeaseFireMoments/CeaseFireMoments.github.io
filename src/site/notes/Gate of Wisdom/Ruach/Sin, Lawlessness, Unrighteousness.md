@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/sin-lawlessness-unrighteousness/","tags":["#Hebrews10","#1John3","#Righteousness","#Sins","#Lawlessness","#Writer/Unknown","#Writer/John","#NewCovenant","#HolySpirt","#Ruach","#Jeremiah31","#Shavuot","#Pentecost","#lawlessness","#Social","SacredTruces","S","L","U"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/sin-lawlessness-unrighteousness/","tags":["#Hebrews10","#1John3","#Righteousness","#Sins","#Lawlessness","#Writer/Unknown","#Writer/John","#NewCovenant","#HolySpirt","#Ruach","#Jeremiah31","#Shavuot","#Pentecost","#lawlessness","#Social","SacredTruces","S","L","U"],"dg-note-properties":{"tags":["#Hebrews10","#1John3","#Righteousness","#Sins","#Lawlessness","#Writer/Unknown","#Writer/John","#NewCovenant","#HolySpirt","#Ruach","#Jeremiah31","#Shavuot","#Pentecost","#lawlessness","#Social","SacredTruces","S","L","U"]}}
 ---
 
 
@@ -21,8 +21,8 @@ The [[Zunpublished/Law\|Law]], [[Gate of Wisdom/T/Torah\|Torah]], is found in th
 
 # Connections
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

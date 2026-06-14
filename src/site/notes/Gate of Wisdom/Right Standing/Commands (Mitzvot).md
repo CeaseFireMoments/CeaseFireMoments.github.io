@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/commands-mitzvot/","tags":["#GateWisdom","RightStanding","C","M"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/commands-mitzvot/","tags":["#GateWisdom","RightStanding","C","M"],"dg-note-properties":{"tags":["#GateWisdom","RightStanding","C","M"]}}
 ---
 
 # Define
@@ -15,11 +15,11 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free.  Jesus became our Passover Lamb offering.
 
 ## Jesus as an Offering
@@ -321,33 +321,6 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition? 
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## 28. Do Not Wear Mixed Garments
-- **Scripture Reference**: Deuteronomy 22:5
-- **Scripture Text (WEB)**: “A woman <mark style="background: #FF9EF6A6;">shall not wear</mark> men’s clothing, <mark style="background: #FF9EF6A6;">neither shall</mark> a man put on women’s clothing; for whoever does these things is an abomination to Yahweh your God.”
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: Abomination, implying general curses (Deuteronomy 28:15-68).
-- **Offering or Ransom?**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
-
-## 29. Do Not Mix Different Seeds
-- **Scripture Reference**: Deuteronomy 22:9
-- **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not</mark> sow your vineyard with two kinds of seed, lest all the fruit be defiled, the seed which you have sown, and the increase of the vineyard.”
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: Defilement of the crop (Deuteronomy 22:9).
-- **Offering or Ransom?**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
-
-## 30. Do Not Plow with Ox and Donkey Together
-- **Scripture Reference**: Deuteronomy 22:10
-- **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not</mark> plow with an ox and a donkey together.”
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: General curses (Deuteronomy 28:15-68).
-- **Offering or Ransom?**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	**Note:** Seems difficult to do this unintentionally.
-
 ## 31. Wear Tassels (Tzitzit) on Garments
 - **Scripture Reference**: Deuteronomy 22:12
 - **Scripture Text (WEB)**: “You shall make yourselves fringes (tzitzit) on the four corners of your cloak with which you cover yourself.”
@@ -364,6 +337,32 @@
 - **Offering or Ransom?**: Fine of 100 shekels for false accusation (Deuteronomy 22:19).
 	- [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 - **Note:** No set elders at the city gates?
+
+## #LoveNeighbor #LoveGod No Sacred Prostitution: [Deuteronomy 23:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy+23:17-18&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:** 
+	- Do Not 
+		- prostitute the daughters of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] #DoNot 
+		- sodomite the sons of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] #DoNot 
+		- bring the wages of a prostitute (a dog) into the House of YHWH for any vow ([[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]] ) #DoNot 
+			- female
+			- male
+- **Blessing:**
+    - None explicitly stated
+- **Penalty or Consequence:**
+    - Bringing such wages into the house of Yahweh for any vow is explicitly forbidden — implying the offering would be rejected and defiling rather than accepted
+- **Offering or Ransom:**
+    - None prescribed
+    - The wages themselves cannot be converted into an acceptable offering — no redemption path is given; the money is categorically disqualified from Yahweh's house
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>:
+	- the wages of a _qedeshah_ or _kelev_ are called an [[Gate of Wisdom/Abomination/Abomination\|Abomination]] (_to'evah_ — תּוֹעֵבָה)
+		- carries the weight of something that provokes Yahweh's strongest rejection (cf. Deut. 7:25; 12:31; 17:1; 18:12; 22:5)
+	- prostitute in v 17 - refers to the pagan fertility cults that employed female and male prostitutes in various rituals
+	- prostitute (a dog) in v 18 - refers to a regular prostitute
+
+ #Deuteronomy23 #05Deut 
 
 ## 33. Do Not Commit Adultery
 - **Scripture Reference**: Deuteronomy 22:22
@@ -1273,15 +1272,6 @@
 - **Penalty or Consequence:** Withholding firstfruits is robbery of Yahweh (Malachi 3:8–10).
 - **Offering or Ransom?:** The firstfruits themselves are the offering.
 
----
-
-68. **Do Not Boil a Young Goat in Its Mother's Milk**
-
-- **Scripture Reference:** Exodus 23:19b
-- **Scripture Text (WEB):** "You shall not boil a young goat in its mother's milk."
-- **Blessing:** Holiness and distinction as Yahweh's people.
-- **Penalty or Consequence:** Not specified; violation defiles covenant holiness.
-- **Offering or Ransom?:** Not applicable.
 
 ---
 
