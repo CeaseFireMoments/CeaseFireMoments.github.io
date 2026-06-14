@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/angel-of-the-lord/","tags":["thebrain","GateWisdom","A","L","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/angel-of-the-lord/","tags":["thebrain","GateWisdom","A","L","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","A","L","HeavenlyBeing"]}}
 ---
 
 # Heiser, Michael S.. [[Gate of Wisdom/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible. Lexham Press. Kindle Edition.
@@ -14,11 +14,11 @@ Angel of the Lord - Maluk Adonia
 
 # Connections
 
-| file.inlinks                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2025.12.06 Shabbat Reading.md\\|2025.12.06 Shabbat Reading]]</li><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 Sources
 

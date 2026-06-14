@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-43-48-jesus-neighbors-and-enemies/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-43-48-jesus-neighbors-and-enemies/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","S","M","N","E"]}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]

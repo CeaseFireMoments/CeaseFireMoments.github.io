@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/35-the-seventh-day-rest-disrupts-dishonest-dealings-30-amos-8/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/35-the-seventh-day-rest-disrupts-dishonest-dealings-30-amos-8/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Published":"2/6/2026"}}
 ---
 
 The Seventh-Day rest—a call to cease—remains one of the Bible’s most disputed and divisive themes. In a world—and a assembly of believers —accustomed to constant striving, the seventh day still asks a disruptive question: What does it mean to stop because YHWH/God said to?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/pentecost/","tags":["#GateWisdom","#AppointedTime","P"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/pentecost/","tags":["#GateWisdom","#AppointedTime","P"],"dg-note-properties":{"tags":["#GateWisdom","#AppointedTime","P"]}}
 ---
 
 # Define
@@ -30,8 +30,8 @@ The connection is implicit: just as Shavuot celebrated the covenant through the 
 [[Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
 
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Sacred Truces/Scripture Survey Shavuot Pentecost.md\\|Scripture Survey Shavuot Pentecost]]</li><li>[[Gate of Wisdom/Appointed Time/Shavuot.md\\|Shavuot]]</li><li>[[Gate of Wisdom/Appointed Time/SabbathS.md\\|SabbathS]]</li><li>[[Gate of Wisdom/Appointed Time/Holy Convocation.md\\|Holy Convocation]]</li><li>[[Gate of Wisdom/Appointed Time/Feast.md\\|Feast]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Weeks.md\\|Feast of Weeks]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

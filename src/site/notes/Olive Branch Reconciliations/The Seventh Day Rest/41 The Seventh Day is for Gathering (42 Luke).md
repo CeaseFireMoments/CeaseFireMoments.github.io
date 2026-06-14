@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/41-the-seventh-day-is-for-gathering-42-luke/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/41-the-seventh-day-is-for-gathering-42-luke/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":null}}
 ---
 
 
@@ -75,8 +75,8 @@ He came down to Capernaum, a city of Galilee. He was teaching them on the Sabbat
 
 # Connections
 
-| file.inlinks                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey.md\\|_Seventh Day Rest Scripture Survey]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

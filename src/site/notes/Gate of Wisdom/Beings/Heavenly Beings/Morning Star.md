@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/morning-star/","tags":["thebrain","GateWisdom","nothome","M","S","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/morning-star/","tags":["thebrain","GateWisdom","nothome","M","S","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","M","S","HeavenlyBeing"]}}
 ---
 
 
@@ -11,11 +11,11 @@ T he divine sons of God are called the “morning stars ” in Job 38:7 and “t
 
 # Connections
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 #### 7 Mapped Links
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/the-way-convergence-of-jewish-and-christian-faiths/"}
+{"dg-publish":true,"permalink":"/sacred-truces/the-way-convergence-of-jewish-and-christian-faiths/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","W","nothome"]}}
 ---
 
 

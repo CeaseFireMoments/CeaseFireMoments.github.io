@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/day-of-atonement-for-christians/"}
+{"dg-publish":true,"permalink":"/sacred-truces/day-of-atonement-for-christians/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","D","A"]}}
 ---
 
 

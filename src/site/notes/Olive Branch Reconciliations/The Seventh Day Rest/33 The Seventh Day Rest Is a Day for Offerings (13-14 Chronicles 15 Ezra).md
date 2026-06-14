@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/33-the-seventh-day-rest-is-a-day-for-offerings-13-14-chronicles-15-ezra/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/33-the-seventh-day-rest-is-a-day-for-offerings-13-14-chronicles-15-ezra/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":["[[1 Chron-23]]","[[2 Chron-02]]","[[2 Chron-08]]","[[Ezr-03]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fireside-banquets/not-the-typical-nativity-day-1/","tags":["#Fireside","#Jesus","#Yeshua"]}
+{"dg-publish":true,"permalink":"/fireside-banquets/not-the-typical-nativity-day-1/","tags":["#Fireside","#Jesus","#Yeshua"],"dg-note-properties":{"tags":["#Fireside","#Jesus","#Yeshua"]}}
 ---
 
 

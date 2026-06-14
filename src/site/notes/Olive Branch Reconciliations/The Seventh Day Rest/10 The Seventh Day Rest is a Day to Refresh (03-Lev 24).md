@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/10-the-seventh-day-rest-is-a-day-to-refresh-03-lev-24/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/10-the-seventh-day-rest-is-a-day-to-refresh-03-lev-24/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"Bible-References":["[[Lev-24]]"]}}
 ---
 
 

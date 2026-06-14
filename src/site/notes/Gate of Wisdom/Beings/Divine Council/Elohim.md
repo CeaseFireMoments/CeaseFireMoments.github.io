@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/divine-council/elohim/","tags":["thebrain","GateWisdom","nothome","E","#DivineCouncil","#HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/divine-council/elohim/","tags":["thebrain","GateWisdom","nothome","E","#DivineCouncil","#HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","E","#DivineCouncil","#HeavenlyBeing"]}}
 ---
 
 
@@ -43,11 +43,11 @@ E lohim: Plural Noun
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 ## Other information
 

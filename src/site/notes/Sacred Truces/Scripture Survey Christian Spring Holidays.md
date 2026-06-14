@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/scripture-survey-christian-spring-holidays/"}
+{"dg-publish":true,"permalink":"/sacred-truces/scripture-survey-christian-spring-holidays/","dg-note-properties":{"Tags":["Wordpress","SacredTruces"]}}
 ---
 
 
@@ -7,7 +7,7 @@ Starting in Genesis and working our way to Revelation looking up the Christian S
 
 This is a companion to the [The Scripture Survey on Passover](https://calltoceasefire.wordpress.com/2024/02/11/video-scripture-survey-passover/) Video which has far more detail. This companion is for listing scriptures typically used to support each of the Christian Holidays.
 
-![](https://www.youtube.com/watch?v=R5rSBsUZxDE)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/R5rSBsUZxDE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Lent/Ash Wednesday
 
@@ -74,8 +74,8 @@ Originally published on WordPress https://calltoceasefire.wordpress.com/2024/02/
 [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

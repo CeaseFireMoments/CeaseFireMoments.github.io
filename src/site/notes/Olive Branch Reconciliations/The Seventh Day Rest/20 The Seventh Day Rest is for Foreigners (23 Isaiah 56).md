@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/20-the-seventh-day-rest-is-for-foreigners-23-isaiah-56/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","nothome"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/20-the-seventh-day-rest-is-for-foreigners-23-isaiah-56/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","nothome"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest","nothome"],"Bible-References":["[[Isa-56]]"]}}
 ---
 
 

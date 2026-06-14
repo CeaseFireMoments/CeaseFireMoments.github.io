@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/16-the-seventh-day-rest-is-yhwh-gods-16-nehemiah-09/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S","nothome"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/16-the-seventh-day-rest-is-yhwh-gods-16-nehemiah-09/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S","nothome"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest","S","nothome"],"Bible-References":["[[Neh-09]]"]}}
 ---
 
 

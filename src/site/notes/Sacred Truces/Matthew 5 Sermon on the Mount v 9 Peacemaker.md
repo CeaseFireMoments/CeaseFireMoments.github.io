@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-9-peacemaker/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-9-peacemaker/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","P","S","M"]}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]

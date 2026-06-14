@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/son-of-man/","tags":["thebrain","GateWisdom","nothome","S","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/son-of-man/","tags":["thebrain","GateWisdom","nothome","S","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","S","HeavenlyBeing"]}}
 ---
 
 # Connections
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 Son of Man
 

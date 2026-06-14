@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/08-the-seventh-day-rest-is-because-yhwh-is-your-god-03-lev-19/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/08-the-seventh-day-rest-is-because-yhwh-is-your-god-03-lev-19/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"Bible-References":["[[Lev-19]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/26-the-seventh-day-rest-is-an-abomination-when-not-set-apart-26-ezekiel-22/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/26-the-seventh-day-rest-is-an-abomination-when-not-set-apart-26-ezekiel-22/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":["[[Ezek-22]]"]}}
 ---
 
 

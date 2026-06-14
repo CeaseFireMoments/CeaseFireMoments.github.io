@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/59-james-04-yada-yada/","tags":["TheScrolls","GospelsApostles","YadaYadaPauses","J"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/59-james-04-yada-yada/","tags":["TheScrolls","GospelsApostles","YadaYadaPauses","J"],"dg-note-properties":{"tags":["TheScrolls","GospelsApostles","YadaYadaPauses","J"]}}
 ---
 
 For reading purposes: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04\|James-04]]

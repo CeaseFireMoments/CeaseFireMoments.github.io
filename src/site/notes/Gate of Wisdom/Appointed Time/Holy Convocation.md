@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/holy-convocation/","tags":["#GateWisdom","AppointedTime","H","C"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/holy-convocation/","tags":["#GateWisdom","AppointedTime","H","C"],"dg-note-properties":{"tags":["#GateWisdom","AppointedTime","H","C"],"Published":null}}
 ---
 
 # Define
@@ -33,9 +33,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Appointed Time/Feast.md\\|Feast]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 

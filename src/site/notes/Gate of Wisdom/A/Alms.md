@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/a/alms/","tags":["thebrain","GateWisdom","nothome","A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/a/alms/","tags":["thebrain","GateWisdom","nothome","A"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","A"]}}
 ---
 
 Alms
@@ -22,11 +22,11 @@ C an be a verb (something done) or a noun (something given).
 
 # Connections
 - 
-| file.inlinks                                                                                                                     |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/M/Merciful.md\\|Merciful]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
   
 

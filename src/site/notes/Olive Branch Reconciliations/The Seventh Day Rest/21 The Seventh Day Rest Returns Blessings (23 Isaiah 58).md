@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/21-the-seventh-day-rest-returns-blessings-23-isaiah-58/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/21-the-seventh-day-rest-returns-blessings-23-isaiah-58/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"Bible-References":["[[Isa-58]]"]}}
 ---
 
 

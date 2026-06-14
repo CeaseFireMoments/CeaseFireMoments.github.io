@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/in-between-the-crucifixion-and-resurrection/"}
+{"dg-publish":true,"permalink":"/sacred-truces/in-between-the-crucifixion-and-resurrection/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","C","R","nothome"]}}
 ---
 
 

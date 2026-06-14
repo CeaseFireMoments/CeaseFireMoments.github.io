@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/13-the-seventh-day-rest-is-for-offering-04-num-28/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/13-the-seventh-day-rest-is-for-offering-04-num-28/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"Bible-References":["[[Num-28]]"]}}
 ---
 
 

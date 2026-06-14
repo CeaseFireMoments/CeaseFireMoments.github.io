@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/celebrating-the-birth-of-a-god-in-december-part-5-5-day-of-atonement/"}
+{"dg-publish":true,"permalink":"/sacred-truces/celebrating-the-birth-of-a-god-in-december-part-5-5-day-of-atonement/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","C","B"]}}
 ---
 
 

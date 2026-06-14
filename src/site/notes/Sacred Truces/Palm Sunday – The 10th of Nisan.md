@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/palm-sunday-the-10th-of-nisan/"}
+{"dg-publish":true,"permalink":"/sacred-truces/palm-sunday-the-10th-of-nisan/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","P","nothome"]}}
 ---
 
 

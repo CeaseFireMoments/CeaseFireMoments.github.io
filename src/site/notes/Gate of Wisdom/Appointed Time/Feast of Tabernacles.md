@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/feast-of-tabernacles/","tags":["#GateWisdom","AppointedTime","F","T"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/feast-of-tabernacles/","tags":["#GateWisdom","AppointedTime","F","T"],"dg-note-properties":{"tags":["#GateWisdom","AppointedTime","F","T"]}}
 ---
 
 
@@ -74,11 +74,11 @@ The Time of Our Rejoicing - Celebrating YHWH’s Presence, Provision, and Protec
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12).md\\|31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)]]</li><li>[[Gate of Wisdom/Numbers/07.md\\|07]]</li><li>[[Gate of Wisdom/Appointed Time/Sukkot.md\\|Sukkot]]</li><li>[[Gate of Wisdom/Appointed Time/SabbathS.md\\|SabbathS]]</li><li>[[Gate of Wisdom/Appointed Time/Holy Convocation.md\\|Holy Convocation]]</li><li>[[Gate of Wisdom/Appointed Time/Feast.md\\|Feast]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 
 

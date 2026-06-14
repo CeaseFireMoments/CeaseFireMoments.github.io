@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/mark-of-the-beast/04-mark-of-the-beast-is-allegiance-to-the-beast-66-rev-19/","tags":["Markofthebeast","M","#OliveBranch"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/mark-of-the-beast/04-mark-of-the-beast-is-allegiance-to-the-beast-66-rev-19/","tags":["Markofthebeast","M","#OliveBranch"],"dg-note-properties":{"tags":["Markofthebeast","M","#OliveBranch"],"Bible-References":null}}
 ---
 
 The Mark of the Beast—few biblical images provoke more fear, speculation, and division than this one. In a world shaped by fear of being deceived, this study asks a quieter but sharper question: What does Scripture say truly marks a person as belonging to YHWH/God—or to something else?

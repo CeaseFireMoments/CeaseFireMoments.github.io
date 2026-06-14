@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/messiah/","tags":["thebrain","GateWisdom","nothome","M","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/messiah/","tags":["thebrain","GateWisdom","nothome","M","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","M","HeavenlyBeing"]}}
 ---
 
 Messiah
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56).md\\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]</li><li>[[Gate of Wisdom/Beings/The Lamb.md\\|The Lamb]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
   
 

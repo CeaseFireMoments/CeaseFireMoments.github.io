@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/benoni/","tags":["#GateWisdom","Being","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/benoni/","tags":["#GateWisdom","Being","HumanBeing"],"dg-note-properties":{"tags":["#GateWisdom","Being","HumanBeing"]}}
 ---
 
 See also [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]
@@ -52,8 +52,8 @@ And it came to pass, as her soul was in departing, (for she died) that she calle
 
 # Connections
 
-| file.inlinks                                                                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Benjamin.md\\|Benjamin]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

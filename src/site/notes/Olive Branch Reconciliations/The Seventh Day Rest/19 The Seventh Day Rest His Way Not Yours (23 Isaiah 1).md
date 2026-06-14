@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/19-the-seventh-day-rest-his-way-not-yours-23-isaiah-1/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","#S","nothome"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/19-the-seventh-day-rest-his-way-not-yours-23-isaiah-1/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","#S","nothome"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest","#S","nothome"],"Bible-References":["[[Isa-01]]"]}}
 ---
 
 

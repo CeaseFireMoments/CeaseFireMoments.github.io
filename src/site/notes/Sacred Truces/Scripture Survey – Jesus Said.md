@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/scripture-survey-jesus-said/"}
+{"dg-publish":true,"permalink":"/sacred-truces/scripture-survey-jesus-said/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","J","Youtube","nothome"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/23-the-seventh-day-rest-brings-blessing-or-curse-24-jeremiah-17/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/23-the-seventh-day-rest-brings-blessing-or-curse-24-jeremiah-17/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"Bible-References":["[[Jer-17]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/03-the-seventh-day-rest-for-followers-of-yah-god-02-exod-20/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest","S"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/03-the-seventh-day-rest-for-followers-of-yah-god-02-exod-20/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest","S"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","#SeventhDayRest","S"],"Bible-References":["[[Exod-20]]","[[Exod-19]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/jesus-and-the-seventh-day-rest/","tags":["SacredTruces","#Sabbath","J","Y","S","R","D"]}
+{"dg-publish":true,"permalink":"/sacred-truces/jesus-and-the-seventh-day-rest/","tags":["SacredTruces","#Sabbath","J","Y","S","R","D"],"dg-note-properties":{"tags":["SacredTruces","#Sabbath","J","Y","S","R","D"]}}
 ---
 
 **Matthew 12:1-14** – Jesus Heals on the Sabbath and Defends His Disciples

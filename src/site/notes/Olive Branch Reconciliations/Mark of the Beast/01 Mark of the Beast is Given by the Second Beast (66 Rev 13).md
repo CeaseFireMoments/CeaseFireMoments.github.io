@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/mark-of-the-beast/01-mark-of-the-beast-is-given-by-the-second-beast-66-rev-13/","tags":["M","#OliveBranch","Markofthebeast"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/mark-of-the-beast/01-mark-of-the-beast-is-given-by-the-second-beast-66-rev-13/","tags":["M","#OliveBranch","Markofthebeast"],"dg-note-properties":{"tags":["M","#OliveBranch","Markofthebeast"],"Bible-References":["[[Rev-13]]"]}}
 ---
 
 Everyone "knows" about the "Mark of the [[Gate of Wisdom/B/Beast\|Beast]]", even non-Christians. Let's explore this concept and see if there is anything new we can learn about it.

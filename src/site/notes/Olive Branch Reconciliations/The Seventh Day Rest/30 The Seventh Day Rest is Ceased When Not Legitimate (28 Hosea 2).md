@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/30-the-seventh-day-rest-is-ceased-when-not-legitimate-28-hosea-2/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/30-the-seventh-day-rest-is-ceased-when-not-legitimate-28-hosea-2/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":["[[Hos-02]]","[[1 Kings-12]]"]}}
 ---
 
 

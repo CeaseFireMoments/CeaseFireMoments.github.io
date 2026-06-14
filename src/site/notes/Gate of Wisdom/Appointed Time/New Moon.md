@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/new-moon/","tags":["#GateWisdom","AppointedTime","N","M"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/new-moon/","tags":["#GateWisdom","AppointedTime","N","M"],"dg-note-properties":{"tags":["#GateWisdom","AppointedTime","N","M"],"Bible-References":null}}
 ---
 
 # Define
@@ -27,8 +27,8 @@
 - Amos 8:5
 - Colossians 2:16 (noumēnia)
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Zunpublished/Trumpets.md\\|Trumpets]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8).md\\|35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45).md\\|34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2).md\\|30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46).md\\|29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)]]</li><li>[[Gate of Wisdom/Appointed Time/Feast.md\\|Feast]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

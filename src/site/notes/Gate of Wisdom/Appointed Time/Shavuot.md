@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/shavuot/","tags":["GateWisdom","#AppointedTime","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/shavuot/","tags":["GateWisdom","#AppointedTime","S"],"dg-note-properties":{"tags":["GateWisdom","#AppointedTime","S"]}}
 ---
 
 
@@ -20,8 +20,8 @@ Ancient manuscripts, such as the Dead Sea Scrolls (e.g., [the Temple Scroll, 11Q
 [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]], from the Greek word pentekoste ("fiftieth"), is the Greek name for Shavuot in the New Testament and Hellenistic Jewish texts (e.g., Philo and Josephus).
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Sacred Truces/Scripture Survey Shavuot Pentecost.md\\|Scripture Survey Shavuot Pentecost]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra).md\\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]</li><li>[[Gate of Wisdom/Appointed Time/Sabbath.md\\|Sabbath]]</li><li>[[Gate of Wisdom/Appointed Time/Pentecost.md\\|Pentecost]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Weeks.md\\|Feast of Weeks]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

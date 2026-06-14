@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/nachash/","tags":["thebrain","GateWisdom","nothome","N","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/nachash/","tags":["thebrain","GateWisdom","nothome","N","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","N","HeavenlyBeing"]}}
 ---
 
 
@@ -21,11 +21,11 @@ e arlier, the divine serpent (nachash, another word so translated) became lord o
 
 # Connections
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 #### 14 Mapped Links
 

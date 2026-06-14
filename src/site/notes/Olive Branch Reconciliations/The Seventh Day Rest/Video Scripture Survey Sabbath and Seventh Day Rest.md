@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/video-scripture-survey-sabbath-and-seventh-day-rest/"}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/video-scripture-survey-sabbath-and-seventh-day-rest/","dg-note-properties":{"Tags":["clippings","Wordpress","SacredTruces","SeventhDayRest","Sabbath","S","V"]}}
 ---
 
 WordPress Link https://calltoceasefire.wordpress.com/2024/01/17/video-scripture-survey-[[Gate of Wisdom/Appointed Time/Sabbath\|sabbath]]-and-seventh-day-rest/

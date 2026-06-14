@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/the-last-day-of-unleavened-bread/"}
+{"dg-publish":true,"permalink":"/sacred-truces/the-last-day-of-unleavened-bread/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","U","nothome"]}}
 ---
 
 

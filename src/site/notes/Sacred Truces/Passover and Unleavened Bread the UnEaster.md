@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/passover-and-unleavened-bread-the-un-easter/"}
+{"dg-publish":true,"permalink":"/sacred-truces/passover-and-unleavened-bread-the-un-easter/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","nothome","P","U","E"]}}
 ---
 
 

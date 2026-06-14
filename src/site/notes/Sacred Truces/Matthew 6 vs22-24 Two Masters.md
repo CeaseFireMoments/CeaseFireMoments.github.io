@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-6-vs22-24-two-masters/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-6-vs22-24-two-masters/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","M","nothome"]}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v22\|Matt-06#v22]]

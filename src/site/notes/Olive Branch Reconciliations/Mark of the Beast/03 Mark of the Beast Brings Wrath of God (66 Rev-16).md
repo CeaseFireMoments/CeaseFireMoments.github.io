@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/mark-of-the-beast/03-mark-of-the-beast-brings-wrath-of-god-66-rev-16/","tags":["Markofthebeast","M","#OliveBranch"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/mark-of-the-beast/03-mark-of-the-beast-brings-wrath-of-god-66-rev-16/","tags":["Markofthebeast","M","#OliveBranch"],"dg-note-properties":{"tags":["Markofthebeast","M","#OliveBranch"],"Bible-References":["[[Rev-16]]"]}}
 ---
 
 The Mark of the Beast—few biblical images provoke more fear, speculation, and division than this one. In a world shaped by fear of being deceived, this study asks a quieter but sharper question: What does Scripture say truly marks a person as belonging to YHWH/God—or to something else?

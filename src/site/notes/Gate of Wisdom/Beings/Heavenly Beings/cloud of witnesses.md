@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/cloud-of-witnesses/","tags":["#GateWisdom","HeavenlyBeing","C","W"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/cloud-of-witnesses/","tags":["#GateWisdom","HeavenlyBeing","C","W"],"dg-note-properties":{"tags":["#GateWisdom","HeavenlyBeing","C","W"]}}
 ---
 
 # Define
@@ -15,9 +15,9 @@
 
 # Connections
 
-| file.inlinks                                                                                       |
-| -------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12.md\\|Heb-12]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 

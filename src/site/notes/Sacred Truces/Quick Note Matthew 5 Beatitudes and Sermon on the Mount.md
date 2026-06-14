@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/quick-note-matthew-5-beatitudes-and-sermon-on-the-mount/"}
+{"dg-publish":true,"permalink":"/sacred-truces/quick-note-matthew-5-beatitudes-and-sermon-on-the-mount/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","M","S","B"]}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]

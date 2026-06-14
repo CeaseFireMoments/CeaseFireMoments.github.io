@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/adversary/","tags":["#GateWisdom","Being"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/adversary/","tags":["#GateWisdom","Being"],"dg-note-properties":{"tags":["#GateWisdom","Being"],"Published":null}}
 ---
 
 # Define
@@ -33,9 +33,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Beings/Satan.md\\|Satan]]</li><li>[[Gate of Wisdom/Beings/Heavenly Beings/Azazel.md\\|Azazel]]</li><li>[[Gate of Wisdom/Beings/Devil.md\\|Devil]]</li><li>[[Gate of Wisdom/Beings/Adversary.md\\|Adversary]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 

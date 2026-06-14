@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-65-yada-yada/","tags":["YadaYadaPauses","I"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-65-yada-yada/","tags":["YadaYadaPauses","I"],"dg-note-properties":{"tags":["YadaYadaPauses","I"]}}
 ---
 
 

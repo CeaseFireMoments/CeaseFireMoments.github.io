@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/b/bitterness/","tags":["#GateWisdom","B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/b/bitterness/","tags":["#GateWisdom","B"],"dg-note-properties":{"tags":["#GateWisdom","B"]}}
 ---
 
 # Define
@@ -24,10 +24,10 @@
 
 # Connections
 - 
-| file.inlinks                                                                      |
-| --------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/58 Heb-12 YadaYada.md\\|58 Heb-12 YadaYada]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

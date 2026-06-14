@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-6-vs09-15-the-lord-s-prayer/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-6-vs09-15-the-lord-s-prayer/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","M","L","P"]}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v9\|Matt-06#v9]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/scripture-survey-shavuot-pentecost/"}
+{"dg-publish":true,"permalink":"/sacred-truces/scripture-survey-shavuot-pentecost/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","S","P"]}}
 ---
 
 WordPress Link https://calltoceasefire.wordpress.com/2024/06/09/scripture-survey-shavuot-pentecost/

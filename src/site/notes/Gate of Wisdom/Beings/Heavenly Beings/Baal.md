@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/baal/","tags":["#GateWisdom","Being","HeavenlyBeing","B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/baal/","tags":["#GateWisdom","Being","HeavenlyBeing","B"],"dg-note-properties":{"tags":["#GateWisdom","Being","HeavenlyBeing","B"]}}
 ---
 
 # EISER, MICHAEL S.. [[Gate of Wisdom/The Unseen Realm\|The Unseen Realm]]. 
@@ -64,8 +64,8 @@ Elijah rose up against the apostate king Ahab over the worship of Baal
 
 # Connections
 
-| file.inlinks                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Gate of Wisdom/Beings/Heavenly Beings/Bel.md\\|Bel]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

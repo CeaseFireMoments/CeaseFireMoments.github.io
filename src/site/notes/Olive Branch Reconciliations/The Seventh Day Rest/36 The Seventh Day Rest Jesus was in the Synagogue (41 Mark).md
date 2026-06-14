@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/36-the-seventh-day-rest-jesus-was-in-the-synagogue-41-mark/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/36-the-seventh-day-rest-jesus-was-in-the-synagogue-41-mark/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":null}}
 ---
 
 
@@ -71,8 +71,8 @@ Mark 1:32 <mark style="background: #D2B3FFA6;">At evening</mark>, <mark style="b
 
 # Connections
 
-| file.inlinks                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey.md\\|_Seventh Day Rest Scripture Survey]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

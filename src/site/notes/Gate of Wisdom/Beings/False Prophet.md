@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/false-prophet/","tags":["#GateWisdom","Being","F","P"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/false-prophet/","tags":["#GateWisdom","Being","F","P"],"dg-note-properties":{"tags":["#GateWisdom","Being","F","P"],"Bible-References":null}}
 ---
 
 Explicitly called ho pseudoprophētēs (ὁ ψευδοπροφήτης) three times in Revelation (16:13; 19:20; 20:10) and identified as the second [[Gate of Wisdom/B/Beast\|Beast]] of Revelation 13 (the beast from the earth).
@@ -51,8 +51,8 @@ Explicitly called ho pseudoprophētēs (ὁ ψευδοπροφήτης) three ti
 
 
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_Assets/_templates/Mark of the Beast is (Scrip).md\\|Mark of the Beast is (Scrip)]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13).md\\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19).md\\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/03 Mark of the Beast Brings Wrath of God (66 Rev-16).md\\|03 Mark of the Beast Brings Wrath of God (66 Rev-16)]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/more-on-matthew-5-salt/"}
+{"dg-publish":true,"permalink":"/sacred-truces/more-on-matthew-5-salt/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","M","S"]}}
 ---
 
 

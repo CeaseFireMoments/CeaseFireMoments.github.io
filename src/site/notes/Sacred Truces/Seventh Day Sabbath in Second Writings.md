@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/seventh-day-sabbath-in-second-writings/","tags":["SacredTruces","Sabbath","S","D"]}
+{"dg-publish":true,"permalink":"/sacred-truces/seventh-day-sabbath-in-second-writings/","tags":["SacredTruces","Sabbath","S","D"],"dg-note-properties":{"tags":["SacredTruces","Sabbath","S","D"]}}
 ---
 
 

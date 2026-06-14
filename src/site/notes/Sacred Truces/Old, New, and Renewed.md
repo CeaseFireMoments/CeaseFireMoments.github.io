@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/old-new-and-renewed/"}
+{"dg-publish":true,"permalink":"/sacred-truces/old-new-and-renewed/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","R","N","O","nothome"]}}
 ---
 
 

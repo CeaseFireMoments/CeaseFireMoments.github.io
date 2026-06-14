@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/christ/","tags":["thebrain","GateWisdom","C","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/christ/","tags":["thebrain","GateWisdom","C","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","C","HeavenlyBeing"]}}
 ---
 
 # Define
@@ -18,11 +18,11 @@
 - [[Gate of Wisdom/Beings/Jesus\|Jesus]]
 
   # Connections
-| file.inlinks                                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/51 Colossians Yada Yada.md\\|51 Colossians Yada Yada]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 # Additional Notes:
 

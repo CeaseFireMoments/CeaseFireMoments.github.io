@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/31-the-seventh-day-rest-is-set-by-yhwh-not-by-man-14-1-kings-12/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/31-the-seventh-day-rest-is-set-by-yhwh-not-by-man-14-1-kings-12/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":null}}
 ---
 
 This scripture isn't directly referencing Sabbath or SabbathS but is related to YHWH's appointed times.

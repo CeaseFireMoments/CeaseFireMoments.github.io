@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/azazel/"}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/azazel/","dg-note-properties":{"Title":"Reign of YHWH | Azazel","Reference":"https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/8ca98228-36a9-4243-bed0-fd5bbfeb0ee6","Author":null,"Published":null,"Created":"2025-10-27T22:23:05-04:00","Description":null,"Tags":["asset","GateWisdom","Being","HeavenlyBeing","nothome","#brain"],"Cover":null}}
 ---
 
 # Connections
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 # NOTES:
 

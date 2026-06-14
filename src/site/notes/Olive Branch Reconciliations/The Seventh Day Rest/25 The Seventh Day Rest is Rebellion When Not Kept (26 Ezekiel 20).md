@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/25-the-seventh-day-rest-is-rebellion-when-not-kept-26-ezekiel-20/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/25-the-seventh-day-rest-is-rebellion-when-not-kept-26-ezekiel-20/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":["[[Ezek-20]]"]}}
 ---
 
 

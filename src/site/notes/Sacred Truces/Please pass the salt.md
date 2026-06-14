@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/please-pass-the-salt/"}
+{"dg-publish":true,"permalink":"/sacred-truces/please-pass-the-salt/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","S"]}}
 ---
 
 

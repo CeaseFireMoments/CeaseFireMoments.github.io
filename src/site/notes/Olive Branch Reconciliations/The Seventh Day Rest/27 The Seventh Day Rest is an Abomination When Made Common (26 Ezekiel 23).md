@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/27-the-seventh-day-rest-is-an-abomination-when-made-common-26-ezekiel-23/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/27-the-seventh-day-rest-is-an-abomination-when-made-common-26-ezekiel-23/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"Published":"[[Ezek-23]]"}}
 ---
 
 

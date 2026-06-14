@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/58-heb-12-yada-yada/","tags":["YadaYadaPauses","H"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/58-heb-12-yada-yada/","tags":["YadaYadaPauses","H"],"dg-note-properties":{"tags":["YadaYadaPauses","H"]}}
 ---
 
 

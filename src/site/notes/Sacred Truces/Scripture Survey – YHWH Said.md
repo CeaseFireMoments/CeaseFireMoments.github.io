@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/scripture-survey-yhwh-said/"}
+{"dg-publish":true,"permalink":"/sacred-truces/scripture-survey-yhwh-said/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","S","Y","Youtube","nothome"]}}
 ---
 
 

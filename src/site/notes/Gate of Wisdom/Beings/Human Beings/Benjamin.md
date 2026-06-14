@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/benjamin/","tags":["#GateWisdom","Being","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/benjamin/","tags":["#GateWisdom","Being","HumanBeing"],"dg-note-properties":{"tags":["#GateWisdom","Being","HumanBeing"]}}
 ---
 
 See [[Gate of Wisdom/Beings/Human Beings/Benoni\|Benoni]]
@@ -50,8 +50,8 @@ And Benjamin came forth with his army, and they smote of the children of Israel 
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Benoni.md\\|Benoni]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35.md\\|Gen-35]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

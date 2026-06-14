@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-6-vs19-21-jesus-treasures/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-6-vs19-21-jesus-treasures/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","M","nothome"]}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v19\|Matt-06#v19]]

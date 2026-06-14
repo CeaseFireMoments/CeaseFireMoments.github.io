@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/deacons/","tags":["#GateWisdom","D","nothome","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/deacons/","tags":["#GateWisdom","D","nothome","HumanBeing"],"dg-note-properties":{"tags":["#GateWisdom","D","nothome","HumanBeing"],"Bible-References":null}}
 ---
 
 # Define
@@ -48,8 +48,8 @@
 
 
 
-| file.inlinks                                                                                             |
-| -------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/54 - 1 Timothy/1 Tim-03.md\\|1 Tim-03]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

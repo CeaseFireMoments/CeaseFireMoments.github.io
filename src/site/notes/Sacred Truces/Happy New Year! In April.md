@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/happy-new-year-in-april/"}
+{"dg-publish":true,"permalink":"/sacred-truces/happy-new-year-in-april/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","P","N","nothome"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-6-jesus-and-prayer/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-6-jesus-and-prayer/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","M","J","Y","P"]}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]

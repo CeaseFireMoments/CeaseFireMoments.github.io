@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/elder/","tags":["#GateWisdom","E","nothome","Being"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/elder/","tags":["#GateWisdom","E","nothome","Being"],"dg-note-properties":{"tags":["#GateWisdom","E","nothome","Being"],"Bible-References":null}}
 ---
 
 
@@ -94,8 +94,8 @@
 
 # Connections
 
-| file.inlinks                                                  |
-| ------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/O/overseer.md\\|overseer]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/34-the-seventh-day-rest-is-observed-in-the-future-kingdom-to-come-26-ezekiel-45/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/34-the-seventh-day-rest-is-observed-in-the-future-kingdom-to-come-26-ezekiel-45/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":null,"Published":"02/02/2026"}}
 ---
 
 

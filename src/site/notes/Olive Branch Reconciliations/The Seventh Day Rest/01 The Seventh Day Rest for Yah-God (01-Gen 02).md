@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/01-the-seventh-day-rest-for-yah-god-01-gen-02/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest","S"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/01-the-seventh-day-rest-for-yah-god-01-gen-02/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest","S"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","#SeventhDayRest","S"],"Bible-References":["[[Gen-02]]","[[John-01]]"]}}
 ---
 
 

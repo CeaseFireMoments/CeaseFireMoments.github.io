@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/first-fruits-the-real-celebration-of-resurrection/"}
+{"dg-publish":true,"permalink":"/sacred-truces/first-fruits-the-real-celebration-of-resurrection/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","F","R","#nothome"],"Published":null}}
 ---
 
 

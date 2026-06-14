@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/angel/","tags":["thebrain","GateWisdom","Assets","nothome","A","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/angel/","tags":["thebrain","GateWisdom","Assets","nothome","A","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","Assets","nothome","A","HeavenlyBeing"]}}
 ---
 
 Described as looking like normal people in the scriptures.
@@ -14,8 +14,8 @@ While visual appearances in human form are more common,8 the New Testament also 
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14).md\\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]</li><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/28-the-seventh-day-rest-exists-in-the-future-26-ezekiel-44/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/28-the-seventh-day-rest-exists-in-the-future-26-ezekiel-44/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":["[[Ezek-44]]","[[Rev-21]]","[[Rev-22]]"]}}
 ---
 
 

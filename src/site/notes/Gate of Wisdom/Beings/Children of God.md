@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/children-of-god/","tags":["#GateWisdom","Being","C","nothome"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/children-of-god/","tags":["#GateWisdom","Being","C","nothome"],"dg-note-properties":{"tags":["#GateWisdom","Being","C","nothome"],"Published":null}}
 ---
 
 # Define
@@ -33,9 +33,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03.md\\|1 John-03]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 

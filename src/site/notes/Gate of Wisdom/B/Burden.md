@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/b/burden/","tags":["#GateWisdom","B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/b/burden/","tags":["#GateWisdom","B"],"dg-note-properties":{"tags":["#GateWisdom","B"],"Published":null}}
 ---
 
 # Define
@@ -30,10 +30,10 @@ In the Old Testament has a wide range of meanings:
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17).md\\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

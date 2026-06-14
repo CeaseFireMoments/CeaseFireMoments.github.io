@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/demons/","tags":["#GateWisdom","Being","D"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/demons/","tags":["#GateWisdom","Being","D"],"dg-note-properties":{"tags":["#GateWisdom","Being","D"],"Bible-References":null}}
 ---
 
 # Define
@@ -19,8 +19,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark).md\\|36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

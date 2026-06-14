@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/abomination/abomination/","tags":["#GateWisdom","A","Abomination"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/abomination/abomination/","tags":["#GateWisdom","A","Abomination"],"dg-note-properties":{"tags":["#GateWisdom","A","Abomination"],"Published":"2010-02-22T18:00:00+00:00"}}
 ---
 
 to'evah (תּוֹעֵבָה)
@@ -27,8 +27,8 @@ to'evah (תּוֹעֵבָה)
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/23 Isa-46 Yada Yada.md\\|23 Isa-46 Yada Yada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/44 The Seventh Day is a day for Mercy (40 Matthew).md\\|44 The Seventh Day is a day for Mercy (40 Matthew)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22).md\\|26 The Seventh Day Rest is an Abomination When Not Set Apart (26 Ezekiel 22)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23).md\\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1).md\\|19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-46.md\\|Isa-46]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

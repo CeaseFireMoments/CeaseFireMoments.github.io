@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/animals/living-creature/","tags":["#GateWisdom","L","C","Animals"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/animals/living-creature/","tags":["#GateWisdom","L","C","Animals"],"dg-note-properties":{"tags":["#GateWisdom","L","C","Animals"],"Bible-References":null}}
 ---
 
 Hebrew Word: חַי (chai) or נֶפֶשׁ חַיָּה (nefesh chayyah)
@@ -24,8 +24,8 @@ Genesis 9:15–16: Refers to "every living creature (nefesh chayyah) of all fles
 
 # Connections
 
-| file.inlinks                                                                                              |
-| --------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

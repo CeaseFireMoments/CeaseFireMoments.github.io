@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-28-yada-yada/","tags":["TorahLawofMoses","YadaYadaPauses","G"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-28-yada-yada/","tags":["TorahLawofMoses","YadaYadaPauses","G"],"dg-note-properties":{"tags":["TorahLawofMoses","YadaYadaPauses","G"]}}
 ---
 
 # Author and Date: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-17-20-jesus-the-law-and-the-prophets/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-17-20-jesus-the-law-and-the-prophets/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","M","S","L","P"]}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]

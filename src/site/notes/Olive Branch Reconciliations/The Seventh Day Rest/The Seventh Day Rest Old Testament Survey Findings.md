@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/the-seventh-day-rest-old-testament-survey-findings/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/the-seventh-day-rest-old-testament-survey-findings/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":null,"Published":"02/07/2026"}}
 ---
 
 
@@ -63,8 +63,8 @@ Here's a few things we learned about the Seventh Day Rest from our survey of The
 
 # Connections
 
-| file.inlinks                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey.md\\|_Seventh Day Rest Scripture Survey]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

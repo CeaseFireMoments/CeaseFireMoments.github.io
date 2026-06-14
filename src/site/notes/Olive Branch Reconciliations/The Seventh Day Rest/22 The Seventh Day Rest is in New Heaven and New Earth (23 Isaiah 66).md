@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/22-the-seventh-day-rest-is-in-new-heaven-and-new-earth-23-isaiah-66/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/22-the-seventh-day-rest-is-in-new-heaven-and-new-earth-23-isaiah-66/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":["[[Isa-66]]"]}}
 ---
 
 

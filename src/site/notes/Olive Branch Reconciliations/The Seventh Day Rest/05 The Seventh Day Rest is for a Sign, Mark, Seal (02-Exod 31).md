@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/05-the-seventh-day-rest-is-for-a-sign-mark-seal-02-exod-31/","tags":["#OliveBranch","SeventhDayRest","Sabbath","S"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/05-the-seventh-day-rest-is-for-a-sign-mark-seal-02-exod-31/","tags":["#OliveBranch","SeventhDayRest","Sabbath","S"],"dg-note-properties":{"tags":["#OliveBranch","SeventhDayRest","Sabbath","S"],"Bible-References":["[[Exod-31]]","[[Rev-09]]","[[Gen-02]]"]}}
 ---
 
 
