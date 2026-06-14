@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"tags":["gardenEntry"]}}
 ---
 
 
@@ -17,30 +17,16 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 If you follow us on [our word press site](https://calltoceasefire.wordpress.com/), you'll receive notification via email of new content. Or follow us on [X](https://x.com/CalltoCeaseFire) or [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/) for new content in your feed. 
 
 
-| Latest Drops                                                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                                                               |
-| [[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]                                                                            |
-| [[Gate of Wisdom/C/Do Not Commands\|Do Not Commands]]                                                                                                        |
-| [[Gate of Wisdom/C/Do Commands\|Do Commands]]                                                                                                                |
-| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                                                     |
-| [[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]                                                                          |
-| [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread\|Table of Showbread]]                                                         |
-| [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]                                                                                                  |
-| [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]                                                                                                      |
-| [[Gate of Wisdom/S/Subjecting\|Subjecting]]                                                                                                                  |
-| [[Gate of Wisdom/E/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]                                                                  |
-| [[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]                              |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/44 The Seventh Day is a day for Mercy (40 Matthew)\|44 The Seventh Day is a day for Mercy (40 Matthew)]] |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                 |
-| [[Gate of Wisdom/Beings/Human Beings/Pharisee\|Pharisee]]                                                                                                    |
-| [[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]                                                                              |
-| [[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey\|_Mark of the Beast Scripture Survey]]                                  |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mount Sinai\|Mount Sinai]]                                                                                  |
-| [[Torah Portions/2026.05.16 Shabbat Reading\|2026.05.16 Shabbat Reading]]                                                                                    |
-| [[Torah Portions/2026.05.09 Shabbat Reading\|2026.05.09 Shabbat Reading]]                                                                                    |
+```dataview
 
-{ .block-language-dataview}
+TABLE WITHOUT ID file.link as "Latest Drops"
+FROM ""
+WHERE dg-publish = true AND dg-home = false
+WHERE !contains(file.tags, "Index") AND !contains(file.tags, "nothome")
+WHERE Published >= date(today) - dur(2 week) OR file.ctime >= date(today) - dur(4 week)
+SORT file.mtime DESC
+LIMIT 20
+```
 
 
 # Folder Content Descriptions:
