@@ -47,11 +47,3 @@ And Benjamin came forth with his army, and they smote of the children of Israel 
 ## Archeology:
 
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

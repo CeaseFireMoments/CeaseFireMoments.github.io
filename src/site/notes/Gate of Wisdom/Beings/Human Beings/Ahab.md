@@ -75,15 +75,3 @@
     - "Son of Omri" uses "son" genealogically for Jehu (not literal son of Omri, but of the dynasty). Illustrates the enduring "House of Omri" as a vassal power post-Ahab. Focuses on tribute (a "work" of submission), not statutes or idolatry.
     - Oldest surviving image of an Israelite (likely Jehu or delegate); confirms Assyrian view of Omrides as a stable entity.
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-
-
-
-

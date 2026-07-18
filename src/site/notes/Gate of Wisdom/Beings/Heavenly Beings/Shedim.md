@@ -2,13 +2,6 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/shedim/","tags":["thebrain","GateWisdom","nothome","S","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","S","HeavenlyBeing"]}}
 ---
 
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
 
 ## NOTES:
 

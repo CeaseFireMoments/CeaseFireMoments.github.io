@@ -83,11 +83,3 @@ The Bible contains no extra-biblical archaeological or landmark information abou
 ## Archeology:
 - No direct archaeological evidence for Leah herself; the Cave of Machpelah (Tomb of the Patriarchs) in Hebron is venerated as her burial place (along with Abraham, Sarah, Isaac, Rebekah, and Jacob) by Jewish, Christian, and Muslim traditions, but no inscription or artifact confirms her individual presence.
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

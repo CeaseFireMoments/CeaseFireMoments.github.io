@@ -68,11 +68,3 @@ but Abraham gave gifts to the sons of Abraham's concubines. While he still lived
 ## Pictures
 
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

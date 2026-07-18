@@ -70,13 +70,3 @@
 		- [[_The Scrolls/2. Neviim (Prophets)/12 - 2 Kings/2 Kings-09\|2 Kings-09]] and [[_The Scrolls/2. Neviim (Prophets)/12 - 2 Kings/2 Kings-10\|2 Kings-10]]
 
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-
-

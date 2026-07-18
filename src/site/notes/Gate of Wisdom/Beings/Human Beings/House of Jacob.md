@@ -6,12 +6,3 @@
 See also [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
 
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-

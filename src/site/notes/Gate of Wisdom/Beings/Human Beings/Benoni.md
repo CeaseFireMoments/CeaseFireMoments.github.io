@@ -49,11 +49,3 @@ And it came to pass, as her soul was in departing, (for she died) that she calle
 
 ## Archeology:
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

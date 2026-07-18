@@ -17,13 +17,6 @@
 - [[Zunpublished/High Priest\|High Priest]]
 - [[Gate of Wisdom/Beings/Jesus\|Jesus]]
 
-  # Connections
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-
 # Additional Notes:
 
 ## Eusebius' Ecclesiastical History

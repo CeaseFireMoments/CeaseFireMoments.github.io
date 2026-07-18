@@ -35,11 +35,3 @@ From YHWH, Yeshua/Jesus, the Disciples, and Paul’s point of view:
 		- Lost - Those who have not heard the Gospel of the Kingdom, Have not accepted Yeshua, The lawless (no Torah)
 	- 
 ![Hebrew Phase 5.png](/img/user/_Assets/attachments/Hebrew%20Phase%205.png)
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

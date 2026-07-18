@@ -71,11 +71,3 @@
 ## Archeology: 
 - Deir Alla Inscription (ca. 800–700 BC, Jordan): mentions “Balaam son of Beor, a seer of the gods” who received a night vision from the gods warning of disaster. Confirms historical memory of Balaam as a known prophetic figure in Transjordan.
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

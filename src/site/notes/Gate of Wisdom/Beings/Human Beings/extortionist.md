@@ -15,11 +15,3 @@
 
 # Additional Info
 - In 1 Corinthians 5:10-11, harpax (ἅρπαξ) is used to describe the extortioner (or swindler) among those believers should not associate with if claiming to be a brother, listed alongside the sexually immoral, covetous, idolaters, revilers, and drunkards.
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

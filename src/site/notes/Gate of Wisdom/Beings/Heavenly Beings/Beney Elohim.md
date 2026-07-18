@@ -14,10 +14,4 @@ I n the ancient Semitic world, sons of God (Hebrew: beney elohim) is a phrase us
 
 I n Job 38, the sons of God are referred to as “ morning stars.” That same description is found outside the Bible in ancient texts from the biblical world. Ancient people thought the stars were living entities.
 
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+# 

@@ -57,14 +57,6 @@ Abimelech" appears to be a dynastic title or name used by Philistine kings in Ge
 ## Unrighteousness
 - 
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
 # Other
 - During a famine, [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]] (then Abram) journeys to Gerar, in the land of the Philistines, where Abimelech is king.
 	- Fearing for his life due to Sarah’s beauty, Abraham asks her to say she is his sister (a half-truth, as she was his half-sister, Genesis 20:12). Abimelech takes Sarah into his household, intending to marry her (Genesis 20:2).

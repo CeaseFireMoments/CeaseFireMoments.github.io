@@ -8,14 +8,6 @@ S ymbol of The Main Adversary of YHWH, aka [[Gate of Wisdom/Beings/Satan\|Satan]
 
 T he dragon is often representative of a deity, but not always.
 
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-
 ### Cahn, Jonathan. The Dragon's Prophecy: Israel, the Dark Resurrection, and the End of Days (pp. 33-34). Charisma House. Kindle Edition.
 
   

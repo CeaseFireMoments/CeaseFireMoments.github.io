@@ -55,11 +55,3 @@
 ## Archeology: 
 - The town of Moresheth-Gath (Tell Judeideh) has been excavated, revealing 8th-century BCE Judahite settlements, consistent with Micah’s time and place.
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

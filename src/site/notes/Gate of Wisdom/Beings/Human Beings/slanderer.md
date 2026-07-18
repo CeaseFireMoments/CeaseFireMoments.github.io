@@ -30,9 +30,3 @@
 * Ezekiel 22:9 — rakil used among a list of serious sins in the indictment of Jerusalem: *"In you are men who carry tales (rakil) to shed blood."* (WEB) — reinforcing the life-threatening weight of the word
 * James 3:5–6 — NT parallel on the destructive power of the tongue, consistent with the Hebrew gravity of rakil
 * Matthew 12:36 — *"I tell you that every idle word that men speak, they will give account of it in the day of judgment."* (WEB)
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

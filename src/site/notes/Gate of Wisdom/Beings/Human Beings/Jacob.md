@@ -98,11 +98,3 @@
 - **Shechem**: Tell Balata (modern Nablus) shows occupation during the Middle Bronze Age (c. 2000–1500 BCE), aligning with Jacob’s purchase of land there (Genesis 33:19). Walls and a temple from this period have been uncovered.
 - **Bethel**: Identified with modern Beitin, it contains remains of a Middle Bronze Age settlement, supporting its biblical significance (Genesis 28:19).
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

@@ -16,11 +16,3 @@
 # Additional Info
 - In 1 Corinthians 5:11, methysos (μέθυσος) is used to describe the drunkard among those believers should not associate with if claiming to be a brother, listed alongside the sexually immoral, covetous, idolaters, revilers, and swindlers.
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

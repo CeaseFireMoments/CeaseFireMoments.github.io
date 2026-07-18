@@ -9,11 +9,3 @@ This word in Greek is ethnē (ἔθνη) and is typically translated as [[Gate o
 - Isaiah 2:2-4: "All the nations" (gôyim) will flow to God’s mountain in the last days, indicating foreign peoples outside Israel.
 - Joel 3:2: God gathers "all the nations" (gôyim) for judgment, paralleling Obadiah’s "day of the Lord" (Obadiah 1:15).
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

@@ -16,12 +16,3 @@
 
 # Additional Info
 - In 1 Corinthians 5:10-11, eidōlolatrēs (εἰδωλολάτρης) is used to describe idolaters (idol-worshippers) among those believers should not associate with if claiming to be a brother, listed alongside the sexually immoral, covetous, revilers, drunkards, and swindlers.
-
-# Connections
-
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

@@ -14,13 +14,3 @@ Using only the bible as a reference. do not do a deep dive or give explanations 
 
 
 # Additional Info
-
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-

@@ -15,11 +15,3 @@
 	- There were more Pharisees than Sadducees (according to Josephus, Ant. 17.2.4 (17.42) there were more than 6,000 Pharisees at about this time) Note from [[NET\|NET]] bible.
 
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

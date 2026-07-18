@@ -46,11 +46,3 @@ In the New Testament, Babylon symbolizes spiritual and moral corruption, often a
     - Belshazzar: Last Babylonian king, whose blasphemous feast leads to Babylon’s fall (Daniel 5:1-30).
 - Exile and Return: The Babylonian captivity lasts 70 years, as prophesied (Jeremiah 25:11-12; 29:10). After Babylon’s fall, Cyrus allows the Jews to return to Jerusalem (2 Chronicles 36:22-23; Ezra 1:1-4).
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

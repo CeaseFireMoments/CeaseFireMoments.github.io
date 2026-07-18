@@ -63,11 +63,3 @@
 - Jacob's Well: Samaria structure (John 4; dated to 1st century)
 - Early Gospel manuscript: P52 (John 18, dated AD 125-175; source: Bible Archaeology Report )
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

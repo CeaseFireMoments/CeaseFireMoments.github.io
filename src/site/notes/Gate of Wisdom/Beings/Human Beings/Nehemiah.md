@@ -69,11 +69,3 @@
 - Northern Tower and Persian-Period Ceramics (City of David): Excavations in 1978 by Benjamin Mazar uncovered a Persian-period (5th century B.C.E.) ceramic layer at the base of the Northern Tower, providing evidence for the resettlement of Babylonian exiles and aligning with Nehemiah's wall-building timeline. The tower's rushed construction matches the 52-day urgency described.
 - Persian Royal Seals: Two 5th-century B.C.E. seals discovered in 2020 by the Israel Antiquities Authority in Old Jerusalem, confirming Persian administrative presence during Nehemiah's governorship and the city's role as a provincial center.
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

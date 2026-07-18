@@ -50,11 +50,3 @@ Isaac was born as a fulfillment of a promise made by Yah, to Abraham.
 # Other
 - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v1\|Gen-22:1]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v2\|Gen-22#v2]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v3\|Gen-22#v3]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v4\|Gen-22#v4]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v5\|Gen-22#v5]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v6\|Gen-22#v6]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v7\|Gen-22#v7]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v8\|Gen-22#v8]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v9\|Gen-22#v9]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v10\|Gen-22#v10]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v11\|Gen-22#v11]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v12\|Gen-22#v12]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v13\|Gen-22#v13]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v14\|Gen-22#v14]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v15\|Gen-22#v15]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v16\|Gen-22#v16]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v17\|Gen-22#v17]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v18\|Gen-22#v18]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v19\|-19]]  - - God tests Abraham by commanding him to sacrifice Isaac on Mount Moriah. Isaac, likely a young man, carries the wood and asks about the lamb, showing obedience. God provides a ram, sparing Isaac, and reaffirms the covenant, blessing Abraham’s offspring through him.
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

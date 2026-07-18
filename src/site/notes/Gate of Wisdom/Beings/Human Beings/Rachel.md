@@ -61,11 +61,3 @@
 ## Cultural and Textual Contexts (Non-Biblical Parallels)
 - **Mesopotamian Marriage Contracts**: Rachel's story (e.g., Jacob's 14 years of labor for her hand in Genesis 29-30) mirrors ancient Near Eastern customs. Cuneiform tablets from Nuzi and Emar (15th-14th century BCE) describe bride-price labor, surrogate childbearing via handmaids (like Bilhah for Rachel), and inheritance disputes between sisters—parallels analyzed in Kristine Henriksen Garroway's work for the Biblical Archaeology Society (2022). These suggest the narrative draws from real Bronze Age practices but provide no direct evidence for Rachel herself.
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

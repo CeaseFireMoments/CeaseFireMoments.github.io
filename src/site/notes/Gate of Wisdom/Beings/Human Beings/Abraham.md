@@ -129,13 +129,6 @@ the field which Abraham purchased from the children of Heth. Abraham was buried 
 - Expelled Hagar and Ishmael at Sarah's insistence, though Yahweh permitted it — Genesis 21:9-14
 
 
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
 # Other
 
 [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]] Covenant

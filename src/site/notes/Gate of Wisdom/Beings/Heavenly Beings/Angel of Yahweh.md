@@ -16,11 +16,3 @@ The wording comes from Exodus 3:5, the burning bush passage. The angel of Yahweh
 
 
 The angel of Yahweh burns up the sacrifice and then leaves (v. 21). But we learn in verse 23 that Yahweh is still there and speaks to Gideon after the Angel’s departure.
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

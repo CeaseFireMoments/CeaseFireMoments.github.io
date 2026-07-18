@@ -61,11 +61,3 @@
 - Siloam (Shiloah) Inscription: Paleo-Hebrew inscription (discovered 1880) inside Hezekiah's Tunnel describing its construction; confirms the biblical account of the water project during Hezekiah's preparations against Assyria (2 Kings 20:20; 2 Chronicles 32:30), a period when Isaiah was active
 - Various 8th-century BCE bullae and lmlk ("to the king") jar handles from Hezekiah's reign found throughout Judah, corroborating the historical setting of Isaiah's ministry
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

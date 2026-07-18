@@ -96,11 +96,3 @@
 - **Merneptah Stele** (c. 1208 BCE): An Egyptian inscription mentioning “Israel” as a people in Canaan, the earliest extra-biblical reference to Israel, potentially aligning with the post-Exodus period.
 - **Midian**: Archaeological sites in northwest Arabia (e.g., Al-Bad) show Midianite settlements from the Late Bronze Age, supporting Moses’ time there (Exodus 2:15).
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

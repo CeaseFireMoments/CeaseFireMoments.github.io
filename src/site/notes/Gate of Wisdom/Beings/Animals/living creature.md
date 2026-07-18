@@ -20,12 +20,3 @@ Genesis 9:15–16: Refers to "every living creature (nefesh chayyah) of all fles
 - The phrase "all living (kol-chai)" appears in Genesis 8:21 (KJV: "every living thing"), where God vows not to strike "every living thing" as He had done. Chai here is a broad category, including all creatures affected by the flood, such as those described as remes elsewhere.
 
 - Broader Biblical Context: Nefesh chayyah is used in Genesis 1:20–24 to describe sea creatures, birds, and land animals, while chai appears in contexts like Leviticus 11:10 to denote living creatures in contrast to the dead. 
-
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

@@ -46,10 +46,3 @@
 - 1 Timothy 3:12 – diakonoi as husbands of one wife (church office, male)  
 - 1 Timothy 4:6 – good servant of Christ Jesus
 
-
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

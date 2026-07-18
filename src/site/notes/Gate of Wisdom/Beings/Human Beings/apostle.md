@@ -118,10 +118,3 @@
 - Revelation 18:20 — Holy apostles (and prophets)
 - Revelation 21:14 — The twelve apostles (of the Lamb)
 
-
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

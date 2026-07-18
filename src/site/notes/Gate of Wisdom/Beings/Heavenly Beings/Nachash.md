@@ -19,14 +19,6 @@ T he divine being in the garden who rebelled against Yahweh’s desire to have h
 
 e arlier, the divine serpent (nachash, another word so translated) became lord of the dead after his rebellion in Eden. In effect, Bashan was considered the location of (to borrow a New Testament phrase) “the gates of hell.”
 
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-
 #### 14 Mapped Links
 
 ↑ [Shedim](https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/276bea70-4ffa-4152-b797-9f281b0a6453)  

@@ -44,11 +44,3 @@ Name changed by Yah/God [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-
 - Hebrews 11:11 praises her faith for conceiving Isaac
 - 1 Peter 3:6 cites her as an example of a godly wife who honored Abraham
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

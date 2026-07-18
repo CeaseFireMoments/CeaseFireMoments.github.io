@@ -18,14 +18,6 @@
 - Leviticus 11:20 — winged creeping things (sherets ha-`oph)
 
 
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-
 
 
 Meaning: The term remes refers to creatures that "creep," "crawl," or move close to the ground. It typically includes small animals, insects, reptiles, or other creatures that scurry or slither, such as lizards, mice, or bugs. In some contexts, it may broadly encompass animals that move in a particular manner.
