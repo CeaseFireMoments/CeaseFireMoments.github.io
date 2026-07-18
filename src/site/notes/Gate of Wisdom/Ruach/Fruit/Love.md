@@ -8,8 +8,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/51 Colossians Yada Yada.md\\|51 Colossians Yada Yada]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/A/ahav.md\\|ahav]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Yada Yada Pauses/51 Colossians Yada Yada.md\\|51 Colossians Yada Yada]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/A/ahav.md\\|ahav]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li></ul> |
 
 { .block-language-dataview}

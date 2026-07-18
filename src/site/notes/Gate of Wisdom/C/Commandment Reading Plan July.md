@@ -46,25 +46,267 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # July
 
-**July 1**: Deuteronomy 6:13 – “Fear the LORD your God, serve him only and take your oaths in his name.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+## **July 1**: Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
 
-**July 2**: Deuteronomy 10:12 – “What does the LORD your God ask of you but to fear the LORD your God, to walk in obedience to him, to love him...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- Do
+		- fear YHWH
+		- serve him
+		- swear by his name
+- **Blessing:**
+    - None explicitly stated
+    - The immediate context of Deuteronomy 6 ties covenant faithfulness to life, prosperity, and remaining in the land (Deut. 6:2-3; 6:24)
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - The broader context makes clear that going after other gods provokes Yahweh's anger and leads to destruction from the land (**Deut. 6:14-15)
+- **Offering or Ransom:**
+    - None prescribed
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>:
+	- Jesus quotes this verse directly in response to Satan's temptation (Matt. 4:10) — framing it as the definitive boundary of worship and allegiance
 
-**July 3**: Deuteronomy 11:1 – “Love the LORD your God and keep his requirements, his decrees, his laws and his commands always.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+## **July 2**: What Yahweh Requires: [Deuteronomy 10:12-14](https://www.biblegateway.com/passage/?search=Deuteronomy+10:12-14&version=WEB;NET;OJB)
 
-**July 4**: Deuteronomy 28:9 – “The LORD will establish you as his holy people... if you keep the commands of the LORD your God and walk in obedience to him.” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (walk in holiness)  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** 
+	- What does Yah require of you
+	- Do
+		- Fear him #Dos 
+		- Walk in all his ways #Dos 
+		- [[Gate of Wisdom/Ruach/Fruit/Love\|Love]] <mark style="background: #CD04BBA6;">//ahav//</mark> him #Dos 
+		- [[Gate of Wisdom/S/Serve\|Serve]] him with #Dos 
+			- all your heart
+			- all your soul
+		- Keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] and  [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
+			- which are given here today
+				- for your good
+	- Because
+		- to Yah belongs
+			- heaven <mark style="background: #CD04BBA6;">//the sky//</mark>
+			- the heaven of [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]s <mark style="background: #CD04BBA6;">//beyond the visible sky//</mark>
+			- the earth 
+				- all that is therein <mark style="background: #CD04BBA6;">//inhabitants, creatures, vegetation, waters, minerals, nations, peoples, etc//</mark>
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The passage itself is framed as a summary of what Yahweh asks of Israel in response to all He has done — the relationship and its privileges are the implied blessing underlying the entire appeal
+    - Verse 14 anchors the commands in Yahweh's ownership of everything — _"Behold, to Yahweh your God belongs heaven and the heaven of heavens, the earth with all that is in it"_ — obedience is a response to this reality, not a means of earning it.
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The passage is given in a tone so as to try and grab the attention of the people — Moses is calling Israel to covenant faithfulness rather than legislating a specific penalty
+    - The broader Deuteronomic framework applies — departure from fearing, walking in, loving, serving, and keeping results in covenant curse (Deut. 28:15ff)
+- **Offering or Ransom:**
+    - None prescribed
+    - This passage functions as a covenantal summary — the five requirements named (fear, walk, love, serve, keep) are relational and dispositional in nature, not ritual; no sacrificial mechanism is attached
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- Greek equivalent word is used in these passages:
+		- John 14:15 — "If you love me, keep my commandments."
+		- John 14:21 — Loving Yeshua is demonstrated by keeping His commandments.
+		- 1 John 5:2–3 — The love of God is keeping His commandments, and His commandments are not burdensome.
+## **July 3**: Love Yahweh and Keep His Charge: [Deuteronomy 11:1](https://www.biblegateway.com/passage/?search=Deuteronomy+11:1&version=WEB;NET;OJB)
 
-**July 5**: Leviticus 19:2 – “Be holy because I, the LORD your God, am holy.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (call to holiness)  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** 
+	- Therefore (looking back in the text)
+		- Because God has been faithful and redeemed you
+	- Do
+		- love him #Dos 
+		- at all times keep his #Dos 
+			- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+			- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+			- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]			- 
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is relational and covenantal in nature — love expressed through keeping; no sacrificial mechanism is attached or implied
 
-**July 6**: Leviticus 20:7 – “Consecrate yourselves and be holy, because I am the LORD your God.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+## **July 4**: Walk in His Ways: [Deuteronomy 28:9](https://www.biblegateway.com/passage/?search=Deuteronomy+28:9&version=WEB;NET;OJB)
 
-**July 7**: Deuteronomy 13:4 – “It is the LORD your God you must follow, and him you must revere. Keep his commands and obey him; serve him and hold fast to him.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** 
+	- Yah will establish you
+		- for a set apart [[Gate of Wisdom/H/Holy\|Holy]] people
+			- to himself
+			- as he has sworn to you
+	- **IF** you DO
+		- keep the [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+		- walk in his ways
+- **Blessing:**
+    - Verse 9 itself contains the blessing — Yahweh will establish Israel as a holy people to Himself as He swore — the establishment as a consecrated nation is the direct reward of obedience
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - Deuteronomy 28:15 provides the mirror consequence — the full weight of covenant curse for failing to walk in His ways and keep His commandments
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is identity and covenantal in nature — Yahweh establishing a holy people is contingent on walking in His ways; no sacrificial path compensates for departure from this
 
-**July 8**: Deuteronomy 18:13 – “You must be blameless before the LORD your God.” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]**  
+## **July 5**: Be Holy as I Am Holy: [Leviticus 19:2](https://www.biblegateway.com/passage/?search=Leviticus+19%3A2&version=WEB;NET;OJB)
 
-**July 9**: Leviticus 19:3 – “Each of you must respect your mother and father, and you must observe my Sabbaths. I am the LORD your God.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (respect parents + Sabbath)  
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+* **Outline:**
+   * Speak to
+	   * all the congregation 
+		   * of children of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] ([[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]) <mark style="background: #CD04BBA6;">//congregation = ecclesia in Greek//</mark>
+   * Do
+	   * be Set-apart ([[Gate of Wisdom/H/Holy\|Holy]]) #Dos 
+   * Because
+	   * YHWH is set-apart
 
-**July 10**: Deuteronomy 27:16 (general principle) – “Cursed is anyone who dishonors their father or mother.” (inverse: honor them) - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+* **Blessing:**
+   * No explicit blessing stated in the verse itself.
+   * The broader context of Leviticus frames holiness as the condition for dwelling in the land and remaining in covenant relationship with Yahweh (Leviticus 18:24-30; 20:22-24).
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * Leviticus 18:28 and 20:22 warn that failure to walk in holiness results in the land vomiting out the people as it vomited out the nations before them.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The command is grounded entirely in the character of God himself — *"for I, Yahweh your God, am holy"* — making it covenantal in nature rather than transactional.
+
+## **July 6**: Consecrate Yourselves and Be Holy: [Leviticus 20:7](https://www.biblegateway.com/passage/?search=Leviticus+20%3A7&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+* **Outline:**
+   * Do
+	   * [[Gate of Wisdom/S/Sanctify\|Sanctify]] (qadosh) yourselves #Dos 
+	   * Be set-apart (qodesh) [[Gate of Wisdom/H/Holy\|Holy]] #Dos 
+   * Because
+	   * I am YHWH
+		   * your [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
+
+* **Blessing:**
+   * No explicit blessing stated in the verse itself.
+   * The immediate context of v.8 frames the blessing implicitly — *"I am Yahweh who sanctifies you"* — the act of consecration is met with God's own sanctifying work on behalf of the people.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * The surrounding context of Leviticus 20 is heavily weighted with consequences for specific violations — death, cutting off, and bearing iniquity — establishing that failure to walk in holiness carries severe covenant consequence.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. As with Leviticus 19:2, the command is rooted in God's own character and action — *"I am Yahweh your God"* — making the call to holiness covenantal and relational rather than transactional.
+* **<mark style="background: #CD04BBA6;">Personal Obervations</mark>**
+	* hithqadashtem (הִתְקַדַּשְׁתֶּם) - consecrate yourselves - interesting how we are to take part in this - it isn't something being done to us. 
+	* In the next verse, meqadishkem (מְקַדִּשְׁכֶם) - Yah sanctifies
+	* John 17:17 - same word in the prayer from Jesus "Sanctify them in your truth."
+	* Holy seems unattainable, but when we understand it means to set-apart, that is much more attainable. 
+
+## **July 7**: Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:** 
+	- If a prophet or dreamer of dreams arises
+		- and he gives you a sign or a wonder
+			- and that sign or wonder comes to pass
+		- he says Let's 
+			- go after other gods
+				- which you have not known
+			- serve other gods
+	- Do not
+		- listen to the words of the prophet or dreamer #DoNot 
+	- Because
+		- YHWH is testing you
+			- to know whether you love him
+				- with all your heart
+				- with all your soul
+	- Do
+		- walk after YHWH #Dos 
+			- fear him
+			- keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
+			- obey his voice
+			- serve him
+			- cling to him
+		- Put that prophet or dreamer of dreams to death
+			- because he has spoken rebellion against YHWH
+				- who brought you out of Egype
+				- redeemed you out of the house of bondage
+					- to draw you aside out of the way
+						- which YHWH commanded you to walk
+			- so you shall remove the evil from among you
+- **Blessing:**
+    - None explicitly stated
+    - Obedience to this command is framed as love for Yahweh — v.3 states that the false prophet is a test (_nasah_ — נָסָה) from Yahweh to know whether Israel loves Him with all heart and soul
+    - Faithfulness here is itself the expression of covenant loyalty — the implied blessing is remaining in right standing with Yahweh
+- **Penalty or Consequence:**
+    - Verse 5 — the false prophet or dreamer of dreams shall be put to death
+    - The rationale is stated explicitly — _"because he has spoken rebellion against Yahweh your God who brought you out of the land of Egypt and redeemed you out of the house of bondage"_
+    - The second stated rationale — _"to put away the evil from among you"_ — frames execution as communal purging, consistent with Deuteronomy's repeated use of this phrase (cf. Deut. 17:7; 17:12; 19:19; 21:21; 22:21)
+    - The sign or wonder coming to pass does not validate the prophet — v.3 makes clear that a fulfilled sign can still be a test; the content of the message is the measure, not the miracle
+- **Offering or Ransom:**
+    - None prescribed
+    - False prophecy leading Israel after other gods is a capital offense with no ransom path — the gravity mirrors Deuteronomy 17:12 where defying Yahweh's appointed authority likewise carries no offering remedy
+
+## **July 8**: Be Blameless Before Yahweh: [Deuteronomy 18:13](https://www.biblegateway.com/passage/?search=Deuteronomy+18%3A13&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+* **Outline:**
+   * Do
+	   * be [[Gate of Wisdom/B/Blameless\|Blameless]] #Dos 
+		   * with YHWH
+
+* **Blessing:**
+   * No explicit blessing stated in the verse itself.
+   * The immediate context frames the blessing implicitly — Israel's blamelessness before Yahweh is the alternative to the abominable practices of the nations being driven out before them (v.12), suggesting that wholeness before God is what distinguishes and protects Israel in the land.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * The surrounding context of Deuteronomy 18:9-12 establishes the contrast — the nations who practiced divination, sorcery, and necromancy were dispossessed precisely because of those practices (v.12). Blamelessness is implicitly the condition for remaining in the land.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The command stands alone as a call to wholeness and integrity before God — tamim (תָּמִים) — the same word used of Noah (Genesis 6:9) and of Abraham in God's charge to him in Genesis 17:1 — *"Walk before me and be blameless."* (WEB)
+* **<mark style="background: #CD04BBA6;">Personal Observations</mark>**:
+	* Jesus uses this same word and concept in Matthew 5:48 — _"You therefore shall be teleios as your heavenly Father is teleios"_ 
+
+## **July 9**:  Honor Your Mother and Father and Keep My Sabbaths: [Leviticus 19:3](https://www.biblegateway.com/passage/?search=Leviticus+19%3A3&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* **Outline:**
+   * Do
+	   * Respect mother and father #Dos 
+	   * keep my [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] #Dos 
+   * Because
+	   * I am YHWH
+		   * your [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
+
+* **Blessing:**
+   * No explicit blessing stated in this verse.
+   * The parallel command in Exodus 20:12 and Deuteronomy 5:16 attaches an explicit blessing to honoring parents — long life and prosperity in the land.
+   * Sabbath keeping is framed throughout the Torah as a sign of the covenant relationship itself (Exodus 31:13-17) — the blessing being the covenant standing it represents. A mark on the hand and forehead
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * Exodus 21:17 and Leviticus 20:9 — cursing or striking a father or mother carries the death penalty.
+   * Numbers 15:32-36 — Sabbath violation results in death; established by narrative example.
+   * Deuteronomy 5:16 frames the reverse — failure to honor parents implicitly cuts off the blessing of long days in the land.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The verse closes with *"I am Yahweh your God"* — grounding both commands in covenantal identity rather than transaction.
+
+## **July 10**: Do Not Dishonor Father or Mother: [Deuteronomy 27:16](https://www.biblegateway.com/passage/?search=Deuteronomy+27:16&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:** 
+	- Do Not
+		- dishonor father or mother #DoNot 
+		- [[Gate of Wisdom/C/Cursed\|Cursed]] is he who does
+- **Blessing:**
+    - None explicitly stated within the verse
+- **Penalty or Consequence:**
+    - Verse 16 — **cursed** (_arur_ — אָרוּר) is the one who dishonors (_meqaleh_ — מְקַלֶּה) his father or mother
+	    - _Arur_ is covenant curse language — not merely social disapproval but Yahweh's active curse pronounced publicly and confirmed by all the people with _amen_
+	    - _Meqaleh_ from _qalah_ (קָלָה) — to treat as light, to despise, to make contemptible — the opposite of _kaved_ (כָּבֵד, to honor, to make heavy)
+    - The public _amen_ of all the people functions as communal witness and agreement to the curse — making this a covenantal declaration before Yahweh
+- **Offering or Ransom:**
+    - None prescribed within the verse
+    - The curse formula of Deuteronomy 27 does not attach offering remedies — the curses stand as covenant consequences without sacrificial path named
+- **<mark style="background: #CD04BBA6;">Personal Observations</mark>:**
+	- passive participle This means the curse is not contingent on being caught or tried — the act itself places the person in the _arur_ condition before Yahweh regardless of human knowledge or judicial process. 
 
 **July 11**: Leviticus 19:4 – “Do not turn to idols or make metal gods for yourselves. I am the LORD your God.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (no idols)  
 

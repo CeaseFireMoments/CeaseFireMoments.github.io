@@ -18,7 +18,7 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li></ul> |
 
 { .block-language-dataview}
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
@@ -213,6 +213,31 @@
     - **Offering or Ransom**: None specified. Idolatry is unforgivable without repentance (Deut 17:12).
 	    - Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
+## #LoveGod Be Blameless Before Yahweh: [Deuteronomy 18:13](https://www.biblegateway.com/passage/?search=Deuteronomy+18%3A13&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+* **Outline:**
+   * Do
+	   * be [[Gate of Wisdom/B/Blameless\|Blameless]] #Dos 
+		   * with YHWH
+
+* **Blessing:**
+   * No explicit blessing stated in the verse itself.
+   * The immediate context frames the blessing implicitly — Israel's blamelessness before Yahweh is the alternative to the abominable practices of the nations being driven out before them (v.12), suggesting that wholeness before God is what distinguishes and protects Israel in the land.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * The surrounding context of Deuteronomy 18:9-12 establishes the contrast — the nations who practiced divination, sorcery, and necromancy were dispossessed precisely because of those practices (v.12). Blamelessness is implicitly the condition for remaining in the land.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The command stands alone as a call to wholeness and integrity before God — tamim (תָּמִים) — the same word used of Noah (Genesis 6:9) and of Abraham in God's charge to him in Genesis 17:1 — *"Walk before me and be blameless."* (WEB)
+* **<mark style="background: #CD04BBA6;">Personal Observations</mark>**:
+	* Jesus uses this same word and concept in Matthew 5:48 — _"You therefore shall be teleios as your heavenly Father is teleios"_ 
+
+ #Deuteronomy18 #05Deut 
+
+
 21. **Scripture Reference**: Deuteronomy 18:20
     - **Scripture Text (WEB)**: Deuteronomy 18:19-21: "It shall happen, that whoever will not listen to my words which he shall speak in my name, I will require it of him. But the prophet who speaks a word presumptuously in my name, which I have not commanded him to speak... that prophet shall die."
     - **Penalty or Consequence**: Death for false prophets; God will judge those who ignore true prophets (Deut 18:19).
@@ -314,3 +339,60 @@
     - **Penalty or Consequence**: None explicit. Disobedience risks loss of covenant status (implied, Deut 28).
     - **Offering or Ransom**: None specified.
 	    - Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+
+
+## #LoveGod  Be Holy as I Am Holy: [Leviticus 19:2](https://www.biblegateway.com/passage/?search=Leviticus+19%3A2&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+* **Outline:**
+   * Speak to
+	   * all the congregation 
+		   * of children of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] ([[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]) <mark style="background: #CD04BBA6;">//congregation = ecclesia in Greek//</mark>
+   * Do
+	   * be Set-apart ([[Gate of Wisdom/H/Holy\|Holy]]) #Dos 
+   * Because
+	   * YHWH is set-apart
+
+* **Blessing:**
+   * No explicit blessing stated in the verse itself.
+   * The broader context of Leviticus frames holiness as the condition for dwelling in the land and remaining in covenant relationship with Yahweh (Leviticus 18:24-30; 20:22-24).
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * Leviticus 18:28 and 20:22 warn that failure to walk in holiness results in the land vomiting out the people as it vomited out the nations before them.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The command is grounded entirely in the character of God himself — *"for I, Yahweh your God, am holy"* — making it covenantal in nature rather than transactional.
+
+ #Leviticus19 #03Lev 
+
+## #LoveGod Consecrate Yourselves and Be Holy: [Leviticus 20:7](https://www.biblegateway.com/passage/?search=Leviticus+20%3A7&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+* **Outline:**
+   * Do
+	   * [[Gate of Wisdom/S/Sanctify\|Sanctify]] (qadosh) yourselves #Dos 
+	   * Be set-apart (qodesh) [[Gate of Wisdom/H/Holy\|Holy]] #Dos 
+   * Because
+	   * I am YHWH
+		   * your [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
+
+* **Blessing:**
+   * No explicit blessing stated in the verse itself.
+   * The immediate context of v.8 frames the blessing implicitly — *"I am Yahweh who sanctifies you"* — the act of consecration is met with God's own sanctifying work on behalf of the people.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * The surrounding context of Leviticus 20 is heavily weighted with consequences for specific violations — death, cutting off, and bearing iniquity — establishing that failure to walk in holiness carries severe covenant consequence.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. As with Leviticus 19:2, the command is rooted in God's own character and action — *"I am Yahweh your God"* — making the call to holiness covenantal and relational rather than transactional.
+* **<mark style="background: #CD04BBA6;">Personal Obervations</mark>**
+	* hithqadashtem (הִתְקַדַּשְׁתֶּם) - consecrate yourselves - interesting how we are to take part in this - it isn't something being done to us. 
+	* In the next verse, meqadishkem (מְקַדִּשְׁכֶם) - Yah sanctifies
+	* John 17:17 - same word in the prayer from Jesus "Sanctify them in your truth."
+	* Holy seems unattainable, but when we understand it means to set-apart, that is much more attainable. 
+
+ #Leviticus20 #03Lev 
