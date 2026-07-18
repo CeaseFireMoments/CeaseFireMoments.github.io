@@ -420,6 +420,11 @@
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/b/blameless/">Blameless </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
 <a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/b/bless/">Bless </a>
 </div>
 </div>
@@ -1055,6 +1060,11 @@
 <div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink">
 <a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/c/covetous/">covetous </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/c/cursed/">Cursed </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -3317,7 +3327,7 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-07-18T19:46:05.029Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-07-18T23:03:46.451Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian print">
 <header>
 <h1 data-note-icon="">Commandment Reading Plan July</h1>
@@ -3366,16 +3376,549 @@ Starting March 20; 365 day</p>
 <p>And having come near, Jesus spake to them, saying, Given to me was all authority in heaven and on earth; having gone, then, <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/disciple/">Disciple</a> all the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/nation/">nation</a>s, (baptizing them -- to the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/n/name/">Name</a> of the Father, and of the Son, and of the Holy Spirit, <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/ruach/gift/teaching/">Teaching</a> them to observe all, whatever I did command you,) and lo, I am with you all the days -- till the full end of the age.' - Matthew 28:18-20 (TLV) (<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/b/baptize/">Baptize</a>)</p>
 <p><a href="https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Link to Biblegateway for reading</a>:</p>
 <h1 id="july" tabindex="-1">July</h1>
-<p><strong>July 1</strong>: Deuteronomy 6:13 – “Fear the LORD your God, serve him only and take your oaths in his name.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>July 2</strong>: Deuteronomy 10:12 – “What does the LORD your God ask of you but to fear the LORD your God, to walk in obedience to him, to love him...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>July 3</strong>: Deuteronomy 11:1 – “Love the LORD your God and keep his requirements, his decrees, his laws and his commands always.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>July 4</strong>: Deuteronomy 28:9 – “The LORD will establish you as his holy people... if you keep the commands of the LORD your God and walk in obedience to him.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/precepts-pikkudim/">Precepts (Pikkudim)</a></strong> (walk in holiness)</p>
-<p><strong>July 5</strong>: Leviticus 19:2 – “Be holy because I, the LORD your God, am holy.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> (call to holiness)</p>
-<p><strong>July 6</strong>: Leviticus 20:7 – “Consecrate yourselves and be holy, because I am the LORD your God.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong></p>
-<p><strong>July 7</strong>: Deuteronomy 13:4 – “It is the LORD your God you must follow, and him you must revere. Keep his commands and obey him; serve him and hold fast to him.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
-<p><strong>July 8</strong>: Deuteronomy 18:13 – “You must be blameless before the LORD your God.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/precepts-pikkudim/">Precepts (Pikkudim)</a></strong></p>
-<p><strong>July 9</strong>: Leviticus 19:3 – “Each of you must respect your mother and father, and you must observe my Sabbaths. I am the LORD your God.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> (respect parents + Sabbath)</p>
-<p><strong>July 10</strong>: Deuteronomy 27:16 (general principle) – “Cursed is anyone who dishonors their father or mother.” (inverse: honor them) - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
+<h2 id="strong-july-1-strong-fear-and-serve-yahweh-alone-a-href-https-www-biblegateway-com-passage-search-deuteronomy-6-13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-13-a" tabindex="-1"><strong>July 1</strong>: Fear and Serve Yahweh Alone: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 6:13</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><strong>Outline:</strong> *
+<ul>
+<li>Do
+<ul>
+<li>fear YHWH</li>
+<li>serve him</li>
+<li>swear by his name</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated</li>
+<li>The immediate context of Deuteronomy 6 ties covenant faithfulness to life, prosperity, and remaining in the land (Deut. 6:2-3; 6:24)</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None explicitly stated within the verse</li>
+<li>The broader context makes clear that going after other gods provokes Yahweh's anger and leads to destruction from the land (**Deut. 6:14-15)</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6">Personal Observations</mark>:
+<ul>
+<li>Jesus quotes this verse directly in response to Satan's temptation (Matt. 4:10) — framing it as the definitive boundary of worship and allegiance</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-july-2-strong-what-yahweh-requires-a-href-https-www-biblegateway-com-passage-search-deuteronomy-10-12-14-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-10-12-14-a" tabindex="-1"><strong>July 2</strong>: What Yahweh Requires: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+10:12-14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 10:12-14</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>What does Yah require of you</li>
+<li>Do
+<ul>
+<li>Fear him <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>Walk in all his ways <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/ruach/fruit/love/">Love</a> <mark style="background:#cd04BBA6">//ahav//</mark> him <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/serve/">Serve</a> him with <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>all your heart</li>
+<li>all your soul</li>
+</ul>
+</li>
+<li>Keep his <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> and <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>which are given here today
+<ul>
+<li>for your good</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>to Yah belongs
+<ul>
+<li>heaven <mark style="background:#cd04BBA6">//the sky//</mark></li>
+<li>the heaven of <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/dwelling-places/realm-of-yah/heaven/">Heaven</a>s <mark style="background:#cd04BBA6">//beyond the visible sky//</mark></li>
+<li>the earth
+<ul>
+<li>all that is therein <mark style="background:#cd04BBA6">//inhabitants, creatures, vegetation, waters, minerals, nations, peoples, etc//</mark></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated within the passage</li>
+<li>The passage itself is framed as a summary of what Yahweh asks of Israel in response to all He has done — the relationship and its privileges are the implied blessing underlying the entire appeal</li>
+<li>Verse 14 anchors the commands in Yahweh's ownership of everything — <em>&quot;Behold, to Yahweh your God belongs heaven and the heaven of heavens, the earth with all that is in it&quot;</em> — obedience is a response to this reality, not a means of earning it.</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None explicitly stated within the passage</li>
+<li>The passage is given in a tone so as to try and grab the attention of the people — Moses is calling Israel to covenant faithfulness rather than legislating a specific penalty</li>
+<li>The broader Deuteronomic framework applies — departure from fearing, walking in, loving, serving, and keeping results in covenant curse (Deut. 28:15ff)</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>This passage functions as a covenantal summary — the five requirements named (fear, walk, love, serve, keep) are relational and dispositional in nature, not ritual; no sacrificial mechanism is attached</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6">Personal Observations</mark>
+<ul>
+<li>Greek equivalent word is used in these passages:
+<ul>
+<li>John 14:15 — &quot;If you love me, keep my commandments.&quot;</li>
+<li>John 14:21 — Loving Yeshua is demonstrated by keeping His commandments.</li>
+<li>1 John 5:2–3 — The love of God is keeping His commandments, and His commandments are not burdensome.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-july-3-strong-love-yahweh-and-keep-his-charge-a-href-https-www-biblegateway-com-passage-search-deuteronomy-11-1-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-11-1-a" tabindex="-1"><strong>July 3</strong>: Love Yahweh and Keep His Charge: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+11:1&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 11:1</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Therefore (looking back in the text)
+<ul>
+<li>Because God has been faithful and redeemed you</li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>love him <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>at all times keep his <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> -</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>The command is relational and covenantal in nature — love expressed through keeping; no sacrificial mechanism is attached or implied</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-july-4-strong-walk-in-his-ways-a-href-https-www-biblegateway-com-passage-search-deuteronomy-28-9-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-28-9-a" tabindex="-1"><strong>July 4</strong>: Walk in His Ways: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+28:9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 28:9</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Yah will establish you
+<ul>
+<li>for a set apart <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/h/holy/">Holy</a> people
+<ul>
+<li>to himself</li>
+<li>as he has sworn to you</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>IF</strong> you DO
+<ul>
+<li>keep the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li>walk in his ways</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>Verse 9 itself contains the blessing — Yahweh will establish Israel as a holy people to Himself as He swore — the establishment as a consecrated nation is the direct reward of obedience</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None explicitly stated within the verse</li>
+<li>Deuteronomy 28:15 provides the mirror consequence — the full weight of covenant curse for failing to walk in His ways and keep His commandments</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>The command is identity and covenantal in nature — Yahweh establishing a holy people is contingent on walking in His ways; no sacrificial path compensates for departure from this</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-july-5-strong-be-holy-as-i-am-holy-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a2-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-2-a" tabindex="-1"><strong>July 5</strong>: Be Holy as I Am Holy: <a href="https://www.biblegateway.com/passage/?search=Leviticus+19%3A2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:2</a></h2>
+<ul>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
+</li>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></p>
+</li>
+<li>
+<p><strong>Outline:</strong></p>
+<ul>
+<li>Speak to
+<ul>
+<li>all the congregation
+<ul>
+<li>of children of <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/israel/">Israel</a> (<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/israelites/">Israelites</a>) <mark style="background:#cd04BBA6">//congregation = ecclesia in Greek//</mark></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>be Set-apart (<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/h/holy/">Holy</a>) <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>YHWH is set-apart</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Blessing:</strong></p>
+<ul>
+<li>No explicit blessing stated in the verse itself.</li>
+<li>The broader context of Leviticus frames holiness as the condition for dwelling in the land and remaining in covenant relationship with Yahweh (Leviticus 18:24-30; 20:22-24).</li>
+</ul>
+</li>
+<li>
+<p><strong>Penalty or Consequence:</strong></p>
+<ul>
+<li>No penalty stated directly in this verse.</li>
+<li>Leviticus 18:28 and 20:22 warn that failure to walk in holiness results in the land vomiting out the people as it vomited out the nations before them.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offering or Ransom:</strong></p>
+<ul>
+<li>No offering or ransom stated. The command is grounded entirely in the character of God himself — <em>&quot;for I, Yahweh your God, am holy&quot;</em> — making it covenantal in nature rather than transactional.</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-july-6-strong-consecrate-yourselves-and-be-holy-a-href-https-www-biblegateway-com-passage-search-leviticus-20-3-a7-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-20-7-a" tabindex="-1"><strong>July 6</strong>: Consecrate Yourselves and Be Holy: <a href="https://www.biblegateway.com/passage/?search=Leviticus+20%3A7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 20:7</a></h2>
+<ul>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
+</li>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></p>
+</li>
+<li>
+<p><strong>Outline:</strong></p>
+<ul>
+<li>Do
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/sanctify/">Sanctify</a> (qadosh) yourselves <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>Be set-apart (qodesh) <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/h/holy/">Holy</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>I am YHWH
+<ul>
+<li>your <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/divine-council/elohim/">Elohim</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Blessing:</strong></p>
+<ul>
+<li>No explicit blessing stated in the verse itself.</li>
+<li>The immediate context of v.8 frames the blessing implicitly — <em>&quot;I am Yahweh who sanctifies you&quot;</em> — the act of consecration is met with God's own sanctifying work on behalf of the people.</li>
+</ul>
+</li>
+<li>
+<p><strong>Penalty or Consequence:</strong></p>
+<ul>
+<li>No penalty stated directly in this verse.</li>
+<li>The surrounding context of Leviticus 20 is heavily weighted with consequences for specific violations — death, cutting off, and bearing iniquity — establishing that failure to walk in holiness carries severe covenant consequence.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offering or Ransom:</strong></p>
+<ul>
+<li>No offering or ransom stated. As with Leviticus 19:2, the command is rooted in God's own character and action — <em>&quot;I am Yahweh your God&quot;</em> — making the call to holiness covenantal and relational rather than transactional.</li>
+</ul>
+</li>
+<li>
+<p><strong><mark style="background:#cd04BBA6">Personal Obervations</mark></strong></p>
+<ul>
+<li>hithqadashtem (הִתְקַדַּשְׁתֶּם) - consecrate yourselves - interesting how we are to take part in this - it isn't something being done to us.</li>
+<li>In the next verse, meqadishkem (מְקַדִּשְׁכֶם) - Yah sanctifies</li>
+<li>John 17:17 - same word in the prayer from Jesus &quot;Sanctify them in your truth.&quot;</li>
+<li>Holy seems unattainable, but when we understand it means to set-apart, that is much more attainable.</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-july-7-strong-do-not-follow-false-prophets-a-href-https-www-biblegateway-com-passage-search-deuteronomy-13-1-5-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-13-1-5-a" tabindex="-1"><strong>July 7</strong>: Do Not Follow False Prophets: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 13:1-5</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>If a prophet or dreamer of dreams arises
+<ul>
+<li>and he gives you a sign or a wonder
+<ul>
+<li>and that sign or wonder comes to pass</li>
+</ul>
+</li>
+<li>he says Let's
+<ul>
+<li>go after other gods
+<ul>
+<li>which you have not known</li>
+</ul>
+</li>
+<li>serve other gods</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do not
+<ul>
+<li>listen to the words of the prophet or dreamer <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>YHWH is testing you
+<ul>
+<li>to know whether you love him
+<ul>
+<li>with all your heart</li>
+<li>with all your soul</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>walk after YHWH <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>fear him</li>
+<li>keeps his <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commandments/">Commandments</a></li>
+<li>obey his voice</li>
+<li>serve him</li>
+<li>cling to him</li>
+</ul>
+</li>
+<li>Put that prophet or dreamer of dreams to death
+<ul>
+<li>because he has spoken rebellion against YHWH
+<ul>
+<li>who brought you out of Egype</li>
+<li>redeemed you out of the house of bondage
+<ul>
+<li>to draw you aside out of the way
+<ul>
+<li>which YHWH commanded you to walk</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>so you shall remove the evil from among you</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated</li>
+<li>Obedience to this command is framed as love for Yahweh — v.3 states that the false prophet is a test (<em>nasah</em> — נָסָה) from Yahweh to know whether Israel loves Him with all heart and soul</li>
+<li>Faithfulness here is itself the expression of covenant loyalty — the implied blessing is remaining in right standing with Yahweh</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Verse 5 — the false prophet or dreamer of dreams shall be put to death</li>
+<li>The rationale is stated explicitly — <em>&quot;because he has spoken rebellion against Yahweh your God who brought you out of the land of Egypt and redeemed you out of the house of bondage&quot;</em></li>
+<li>The second stated rationale — <em>&quot;to put away the evil from among you&quot;</em> — frames execution as communal purging, consistent with Deuteronomy's repeated use of this phrase (cf. Deut. 17:7; 17:12; 19:19; 21:21; 22:21)</li>
+<li>The sign or wonder coming to pass does not validate the prophet — v.3 makes clear that a fulfilled sign can still be a test; the content of the message is the measure, not the miracle</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>False prophecy leading Israel after other gods is a capital offense with no ransom path — the gravity mirrors Deuteronomy 17:12 where defying Yahweh's appointed authority likewise carries no offering remedy</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-july-8-strong-be-blameless-before-yahweh-a-href-https-www-biblegateway-com-passage-search-deuteronomy-18-3-a13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-18-13-a" tabindex="-1"><strong>July 8</strong>: Be Blameless Before Yahweh: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+18%3A13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 18:13</a></h2>
+<ul>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
+</li>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></p>
+</li>
+<li>
+<p><strong>Outline:</strong></p>
+<ul>
+<li>Do
+<ul>
+<li>be <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/b/blameless/">Blameless</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>with YHWH</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Blessing:</strong></p>
+<ul>
+<li>No explicit blessing stated in the verse itself.</li>
+<li>The immediate context frames the blessing implicitly — Israel's blamelessness before Yahweh is the alternative to the abominable practices of the nations being driven out before them (v.12), suggesting that wholeness before God is what distinguishes and protects Israel in the land.</li>
+</ul>
+</li>
+<li>
+<p><strong>Penalty or Consequence:</strong></p>
+<ul>
+<li>No penalty stated directly in this verse.</li>
+<li>The surrounding context of Deuteronomy 18:9-12 establishes the contrast — the nations who practiced divination, sorcery, and necromancy were dispossessed precisely because of those practices (v.12). Blamelessness is implicitly the condition for remaining in the land.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offering or Ransom:</strong></p>
+<ul>
+<li>No offering or ransom stated. The command stands alone as a call to wholeness and integrity before God — tamim (תָּמִים) — the same word used of Noah (Genesis 6:9) and of Abraham in God's charge to him in Genesis 17:1 — <em>&quot;Walk before me and be blameless.&quot;</em> (WEB)</li>
+</ul>
+</li>
+<li>
+<p><strong><mark style="background:#cd04BBA6">Personal Observations</mark></strong>:</p>
+<ul>
+<li>Jesus uses this same word and concept in Matthew 5:48 — <em>&quot;You therefore shall be teleios as your heavenly Father is teleios&quot;</em></li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-july-9-strong-honor-your-mother-and-father-and-keep-my-sabbaths-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a3-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-3-a" tabindex="-1"><strong>July 9</strong>: Honor Your Mother and Father and Keep My Sabbaths: <a href="https://www.biblegateway.com/passage/?search=Leviticus+19%3A3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:3</a></h2>
+<ul>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
+</li>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></p>
+</li>
+<li>
+<p><strong>Outline:</strong></p>
+<ul>
+<li>Do
+<ul>
+<li>Respect mother and father <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>keep my <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/appointed-time/sabbath/">Sabbath</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>I am YHWH
+<ul>
+<li>your <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/divine-council/elohim/">Elohim</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Blessing:</strong></p>
+<ul>
+<li>No explicit blessing stated in this verse.</li>
+<li>The parallel command in Exodus 20:12 and Deuteronomy 5:16 attaches an explicit blessing to honoring parents — long life and prosperity in the land.</li>
+<li>Sabbath keeping is framed throughout the Torah as a sign of the covenant relationship itself (Exodus 31:13-17) — the blessing being the covenant standing it represents. A mark on the hand and forehead</li>
+</ul>
+</li>
+<li>
+<p><strong>Penalty or Consequence:</strong></p>
+<ul>
+<li>No penalty stated directly in this verse.</li>
+<li>Exodus 21:17 and Leviticus 20:9 — cursing or striking a father or mother carries the death penalty.</li>
+<li>Numbers 15:32-36 — Sabbath violation results in death; established by narrative example.</li>
+<li>Deuteronomy 5:16 frames the reverse — failure to honor parents implicitly cuts off the blessing of long days in the land.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offering or Ransom:</strong></p>
+<ul>
+<li>No offering or ransom stated. The verse closes with <em>&quot;I am Yahweh your God&quot;</em> — grounding both commands in covenantal identity rather than transaction.</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-july-10-strong-do-not-dishonor-father-or-mother-a-href-https-www-biblegateway-com-passage-search-deuteronomy-27-16-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-27-16-a" tabindex="-1"><strong>July 10</strong>: Do Not Dishonor Father or Mother: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+27:16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 27:16</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Do Not
+<ul>
+<li>dishonor father or mother <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/c/cursed/">Cursed</a> is he who does</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated within the verse</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Verse 16 — <strong>cursed</strong> (<em>arur</em> — אָרוּר) is the one who dishonors (<em>meqaleh</em> — מְקַלֶּה) his father or mother
+<ul>
+<li><em>Arur</em> is covenant curse language — not merely social disapproval but Yahweh's active curse pronounced publicly and confirmed by all the people with <em>amen</em></li>
+<li><em>Meqaleh</em> from <em>qalah</em> (קָלָה) — to treat as light, to despise, to make contemptible — the opposite of <em>kaved</em> (כָּבֵד, to honor, to make heavy)</li>
+</ul>
+</li>
+<li>The public <em>amen</em> of all the people functions as communal witness and agreement to the curse — making this a covenantal declaration before Yahweh</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed within the verse</li>
+<li>The curse formula of Deuteronomy 27 does not attach offering remedies — the curses stand as covenant consequences without sacrificial path named</li>
+</ul>
+</li>
+<li><strong><mark style="background:#cd04BBA6">Personal Observations</mark>:</strong>
+<ul>
+<li>passive participle This means the curse is not contingent on being caught or tried — the act itself places the person in the <em>arur</em> condition before Yahweh regardless of human knowledge or judicial process.</li>
+</ul>
+</li>
+</ul>
 <p><strong>July 11</strong>: Leviticus 19:4 – “Do not turn to idols or make metal gods for yourselves. I am the LORD your God.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> (no idols)</p>
 <p><strong>July 12</strong>: Deuteronomy 7:25-26 – “Do not covet the silver and gold on them... You must detest and detest them.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> (reject idolatry)</p>
 <p><strong>July 13</strong>: Leviticus 19:31 – “Do not turn to mediums or seek out spiritists, for you will be defiled by them. I am the LORD your God.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> (no occult practices)</p>
@@ -3488,6 +4031,26 @@ Commandment Reading Plan July
 </li>
 <li><a href="#july">July</a>
 <ol>
+<li><a href="#strong-july-1-strong-fear-and-serve-yahweh-alone-a-href-https-www-biblegateway-com-passage-search-deuteronomy-6-13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-13-a">July 1: Fear and Serve Yahweh Alone: Deuteronomy 6:13</a>
+</li>
+<li><a href="#strong-july-2-strong-what-yahweh-requires-a-href-https-www-biblegateway-com-passage-search-deuteronomy-10-12-14-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-10-12-14-a">July 2: What Yahweh Requires: Deuteronomy 10:12-14</a>
+</li>
+<li><a href="#strong-july-3-strong-love-yahweh-and-keep-his-charge-a-href-https-www-biblegateway-com-passage-search-deuteronomy-11-1-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-11-1-a">July 3: Love Yahweh and Keep His Charge: Deuteronomy 11:1</a>
+</li>
+<li><a href="#strong-july-4-strong-walk-in-his-ways-a-href-https-www-biblegateway-com-passage-search-deuteronomy-28-9-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-28-9-a">July 4: Walk in His Ways: Deuteronomy 28:9</a>
+</li>
+<li><a href="#strong-july-5-strong-be-holy-as-i-am-holy-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a2-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-2-a">July 5: Be Holy as I Am Holy: Leviticus 19:2</a>
+</li>
+<li><a href="#strong-july-6-strong-consecrate-yourselves-and-be-holy-a-href-https-www-biblegateway-com-passage-search-leviticus-20-3-a7-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-20-7-a">July 6: Consecrate Yourselves and Be Holy: Leviticus 20:7</a>
+</li>
+<li><a href="#strong-july-7-strong-do-not-follow-false-prophets-a-href-https-www-biblegateway-com-passage-search-deuteronomy-13-1-5-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-13-1-5-a">July 7: Do Not Follow False Prophets: Deuteronomy 13:1-5</a>
+</li>
+<li><a href="#strong-july-8-strong-be-blameless-before-yahweh-a-href-https-www-biblegateway-com-passage-search-deuteronomy-18-3-a13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-18-13-a">July 8: Be Blameless Before Yahweh: Deuteronomy 18:13</a>
+</li>
+<li><a href="#strong-july-9-strong-honor-your-mother-and-father-and-keep-my-sabbaths-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a3-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-3-a">July 9: Honor Your Mother and Father and Keep My Sabbaths: Leviticus 19:3</a>
+</li>
+<li><a href="#strong-july-10-strong-do-not-dishonor-father-or-mother-a-href-https-www-biblegateway-com-passage-search-deuteronomy-27-16-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-27-16-a">July 10: Do Not Dishonor Father or Mother: Deuteronomy 27:16</a>
+</li>
 <li><a href="#strong-july-31-strong-leviticus19-do-not-oppress-the-stranger-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a33-34-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-33-34-a">July 31: #Leviticus19 Do Not Oppress the Stranger: Leviticus 19:33-34</a>
 </li>
 </ol>
