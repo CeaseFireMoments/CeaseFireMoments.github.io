@@ -74,8 +74,8 @@ Originally published on WordPress https://calltoceasefire.wordpress.com/2024/02/
 [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}

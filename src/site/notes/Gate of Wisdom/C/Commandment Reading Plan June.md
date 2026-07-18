@@ -811,10 +811,10 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 				- for your good
 	- Because
 		- to Yah belongs
-			- heaven
-			- the heaven of heavens
-			- the earth
-			- all that is therein
+			- heaven <mark style="background: #CD04BBA6;">//the sky//</mark>
+			- the heaven of [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]s <mark style="background: #CD04BBA6;">//beyond the visible sky//</mark>
+			- the earth 
+				- all that is therein <mark style="background: #CD04BBA6;">//inhabitants, creatures, vegetation, waters, minerals, nations, peoples, etc//</mark>
 - **Blessing:**
     - None explicitly stated within the passage
     - The passage itself is framed as a summary of what Yahweh asks of Israel in response to all He has done — the relationship and its privileges are the implied blessing underlying the entire appeal
@@ -826,19 +826,90 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Offering or Ransom:**
     - None prescribed
     - This passage functions as a covenantal summary — the five requirements named (fear, walk, love, serve, keep) are relational and dispositional in nature, not ritual; no sacrificial mechanism is attached
-- Personal Observations
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
 	- Greek equivalent word is used in these passages:
 		- John 14:15 — "If you love me, keep my commandments."
 		- John 14:21 — Loving Yeshua is demonstrated by keeping His commandments.
 		- 1 John 5:2–3 — The love of God is keeping His commandments, and His commandments are not burdensome.
 
-**June 27**: Deuteronomy 11:1 – “Love the LORD your God and keep his requirements...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+## **June 27**: Love Yahweh and Keep His Charge: [Deuteronomy 11:1](https://www.biblegateway.com/passage/?search=Deuteronomy+11:1&version=WEB;NET;OJB)
 
-**June 28**: Deuteronomy 28:9 – “The LORD will establish you as his holy people... if you keep the commands...” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (walk in His ways)  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** 
+	- Therefore (looking back in the text)
+		- Because God has been faithful and redeemed you
+	- Do
+		- love him #Dos 
+		- at all times keep his #Dos 
+			- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+			- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+			- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]			- 
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is relational and covenantal in nature — love expressed through keeping; no sacrificial mechanism is attached or implied
 
-**June 29**: Exodus 23:25 – “Worship the LORD your God, and his blessing will be on your food...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+## **June 28**: Walk in His Ways: [Deuteronomy 28:9](https://www.biblegateway.com/passage/?search=Deuteronomy+28:9&version=WEB;NET;OJB)
 
-**June 30**: Deuteronomy 8:10 – “When you have eaten and are satisfied, praise the LORD your God for the good land he has given you.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (thanksgiving after eating)  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** 
+	- Yah will establish you
+		- for a set apart [[Gate of Wisdom/H/Holy\|Holy]] people
+			- to himself
+			- as he has sworn to you
+	- **IF** you DO
+		- keep the [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+		- walk in his ways
+- **Blessing:**
+    - Verse 9 itself contains the blessing — Yahweh will establish Israel as a holy people to Himself as He swore — the establishment as a consecrated nation is the direct reward of obedience
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - Deuteronomy 28:15 provides the mirror consequence — the full weight of covenant curse for failing to walk in His ways and keep His commandments
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is identity and covenantal in nature — Yahweh establishing a holy people is contingent on walking in His ways; no sacrificial path compensates for departure from this
+
+## **June 29**: Serve Yahweh Alone: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023:25&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**
+	- Do
+		- [[Gate of Wisdom/S/Serve\|Serve]] Yah #Dos 
+	- He will
+		- [[Gate of Wisdom/B/Bless\|Bless]] your 
+			- bread
+			- water
+		- Take sickness away from you
+- **Blessing:**
+    - Bread and water blessed (provision secured) — Exodus 23:25
+    - Sickness removed from among them — Exodus 23:25
+    - Barrenness and miscarriage prevented, length of days fulfilled — Exodus 23:26
+- **Penalty or Consequence:**
+    - Not stated directly in this passage; contextually tied to the surrounding warning against worshiping the gods of the nations and their practices (Exodus 23:24, 32-33) — the implied consequence of disobedience is becoming ensnared by those gods
+- **Offering or Ransom:**
+    - None specified
+
+## **June 30**: Bless Yahweh When You Have Eaten: [Deuteronomy 8:10](https://www.biblegateway.com/passage/?search=Deuteronomy+8:10&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:**
+	- Do
+		- Eat #Dos 
+		- Be full #Dos 
+		- [[Gate of Wisdom/B/Bless\|Bless]] Yah #Dos 
+			- for the good land
+				- which he has given you
+- **Blessing:**
+    - The command is itself embedded in blessing — eating and being satisfied (_saveta_ — שָׂבַעְתָּ) is the condition that triggers the command, meaning abundance is already the context
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - Deuteronomy 8:11-20 provides the immediate consequence of forgetting Yahweh after eating and being satisfied — heart lifted up, Yahweh forgotten, perishing like the nations driven out before Israel
+    - The warning of v.11 begins with _"Beware lest you forget Yahweh"_ — directly following v.10, making forgetting the implicit violation of the command to bless
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is liturgical and relational in nature — acknowledging Yahweh as the source of provision; no sacrificial mechanism is attached
 
 
 

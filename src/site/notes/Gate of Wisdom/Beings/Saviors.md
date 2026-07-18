@@ -9,12 +9,3 @@ mo-shi'im (מוֹשִׁעִים) plural - those who save," "deliverers," or "sav
 # Other
 - 
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-

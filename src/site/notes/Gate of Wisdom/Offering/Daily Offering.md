@@ -43,9 +43,9 @@
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28).md\\|13 The Seventh Day Rest is for Offering (04-Num 28)]]</li></ul> |
+
+{ .block-language-dataview}
 

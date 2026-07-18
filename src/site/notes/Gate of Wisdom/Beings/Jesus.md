@@ -38,14 +38,6 @@ L uke 3
 1. B aptised around the age of 30 - same age the Priests began their ministry in the Tabernacle ([Numbers 4](https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/Numbers4?name=Numbers%204)) “Jesus also being baptised,” “himself was beginning to be about thirty years of age”
 
   
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
   
 
   

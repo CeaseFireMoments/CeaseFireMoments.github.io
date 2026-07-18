@@ -57,10 +57,10 @@
 
 # Connections
 - 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/P/Poor.md\\|Poor]]</li><li>[[Gate of Wisdom/Good News/Kingdom of Heaven.md\\|Kingdom of Heaven]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God.md\\|Kingdom of God]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven.md\\|Heaven]]</li></ul> |
+
+{ .block-language-dataview}
 
 

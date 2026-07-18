@@ -48,8 +48,8 @@ Isaiah 58 tzom
 
 # Connections
 - 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                 |
+| ---------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+
+{ .block-language-dataview}

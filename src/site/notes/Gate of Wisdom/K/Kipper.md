@@ -20,10 +20,10 @@ The precise meaning of kipper is debated among scholars,
 
 # Connections
 - 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/R/Ransom.md\\|Ransom]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Atonement.md\\|Atonement]]</li></ul> |
+
+{ .block-language-dataview}
 
 

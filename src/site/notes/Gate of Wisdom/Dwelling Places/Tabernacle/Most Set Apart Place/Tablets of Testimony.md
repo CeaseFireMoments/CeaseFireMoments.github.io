@@ -44,8 +44,8 @@ Matthew 22:37 Jesus said to him, “‘You shall love the Lord your God with all
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35).md\\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]</li><li>[[Gate of Wisdom/T/Testimony.md\\|Testimony]]</li><li>[[Gate of Wisdom/T/Ten Words.md\\|Ten Words]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness.md\\|The Witness]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone.md\\|Tables of Stone]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony.md\\|Ark of the Testimony]]</li><li>[[Gate of Wisdom/C/Ten Commandments.md\\|Ten Commandments]]</li></ul> |
+
+{ .block-language-dataview}

@@ -30,10 +30,10 @@
 
 # Connections
 - 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19).md\\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]</li></ul> |
+
+{ .block-language-dataview}
 
 

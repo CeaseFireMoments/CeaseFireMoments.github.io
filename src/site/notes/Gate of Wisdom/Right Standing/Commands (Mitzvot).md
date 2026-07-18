@@ -15,11 +15,11 @@
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li></ul> |
+
+{ .block-language-dataview}
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free.  Jesus became our Passover Lamb offering.
 
 ## Jesus as an Offering
@@ -226,6 +226,29 @@ SORT file.name ASC
 - **Penalty or Consequence**: General curses for idolatry (Deuteronomy 28:15-68).
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+
+## #LoveGod Bless Yahweh When You Have Eaten: [Deuteronomy 8:10](https://www.biblegateway.com/passage/?search=Deuteronomy+8:10&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:**
+	- Do
+		- Eat #Dos 
+		- Be full #Dos 
+		- [[Gate of Wisdom/B/Bless\|Bless]] Yah #Dos 
+			- for the good land
+				- which he has given you
+- **Blessing:**
+    - The command is itself embedded in blessing — eating and being satisfied (_saveta_ — שָׂבַעְתָּ) is the condition that triggers the command, meaning abundance is already the context
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - Deuteronomy 8:11-20 provides the immediate consequence of forgetting Yahweh after eating and being satisfied — heart lifted up, Yahweh forgotten, perishing like the nations driven out before Israel
+    - The warning of v.11 begins with _"Beware lest you forget Yahweh"_ — directly following v.10, making forgetting the implicit violation of the command to bless
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is liturgical and relational in nature — acknowledging Yahweh as the source of provision; no sacrificial mechanism is attached
+
+ #Deuteronomy08 #05Deut 
 
 ## #LoveGod  Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
 
@@ -1461,6 +1484,28 @@ SORT file.name ASC
 - **Blessing:** A land cleansed for Yahweh's presence.
 - **Penalty or Consequence:** Leaving them becomes a snare (Exodus 23:33; Judges 2:3).
 - **Offering or Ransom?:** Not applicable.
+
+## #LoveGod  Serve Yahweh Alone: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023:25&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**
+	- Do
+		- [[Gate of Wisdom/S/Serve\|Serve]] Yah #Dos 
+	- He will
+		- [[Gate of Wisdom/B/Bless\|Bless]] your 
+			- bread
+			- water
+		- Take sickness away from you
+- **Blessing:**
+    - Bread and water blessed (provision secured) — Exodus 23:25
+    - Sickness removed from among them — Exodus 23:25
+    - Barrenness and miscarriage prevented, length of days fulfilled — Exodus 23:26
+- **Penalty or Consequence:**
+    - Not stated directly in this passage; contextually tied to the surrounding warning against worshiping the gods of the nations and their practices (Exodus 23:24, 32-33) — the implied consequence of disobedience is becoming ensnared by those gods
+- **Offering or Ransom:**
+    - None specified
+
+ #Exodus23 #02Exod 
 
 ---
 

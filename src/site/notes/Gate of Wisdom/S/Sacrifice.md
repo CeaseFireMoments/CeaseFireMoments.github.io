@@ -28,8 +28,8 @@
 - Psalm 50:23 – זֹבֵחַ תּוֹדָה (“he who sacrifices thanksgiving”) – same root verb used later in the psalm
 - Jonah 2:9 – אֶזְבְּחָה־לְּךָ בְּקוֹל תּוֹדָה (“I will sacrifice to You with the voice of thanksgiving”) and נְדַרְתִּי אֲשַׁלֵּמָה (“I will pay what I have vowed”) – links זְבַח and שׁלם as in Psalm 50:14
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                         |
+| ------------------------------------------------------------------------------------ |
+| <ul><li>[[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-50.md\\|Ps-50]]</li></ul> |
+
+{ .block-language-dataview}

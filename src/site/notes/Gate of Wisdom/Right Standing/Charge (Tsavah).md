@@ -112,10 +112,10 @@
 				- for your good
 	- Because
 		- to Yah belongs
-			- heaven
-			- the heaven of heavens
-			- the earth
-			- all that is therein
+			- heaven <mark style="background: #CD04BBA6;">//the sky//</mark>
+			- the heaven of [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]s <mark style="background: #CD04BBA6;">//beyond the visible sky//</mark>
+			- the earth 
+				- all that is therein <mark style="background: #CD04BBA6;">//inhabitants, creatures, vegetation, waters, minerals, nations, peoples, etc//</mark>
 - **Blessing:**
     - None explicitly stated within the passage
     - The passage itself is framed as a summary of what Yahweh asks of Israel in response to all He has done — the relationship and its privileges are the implied blessing underlying the entire appeal
@@ -127,7 +127,7 @@
 - **Offering or Ransom:**
     - None prescribed
     - This passage functions as a covenantal summary — the five requirements named (fear, walk, love, serve, keep) are relational and dispositional in nature, not ritual; no sacrificial mechanism is attached
-- Personal Observations
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
 	- Greek equivalent word is used in these passages:
 		- John 14:15 — "If you love me, keep my commandments."
 		- John 14:21 — Loving Yeshua is demonstrated by keeping His commandments.
@@ -140,6 +140,25 @@
     - **Penalty or Consequence**: Implied loss of God’s favor (Deut 10:16-17, God’s impartial judgment).
     - **Offering or Ransom**: None specified.
 	    - Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+
+## #LoveGod Love Yahweh and Keep His Charge: [Deuteronomy 11:1](https://www.biblegateway.com/passage/?search=Deuteronomy+11:1&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** 
+	- Therefore (looking back in the text)
+		- Because God has been faithful and redeemed you
+	- Do
+		- love him #Dos 
+		- at all times keep his #Dos 
+			- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+			- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+			- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]			- 
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is relational and covenantal in nature — love expressed through keeping; no sacrificial mechanism is attached or implied
+
+ #Deuteronomy11 #05Deut 
 
 12. **Scripture Reference**: Deuteronomy 11:8
     - **Scripture Text (WEB)**: Deuteronomy 11:7-9: "But your eyes have seen all the great work of Yahweh which he did. Therefore you shall keep the entire commandment which I command you today, that you may be strong, and go in and possess the land that you go over to possess; and that you may prolong your days in the land which Yahweh swore to your fathers..."
@@ -228,6 +247,29 @@
     - **Penalty or Consequence**: Disobedience brings curses (Deut 28:15-68).
     - **Offering or Ransom**: None specified.
 	    - Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+
+## #LoveGod Walk in His Ways: [Deuteronomy 28:9](https://www.biblegateway.com/passage/?search=Deuteronomy+28:9&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** 
+	- Yah will establish you
+		- for a set apart [[Gate of Wisdom/H/Holy\|Holy]] people
+			- to himself
+			- as he has sworn to you
+	- **IF** you DO
+		- keep the [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+		- walk in his ways
+- **Blessing:**
+    - Verse 9 itself contains the blessing — Yahweh will establish Israel as a holy people to Himself as He swore — the establishment as a consecrated nation is the direct reward of obedience
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - Deuteronomy 28:15 provides the mirror consequence — the full weight of covenant curse for failing to walk in His ways and keep His commandments
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is identity and covenantal in nature — Yahweh establishing a holy people is contingent on walking in His ways; no sacrificial path compensates for departure from this
+
+ #Deuteronomy28 #05Deut 
 
 27. **Scripture Reference**: Deuteronomy 28:15
     - **Scripture Text (WEB)**: Deuteronomy 28:15-17: "But it shall come to pass, if you will not listen to Yahweh your God’s voice, to observe to do all his commandments and his statutes which I command you today, that all these curses will come on you and overtake you..."

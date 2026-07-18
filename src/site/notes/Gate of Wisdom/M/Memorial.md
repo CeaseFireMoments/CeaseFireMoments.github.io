@@ -22,10 +22,10 @@
 
 # Connections
 - 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56).md\\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]</li></ul> |
+
+{ .block-language-dataview}
 
 

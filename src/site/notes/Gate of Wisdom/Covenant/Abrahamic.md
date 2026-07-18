@@ -60,11 +60,3 @@ In your seed all nations of the earth will be blessed
 
 ###### THOUGHTS: Galatians  - Is Paul saying the //Law of Circumcision //  was given to Abraham for his SEED (singular) and through Jesus this promise has been fulfilled and completed. Abrhamic Covenant, Law of Circumcision , and the promise of the seed has been fulfilled. All that nations of the earth HAVE BEEN blessed through Jesus Christ.
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

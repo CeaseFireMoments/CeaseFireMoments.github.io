@@ -119,12 +119,6 @@ Exodus 33 - The Lord said leave, go out to the land I promised on an oath to Abr
 
 
 # Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
   
 [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-35\|Exod-35]]
 

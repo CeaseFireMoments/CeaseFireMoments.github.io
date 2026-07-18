@@ -36,11 +36,3 @@
 
 1. F ULFILLED: He will build a house for My Name
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/curse/","tags":["#GateWisdom","ConsequenceDisobedience","C"],"dg-note-properties":{"tags":["#GateWisdom","ConsequenceDisobedience","C"]}}
 ---
 
-# Define
 - Hebrew: קְלָלָה (qelalah) – a declared judgment of ruin, loss, or divine disfavor invoked as the direct penalty for breaking covenant with God; אָלָה (alah) – a binding oath-curse that activates if obedience fails.
 - Greek: κατάρα (katara) – a pronouncement of calamity or wrath from God upon transgressors; ἐπικατάρατος (epikataratos) – “under curse” (Gal 3:10, 13; Deut 27:26 LXX).
 
@@ -29,10 +28,3 @@
 - Exile: Lev 26:33–39; Jer 44:22 – land enjoys sabbaths while Israel suffers curse.
 - Christ becoming curse: Gal 3:13 – Χριστὸς… γενόμενος ὑπὲρ ἡμῶν κατάρα (Christ became a curse for us), quoting Deut 21:23. 
 
-
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
