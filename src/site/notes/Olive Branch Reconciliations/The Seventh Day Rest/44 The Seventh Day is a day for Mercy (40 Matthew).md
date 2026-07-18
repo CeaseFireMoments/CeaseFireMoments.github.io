@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/44-the-seventh-day-is-a-day-for-mercy-40-matthew/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/44-the-seventh-day-is-a-day-for-mercy-40-matthew/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest"],"Bible-References":null}}
 ---
 
 
@@ -114,8 +114,8 @@ Lord of the Sabbath: The Sabbath was something YHWH set aside on Day 7.
 
 # Connections
 
-| file.inlinks                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey.md\\|_Seventh Day Rest Scripture Survey]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

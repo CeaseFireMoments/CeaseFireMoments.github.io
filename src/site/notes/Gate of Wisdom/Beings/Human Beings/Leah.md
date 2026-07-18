@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/leah/","tags":["#GateWisdom","Being","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/leah/","tags":["#GateWisdom","Being","HumanBeing"],"dg-note-properties":{"tags":["#GateWisdom","Being","HumanBeing"]}}
 ---
 
 # Birth and Ancestors
@@ -86,8 +86,8 @@ The Bible contains no extra-biblical archaeological or landmark information abou
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-33 YadaYada.md\\|01 Gen-33 YadaYada]]</li><li>[[Yada Yada Pauses/01 Gen-27 Yada Yada.md\\|01 Gen-27 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-29 Yada Yada.md\\|01 Gen-29 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-31 Yada Yada.md\\|01 Gen-31 Yada Yada]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs.md\\|Cave of the Patriarchs]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Rachel.md\\|Rachel]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Jacob.md\\|Jacob]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

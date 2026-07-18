@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/esau/","tags":["#GateWisdom","HumanBeing","#E"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/esau/","tags":["#GateWisdom","HumanBeing","#E"],"dg-note-properties":{"tags":["#GateWisdom","HumanBeing","#E"]}}
 ---
 
 
@@ -60,9 +60,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/31 Obad-01 Yada Yada.md\\|31 Obad-01 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-36 Yada Yada.md\\|01 Gen-36 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-32 Yada Yada.md\\|01 Gen-32 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-28 Yada Yada.md\\|01 Gen-28 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-27 Yada Yada.md\\|01 Gen-27 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-31 Yada Yada.md\\|01 Gen-31 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom.md\\|Edom]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Jacob.md\\|Jacob]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Isaac.md\\|Isaac]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Edomites.md\\|Edomites]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27.md\\|Gen-27]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36.md\\|Gen-36]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01.md\\|Obad-01]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 

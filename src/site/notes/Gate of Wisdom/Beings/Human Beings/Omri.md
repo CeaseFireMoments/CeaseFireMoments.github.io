@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/omri/","tags":["#GateWisdom","Being","HumanBeing","O"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/omri/","tags":["#GateWisdom","Being","HumanBeing","O"],"dg-note-properties":{"tags":["#GateWisdom","Being","HumanBeing","O"]}}
 ---
 
 
@@ -73,10 +73,10 @@
 
 # Connections
 
-| file.inlinks                                                                            |
-| --------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/wicked-lives-vs-righteous-dies/","tags":["#Ezekiel33","#Righteousness","#Wickedness","#Sins","SacredTruces","W","R"]}
+{"dg-publish":true,"permalink":"/sacred-truces/wicked-lives-vs-righteous-dies/","tags":["#Ezekiel33","#Righteousness","#Wickedness","#Sins","SacredTruces","W","R"],"dg-note-properties":{"tags":["#Ezekiel33","#Righteousness","#Wickedness","#Sins","SacredTruces","W","R"]}}
 ---
 
 

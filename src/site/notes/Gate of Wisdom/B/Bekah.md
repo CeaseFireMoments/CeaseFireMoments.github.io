@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/b/bekah/","tags":["#GateWisdom","B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/b/bekah/","tags":["#GateWisdom","B"],"dg-note-properties":{"tags":["#GateWisdom","B"]}}
 ---
 
 # Define
@@ -18,8 +18,8 @@ equivalent to half a shekel
 
 # Connections
 - 
-| file.inlinks                                                                        |
-| ----------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-24 Yada Yada.md\\|01 Gen-24 Yada Yada]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

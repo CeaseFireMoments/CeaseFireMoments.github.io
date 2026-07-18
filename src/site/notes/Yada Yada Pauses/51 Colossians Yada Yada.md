@@ -328,7 +328,7 @@
 - [[Gate of Wisdom/Beings/Jesus\|Gate of Wisdom/Beings/Jesus]]
 - [[saints\|saints]]
 - [[Zunpublished/Faith\|Faith]]
-- [[Zunpublished/Love\|Love]]
+- [[Gate of Wisdom/Ruach/Fruit/Love\|Love]]
 - [[hope\|hope]]
 - [[Zunpublished/Gospel\|Gospel]]
 - body

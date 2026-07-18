@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/keturah/","tags":["#GateWisdom","Being","HumanBeing","K"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/keturah/","tags":["#GateWisdom","Being","HumanBeing","K"],"dg-note-properties":{"tags":["#GateWisdom","Being","HumanBeing","K"]}}
 ---
 
 Abraham's wife after Sarah died. Some text says concubine.
@@ -71,8 +71,8 @@ but Abraham gave gifts to the sons of Abraham's concubines. While he still lived
 
 # Connections
 
-| file.inlinks                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Abraham.md\\|Abraham]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

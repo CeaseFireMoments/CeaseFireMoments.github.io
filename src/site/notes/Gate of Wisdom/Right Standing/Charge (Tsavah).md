@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/charge-tsavah/","tags":["#GateWisdom","RightStanding","C","T"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/charge-tsavah/","tags":["#GateWisdom","RightStanding","C","T"],"dg-note-properties":{"tags":["#GateWisdom","RightStanding","C","T"]}}
 ---
 
 # Define
@@ -16,11 +16,11 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
 
 ## Jesus as an Offering
@@ -93,6 +93,47 @@
     - **Penalty or Consequence**: Disobedience risks failure to possess the land (Deut 8:19-20, destruction like other nations).
     - **Offering or Ransom**: None specified.
 	    - Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+
+## #LoveGod What Yahweh Requires: [Deuteronomy 10:12-14](https://www.biblegateway.com/passage/?search=Deuteronomy+10:12-14&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** 
+	- What does Yah require of you
+	- Do
+		- Fear him #Dos 
+		- Walk in all his ways #Dos 
+		- [[Gate of Wisdom/Ruach/Fruit/Love\|Love]] <mark style="background: #CD04BBA6;">//ahav//</mark> him #Dos 
+		- [[Gate of Wisdom/S/Serve\|Serve]] him with #Dos 
+			- all your heart
+			- all your soul
+		- Keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] and  [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
+			- which are given here today
+				- for your good
+	- Because
+		- to Yah belongs
+			- heaven
+			- the heaven of heavens
+			- the earth
+			- all that is therein
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The passage itself is framed as a summary of what Yahweh asks of Israel in response to all He has done — the relationship and its privileges are the implied blessing underlying the entire appeal
+    - Verse 14 anchors the commands in Yahweh's ownership of everything — _"Behold, to Yahweh your God belongs heaven and the heaven of heavens, the earth with all that is in it"_ — obedience is a response to this reality, not a means of earning it.
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The passage is given in a tone so as to try and grab the attention of the people — Moses is calling Israel to covenant faithfulness rather than legislating a specific penalty
+    - The broader Deuteronomic framework applies — departure from fearing, walking in, loving, serving, and keeping results in covenant curse (Deut. 28:15ff)
+- **Offering or Ransom:**
+    - None prescribed
+    - This passage functions as a covenantal summary — the five requirements named (fear, walk, love, serve, keep) are relational and dispositional in nature, not ritual; no sacrificial mechanism is attached
+- Personal Observations
+	- Greek equivalent word is used in these passages:
+		- John 14:15 — "If you love me, keep my commandments."
+		- John 14:21 — Loving Yeshua is demonstrated by keeping His commandments.
+		- 1 John 5:2–3 — The love of God is keeping His commandments, and His commandments are not burdensome.
+
+ #Deuteronomy10 #05Deut 
 
 11. **Scripture Reference**: Deuteronomy 10:13
     - **Scripture Text (WEB)**: Deuteronomy 10:12-14: "Now, Israel, what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul, to keep Yahweh’s commandments and statutes, which I command you today for your good? Behold, to Yahweh your God belongs heaven..."

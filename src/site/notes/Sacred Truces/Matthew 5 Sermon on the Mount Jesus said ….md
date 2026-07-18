@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-jesus-said/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-jesus-said/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","S","M","J"]}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/sign/seal/","tags":["#GateWisdom","Sign","S","nothome"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/sign/seal/","tags":["#GateWisdom","Sign","S","nothome"],"dg-note-properties":{"tags":["#GateWisdom","Sign","S","nothome"],"Published":null}}
 ---
 
 # Define
@@ -26,8 +26,8 @@ Signet ring; to set a seal upon, mark with a seal, to seal
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey.md\\|_Mark of the Beast Scripture Survey]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/Sign/Mark.md\\|Mark]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

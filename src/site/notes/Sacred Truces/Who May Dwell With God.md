@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/who-may-dwell-with-god/","tags":["#Psalm15","#Social","#Righteousness","#Writer/David","SacredTruces","D"]}
+{"dg-publish":true,"permalink":"/sacred-truces/who-may-dwell-with-god/","tags":["#Psalm15","#Social","#Righteousness","#Writer/David","SacredTruces","D"],"dg-note-properties":{"tags":["#Psalm15","#Social","#Righteousness","#Writer/David","SacredTruces","D"]}}
 ---
 
 

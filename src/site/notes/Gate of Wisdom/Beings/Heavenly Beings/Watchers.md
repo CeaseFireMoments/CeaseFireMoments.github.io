@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/watchers/","tags":["thebrain","GateWisdom","nothome","HeavenlyBeing","W"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/watchers/","tags":["thebrain","GateWisdom","nothome","HeavenlyBeing","W"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","HeavenlyBeing","W"]}}
 ---
 
 # Connections
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 ## NOTES:
 

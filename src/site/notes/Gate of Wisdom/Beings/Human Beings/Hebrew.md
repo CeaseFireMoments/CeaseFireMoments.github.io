@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/hebrew/","tags":["#GateWisdom","Being","HumanBeing","H"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/hebrew/","tags":["#GateWisdom","Being","HumanBeing","H"],"dg-note-properties":{"tags":["#GateWisdom","Being","HumanBeing","H"]}}
 ---
 
 
@@ -46,11 +46,11 @@ Regarding the title 'Abram the Hebrew', there are several theories:
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.01.03 Shabbat Reading.md\\|2026.01.03 Shabbat Reading]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Judah.md\\|Judah]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Jew.md\\|Jew]]</li><li>[[Gate of Wisdom/Beings/Human Beings/House of Israel.md\\|House of Israel]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 # Hebrew, Israelite, Jew
 

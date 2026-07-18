@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sukkot/","tags":["#GateWisdom","AppointedTime","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sukkot/","tags":["#GateWisdom","AppointedTime","S"],"dg-note-properties":{"tags":["#GateWisdom","AppointedTime","S"]}}
 ---
 
 # Define
@@ -16,11 +16,11 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/01 Gen-33 YadaYada.md\\|01 Gen-33 YadaYada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra).md\\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Tabernacles.md\\|Feast of Tabernacles]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 # Scriptures
 
 ## Exodus 23, 34

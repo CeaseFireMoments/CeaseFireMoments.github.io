@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/jew/","tags":["#GateWisdom","Being","HumanBeing","J"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/jew/","tags":["#GateWisdom","Being","HumanBeing","J"],"dg-note-properties":{"tags":["#GateWisdom","Being","HumanBeing","J"]}}
 ---
 
 # Define
@@ -150,8 +150,8 @@ The intention is to trace the words Hebrew, Israelite, and Jew. There are other 
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Sacred Truces/Day of Atonement for Christians.md\\|Day of Atonement for Christians]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for Them (02 Exod 16).md\\|02 The Seventh Day Rest was for Them (02 Exod 16)]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Israel.md\\|Israel]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Israelites.md\\|Israelites]]</li><li>[[Gate of Wisdom/Beings/Human Beings/House of Judah.md\\|House of Judah]]</li><li>[[Gate of Wisdom/Beings/Human Beings/House of Israel.md\\|House of Israel]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-28-v19-go-and-teach/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-28-v19-go-and-teach/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","M","nothome"]}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]]
@@ -58,6 +58,6 @@ Go and teach … next we’ll look at who we teach.
 
 ## Video Teaching
 
-![](https://www.youtube.com/watch?v=sW9H7cjX0EY)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/sW9H7cjX0EY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Originally published on WordPress https://calltoceasefire.wordpress.com/2024/02/25/matthew-2819-go-and-teach/

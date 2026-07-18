@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-28-v19-teaching-to/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-28-v19-teaching-to/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","M","nothome"]}}
 ---
 
 

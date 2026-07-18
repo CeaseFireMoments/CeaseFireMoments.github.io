@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/i/image/","tags":["#GateWisdom","I"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/i/image/","tags":["#GateWisdom","I"],"dg-note-properties":{"tags":["#GateWisdom","I"],"Bible-References":["[[Gen-01]]","[[Col-01]]","[[Rev-14]]"]}}
 ---
 
 # Define
@@ -34,10 +34,10 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13).md\\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14).md\\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]</li><li>[[Gate of Wisdom/I/idol.md\\|idol]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

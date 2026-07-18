@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/33-micah-06-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses","M"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/33-micah-06-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses","M"],"dg-note-properties":{"tags":["TheScrolls","Neviim","YadaYadaPauses","M"]}}
 ---
 
 For reading purposes [[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-06\|Micah-06]]

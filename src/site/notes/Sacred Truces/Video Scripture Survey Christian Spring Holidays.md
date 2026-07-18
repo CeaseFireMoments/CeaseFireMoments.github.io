@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/video-scripture-survey-christian-spring-holidays/"}
+{"dg-publish":true,"permalink":"/sacred-truces/video-scripture-survey-christian-spring-holidays/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","S","F","nothome","Youtube"]}}
 ---
 
 
@@ -7,7 +7,7 @@ Starting in Genesis and working our way to Revelation looking up the Christian S
 
 This is a companion to the [The Scripture Survey on Passover](https://calltoceasefire.wordpress.com/2024/02/11/video-scripture-survey-passover/)
 
-![](https://www.youtube.com/watch?v=R5rSBsUZxDE)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/R5rSBsUZxDE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Lent/Ash Wednesday
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-28-v19-baptizing-in-the-name/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-28-v19-baptizing-in-the-name/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","M","B","nothome"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/h/hardened/","tags":["#GateWisdom","H"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/h/hardened/","tags":["#GateWisdom","H"],"dg-note-properties":{"tags":["#GateWisdom","H"],"Bible-References":null}}
 ---
 
 The text uses three different words: chazak (firm/strengthen), kaved (heavy/stubborn), and kashah (hard/stubborn).
@@ -55,8 +55,8 @@ Ancient Egyptian belief - Weighing of the Heart"
 
 # Connections
 
-| file.inlinks                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-10.md\\|Exod-10]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

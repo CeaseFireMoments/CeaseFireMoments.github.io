@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/p/peacemaker/","tags":["thebrain","GateWisdom","nothome","P"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/p/peacemaker/","tags":["thebrain","GateWisdom","nothome","P"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","P"]}}
 ---
 
 Peacemaker
@@ -17,8 +17,8 @@ Only time this complete phrase is used in scripture - Matthew 5
 
 # Connections
 - 
-| file.inlinks                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

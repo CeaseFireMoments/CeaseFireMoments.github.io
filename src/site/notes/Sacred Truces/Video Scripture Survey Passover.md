@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/video-scripture-survey-passover/"}
+{"dg-publish":true,"permalink":"/sacred-truces/video-scripture-survey-passover/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","P","S","Youtube","nothome"]}}
 ---
 
 
@@ -14,7 +14,7 @@ Bible version: LSV
 
 Companion article to: [Scripture Survey: Christian Spring Holidays](https://calltoceasefire.wordpress.com/2024/02/17/video-scripture-survey-christian-spring-holidays/)
 
-![](https://www.youtube.com/watch?v=Rwyvy9OKDHM)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/Rwyvy9OKDHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Passover/Pesach – LSV Version
 

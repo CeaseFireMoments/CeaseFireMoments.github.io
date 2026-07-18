@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/drink-offering/","tags":["#GateWisdom","D","O","Offering"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/drink-offering/","tags":["#GateWisdom","D","O","Offering"],"dg-note-properties":{"tags":["#GateWisdom","D","O","Offering"]}}
 ---
 
 - Poured Out, Not Drunk
@@ -12,8 +12,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45).md\\|34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28).md\\|13 The Seventh Day Rest is for Offering (04-Num 28)]]</li><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li><li>[[Gate of Wisdom/Offering/Daily Offering.md\\|Daily Offering]]</li><li>[[Gate of Wisdom/Appointed Time/Day of Atonement.md\\|Day of Atonement]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

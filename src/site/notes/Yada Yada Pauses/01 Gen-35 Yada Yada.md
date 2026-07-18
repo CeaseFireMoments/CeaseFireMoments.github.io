@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-35-yada-yada/","tags":["TheScrolls","TorahLawofMoses","nothome","#01Gen","YadaYadaPauses","G"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-35-yada-yada/","tags":["TheScrolls","TorahLawofMoses","nothome","#01Gen","YadaYadaPauses","G"],"dg-note-properties":{"tags":["TheScrolls","TorahLawofMoses","nothome","#01Gen","YadaYadaPauses","G"]}}
 ---
 
 For east of reading [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|Gen-35]]

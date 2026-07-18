@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/yom-ha-kippurim/","tags":["#GateWisdom","#AppointedTime","#Y","K"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/yom-ha-kippurim/","tags":["#GateWisdom","#AppointedTime","#Y","K"],"dg-note-properties":{"tags":["#GateWisdom","#AppointedTime","#Y","K"]}}
 ---
 
 # Define
@@ -16,8 +16,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement).md\\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]</li><li>[[Sacred Truces/Day of Atonement for Christians.md\\|Day of Atonement for Christians]]</li><li>[[Gate of Wisdom/R/Ransom.md\\|Ransom]]</li><li>[[Gate of Wisdom/Appointed Time/Day of Atonement.md\\|Day of Atonement]]</li><li>[[Gate of Wisdom/Appointed Time/Appointed Time.md\\|Appointed Time]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

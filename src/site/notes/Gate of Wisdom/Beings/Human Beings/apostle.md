@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/apostle/","tags":["#GateWisdom","HumanBeing","A","nothome"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/apostle/","tags":["#GateWisdom","HumanBeing","A","nothome"],"dg-note-properties":{"tags":["#GateWisdom","HumanBeing","A","nothome"],"Bible-References":null}}
 ---
 
 # Define
@@ -120,8 +120,8 @@
 
 
 
-| file.inlinks                                                                                             |
-| -------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04.md\\|Ephes-04]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

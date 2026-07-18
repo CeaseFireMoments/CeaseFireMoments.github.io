@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/b/blessed/","tags":["#GateWisdom","B","nothome"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/b/blessed/","tags":["#GateWisdom","B","nothome"],"dg-note-properties":{"tags":["#GateWisdom","B","nothome"],"Published":null}}
 ---
 
 # Define
@@ -31,9 +31,9 @@
 [^1]: 
 # Connections
 - 
-| file.inlinks                                                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 

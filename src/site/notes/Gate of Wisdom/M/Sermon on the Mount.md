@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/m/sermon-on-the-mount/","tags":["#GateWisdom","S","M"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/m/sermon-on-the-mount/","tags":["#GateWisdom","S","M"],"dg-note-properties":{"tags":["#GateWisdom","S","M"]}}
 ---
 
 # Define
@@ -18,10 +18,10 @@
 
 # Connections
 - 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

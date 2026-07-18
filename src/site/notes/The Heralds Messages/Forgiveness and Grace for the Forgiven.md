@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-heralds-messages/forgiveness-and-grace-for-the-forgiven/"}
+{"dg-publish":true,"permalink":"/the-heralds-messages/forgiveness-and-grace-for-the-forgiven/","dg-note-properties":{"Title":"Forgiveness and Grace for the Forgiven","Reference":"https://marcielynns.wordpress.com/2010/02/22/forgiveness-and-grace/","Author":"CalltoCeaseFire, The Author","Published":"2010-02-22T18:00:00+00:00","Created":"2025-09-16T09:04:49-04:00","Description":"We watched \"The Green Mile\" last night, it made me think about forgiveness. It's really interesting how forgiveness seems to work. Let me ask you something, which of these three guys from the movie do you think DESERVE forgiveness, which do you think you could more easily forgive, and which would be the hardest to…","Tags":["asset","clippings","TheHeraldsMessages","F","G"],"Cover":"https://secure.gravatar.com/blavatar/ce99862187751e3433c381b678698c95f4fbac8a6db3b26c56fab1be79b3d141?s=200&ts=1758027881"}}
 ---
 
 

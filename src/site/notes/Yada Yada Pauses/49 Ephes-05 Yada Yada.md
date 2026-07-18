@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/49-ephes-05-yada-yada/","tags":["YadaYadaPauses","E","nothome"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/49-ephes-05-yada-yada/","tags":["YadaYadaPauses","E","nothome"],"dg-note-properties":{"tags":["YadaYadaPauses","E","nothome"],"Published":null}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-05\|Ephes-05]]

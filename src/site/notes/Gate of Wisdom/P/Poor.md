@@ -11,7 +11,7 @@ Greek: ptochos (πτωχός) poor, beggar, destitute
 
 # Related words
 
-- ger (גֵּר) [[Gate of Wisdom/S/Stranger\|Stranger]]/sojourner (often paired in the verse) 
+- ger (גֵּר) [[Gate of Wisdom/Beings/Stranger\|Stranger]]/sojourner (often paired in the verse) 
 
 # Additional Info
 

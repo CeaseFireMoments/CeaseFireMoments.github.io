@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/y/yehoshua/","tags":["thebrain","GateWisdom","nothome","Y"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/y/yehoshua/","tags":["thebrain","GateWisdom","nothome","Y"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","Y"]}}
 ---
 
 [[Gate of Wisdom/Beings/Jesus\|Jesus]]
@@ -7,12 +7,11 @@
 
 # Connections
 - 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 
 4 BC-31 AD

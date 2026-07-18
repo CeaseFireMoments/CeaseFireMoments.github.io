@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/beney-elohim/","tags":["thebrain","GateWisdom","nothome","B","E","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/beney-elohim/","tags":["thebrain","GateWisdom","nothome","B","E","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","B","E","HeavenlyBeing"]}}
 ---
 
 Beney Elohim
@@ -16,8 +16,8 @@ I n Job 38, the sons of God are referred to as “ morning stars.” That same d
 
 # Connections
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

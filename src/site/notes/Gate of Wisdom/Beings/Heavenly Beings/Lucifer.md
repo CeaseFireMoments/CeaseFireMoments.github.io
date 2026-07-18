@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/lucifer/","tags":["#GateWisdom","Being","HeavenlyBeing","L"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/lucifer/","tags":["#GateWisdom","Being","HeavenlyBeing","L"],"dg-note-properties":{"tags":["#GateWisdom","Being","HeavenlyBeing","L"],"Published":null}}
 ---
 
 See [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]
@@ -17,8 +17,8 @@ Isaiah 14 tracing all the entities referenced is tough unless you use
 
 # Connection
 
-| file.inlinks                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Gate of Wisdom/Beings/Human Beings/Shining One.md\\|Shining One]]</li><li>[[Gate of Wisdom/Beings/Adversary.md\\|Adversary]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

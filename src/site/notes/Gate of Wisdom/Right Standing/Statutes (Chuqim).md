@@ -87,6 +87,31 @@ SORT file.name ASC
 		- Linen is strongly associated with the priests and being set apart. Priest garments, tabernacle curtains, messengers attire, the bride in Revelation 19:8
 
  #Deuteronomy22 #05Deut 
+
+## #LoveGod #Leviticus19 Do Not Eat Blood or Practice Divination: [Leviticus 19:26](https://www.biblegateway.com/passage/?search=Leviticus+19%3A26&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* **Outline:**
+   * Do Not
+	   * eat any meat with the blood still in it
+	   * use enchantments
+	   * practice sorcery
+
+* **Blessing:**
+   * No explicit blessing stated in the passage.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse. However:
+   * The prohibition on blood connects back to Leviticus 17:10-14 where the consequence is being cut off from the people and God setting His face against that person.
+   * The prohibition on divination connects forward to Leviticus 20:6 — those who turn to mediums and spiritists are cut off from the people.
+   * Deuteronomy 18:10-12 frames these practices as an abomination (to'evah/תּוֹעֵבָה) — *"Whoever does these things is an abomination to Yahweh."* (WEB)
+
+* **Offering or Ransom:**
+   * No offering or ransom stated in the passage or immediate context.
+   * Both prohibitions in this verse — blood and divination — belong to the category of things set apart exclusively to God: blood belongs to Him as the seat of life and atonement (Leviticus 17:11); knowledge of hidden things belongs to Him alone (Deuteronomy 29:29 — *"The secret things belong to Yahweh our God."* WEB).
+
+ #03Lev  
 ## 3. Worship and Sacrifice
 - **Scripture Reference:** Deuteronomy 12:2–31
    - **Scripture Text (WEB)**: "You shall surely destroy all the places in which the nations that you shall dispossess served their gods... You shall destroy their name out of that place. You shall not do so to Yahweh your God. But to the place which Yahweh your God shall choose out of all your tribes, to put his name there, you shall seek his habitation, and you shall come there. ... You shall not do all the things that we do here today, every man whatever is right in his own eyes; for you haven't yet come to the rest and to the inheritance which Yahweh your God gives you. But when you go over the Jordan and dwell in the land which Yahweh your God causes you to inherit, and he gives you rest from all your enemies around you, so that you dwell in safety, ... be careful that you are not ensnared to follow them after they are destroyed from before you, and that you not inquire after their gods, saying, "How do these nations serve their gods? I will do likewise." You shall not do so to Yahweh your God; for every abomination to Yahweh, which he hates, they have done to their gods; ... Whatever I command you, be careful to do it. You shall not add to it, nor take away from it." 
@@ -131,8 +156,8 @@ SORT file.name ASC
 			- bat
 		- All winged creeping things
 		- anything that dies of itself
-			- give it to the [[Gate of Wisdom/S/Stranger\|Stranger]] living among you who is within your gates
-			- sell it to a [[Gate of Wisdom/F/Foreigner\|Foreigner]]
+			- give it to the [[Gate of Wisdom/Beings/Stranger\|Stranger]] living among you who is within your gates
+			- sell it to a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]
 	- Do Eat #Dos 
 		- ox
 		- sheep
@@ -305,7 +330,7 @@ SORT file.name ASC
 - **Outline:** 
 	- Any
 		- man of the [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
-		- any [[Gate of Wisdom/S/Stranger\|Stranger]] who lives among the men of the House of Israel
+		- any [[Gate of Wisdom/Beings/Stranger\|Stranger]] who lives among the men of the House of Israel
 		- no person among [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]
 	- Do Not
 		- eat any kind of blood #DoNot 

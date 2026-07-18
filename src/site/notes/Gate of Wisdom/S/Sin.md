@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/s/sin/","tags":["#GateWisdom","#S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/s/sin/","tags":["#GateWisdom","#S"],"dg-note-properties":{"tags":["#GateWisdom","#S"]}}
 ---
 
 # Define
@@ -26,8 +26,8 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Gate of Wisdom/T/Transgression.md\\|Transgression]]</li><li>[[Gate of Wisdom/Right Standing/Unrighteousness.md\\|Unrighteousness]]</li><li>[[Gate of Wisdom/Right Standing/Unrighteous.md\\|Unrighteous]]</li><li>[[Gate of Wisdom/L/Lawlessness.md\\|Lawlessness]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Forgiveness.md\\|Forgiveness]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver.md\\|Bronze Laver]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-10.md\\|Exod-10]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

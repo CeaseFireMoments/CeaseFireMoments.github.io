@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/t/temptation/","tags":["#GateWisdom","T"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/t/temptation/","tags":["#GateWisdom","T"],"dg-note-properties":{"tags":["#GateWisdom","T"],"Published":null}}
 ---
 
 # Define
@@ -24,10 +24,10 @@
 - Matthew 6:13 (“lead us not into peirasmos”) → 
 
 - 
-| file.inlinks                                                                            |
-| --------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

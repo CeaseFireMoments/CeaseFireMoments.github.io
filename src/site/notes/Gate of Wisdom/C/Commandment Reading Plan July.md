@@ -26,7 +26,7 @@ Commands, statutes (chuqim), ordinances/charges (mishmerot/tsavah), judgments (m
 
 ## Why?
 
-One law shall be to him who is born at home, and to the stranger who lives as a [[Gate of Wisdom/F/Foreigner\|Foreigner]] among you. - Exodus 12:49 
+One law shall be to him who is born at home, and to the stranger who lives as a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] among you. - Exodus 12:49 
 
 ... what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul, to keep Yahweh’s [[Gate of Wisdom/Right Standing/Commandments\|Commandments]] and [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]], which I command you today for your good? Behold, to Yahweh your God belongs heaven, the [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]] of heavens, and the earth, with all that is therein. - Deuteronomy 10:12-14
 
@@ -106,7 +106,29 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 
 **July 30**: Deuteronomy 10:19 – “And you are to love those who are foreigners, for you yourselves were foreigners in Egypt.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
 
-**July 31**: Leviticus 19:33-34 – “When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+## **July 31**: #Leviticus19 Do Not Oppress the Stranger: [Leviticus 19:33-34](https://www.biblegateway.com/passage/?search=Leviticus+19%3A33-34&version=WEB;NET;OJB) 
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:** *
+	- if a [[Gate of Wisdom/Beings/Stranger\|Stranger]] lives
+		- as a foreigner //lives as a stranger//
+			- in your land
+	- Do Not
+		- do him wrong #DoNot 
+	- Do
+		- he shall be as a [[Gate of Wisdom/Beings/Native-born\|Native-born]]
+		- love him as yourself
+	- Because
+		- you lived as a foreigner in the land of Egypt
+		- I am YHWH
+			- your Elohim
+- **Blessing:**
+    - No explicit blessing stated in the passage.
+- **Penalty or Consequence:**
+    - No penalty stated directly in the passage.
+- **Offering or Ransom:**
+    - No offering or ransom stated. The command is grounded instead in Israel's own history — _"for you were strangers in the land of Egypt"_ (v.34, WEB) — and sealed with _"I am Yahweh your God,"_ placing the weight of the command in covenantal obligation rather than legal consequence.
 
 
 

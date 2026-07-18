@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/zevah/","tags":["#GateWisdom","Offering","#Z"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/zevah/","tags":["#GateWisdom","Offering","#Z"],"dg-note-properties":{"tags":["#GateWisdom","Offering","#Z"]}}
 ---
 
 The term "zevach" (זֶבַח) in the Orthodox Jewish Bible ( Tritestament refers to a sacrifice or offering, typically an animal sacrifice, and is a significant concept in Jewish scripture. Below is a list of verses from the Orthodox Jewish Bible (OJB) that explicitly use the word "zevach" (or its variants, such as "zevachim"). The list is compiled based on a search of the OJB text, focusing on instances where "zevach" appears in the Hebrew or is transliterated in the English translation. The OJB is an English translation that incorporates Yiddish and Hasidic cultural expressions, and it follows the traditional Jewish order of the Tanakh.
@@ -74,8 +74,8 @@ Due to the limitations of accessible OJB texts, some occurrences of "zevach" in 
 
 # Connections
 
-| file.inlinks                                                           |
-| ---------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Offering/Offerings.md\\|Offerings]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

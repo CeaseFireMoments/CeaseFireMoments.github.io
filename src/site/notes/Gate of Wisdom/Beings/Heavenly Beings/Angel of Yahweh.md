@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/angel-of-yahweh/","tags":["thebrain","GateWisdom","Assets","HeavenlyBeing","A","Y"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/angel-of-yahweh/","tags":["thebrain","GateWisdom","Assets","HeavenlyBeing","A","Y"],"dg-note-properties":{"tags":["thebrain","GateWisdom","Assets","HeavenlyBeing","A","Y"]}}
 ---
 
 ## NOTES:
@@ -19,8 +19,8 @@ The angel of Yahweh burns up the sacrifice and then leaves (v. 21). But we learn
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/01 Gen-32 Yada Yada.md\\|01 Gen-32 Yada Yada]]</li><li>[[Torah Portions/2025.12.06 Shabbat Reading.md\\|2025.12.06 Shabbat Reading]]</li><li>[[Gate of Wisdom/Beings/Messenger.md\\|Messenger]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

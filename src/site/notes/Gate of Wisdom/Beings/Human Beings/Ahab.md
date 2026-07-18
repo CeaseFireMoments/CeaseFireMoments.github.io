@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/ahab/","tags":["#GateWisdom","Being","HumanBeing","A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/ahab/","tags":["#GateWisdom","Being","HumanBeing","A"],"dg-note-properties":{"tags":["#GateWisdom","Being","HumanBeing","A"]}}
 ---
 
 
@@ -78,11 +78,11 @@
 
 # Connections
 
-| file.inlinks                                                                            |
-| --------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 
 

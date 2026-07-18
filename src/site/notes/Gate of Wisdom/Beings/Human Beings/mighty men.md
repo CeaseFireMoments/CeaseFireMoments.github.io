@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/mighty-men/","tags":["#GateWisdom","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/mighty-men/","tags":["#GateWisdom","HumanBeing"],"dg-note-properties":{"tags":["#GateWisdom","HumanBeing"]}}
 ---
 
 gibbôr meaning "mighty one" or "hero" often associated with warriors, leaders, or men of renown, but its context varies depending on the passage.

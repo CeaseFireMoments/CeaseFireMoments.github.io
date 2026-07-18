@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/archangel/","tags":["thebrain","GateWisdom","nothome","A","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/archangel/","tags":["thebrain","GateWisdom","nothome","A","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","A","HeavenlyBeing"]}}
 ---
 
 
@@ -9,8 +9,8 @@ Have spheres of influence or authority. The [adversary of YHWH](https://app.theb
 
 # Connections
 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

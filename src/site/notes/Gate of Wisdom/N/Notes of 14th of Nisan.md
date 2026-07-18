@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/n/notes-of-14th-of-nisan/","tags":["GateWisdom","N"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/n/notes-of-14th-of-nisan/","tags":["GateWisdom","N"],"dg-note-properties":{"tags":["GateWisdom","N"],"Bible-References":null}}
 ---
 
 See also [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]
@@ -23,8 +23,8 @@ For those Jews who reckoned the day from sunrise to sunrise, the 14th day of the
 Historical information provided by Philo indicates that it was more widely observed among the Jews in New Testament times than was the temple sacrifice of the Passover. Philo’s records give us firm historical evidence that at the time of Jesus, and shortly after, there was widespread observance of the domestic Passover. Although the domestic Passover was the prevailing practice in New Testament times, the temple sacrifice of the Passover was firmly established among the Pharisaic Jews. The Pharisees observed a 14/15 Passover, taking their lambs to the temple to be sacrificed on the afternoon of the 14th and eating their Passover meal on the 15th. The temple sacrifice of the Passover, as observed by the Pharisaic Jews, later became an official tradition of Judaism. This tradition was practiced until the destruction of the temple in AD 70. Some claim that Jesus and His disciples conformed to the traditional temple sacrifice of the Passover. But the New Testament records that Jesus kept the Passover the night before the traditional temple observance. The Gospel accounts of His last Passover make it abundantly clear that it was a domestic observance on the night of the 14th. The disciples Peter and John were commanded by Jesus to prepare a Passover lamb that was killed at the house, or inn, where they kept the Passover (Luke 22:8). Based on the Gospel records, we can conclude that the domestic sacrifice of the Passover and the temple sacrifice of the Passover were existing side by side.
 # Connections
 
-| file.inlinks                                                                                       |
-| -------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Appointed Time/The Week of Passover.md\\|The Week of Passover]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

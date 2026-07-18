@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-heralds-messages/forgive-and-forget-for-the-forgiver/"}
+{"dg-publish":true,"permalink":"/the-heralds-messages/forgive-and-forget-for-the-forgiver/","dg-note-properties":{"Title":"Forgive and Forget for the Forgiver","Reference":"https://marcielynns.wordpress.com/2010/02/22/forgive-and-forget-for-the-forgiver/","Author":"CalltoCeaseFire, The Author","Published":"2010-02-23T04:07:56+00:00","Created":"2025-09-16T09:04:36-04:00","Description":"Are forgive and forget the same thing? Can we forgive without forgetting? Can we forget without forgiving?","Tags":["asset","clippings","TheHeraldsMessages","F"],"Cover":"https://secure.gravatar.com/blavatar/ce99862187751e3433c381b678698c95f4fbac8a6db3b26c56fab1be79b3d141?s=200&ts=1758027870"}}
 ---
 
 Are [[Gate of Wisdom/F/Forgive\|Forgive]] and forget the same thing? Can we forgive without forgetting? Can we forget without forgiving?

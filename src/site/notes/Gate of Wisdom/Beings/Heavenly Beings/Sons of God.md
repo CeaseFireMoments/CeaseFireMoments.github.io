@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/sons-of-god/","tags":["thebrain","GateWisdom","nothome","S","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/sons-of-god/","tags":["thebrain","GateWisdom","nothome","S","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","S","HeavenlyBeing"]}}
 ---
 
 Sons of God - Malʾak
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Beings/Children of God.md\\|Children of God]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03.md\\|1 John-03]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 ## NOTES
 
 ### BIBLE PROJECT CLASSROOM SOURCE: HANDOUTS

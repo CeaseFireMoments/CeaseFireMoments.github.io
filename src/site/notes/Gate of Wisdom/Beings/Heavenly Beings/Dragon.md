@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/dragon/","tags":["thebrain","GateWisdom","nothome","D","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/dragon/","tags":["thebrain","GateWisdom","nothome","D","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","D","HeavenlyBeing"]}}
 ---
 
 S ymbol of Marduk in Babylonian mythology
@@ -10,11 +10,11 @@ T he dragon is often representative of a deity, but not always.
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li><li>[[Gate of Wisdom/Beings/Antichrist.md\\|Antichrist]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 ### Cahn, Jonathan. The Dragon's Prophecy: Israel, the Dark Resurrection, and the End of Days (pp. 33-34). Charisma House. Kindle Edition.
 

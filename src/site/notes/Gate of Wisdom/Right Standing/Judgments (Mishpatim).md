@@ -58,6 +58,96 @@ SORT file.name ASC
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
+## #LoveNeighbor Appoint Just Judges: [Deuteronomy 16:18-20](https://www.biblegateway.com/passage/?search=Deuteronomy+16:18-20&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** *
+	- Do
+		- Make judges and officers #Dos 
+			- in all your gates
+				- which YHWH gives you
+				- according to your tribes
+			- they shall [[Gate of Wisdom/J/Judge\|Judge]] the people with [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] Judgement
+		- Follow that which is altogether just #Dos 
+
+	- Do Not
+		- pervert justice #DoNot 
+		- show partiality #DoNot 
+		- take a bribe #DoNot 
+			- because a bribe
+				- blinds the eyes of the wise
+				- perverts the words of the righteous
+
+	- So
+		- you may live and inherit the land which YHWH gives you
+- **Blessing:**
+    - Verse 20 — life and possession of the land tied directly to pursuing justice — _"that you may live and inherit the land which Yahweh your God gives you"_
+    - Justice pursued faithfully is framed as the condition for remaining in the land — one of the most significant covenant blessings in Deuteronomy
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The broader Deuteronomic framework implies that perversion of justice is among the conditions that lead to exile and loss of the land (cf. Deut. 28:15ff)
+    - Bribery is singled out — _"a bribe blinds the eyes of the wise and perverts the words of the righteous"_ (v.19) — the consequence named is corruption of perception and speech in the judge himself
+- **Offering or Ransom:**
+    - None prescribed
+    - No sacrificial remedy is given for corrupt judgment — the corruption of justice falls into the category of sin against persons and community for which Torah provides no offering path
+- <mark style="background: #CD04BBA6;">**Personal Observation**</mark>:
+	- Judges - gates - tribes - brings to mind [Revelation 21:12-13](https://www.biblegateway.com/passage/?search=Revelation%2021%3A12-13&version=WEB;NET;OJB)
+
+ #05Deut #Deuteronomy16 
+
+## #LoveNeighbor  The Court of Final Appeal: [Deuteronomy 17:8-13](https://www.biblegateway.com/passage/?search=Deuteronomy+17:8-13&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** *
+	- If a matter too hard for you to judge arises between:
+		- blood and blood
+		- plea and plea
+		- stroke and stroke
+		- matters of controversy within your gates
+	- Do
+		- go to the place which YHWH chooses #Dos 
+			- come to the priests
+				- who are Levites
+			- and to the judge
+				- who shall be in those days
+		- inquire and they will give you a verdict #Dos 
+			- do according to their decision
+			- observe to do according to all that they shall teach you
+				- according to the decisions of the law
+					- which they shall teach you
+				- according to the judgement
+					- which they shall tell you
+	- Do Not
+		- turn away from the sentence which they announce to you #DoNot 
+			- neither to the right hand nor to the left
+	- Because
+		- the man who does presumptuously in not listening
+			- to the priest who stands to minister there
+				- before YHWH
+			- or the judge
+			- shall die
+				- put away the evil
+				- all the people shall 
+					- hear and fear
+					- and do no more presumptuously
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The implied blessing is communal order and unity — a single court of final appeal prevents fracturing of justice across tribal lines
+- **Penalty or Consequence:**
+    - Verse 12 — the man who acts presumptuously (_zadon_ — זָדוֹן) by refusing to heed the priest or judge who stands to minister before Yahweh shall die
+    - The death penalty is explicit and non-negotiable — _"that man shall die and you shall put away the evil from Israel"_
+    - Verse 13 — the public nature of the consequence is intentional — _"all the people shall hear and fear and not act presumptuously again"_ — deterrence is a stated purpose
+- **Offering or Ransom:**
+    - None prescribed
+    - The presumptuous rejection of the court of final appeal is treated as a capital offense — no ransom or offering path is provided
+    - The severity reflects that defying this court is not merely a legal violation but a rejection of Yahweh's own judicial authority vested in the priests and judges (v.12 — _"who stands to minister there before Yahweh your God"_)
+- <mark style="background: #CD04BBA6;">Personal Observation</mark>:
+	- Do all according to all they teach you - this is what Jesus said [Matthew 23:2-3](https://www.biblegateway.com/passage/?search=Matthew%2023%3A2-3&version=WEB;NET;OJB) 
+
+ #05Deut #Deuteronomy17
+
 ## 4. Treatment of Female Captives
 - **Scripture Reference**: Deuteronomy 21:10-14
 - **Scripture Text (WEB)**: “When you go out to battle against your enemies, and Yahweh your God delivers them into your hands and you carry them away captive, and see among the captives a beautiful woman, and you are attracted to her, and desire to take her as your wife, then you shall bring her home to your house. She shall shave her head, and trim her nails. She shall take off the clothing of her captivity, and shall remain in your house, and bewail her father and her mother a full month. After that you shall go in to her and be her husband, and she shall be your wife. It shall be, if you have no delight in her, then you shall let her go where she desires; but you shall not sell her at all for money. You shall not deal with her as a slave, because you have humbled her.”
@@ -177,7 +267,7 @@ SORT file.name ASC
 - **Outline:**
 	- A poor and needy hired servant
 		- one of your brothers (member of your covenant community)
-		- one of the [[Gate of Wisdom/F/Foreigner\|Foreigner]]s who are in your land within your gates
+		- one of the [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]s who are in your land within your gates
 		
 	- Do not
 		- oppress #DoNot 
@@ -213,7 +303,7 @@ SORT file.name ASC
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- The 
-		- [[Gate of Wisdom/F/Foreigner\|Foreigner]] 
+		- [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] 
 		- fatherless
 	- Do not
 		- deprive foreigner of justice #DoNot 
@@ -245,7 +335,7 @@ SORT file.name ASC
 		- do not glean it after #DoNot 
 	- Do
 		- the sheaf, bough, fruit will be for #Dos 
-			- the [[Gate of Wisdom/F/Foreigner\|Foreigner]]
+			- the [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]
 			- the fatherless
 			- the widow
 		- remember that you were a slave in the land of Egypt #Dos 
@@ -653,7 +743,7 @@ SORT file.name ASC
 			- Because bribes 
 				- blind those who have sight
 				- perverts the words of the righteous
-		- oppress an [[Gate of Wisdom/F/Foreigner\|Foreigner]] #DoNot 
+		- oppress an [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] #DoNot 
 			- Because you know their heart since you were foreigners in the land of Egypt.
 		
 	- Do
@@ -678,7 +768,7 @@ SORT file.name ASC
 # Judgement (Mishpatim) in Leviticus
 
 
-## #LoveNeighbor Provision for the Poor and Foreigner [Leviticus 19:9-10]
+## #LoveNeighbor #Leviticus19 Provision for the Poor and Foreigner [Leviticus 19:9-10](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A9-10&version=WEB;NET;OJB) [Leviticus 23:22](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A22&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- When you reap the harvest of your land ...
@@ -689,7 +779,7 @@ SORT file.name ASC
 		- glean your vineyard #DoNot
 		- gather the fallen grapes from your vineyard #DoNot
 	- Do
-		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/S/Stranger\|Stranger]] #Dos 
+		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/Beings/Stranger\|Stranger]] #Dos 
 		- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger #Dos 
 		- leave //the fallen grapes// for the poor and the stranger #Dos 
 	- Because
@@ -702,9 +792,10 @@ SORT file.name ASC
 	- Ruth 2:2–7
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-  #Leviticus19 #03Lev  
+  #03Lev  
 
-##  #LoveNeighbor Slander, False Witness [Leviticus 19:16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&version=WEB;NET;OJB) 
+##  #LoveNeighbor #Leviticus19  Slander, False Witness [Leviticus 19:16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&version=WEB;NET;OJB)
+
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- Do not
@@ -728,4 +819,30 @@ SORT file.name ASC
 	- **"stand against the blood"** — _la'amod al dam_ (לַעֲמֹד עַל דָּם) — carries judicial weight. It likely refers to bearing false witness in a capital case, withholding testimony that could save a life, or taking action that leads to another's death. The connection to **Deuteronomy 19:15–21** is direct — false witness there, endangering life here.
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
- #Leviticus19 #03Lev 
+ #03Lev 
+
+## #LoveNeighbor #Leviticus19 Do Not Oppress the Stranger: [Leviticus 19:33-34](https://www.biblegateway.com/passage/?search=Leviticus+19%3A33-34&version=WEB;NET;OJB) 
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:** *
+	- if a [[Gate of Wisdom/Beings/Stranger\|Stranger]] lives
+		- as a foreigner //lives as a stranger//
+			- in your land
+	- Do Not
+		- do him wrong #DoNot 
+	- Do
+		- he shall be as a [[Gate of Wisdom/Beings/Native-born\|Native-born]]
+		- love him as yourself
+	- Because
+		- you lived as a foreigner in the land of Egypt
+		- I am YHWH
+			- your Elohim
+- **Blessing:**
+    - No explicit blessing stated in the passage.
+- **Penalty or Consequence:**
+    - No penalty stated directly in the passage.
+- **Offering or Ransom:**
+    - No offering or ransom stated. The command is grounded instead in Israel's own history — _"for you were strangers in the land of Egypt"_ (v.34, WEB) — and sealed with _"I am Yahweh your God,"_ placing the weight of the command in covenantal obligation rather than legal consequence.
+
+ #03Lev  

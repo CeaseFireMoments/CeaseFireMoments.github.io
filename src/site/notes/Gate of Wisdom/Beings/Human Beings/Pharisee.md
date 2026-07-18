@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/pharisee/","tags":["#GateWisdom","P","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/pharisee/","tags":["#GateWisdom","P","HumanBeing"],"dg-note-properties":{"tags":["#GateWisdom","P","HumanBeing"]}}
 ---
 
 - Saul/Paul’s parents were Pharisees.
@@ -18,8 +18,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/43 The Seventh Day is for Healing (42 Luke).md\\|43 The Seventh Day is for Healing (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/44 The Seventh Day is a day for Mercy (40 Matthew).md\\|44 The Seventh Day is a day for Mercy (40 Matthew)]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

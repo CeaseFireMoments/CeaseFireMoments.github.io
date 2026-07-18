@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/v/vain/","tags":["thebrain","GateWisdom","nothome","V"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/v/vain/","tags":["thebrain","GateWisdom","nothome","V"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","V"]}}
 ---
 
 
@@ -43,9 +43,9 @@ T he Hebrew term שָׁוְא (shav') is a multifaceted word that captures the e
 
 # Connections
 - 
-| file.inlinks |
-| ------------ |
-| <ul></ul>    |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 

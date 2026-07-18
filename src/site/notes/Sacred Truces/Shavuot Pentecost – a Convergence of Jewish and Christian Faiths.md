@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/shavuot-pentecost-a-convergence-of-jewish-and-christian-faiths/"}
+{"dg-publish":true,"permalink":"/sacred-truces/shavuot-pentecost-a-convergence-of-jewish-and-christian-faiths/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","S","P","nothome"]}}
 ---
 
 

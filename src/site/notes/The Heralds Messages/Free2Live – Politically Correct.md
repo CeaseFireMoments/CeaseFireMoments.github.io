@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-heralds-messages/free2-live-politically-correct/"}
+{"dg-publish":true,"permalink":"/the-heralds-messages/free2-live-politically-correct/","dg-note-properties":{"Title":"Free2Live – Politically Correct","Reference":"https://free2livedotmedia.wordpress.com/2015/12/05/free2live-politically-correct/","Author":"CalltoCeaseFire","Published":"2015-12-05T22:46:39+00:00","Created":"2025-09-16T09:04:19-04:00","Description":"After some of the uneducated, agenda pushing, unthoughtful, unfactual comments following the shooting in California, I just can't help it. Seriously. Are we really people who can be swayed by how someone chose to title themselves? So if I tell you I am a Republican or Democrat, and it matches up with what you are, will you blindly…","Tags":["asset","clippings","TheHeraldsMessages","P"],"Cover":"https://i0.wp.com/free2livedotmedia.wordpress.com/wp-content/uploads/2015/12/gun.jpg?fit=1200%2C900&ssl=1"}}
 ---
 
 This was initially written in 2015, sadly, it is just as applicable today after the assassination of Charlie Kirk. The Statistic section has been updated, although it wasn't significantly different from what was originally posted in 2015.

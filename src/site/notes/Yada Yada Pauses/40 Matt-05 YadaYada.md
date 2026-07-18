@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/40-matt-05-yada-yada/","tags":["thebrain","YadaYadaPauses","M"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/40-matt-05-yada-yada/","tags":["thebrain","YadaYadaPauses","M"],"dg-note-properties":{"tags":["thebrain","YadaYadaPauses","M"]}}
 ---
 
 For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]

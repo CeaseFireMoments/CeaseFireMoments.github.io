@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/the-unseen-realm/","tags":["#GateWisdom","#MichaelHeiser"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/the-unseen-realm/","tags":["#GateWisdom","#MichaelHeiser"],"dg-note-properties":{"tags":["#GateWisdom","#MichaelHeiser"]}}
 ---
 
 # Author: Heiser, Michael S.

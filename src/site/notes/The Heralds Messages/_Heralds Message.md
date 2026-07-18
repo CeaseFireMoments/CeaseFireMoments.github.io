@@ -1,17 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/the-heralds-messages/heralds-message/","tags":["#home","#TheHeraldsMessages"]}
+{"dg-publish":true,"permalink":"/the-heralds-messages/heralds-message/","tags":["#home","#TheHeraldsMessages"],"dg-note-properties":{"tags":["#home","#TheHeraldsMessages"]}}
 ---
 
-| Table of Content                                                                                           |
-| ---------------------------------------------------------------------------------------------------------- |
-| [[The Heralds Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]] |
-| [[The Heralds Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]               |
-| [[The Heralds Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]       |
-| [[The Heralds Messages/Fascism\|Fascism]]                                                               |
-| [[Sacred Truces/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]              |
-| [[The Heralds Messages/_Heralds Message\|_Heralds Message]]                                             |
+```dataview
 
-{ .block-language-dataview}
+TABLE WITHOUT ID file.link as "Table of Content"
+FROM ""
+WHERE dg-publish = true AND contains(file.tags, "TheHeraldsMessages") AND dg-home = false AND !contains(file.tags, "TheScrolls") AND !contains(file.tags, "GateWisdom")
+SORT file.mtime DESC
+```
 
 
 During ancient times, the Heralds would announce truces or deliver messages during ceasefires. 

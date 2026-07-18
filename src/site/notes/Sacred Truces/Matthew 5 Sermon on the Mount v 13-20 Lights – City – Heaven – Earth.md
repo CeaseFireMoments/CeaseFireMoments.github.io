@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-13-20-lights-city-heaven-earth/"}
+{"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-13-20-lights-city-heaven-earth/","dg-note-properties":{"Tags":["Wordpress","SacredTruces","M","S","L","H","E"]}}
 ---
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]

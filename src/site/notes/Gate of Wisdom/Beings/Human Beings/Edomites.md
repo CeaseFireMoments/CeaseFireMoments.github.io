@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/edomites/","tags":["#GateWisdom","HumanBeing","Being","E"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/edomites/","tags":["#GateWisdom","HumanBeing","Being","E"],"dg-note-properties":{"tags":["#GateWisdom","HumanBeing","Being","E"]}}
 ---
 
 
@@ -52,11 +52,11 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom.md\\|Edom]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Esau.md\\|Esau]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 
 

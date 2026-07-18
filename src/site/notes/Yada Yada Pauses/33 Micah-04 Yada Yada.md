@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/33-micah-04-yada-yada/","tags":["Neviim","33Micah","YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/33-micah-04-yada-yada/","tags":["Neviim","33Micah","YadaYadaPauses"],"dg-note-properties":{"tags":["Neviim","33Micah","YadaYadaPauses"],"Bible-References":["[[Micah-04]]","[[Isa-02]]","[[Zech-08]]"]}}
 ---
 
 # Micah 4
@@ -104,8 +104,8 @@ Arise and thresh, daughter of Zion; for I will make your horn iron, and I will m
 
 # Connections
 
-| file.inlinks                                                                              |
-| ----------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

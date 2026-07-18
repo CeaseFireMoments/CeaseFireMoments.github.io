@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/the-week-of-passover/","tags":["P","N","GateWisdom","AppointedTime"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/the-week-of-passover/","tags":["P","N","GateWisdom","AppointedTime"],"dg-note-properties":{"tags":["P","N","GateWisdom","AppointedTime"],"Bible-References":null}}
 ---
 
 
@@ -482,8 +482,8 @@ Jesus ascends (Mark 16, Luke 24)
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Gate of Wisdom/N/Notes of 14th of Nisan.md\\|Notes of 14th of Nisan]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

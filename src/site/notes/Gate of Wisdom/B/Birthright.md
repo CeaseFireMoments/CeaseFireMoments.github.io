@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/b/birthright/","tags":["#GateWisdom","B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/b/birthright/","tags":["#GateWisdom","B"],"dg-note-properties":{"tags":["#GateWisdom","B"]}}
 ---
 
 # Define
@@ -24,10 +24,10 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/01 Gen-27 Yada Yada.md\\|01 Gen-27 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-25 Yada Yada.md\\|01 Gen-25 Yada Yada]]</li><li>[[Torah Portions/2025.11.01 Shabbat Reading.md\\|2025.11.01 Shabbat Reading]]</li><li>[[Gate of Wisdom/Consequence/Obedience/Inheritance.md\\|Inheritance]]</li><li>[[Gate of Wisdom/Consequence/Obedience/Blessing.md\\|Blessing]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27.md\\|Gen-27]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
 
 

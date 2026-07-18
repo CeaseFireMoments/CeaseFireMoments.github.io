@@ -26,7 +26,7 @@ Commands, statutes (chuqim), ordinances/charges (mishmerot/tsavah), judgments (m
 
 ## Why?
 
-One law shall be to him who is born at home, and to the stranger who lives as a [[Gate of Wisdom/F/Foreigner\|Foreigner]] among you. - Exodus 12:49 
+One law shall be to him who is born at home, and to the stranger who lives as a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] among you. - Exodus 12:49 
 
 ... what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul, to keep Yahweh’s [[Gate of Wisdom/Right Standing/Commandments\|Commandments]] and [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]], which I command you today for your good? Behold, to Yahweh your God belongs heaven, the [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]] of heavens, and the earth, with all that is therein. - Deuteronomy 10:12-14
 
@@ -147,7 +147,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 
 **April 9**: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023%3A25&version=WEB;NET;OJB) – “Worship the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]   #LoveGod #Dos #CommandMitzvot 
 - Do this:
-	- worship/[[Gate of Wisdom/S/serve\|serve]] - The Hebrew concept of avad integrates labor, service to another, and worship as one idea. No sharp divide between daily work and sacred worship; both are avad when done in submission.  
+	- worship/[[Gate of Wisdom/S/Serve\|Serve]] - The Hebrew concept of avad integrates labor, service to another, and worship as one idea. No sharp divide between daily work and sacred worship; both are avad when done in submission.  
 - God will do this:
 	- [[Gate of Wisdom/B/Bless\|Bless]] your bread
 	- Bless your water
@@ -163,13 +163,13 @@ Do No
 - glean your vineyard
 - gather the fallen grapes from your vineyard
 Do
-- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/S/Stranger\|Stranger]]
+- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/Beings/Stranger\|Stranger]]
 - leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger
 - leave //the fallen grapes// for the poor and the stranger
 Because
 - YHWH is your god
 
-<mark style="background: #CD04BBA6;">There is a difference between the word [[Gate of Wisdom/S/Stranger\|Stranger]]/ger (גֵּר), [[Gate of Wisdom/F/Foreigner\|Foreigner]]/nēkār (נֵכָר), and [[Gate of Wisdom/S/Sojourner\|Sojourner]]/toshav (תּוֹשָׁב). A Stranger is one that lives among the people. The Foreigner is one who lives outside. The Sojourner is one dwelling beside. The word used here is ger. </mark>
+<mark style="background: #CD04BBA6;">There is a difference between the word [[Gate of Wisdom/Beings/Stranger\|Stranger]]/ger (גֵּר), [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]/nēkār (נֵכָר), and [[Gate of Wisdom/Beings/Sojourner\|Sojourner]]/toshav (תּוֹשָׁב). A Stranger is one that lives among the people. The Foreigner is one who lives outside. The Sojourner is one dwelling beside. The word used here is ger. </mark>
 
 **April 11**: [Deuteronomy 15:7-11](https://www.biblegateway.com/passage/?search=Deuteronomy%2015%3A7-11&version=WEB;NET;OJB) – “Do not be hardhearted or tightfisted toward your poor brother...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor #DoNot #Dos #JudgmentMishpatim 
 
@@ -214,7 +214,7 @@ Your brother, your needy, your poor
 
 Yah-god executes Justice (The word Justice is mishpat [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]])
 - for the fatherless and widow
-God loves the [[Gate of Wisdom/S/Stranger\|Stranger]]
+God loves the [[Gate of Wisdom/Beings/Stranger\|Stranger]]
 - gives him food and clothing
 Do
 - love the stranger
@@ -223,15 +223,15 @@ Why?
 
 **April 13**: [Exodus 22:21 / Leviticus 19:33-34](Exodus 22:21, Leviticus 19:33-34) – “Do not mistreat or oppress a foreigner...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Dos #JudgmentMishpatim #DoNot 
 
-Exodus: To a [[Gate of Wisdom/S/Stranger\|Stranger]] (one who has integrated)
+Exodus: To a [[Gate of Wisdom/Beings/Stranger\|Stranger]] (one who has integrated)
 - Do not
 	- wrong (unjustly treat, cause harm or distress)
 	- oppress (to crush, to press hard upon, to afflict physically or by violence)
 - Because
-	- you were [[Gate of Wisdom/S/Stranger\|Stranger]]s
+	- you were [[Gate of Wisdom/Beings/Stranger\|Stranger]]s
 		- in the land of Egypt
 
-If a [[Gate of Wisdom/S/Stranger\|Stranger]] (one who has integrated)
+If a [[Gate of Wisdom/Beings/Stranger\|Stranger]] (one who has integrated)
 - lives among you (the native-born) in your land
 	- Do not
 		- wrong (unjustly treat, cause harm or distress)
@@ -528,7 +528,7 @@ Because
 - YHWH will bless you in all that you put your hand to
 	- in the land where you go to possess it.
 
-To a [[Gate of Wisdom/F/Foreigner\|Foreigner]] (foreign, strange, that which is **outside** covenant community)
+To a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] (foreign, strange, that which is **outside** covenant community)
 Do (may)
 - charge interest
 
@@ -547,8 +547,8 @@ If your brother (ach = kinsman within the covenant community)
 Do
 - uphold him
 - he will live with you like
-	- an alien [[Gate of Wisdom/S/Stranger\|Stranger]]
-	- temporary resident [[Gate of Wisdom/S/Sojourner\|Sojourner]]
+	- an alien [[Gate of Wisdom/Beings/Stranger\|Stranger]]
+	- temporary resident [[Gate of Wisdom/Beings/Sojourner\|Sojourner]]
 	- among you
 
 Do Not

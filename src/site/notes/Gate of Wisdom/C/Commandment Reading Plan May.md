@@ -26,7 +26,7 @@ Commands, statutes (chuqim), ordinances/charges (mishmerot/tsavah), judgments (m
 
 ## Why?
 
-One law shall be to him who is born at home, and to the stranger who lives as a [[Gate of Wisdom/F/Foreigner\|Foreigner]] among you. - Exodus 12:49 
+One law shall be to him who is born at home, and to the stranger who lives as a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] among you. - Exodus 12:49 
 
 ... what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul, to keep Yahweh’s [[Gate of Wisdom/Right Standing/Commandments\|Commandments]] and [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]], which I command you today for your good? Behold, to Yahweh your God belongs heaven, the [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]] of heavens, and the earth, with all that is therein. - Deuteronomy 10:12-14
 
@@ -360,8 +360,8 @@ If your brother (fellow covenant community member) has
 Do
 - you uphold him
 - he will live with you
-	- like an [[Gate of Wisdom/S/Stranger\|Stranger]]
-	- like an [[Gate of Wisdom/S/Sojourner\|Sojourner]]
+	- like an [[Gate of Wisdom/Beings/Stranger\|Stranger]]
+	- like an [[Gate of Wisdom/Beings/Sojourner\|Sojourner]]
 
 Do not
 - take no interest from him

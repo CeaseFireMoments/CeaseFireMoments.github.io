@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/gentile/","tags":["#GateWisdom","G","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/gentile/","tags":["#GateWisdom","G","HumanBeing"],"dg-note-properties":{"tags":["#GateWisdom","G","HumanBeing"]}}
 ---
 
 # Define
@@ -38,8 +38,8 @@ From YHWH, Yeshua/Jesus, the Disciples, and Paul’s point of view:
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20).md\\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]</li><li>[[Gate of Wisdom/S/Stranger.md\\|Stranger]]</li><li>[[Gate of Wisdom/F/Foreigner.md\\|Foreigner]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li><li>[[Gate of Wisdom/Beings/Human Beings/nation.md\\|nation]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Jew.md\\|Jew]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Gentile.md\\|Gentile]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-05.md\\|1 Cor-05]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```

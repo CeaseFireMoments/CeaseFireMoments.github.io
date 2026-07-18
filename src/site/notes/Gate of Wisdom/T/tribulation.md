@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/t/tribulation/","tags":["#GateWisdom","T"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/t/tribulation/","tags":["#GateWisdom","T"],"dg-note-properties":{"tags":["#GateWisdom","T"],"Bible-References":null}}
 ---
 
 # Define
@@ -23,8 +23,8 @@
 
 # Connections
 
-| file.inlinks                                                                                    |
-| ----------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+table without id file.inlinks
+where file.name = this.file.name
+SORT file.name ASC
+```
