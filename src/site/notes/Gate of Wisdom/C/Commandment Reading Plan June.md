@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/c/commandment-reading-plan-june/","tags":["#readingplan","#C","#R"],"dg-note-properties":{"tags":["#readingplan","#C","#R"],"Bible-References":null}}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/c/commandment-reading-plan-june/","tags":["#readingplan","#C","#R"]}
 ---
 
 **One-Year FEMALE Reading Plan for All Applicable Biblical [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]**  
@@ -26,7 +26,7 @@ Commands, statutes (chuqim), ordinances/charges (mishmerot/tsavah), judgments (m
 
 ## Why?
 
-One law shall be to him who is born at home, and to the stranger who lives as a [[Gate of Wisdom/F/Foreigner\|Foreigner]] among you. - Exodus 12:49 
+One law shall be to him who is born at home, and to the stranger who lives as a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] among you. - Exodus 12:49 
 
 ... what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul, to keep Yahweh’s [[Gate of Wisdom/Right Standing/Commandments\|Commandments]] and [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]], which I command you today for your good? Behold, to Yahweh your God belongs heaven, the [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]] of heavens, and the earth, with all that is therein. - Deuteronomy 10:12-14
 
@@ -50,7 +50,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Outline:**
 	- A poor and needy hired servant
 		- one of your brothers (member of your covenant community)
-		- one of the [[Gate of Wisdom/F/Foreigner\|Foreigner]]s who are in your land within your gates
+		- one of the [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]s who are in your land within your gates
 	- Do not
 		- oppress
 		- let sun go down on his wages
@@ -74,7 +74,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- The 
-		- [[Gate of Wisdom/F/Foreigner\|Foreigner]] 
+		- [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] 
 		- fatherless
 	- Do not
 		- deprive foreigner of justice
@@ -103,7 +103,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		
 	- Do
 		- the sheaf, bough, fruit will be for 
-			- the [[Gate of Wisdom/F/Foreigner\|Foreigner]]
+			- the [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]
 			- the fatherless
 			- the widow
 		- remember that you were a slave in the land of Egypt
@@ -126,7 +126,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- glean your vineyard
 		- gather the fallen grapes from your vineyard
 	- Do
-		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/S/Stranger\|Stranger]]
+		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/Beings/Stranger\|Stranger]]
 		- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger
 		- leave //the fallen grapes// for the poor and the stranger
 	- Because
@@ -221,7 +221,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 			- Because bribes 
 				- blind those who have sight
 				- perverts the words of the righteous
-		- oppress an [[Gate of Wisdom/F/Foreigner\|Foreigner]]
+		- oppress an [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]
 			- Because you know their heart since you were foreigners in the land of Egypt.
 		
 	- Do
@@ -408,7 +408,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Outline:** 
 	- Any
 		- man of the [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
-		- any [[Gate of Wisdom/S/Stranger\|Stranger]] who lives among the men of the House of Israel
+		- any [[Gate of Wisdom/Beings/Stranger\|Stranger]] who lives among the men of the House of Israel
 		- no person among [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]
 	- Do Not
 		- eat any kind of blood #DoNot 
@@ -466,8 +466,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 			- bat
 		- All winged creeping things
 		- anything that dies of itself
-			- give it to the [[Gate of Wisdom/S/Stranger\|Stranger]] living among you who is within your gates
-			- sell it to a [[Gate of Wisdom/F/Foreigner\|Foreigner]]
+			- give it to the [[Gate of Wisdom/Beings/Stranger\|Stranger]] living among you who is within your gates
+			- sell it to a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]
 	- Do Eat #Dos 
 		- ox
 		- sheep
@@ -511,25 +511,326 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 
 ## **June 16**: Exodus 23:19 see **June 13**: Clean and Unclean Foods: [Deuteronomy 14:3-21](https://www.biblegateway.com/passage/?search=Deuteronomy+14:3-21&version=WEB;NET;OJB)
 
-**June 17**: Leviticus 23:22 – Leave harvest portions for poor. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+## **June 17**: [Leviticus 23:22](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A22&version=WEB;NET;OJB) See **June 4**: Provision for the Poor and Foreigner [Leviticus 19:9-10]
 
-**June 18**: Deuteronomy 16:18-20 – “Appoint judges... Judge fairly... do not pervert justice...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(establish justice)  
+## **June 18**: Appoint Just Judges: [Deuteronomy 16:18-20](https://www.biblegateway.com/passage/?search=Deuteronomy+16:18-20&version=WEB;NET;OJB)
 
-**June 19**: Deuteronomy 17:8-13 – Difficult cases referred to higher judgment. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** *
+	- Do
+		- Make judges and officers
+			- in all your gates
+				- which YHWH gives you
+				- according to your tribes
+			- they shall [[Gate of Wisdom/J/Judge\|Judge]] the people with [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] Judgement
+		- Follow that which is altogether just
 
-**June 20**: Deuteronomy 13:1-5 – “Do not listen to... a prophet or dreamer who... says, ‘Let us follow other gods.’” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (reject false prophets)  
+	- Do Not
+		- pervert justice
+		- show partiality
+		- take a bribe
+			- because a bribe
+				- blinds the eyes of the wise
+				- perverts the words of the righteous
 
-**June 21**: Deuteronomy 18:20-22 – Test prophets by fulfillment. - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (discern true word)  
+	- So
+		- you may live and inherit the land which YHWH gives you
+- **Blessing:**
+    - Verse 20 — life and possession of the land tied directly to pursuing justice — _"that you may live and inherit the land which Yahweh your God gives you"_
+    - Justice pursued faithfully is framed as the condition for remaining in the land — one of the most significant covenant blessings in Deuteronomy
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The broader Deuteronomic framework implies that perversion of justice is among the conditions that lead to exile and loss of the land (cf. Deut. 28:15ff)
+    - Bribery is singled out — _"a bribe blinds the eyes of the wise and perverts the words of the righteous"_ (v.19) — the consequence named is corruption of perception and speech in the judge himself
+- **Offering or Ransom:**
+    - None prescribed
+    - No sacrificial remedy is given for corrupt judgment — the corruption of justice falls into the category of sin against persons and community for which Torah provides no offering path
 
-**June 22**: Leviticus 19:31 – “Do not turn to mediums or seek out spiritists...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (no occult)  
+## **June 19**: The Court of Final Appeal: [Deuteronomy 17:8-13](https://www.biblegateway.com/passage/?search=Deuteronomy+17:8-13&version=WEB;NET;OJB)
 
-**June 23**: Deuteronomy 18:10-12 – “Let no one be found among you who... practices divination...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** *
+	- If a matter too hard for you to judge arises between:
+		- blood and blood
+		- plea and plea
+		- stroke and stroke
+		- matters of controversy within your gates
+	- Do
+		- go to the place which YHWH chooses #Dos 
+			- come to the priests
+				- who are Levites
+			- and to the judge
+				- who shall be in those days
+		- inquire and they will give you a verdict #Dos 
+			- do according to their decision
+			- observe to do according to all that they shall teach you
+				- according to the decisions of the law
+					- which they shall teach you
+				- according to the judgement
+					- which they shall tell you
+	- Do Not
+		- turn away from the sentence which they announce to you #DoNot 
+			- neither to the right hand nor to the left
+	- Because
+		- the man who does presumptuously in not listening
+			- to the priest who stands to minister there
+				- before YHWH
+			- or the judge
+			- shall die
+				- put away the evil
+				- all the people shall 
+					- hear and fear
+					- and do no more presumptuously
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The implied blessing is communal order and unity — a single court of final appeal prevents fracturing of justice across tribal lines
+- **Penalty or Consequence:**
+    - Verse 12 — the man who acts presumptuously (_zadon_ — זָדוֹן) by refusing to heed the priest or judge who stands to minister before Yahweh shall die
+    - The death penalty is explicit and non-negotiable — _"that man shall die and you shall put away the evil from Israel"_
+    - Verse 13 — the public nature of the consequence is intentional — _"all the people shall hear and fear and not act presumptuously again"_ — deterrence is a stated purpose
+- **Offering or Ransom:**
+    - None prescribed
+    - The presumptuous rejection of the court of final appeal is treated as a capital offense — no ransom or offering path is provided
+    - The severity reflects that defying this court is not merely a legal violation but a rejection of Yahweh's own judicial authority vested in the priests and judges (v.12 — _"who stands to minister there before Yahweh your God"_)
+- <mark style="background: #CD04BBA6;">Personal Observation</mark>:
+	- Do all according to all they teach you - this is what Jesus said [Matthew 23:2-3](https://www.biblegateway.com/passage/?search=Matthew%2023%3A2-3&version=WEB;NET;OJB) 
 
-**June 24**: Leviticus 19:26 – “Do not eat any meat with the blood still in it. Do not practice divination...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+## **June 20**: Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
 
-**June 25**: Deuteronomy 6:13 / 10:20 – “Fear the LORD your God, serve him only...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:** 
+	- If a prophet or dreamer of dreams arises
+		- and he gives you a sign or a wonder
+			- and that sign or wonder comes to pass
+		- he says Let's 
+			- go after other gods
+				- which you have not known
+			- serve other gods
+	- Do not
+		- listen to the words of the prophet or dreamer #DoNot 
+	- Because
+		- YHWH is testing you
+			- to know whether you love him
+				- with all your heart
+				- with all your soul
+	- Do
+		- walk after YHWH #Dos 
+			- fear him
+			- keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
+			- obey his voice
+			- serve him
+			- cling to him
+		- Put that prophet or dreamer of dreams to death
+			- because he has spoken rebellion against YHWH
+				- who brought you out of Egype
+				- redeemed you out of the house of bondage
+					- to draw you aside out of the way
+						- which YHWH commanded you to walk
+			- so you shall remove the evil from among you
+- **Blessing:**
+    - None explicitly stated
+    - Obedience to this command is framed as love for Yahweh — v.3 states that the false prophet is a test (_nasah_ — נָסָה) from Yahweh to know whether Israel loves Him with all heart and soul
+    - Faithfulness here is itself the expression of covenant loyalty — the implied blessing is remaining in right standing with Yahweh
+- **Penalty or Consequence:**
+    - Verse 5 — the false prophet or dreamer of dreams shall be put to death
+    - The rationale is stated explicitly — _"because he has spoken rebellion against Yahweh your God who brought you out of the land of Egypt and redeemed you out of the house of bondage"_
+    - The second stated rationale — _"to put away the evil from among you"_ — frames execution as communal purging, consistent with Deuteronomy's repeated use of this phrase (cf. Deut. 17:7; 17:12; 19:19; 21:21; 22:21)
+    - The sign or wonder coming to pass does not validate the prophet — v.3 makes clear that a fulfilled sign can still be a test; the content of the message is the measure, not the miracle
+- **Offering or Ransom:**
+    - None prescribed
+    - False prophecy leading Israel after other gods is a capital offense with no ransom path — the gravity mirrors Deuteronomy 17:12 where defying Yahweh's appointed authority likewise carries no offering remedy
 
-**June 26**: Deuteronomy 10:12-13 – “What does the LORD ask of you but to fear... walk in obedience...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+## **June 21**:   The Test of a True Prophet: [Deuteronomy 18:20-22](https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- If a prophet
+		- speaks a word presumptuously in my name
+		- which I have not commanded to speak
+		- who speaks in the name of other gods
+	- Do
+		- He shall die
+	- If you say in your heart
+		- how shall we know the word which YHWH has not spoke
+			- if that thing doesn't follow nor happen
+				- that is the thing which YHWH has not spoken
+				- the prophet has spoken it presumptuously
+	- Do Not
+		- be afraid of him
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The implied blessing is discernment and protection from false prophets
+- **Penalty or Consequence:**
+    - Verse 20 — the prophet who speaks presumptuously in Yahweh's name what Yahweh has not commanded, **or** who speaks in the name of other gods, shall die
+    - Two distinct capital offenses named:
+        - Speaking falsely in Yahweh's name
+        - Speaking in the name of other gods
+    - Verse 22 — the word that does not come to pass is identified as something Yahweh did not speak — the prophet has spoken presumptuously (_zadon_ — זָדוֹן) and Israel is told do not be afraid of him
+- **Offering or Ransom:**
+    - None prescribed
+    - Consistent with Deuteronomy 13:1-5 — false prophecy carries a capital sentence with no ransom or offering path provided
+    - The presumption (_zadon_ — זָדוֹן) language connects directly to Deuteronomy 17:12 — the same word used for defying the court of final appeal, which likewise carried no offering remedy
+
+# **June 22**: Do Not Seek Mediums or Spiritists: [Leviticus 19:31](https://www.biblegateway.com/passage/?search=Leviticus+19%3A31&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* **Outline:**
+   * Do Not
+	   * turn to those who are 
+		   * mediums
+		   * wizards
+	   * seek them out
+	   * be defiled by them
+   * Because
+	   * I am YHWH your god
+
+* **Blessing:**
+   * No explicit blessing stated in the passage.
+
+* **Penalty or Consequence:**
+   * The verse itself does not state the penalty, but the immediate parallel passage in Leviticus 20:6 does — *"The person that turns to mediums and to spiritists, to play the prostitute after them, I will set my face against that person and will cut him off from among his people."* (WEB)
+   * Leviticus 20:27 extends the consequence further — a medium or spiritist found among the people is to be put to death by stoning.
+   * The act is framed as spiritual prostitution — a covenantal betrayal comparable to idolatry.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated in the passage or immediate context. The gravity of the command — closed with *"I am Yahweh your God"* — implies no substitution is available; the act itself is the violation of the covenant relationship.
+
+## **June 23**:  No Occult Practices: [Deuteronomy 18:10-12](https://www.biblegateway.com/passage/?search=Deuteronomy+18:10-12&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:** *
+	- Do Not
+		- have anyone among you who #DoNot 
+			- makes his son or his daughter to pass through fire
+			- one who uses divination
+			- one who tells fortunes
+			- an enchanter
+			- a sorcerer
+			- a charmer
+			- consults with a familiar spirit
+			- wizard
+			- necromancer
+	- Because
+		- they are an [[Gate of Wisdom/Abomination/Abomination\|Abomination]] to YHWH
+			- YHWH drives them out from before you
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The immediate context frames the positive alternative — Yahweh will raise up a prophet like Moses (v.15-18) — obedience here is tied to listening to Yahweh's appointed voice rather than seeking unauthorized sources
+- **Penalty or Consequence:**
+    - Verse 12 — all who do these things are an abomination (_to'evah_ — תּוֹעֵבָה) to Yahweh
+	    - The _to'evah_ designation is among the strongest language in Deuteronomy — provoking Yahweh's active rejection (cf. Deut. 7:25; 12:31; 17:1; 23:18)
+    - No court-administered penalty is stated within the passage itself — the consequence named is Yahweh's own response
+- **Offering or Ransom:**
+    - None prescribed
+    - The _to'evah_ classification throughout Deuteronomy consistently appears without offering remedy — what Yahweh calls abomination is not redeemable through sacrifice
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>:
+    - Saul's consultation of the medium at En-dor (1 Sam. 28) — his death follows immediately with no path of restoration offered
+
+## **June 24**: Do Not Eat Blood or Practice Divination: [Leviticus 19:26](https://www.biblegateway.com/passage/?search=Leviticus+19%3A26&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* **Outline:**
+   * Do Not
+	   * eat any meat with the blood still in it
+	   * use enchantments
+	   * practice sorcery
+
+* **Blessing:**
+   * No explicit blessing stated in the passage.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse. However:
+   * The prohibition on blood connects back to Leviticus 17:10-14 where the consequence is being cut off from the people and God setting His face against that person.
+   * The prohibition on divination connects forward to Leviticus 20:6 — those who turn to mediums and spiritists are cut off from the people.
+   * Deuteronomy 18:10-12 frames these practices as an abomination (to'evah/תּוֹעֵבָה) — *"Whoever does these things is an abomination to Yahweh."* (WEB)
+
+* **Offering or Ransom:**
+   * No offering or ransom stated in the passage or immediate context.
+   * Both prohibitions in this verse — blood and divination — belong to the category of things set apart exclusively to God: blood belongs to Him as the seat of life and atonement (Leviticus 17:11); knowledge of hidden things belongs to Him alone (Deuteronomy 29:29 — *"The secret things belong to Yahweh our God."* WEB).
+
+## **June 25**: Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- Do
+		- fear YHWH
+		- serve him
+		- swear by his name
+- **Blessing:**
+    - None explicitly stated
+    - The immediate context of Deuteronomy 6 ties covenant faithfulness to life, prosperity, and remaining in the land (Deut. 6:2-3; 6:24)
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - The broader context makes clear that going after other gods provokes Yahweh's anger and leads to destruction from the land (**Deut. 6:14-15)
+- **Offering or Ransom:**
+    - None prescribed
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>:
+	- Jesus quotes this verse directly in response to Satan's temptation (Matt. 4:10) — framing it as the definitive boundary of worship and allegiance
+
+## Fear and Serve Yahweh, Hold Fast, Swear by His Name: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- Do
+		- fear YHWH
+		- serve him
+		- cling to him
+		- swear by his name
+- **Blessing:**
+    - None explicitly stated within the verse
+    - The surrounding context (Deut. 10:12-22) frames obedience as the natural response to Yahweh's greatness — the blessing is the relationship itself
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - Consistent with Deuteronomy 6:13 — the broader Deuteronomic framework applies; departure from these commands leads to loss of land and covenant standing
+- **Offering or Ransom:**
+    - None prescribed
+    - Violation is covenantal in nature, not sacrificial
+
+## **June 26**: What Yahweh Requires: [Deuteronomy 10:12-14](https://www.biblegateway.com/passage/?search=Deuteronomy+10:12-14&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** 
+	- What does Yah require of you
+	- Do
+		- Fear him #Dos 
+		- Walk in all his ways #Dos 
+		- [[Gate of Wisdom/Ruach/Fruit/Love\|Love]] <mark style="background: #CD04BBA6;">//ahav//</mark> him #Dos 
+		- [[Gate of Wisdom/S/Serve\|Serve]] him with #Dos 
+			- all your heart
+			- all your soul
+		- Keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] and  [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
+			- which are given here today
+				- for your good
+	- Because
+		- to Yah belongs
+			- heaven
+			- the heaven of heavens
+			- the earth
+			- all that is therein
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The passage itself is framed as a summary of what Yahweh asks of Israel in response to all He has done — the relationship and its privileges are the implied blessing underlying the entire appeal
+    - Verse 14 anchors the commands in Yahweh's ownership of everything — _"Behold, to Yahweh your God belongs heaven and the heaven of heavens, the earth with all that is in it"_ — obedience is a response to this reality, not a means of earning it.
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The passage is given in a tone so as to try and grab the attention of the people — Moses is calling Israel to covenant faithfulness rather than legislating a specific penalty
+    - The broader Deuteronomic framework applies — departure from fearing, walking in, loving, serving, and keeping results in covenant curse (Deut. 28:15ff)
+- **Offering or Ransom:**
+    - None prescribed
+    - This passage functions as a covenantal summary — the five requirements named (fear, walk, love, serve, keep) are relational and dispositional in nature, not ritual; no sacrificial mechanism is attached
+- Personal Observations
+	- Greek equivalent word is used in these passages:
+		- John 14:15 — "If you love me, keep my commandments."
+		- John 14:21 — Loving Yeshua is demonstrated by keeping His commandments.
+		- 1 John 5:2–3 — The love of God is keeping His commandments, and His commandments are not burdensome.
 
 **June 27**: Deuteronomy 11:1 – “Love the LORD your God and keep his requirements...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
 
