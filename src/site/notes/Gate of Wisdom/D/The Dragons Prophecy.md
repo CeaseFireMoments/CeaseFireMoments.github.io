@@ -9,11 +9,11 @@ J onathan Cahn 2024
 
 # Connections
 - 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                 |
+| ------------------------------------------------------------ |
+| <ul><li>[[Gate of Wisdom/Beings/Satan.md\\|Satan]]</li></ul> |
+
+{ .block-language-dataview}
 
   
 

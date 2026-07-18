@@ -3,11 +3,3 @@
 ---
 
 See [[Gate of Wisdom/Beings/Sojourner\|Sojourner]]
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

@@ -32,10 +32,3 @@
 - New covenant: Jer 31:34 – “I will forgive their iniquity, and I will remember their sin no more”; quoted in Heb 8:12; 10:17.
 - Christ’s blood: Matt 26:28 – “poured out for many for the forgiveness (ἄφεσις) of sins”; Col 1:14; Eph 1:7 – redemption through His blood, the forgiveness of trespasses.
 
-
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

@@ -104,8 +104,8 @@ Arise and thresh, daughter of Zion; for I will make your horn iron, and I will m
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                              |
+| ----------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li></ul> |
+
+{ .block-language-dataview}

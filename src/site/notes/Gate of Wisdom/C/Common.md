@@ -25,10 +25,3 @@
 - [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-10#v10\|Lev-10#v10]] – priests must “distinguish between the holy and the common (חֹל), and between the unclean and the clean”  
 
 - 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-
-

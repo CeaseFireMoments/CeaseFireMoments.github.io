@@ -15,11 +15,3 @@
 - The Hebrew word translated as "atonement" in Leviticus 4 is כִּפֶּר (kipper) //[[Gate of Wisdom/R/Ransom\|Ransom]]//
 
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

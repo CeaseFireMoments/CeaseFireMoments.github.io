@@ -24,10 +24,10 @@
 - Matthew 6:13 (“lead us not into peirasmos”) → 
 
 - 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                            |
+| --------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li></ul> |
+
+{ .block-language-dataview}
 
 

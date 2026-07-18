@@ -94,8 +94,8 @@ Husband over wife
 [[Gate of Wisdom/S/Subjecting\|Subjecting]]
 [[Gate of Wisdom/E/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/S/Subjecting.md\\|Subjecting]]</li><li>[[Gate of Wisdom/E/Equality Addressed by God or Jesus.md\\|Equality Addressed by God or Jesus]]</li></ul> |
+
+{ .block-language-dataview}

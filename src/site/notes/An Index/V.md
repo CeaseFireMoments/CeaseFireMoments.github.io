@@ -3,10 +3,7 @@
 ---
 
 
-```dataview
+- [[Gate of Wisdom/V/Vain\|Vain]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
 
-LIST
-FROM #V 
-WHERE dg-publish = true AND dg-home = false
-SORT file.name ASC
-```
+{ .block-language-dataview}

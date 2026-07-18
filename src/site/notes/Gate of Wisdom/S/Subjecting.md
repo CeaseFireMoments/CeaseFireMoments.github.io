@@ -95,8 +95,8 @@ Those who have have devoted themselves in service to the kedoshim = holy (set ap
 
 
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/49 Ephes-05 Yada Yada.md\\|49 Ephes-05 Yada Yada]]</li><li>[[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus.md\\|Hierarchical Relationships Addressed by God or Jesus]]</li><li>[[Gate of Wisdom/E/Equality Addressed by God or Jesus.md\\|Equality Addressed by God or Jesus]]</li></ul> |
+
+{ .block-language-dataview}

@@ -24,11 +24,11 @@
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/28 - Hosea/Hos-12.md\\|Hos-12]]</li><li>[[Yada Yada Pauses/01 Gen-32 Yada Yada.md\\|01 Gen-32 Yada Yada]]</li></ul> |
+
+{ .block-language-dataview}
 - 
 
 

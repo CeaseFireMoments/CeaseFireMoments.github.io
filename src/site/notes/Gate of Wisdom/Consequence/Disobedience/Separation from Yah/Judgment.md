@@ -20,9 +20,3 @@
 - Leviticus 19:15 (do no unrighteousness in mishpat)  
 - Deuteronomy 25:13-15 (honest weights and measures)  
 - Proverbs 11:1 (just balance delights the Lord)
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

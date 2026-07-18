@@ -32,10 +32,10 @@ It is not a future place, it is a present state of being.
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/44 The Seventh Day is a day for Mercy (40 Matthew).md\\|44 The Seventh Day is a day for Mercy (40 Matthew)]]</li><li>[[Gate of Wisdom/H/Reign of the Heavens.md\\|Reign of the Heavens]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven.md\\|Heaven]]</li></ul> |
+
+{ .block-language-dataview}
 
 

@@ -21,12 +21,3 @@
 - favor (charis) is often linked to grace through faith, which includes obedience to God’s will
 - Disobedience can forfeit favor
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
- 

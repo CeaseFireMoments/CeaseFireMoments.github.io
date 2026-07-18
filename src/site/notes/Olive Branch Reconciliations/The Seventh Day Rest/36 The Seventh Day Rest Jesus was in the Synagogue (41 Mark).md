@@ -71,8 +71,8 @@ Mark 1:32 <mark style="background: #D2B3FFA6;">At evening</mark>, <mark style="b
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey.md\\|_Seventh Day Rest Scripture Survey]]</li></ul> |
+
+{ .block-language-dataview}

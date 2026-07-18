@@ -17,14 +17,6 @@
 4. New Testament Shift: Acts 10 and Romans 14 blur old distinctions, with holiness through Christ making all potentially clean (no longer common or unclean inherently).
 
 
-# Connections
-- 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-
 
 # **Old Testament Scriptures**
 

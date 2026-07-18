@@ -3,10 +3,27 @@
 ---
 
 
-```dataview
+- [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
+- [[The Heralds Messages/Fascism\|Fascism]]
+- [[Sacred Truces/Fascism\|Fascism]]
+- [[Gate of Wisdom/F/Fast\|Fast]]
+- [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]
+- [[Gate of Wisdom/Appointed Time/Feast\|Feast]]
+- [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
+- [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
+- [[Gate of Wisdom/Appointed Time/Feast of Weeks\|Feast of Weeks]]
+- [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]
+- [[Gate of Wisdom/Appointed Time/First Fruits\|First Fruits]]
+- [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]
+- [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]
+- [[Gate of Wisdom/F/Forgive\|Forgive]]
+- [[The Heralds Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]
+- [[Sacred Truces/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]
+- [[Gate of Wisdom/Consequence/Disobedience/Forgiveness\|Forgiveness]]
+- [[The Heralds Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]
+- [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]
+- [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]
+- [[Gate of Wisdom/F/sexual immorality\|sexual immorality]]
+- [[Sacred Truces/Video Scripture Survey Christian Spring Holidays\|Video Scripture Survey Christian Spring Holidays]]
 
-LIST
-FROM #F  
-WHERE dg-publish = true AND dg-home = false
-SORT file.name ASC
-```
+{ .block-language-dataview}

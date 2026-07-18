@@ -39,14 +39,6 @@
 - The Canaanite woman whom Jesus addresses in Mark 7, would have fallen into this category. This woman has a young daughter who had an unclean spirit. She comes to Jesus and falls at his feet and asked him to cast the unclean spirit out of her daughter. And he said, ““Let the children be filled first, for it is not appropriate to take the children’s bread and throw it to the dogs.” The children are the people of Israel – the native-born. The Israelites had been instructed to displace the Canaanites (Deut 7, 20, 23). Her faith moved her from this status, and Jesus honored that.
 - Jesus made a prioritizing of the “lost sheep of Israel” but also responded with compassion and healing for those who came to him in faith.
 
-# Connections
-- 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-
 # Additional Info
 
 A Foreigner was someone who was not a native born Israelite who wanted to follow Yahweh / God. In the New Testament these would be Gentiles who wanted to follow Jesus.

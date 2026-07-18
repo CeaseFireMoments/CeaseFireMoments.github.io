@@ -146,11 +146,11 @@
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/51 Colossians Yada Yada.md\\|51 Colossians Yada Yada]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45).md\\|34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46).md\\|29 The Seventh Day Rest is Day to Worship (26 Ezekiel 46)]]</li><li>[[Gate of Wisdom/S/Sacrifice.md\\|Sacrifice]]</li><li>[[Gate of Wisdom/Offering/Free Will Offering.md\\|Free Will Offering]]</li><li>[[Gate of Wisdom/Offering/Fellowship Offering.md\\|Fellowship Offering]]</li></ul> |
+
+{ .block-language-dataview}
 
 # Additional source for notes
 

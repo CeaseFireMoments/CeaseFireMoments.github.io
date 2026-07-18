@@ -7,15 +7,6 @@ See [[Gate of Wisdom/Beings/Outsider\|Outsider]]
 
 
 
-
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```DefineForm
 # Define
 - Hebrew: word and meaning (if new testament passage - give me the equivalent)
 	- 
@@ -30,11 +21,3 @@ SORT file.name ASC
 # Additional Info
 - 
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

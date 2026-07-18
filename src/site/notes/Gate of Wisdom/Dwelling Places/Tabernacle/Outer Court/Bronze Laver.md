@@ -71,8 +71,8 @@ He sacrificed his fleshly body and died to sin, once and for all. Those trusting
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Zunpublished/Veil.md\\|Veil]]</li><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Gate of Wisdom/W/Wash.md\\|Wash]]</li><li>[[Gate of Wisdom/Right Standing/Righteousness.md\\|Righteousness]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/B/Bronze.md\\|Bronze]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread.md\\|Feast of Unleavened Bread]]</li></ul> |
+
+{ .block-language-dataview}

@@ -40,8 +40,8 @@
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Sacred Truces/Foreigner, Sojourner, Stranger Among You.md\\|Foreigner, Sojourner, Stranger Among You]]</li><li>[[Gate of Wisdom/E/Ezrach.md\\|Ezrach]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/Beings/Sojourner.md\\|Sojourner]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li></ul> |
+
+{ .block-language-dataview}

@@ -16,8 +16,8 @@ Using only the bible as a reference. do not do a deep dive or give explanations 
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                        |
+| ----------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/23 Isa-01 Yada Yada.md\\|23 Isa-01 Yada Yada]]</li></ul> |
+
+{ .block-language-dataview}

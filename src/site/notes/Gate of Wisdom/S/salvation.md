@@ -19,8 +19,8 @@
 - Isaiah 61:10 connects garments of salvation with robe of righteousness  
 - Linked thematically to Romans 8:30 (justified and glorified)
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                    |
+| ----------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li></ul> |
+
+{ .block-language-dataview}

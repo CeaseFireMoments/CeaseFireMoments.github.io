@@ -23,10 +23,3 @@ Frequently used for God's chosen people (Israel), individuals (e.g., David, the 
 - Isaiah 65:9, 15, 22 (God's chosen remnant): "my elect" (bachiray / my chosen ones) — again translated ἐκλεκτοί (eklektoi) in the LXX.
 - Psalm 105:6, 43 (Israel as God's chosen): "O ye seed of Abraham his servant, ye children of Jacob his chosen (bachirayv)."
 
-
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

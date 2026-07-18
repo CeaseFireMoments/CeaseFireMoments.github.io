@@ -26,8 +26,8 @@ Signet ring; to set a seal upon, mark with a seal, to seal
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey.md\\|_Mark of the Beast Scripture Survey]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/Sign/Mark.md\\|Mark]]</li></ul> |
+
+{ .block-language-dataview}

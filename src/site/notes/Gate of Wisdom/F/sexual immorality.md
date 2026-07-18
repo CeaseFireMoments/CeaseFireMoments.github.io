@@ -43,8 +43,8 @@ The Bible consistently condemns fornication/porneia as sin, urging believers to 
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-05.md\\|1 Cor-05]]</li><li>[[Gate of Wisdom/S/NT Sins by Instruction or Consequence.md\\|NT Sins by Instruction or Consequence]]</li></ul> |
+
+{ .block-language-dataview}

@@ -126,8 +126,8 @@ Originally published on WordPress https://calltoceasefire.wordpress.com/2023/08/
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                    |
+| ----------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
+
+{ .block-language-dataview}

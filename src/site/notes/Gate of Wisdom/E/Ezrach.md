@@ -7,8 +7,8 @@ See [[Gate of Wisdom/Beings/Native-born\|Native-born]]
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}

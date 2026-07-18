@@ -91,11 +91,3 @@
 67. **Revelation 19:4** — twenty-four elders
 
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

@@ -17,11 +17,11 @@
 
 # Connections
 - 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/V/Vain.md\\|Vain]]</li><li>[[Gate of Wisdom/N/Name.md\\|Name]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li></ul> |
+
+{ .block-language-dataview}
 
 
 Heiser, Michael S.. [[Gate of Wisdom/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible. Lexham Press. Kindle Edition.] 

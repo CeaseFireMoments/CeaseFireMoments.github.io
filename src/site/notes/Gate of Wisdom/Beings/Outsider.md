@@ -37,9 +37,3 @@
 - Numbers 1:51; 3:10; 3:38; 16:40; 18:4,7
 - Proverbs 5:3, 5:20; 7:5
 - Hosea 5:7
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

@@ -40,8 +40,8 @@ Common terms expressing “unrighteousness”:
 - Associated with unjust weights, corrupt leadership, and false judgment (Prov 11:1; Isa 10:1; Mic 3:9).
 
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness.md\\|Sin, Lawlessness, Unrighteousness]]</li><li>[[Gate of Wisdom/Right Standing/Righteousness.md\\|Righteousness]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/L/Lawlessness.md\\|Lawlessness]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li></ul> |
+
+{ .block-language-dataview}

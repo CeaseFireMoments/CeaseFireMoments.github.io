@@ -35,11 +35,11 @@
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35.md\\|Gen-35]]</li><li>[[Yada Yada Pauses/01 Gen-35 Yada Yada.md\\|01 Gen-35 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-28 Yada Yada.md\\|01 Gen-28 Yada Yada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12).md\\|31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Leah.md\\|Leah]]</li></ul> |
+
+{ .block-language-dataview}
 
 
 

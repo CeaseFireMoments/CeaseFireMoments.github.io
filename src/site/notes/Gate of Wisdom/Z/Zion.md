@@ -30,11 +30,11 @@
 - eternal kingdom and reign of the LORD (Micah 4:7); 
 - heavenly Jerusalem (Hebrews 12:22).
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li><li>[[Yada Yada Pauses/33 Micah-04 Yada Yada.md\\|33 Micah-04 Yada Yada]]</li></ul> |
+
+{ .block-language-dataview}
 
 
 

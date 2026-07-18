@@ -2,13 +2,12 @@
 {"dg-publish":true,"permalink":"/fireside-banquets/fireside-banquets/","tags":["#home","#Fireside"],"dg-note-properties":{"tags":["#home","#Fireside"]}}
 ---
 
-```dataview
+| Table of Content                                                                            |
+| ------------------------------------------------------------------------------------------- |
+| [[Fireside Banquets/_Fireside Banquets\|_Fireside Banquets]]                             |
+| [[Fireside Banquets/Not the Typical Nativity - Day 1\|Not the Typical Nativity - Day 1]] |
 
-TABLE WITHOUT ID file.link as "Table of Content"
-FROM ""
-WHERE dg-publish = true AND contains(file.tags, "Fireside") AND dg-home = false AND !contains(file.tags, "TheScrolls") AND !contains(file.tags, "GateWisdom")
-SORT file.mtime DESC
-```
+{ .block-language-dataview}
 
 When ancient Mesopotamian or Hittite kings negotiated peace treaties, representatives from opposing sides might gather for banquets. 
 

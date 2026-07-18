@@ -41,13 +41,6 @@
 - Exodus 12:5
 - Isaiah 53:7
 
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
 
 # Birth and Ancestors
 - Timeframe: Before the foundation of the world (Revelation 13:8)

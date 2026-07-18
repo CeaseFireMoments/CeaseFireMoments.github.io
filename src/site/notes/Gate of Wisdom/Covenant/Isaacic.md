@@ -22,11 +22,3 @@
 - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v2\|Gen-26:2]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v3\|Gen-26#v3]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v4\|Gen-26#v4]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v5\|-5]] Yah/God makes his covenant directly with Isaac
 - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v24\|Gen-26:24]] Covenant reaffirmed
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

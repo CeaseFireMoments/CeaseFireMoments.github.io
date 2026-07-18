@@ -27,8 +27,8 @@
 - Jeremiah 33:11 – קוֹל תּוֹדָה וְקוֹל מְשַׁבְּחִים (“the voice of thanksgiving and the voice of those who praise”)
 - Hebrews 13:15 – θυσίαν αἰνέσεως διὰ παντὸς (“sacrifice of praise continually”) – New Testament parallel to thank offering as verbal praise
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                         |
+| ------------------------------------------------------------------------------------ |
+| <ul><li>[[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-50.md\\|Ps-50]]</li></ul> |
+
+{ .block-language-dataview}

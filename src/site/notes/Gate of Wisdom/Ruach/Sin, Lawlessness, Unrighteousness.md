@@ -21,8 +21,8 @@ The [[Zunpublished/Law\|Law]], [[Gate of Wisdom/T/Torah\|Torah]], is found in th
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}

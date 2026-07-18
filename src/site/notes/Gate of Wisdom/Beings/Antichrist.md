@@ -69,12 +69,3 @@ Paul never calls the man of lawlessness the Antichrist or beast, however, the de
 - The coming prince / willful king (Dan 8:23–25; 9:26–27; 11:36–45)
 - The [[Gate of Wisdom/Abomination/Abomination of the Desolation\|Abomination of the Desolation]] spoken of by Daniel (Matt 24:15; 2 Thess 2:4)
 
-
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-
-

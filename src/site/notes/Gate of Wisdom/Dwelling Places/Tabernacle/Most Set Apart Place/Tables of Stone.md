@@ -26,8 +26,8 @@ Yahweh said to Moses, "Come up to me on the mountain, and stay here, and I will 
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/62 1 John-03 Yada Yada.md\\|62 1 John-03 Yada Yada]]</li><li>[[Gate of Wisdom/T/Testimony.md\\|Testimony]]</li><li>[[Gate of Wisdom/T/Ten Words.md\\|Ten Words]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness.md\\|The Witness]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Ten Commandments.md\\|Ten Commandments]]</li><li>[[Gate of Wisdom/Appointed Time/Day of Atonement.md\\|Day of Atonement]]</li></ul> |
+
+{ .block-language-dataview}

@@ -24,9 +24,6 @@
 - In Job, there is an unnamed adversary, but no being named 'Satan.'
 - Anyone who opposes YHWH/God's law is a satan to God.
 
-# Connections
-- 
-
 # Notes
 - Scripture consistently shows the adversary can incite, tempt, or enter humans to influence or control actions—always under YHWH’s sovereign boundary.
 - Job and Zechariah depict haśśāṭān as a role (heavenly prosecutor/tester) played by an angelic being in YHWH's service, not a named personal entity opposing God. This contrasts with NT development into a singular fallen adversary (e.g., John 8:44 [[Gate of Wisdom/Beings/Devil\|Devil]]).
@@ -61,8 +58,8 @@
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-05.md\\|1 Cor-05]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke).md\\|42 The Seventh Day is for Healing (42 Luke)]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li><li>[[Gate of Wisdom/Beings/Heavenly Beings/Dragon.md\\|Dragon]]</li><li>[[Gate of Wisdom/Beings/Devil.md\\|Devil]]</li><li>[[Gate of Wisdom/Beings/Antichrist.md\\|Antichrist]]</li><li>[[Gate of Wisdom/Beings/Adversary.md\\|Adversary]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li></ul> |
+
+{ .block-language-dataview}

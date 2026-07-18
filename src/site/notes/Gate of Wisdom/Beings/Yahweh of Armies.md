@@ -18,9 +18,3 @@
 - Zechariah (frequent use of YHWH Tseva'ot for God's zealous protection and restoration)
 - Psalm 46:7,11 (YHWH Tseva'ot as fortress and refuge)
 - 1 Samuel 17:45 (David invokes YHWH Tseva'ot against Goliath as God of Israel's armies)
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

@@ -18,8 +18,8 @@
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                              |
+| --------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
+
+{ .block-language-dataview}

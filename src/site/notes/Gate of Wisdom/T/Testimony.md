@@ -23,9 +23,9 @@
 - Exodus 25:16, 21 (Testimony placed in the Ark)  
 - Exodus 31:18 (tables of the Testimony)  
 - Hebrews 9:4 (jar of manna with the Testimony)- 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Torah Portions/2026.05.02 Shabbat Reading.md\\|2026.05.02 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20).md\\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]</li></ul> |
+
+{ .block-language-dataview}
 

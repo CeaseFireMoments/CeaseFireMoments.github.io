@@ -28,11 +28,3 @@ Psalm 103:8 God is "gracious" (chanun = full of chen, unmerited favor) and rich 
 	- Noah's escape from judgment (Genesis 6:8). 
 	- Joseph's favor with Potiphar (Genesis 39:4).
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

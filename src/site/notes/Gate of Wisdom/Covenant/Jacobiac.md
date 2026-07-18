@@ -27,11 +27,3 @@
 # Additional Info
 - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]] God tells Jacob to return to the land he will be with him.
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

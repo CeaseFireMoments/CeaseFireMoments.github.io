@@ -29,10 +29,3 @@ Ps 111:9 “He sent redemption (פְּדוּת) unto his people… Holy and reve
 - Suffering Servant: Isa 53:5–6, 11–12 – the Go'el bears the iniquity (consequence of disobedience) to justify many; fulfilled in Christ’s ransom (Mark 10:45; 1 Pet 1:18–19).
 - Fulfillment: Rom 3:23–24; Eph 1:7; Col 1:13–14 – apolytrōsis through Christ’s blood, freeing from sin’s slavery and wrath (consequence of universal disobedience, Rom 5:12).
 
-
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

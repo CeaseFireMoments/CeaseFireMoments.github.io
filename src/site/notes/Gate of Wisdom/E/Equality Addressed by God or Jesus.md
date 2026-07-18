@@ -50,8 +50,8 @@ All equally in need of God
 [[Gate of Wisdom/S/Subjecting\|Subjecting]]
 [[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+| file.inlinks                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/S/Subjecting.md\\|Subjecting]]</li><li>[[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus.md\\|Hierarchical Relationships Addressed by God or Jesus]]</li></ul> |
+
+{ .block-language-dataview}

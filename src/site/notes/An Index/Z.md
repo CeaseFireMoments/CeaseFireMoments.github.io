@@ -3,10 +3,9 @@
 ---
 
 
-```dataview
+- [[Gate of Wisdom/Beings/Toshav\|Toshav]]
+- [[Gate of Wisdom/Beings/Zar\|Zar]]
+- [[Gate of Wisdom/Offering/Zevah\|Zevah]]
+- [[Gate of Wisdom/Z/Zion\|Zion]]
 
-LIST
-FROM #Z  
-WHERE dg-publish = true AND dg-home = false
-SORT file.name ASC
-```
+{ .block-language-dataview}

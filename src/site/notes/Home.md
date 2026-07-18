@@ -17,16 +17,24 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 If you follow us on [our word press site](https://calltoceasefire.wordpress.com/), you'll receive notification via email of new content. Or follow us on [X](https://x.com/CalltoCeaseFire) or [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/) for new content in your feed. 
 
 
-```dataview
+| Latest Drops                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Gate of Wisdom/Beings/Ger Toshav\|Ger Toshav]]                                                                                                                                                                                              |
+| [[Gate of Wisdom/Beings/nekar\|nekar]]                                                                                                                                                                                                        |
+| [[Gate of Wisdom/Beings/Outsider\|Outsider]]                                                                                                                                                                                                  |
+| [[Gate of Wisdom/Beings/Toshav\|Toshav]]                                                                                                                                                                                                      |
+| [[Gate of Wisdom/Beings/Zar\|Zar]]                                                                                                                                                                                                            |
+| [[Gate of Wisdom/A/ahav\|ahav]]                                                                                                                                                                                                               |
+| [[Sacred Truces/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]                                                                                                                                          |
+| [[Gate of Wisdom/Beings/Native-born\|Native-born]]                                                                                                                                                                                            |
+| [[Gate of Wisdom/E/Ezrach\|Ezrach]]                                                                                                                                                                                                           |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]                                                                                  |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)\|35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)]]                                                        |
+| [[Olive Branch Reconciliations/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]] |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)\|34 The Seventh Day Rest is Observed in the Future Kingdom to Come (26 Ezekiel 45)]]                    |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]                                  |
 
-TABLE WITHOUT ID file.link as "Latest Drops"
-FROM ""
-WHERE dg-publish = true AND dg-home = false
-WHERE !contains(file.tags, "Index") AND !contains(file.tags, "nothome")
-WHERE Published >= date(today) - dur(2 week) OR file.ctime >= date(today) - dur(4 week)
-SORT file.mtime DESC
-LIMIT 20
-```
+{ .block-language-dataview}
 
 
 # Folder Content Descriptions:
