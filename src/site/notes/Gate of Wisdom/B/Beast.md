@@ -111,9 +111,4 @@
 - The number 666 – “the number of the beast … the number of a man” (Rev 13:18)
 
 # Connections
-- 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+

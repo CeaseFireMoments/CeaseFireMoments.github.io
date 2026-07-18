@@ -3,11 +3,3 @@
 ---
 
 See [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] and [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

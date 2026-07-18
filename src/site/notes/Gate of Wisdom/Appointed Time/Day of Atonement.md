@@ -83,10 +83,3 @@ For there is no distinction: 23 for all have sinned and fall short of the glory 
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-
- -

@@ -34,7 +34,7 @@ Matthew 22:37 Jesus said to him, “‘You shall love the Lord your God with all
    
    You shall most certainly not make gods of silver or gods of gold for yourselves to be alongside me. 
 3. “You shall not misuse the name of Yahweh your God, for Yahweh will not hold him guiltless who misuses his name. [[Do Not Misuse Name\|Do Not Misuse Name]]
-4. “Remember the Sabbath day, to keep it holy. You shall labor six days, and do all your work, but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates;  for in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore Yahweh blessed the Sabbath day, and made it holy. [[Sabbath Day\|Sabbath Day]]
+4. “Remember the Sabbath day, to keep it holy. You shall labor six days, and do all your work, but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates;  for in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore Yahweh blessed the Sabbath day, and made it holy. [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
 5. “Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you. [[Honor Father and Mother\|Honor Father and Mother]]
 6. “You shall not murder. [[Do Not Murder\|Do Not Murder]]
 7. “You shall not commit adultery. [[Do Not Commit Adultery\|Do Not Commit Adultery]]

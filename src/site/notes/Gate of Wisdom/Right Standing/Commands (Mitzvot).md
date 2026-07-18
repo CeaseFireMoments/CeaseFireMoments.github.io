@@ -3,7 +3,7 @@
 ---
 
 # Define
-- Mitzvot (מִצְוֹת)
+- [[Gate of Wisdom/M/Mitzvot\|Mitzvot]] (מִצְוֹת)
 - General commandments, often moral or religious duties (e.g., love God, keep commandments).
 - Derived from the Hebrew root צ-ו-ה (Tsade-Vav-Heh), which means "to command" or "to order." 
 
@@ -60,6 +60,49 @@ SORT file.name ASC
 - **Scripture Text (WEB):** "Be subject therefore to God. 
 
 ## Do Not Worship Other Gods
+
+## #LoveGod  Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- Do
+		- fear YHWH
+		- serve him
+		- swear by his name
+- **Blessing:**
+    - None explicitly stated
+    - The immediate context of Deuteronomy 6 ties covenant faithfulness to life, prosperity, and remaining in the land (Deut. 6:2-3; 6:24)
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - The broader context makes clear that going after other gods provokes Yahweh's anger and leads to destruction from the land (**Deut. 6:14-15)
+- **Offering or Ransom:**
+    - None prescribed
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>:
+	- Jesus quotes this verse directly in response to Satan's temptation (Matt. 4:10) — framing it as the definitive boundary of worship and allegiance
+
+ #05Deut  #Deuteronomy06 
+
+## #LoveGod  Fear and Serve Yahweh, Hold Fast, Swear by His Name: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- Do
+		- fear YHWH
+		- serve him
+		- cling to him
+		- swear by his name
+- **Blessing:**
+    - None explicitly stated within the verse
+    - The surrounding context (Deut. 10:12-22) frames obedience as the natural response to Yahweh's greatness — the blessing is the relationship itself
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - Consistent with Deuteronomy 6:13 — the broader Deuteronomic framework applies; departure from these commands leads to loss of land and covenant standing
+- **Offering or Ransom:**
+    - None prescribed
+    - Violation is covenantal in nature, not sacrificial
+
+ #05Deut #Deuteronomy10
+
 ### **Scripture Reference**: [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v14\|Deut-06#v14]]
 - **Scripture Text (WEB)**: 14 You shall not go after other gods, of the gods of the peoples who are around you,
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -184,6 +227,88 @@ SORT file.name ASC
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
+## #LoveGod  Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:** 
+	- If a prophet or dreamer of dreams arises
+		- and he gives you a sign or a wonder
+			- and that sign or wonder comes to pass
+		- he says Let's 
+			- go after other gods
+				- which you have not known
+			- serve other gods
+	- Do not
+		- listen to the words of the prophet or dreamer #DoNot 
+	- Because
+		- YHWH is testing you
+			- to know whether you love him
+				- with all your heart
+				- with all your soul
+	- Do
+		- walk after YHWH #Dos 
+			- fear him
+			- keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
+			- obey his voice
+			- serve him
+			- cling to him
+		- Put that prophet or dreamer of dreams to death
+			- because he has spoken rebellion against YHWH
+				- who brought you out of Egype
+				- redeemed you out of the house of bondage
+					- to draw you aside out of the way
+						- which YHWH commanded you to walk
+			- so you shall remove the evil from among you
+- **Blessing:**
+    - None explicitly stated
+    - Obedience to this command is framed as love for Yahweh — v.3 states that the false prophet is a test (_nasah_ — נָסָה) from Yahweh to know whether Israel loves Him with all heart and soul
+    - Faithfulness here is itself the expression of covenant loyalty — the implied blessing is remaining in right standing with Yahweh
+- **Penalty or Consequence:**
+    - Verse 5 — the false prophet or dreamer of dreams shall be put to death
+    - The rationale is stated explicitly — _"because he has spoken rebellion against Yahweh your God who brought you out of the land of Egypt and redeemed you out of the house of bondage"_
+    - The second stated rationale — _"to put away the evil from among you"_ — frames execution as communal purging, consistent with Deuteronomy's repeated use of this phrase (cf. Deut. 17:7; 17:12; 19:19; 21:21; 22:21)
+    - The sign or wonder coming to pass does not validate the prophet — v.3 makes clear that a fulfilled sign can still be a test; the content of the message is the measure, not the miracle
+- **Offering or Ransom:**
+    - None prescribed
+    - False prophecy leading Israel after other gods is a capital offense with no ransom path — the gravity mirrors Deuteronomy 17:12 where defying Yahweh's appointed authority likewise carries no offering remedy
+
+ #05Deut #Deuteronomy13
+
+## #LoveGod  The Test of a True Prophet: [Deuteronomy 18:20-22](https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- If a prophet
+		- speaks a word presumptuously in my name
+		- which I have not commanded to speak
+		- who speaks in the name of other gods
+	- Do
+		- He shall die
+	- If you say in your heart
+		- how shall we know the word which YHWH has not spoke
+			- if that thing doesn't follow nor happen
+				- that is the thing which YHWH has not spoken
+				- the prophet has spoken it presumptuously
+	- Do Not
+		- be afraid of him
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The implied blessing is discernment and protection from false prophets
+- **Penalty or Consequence:**
+    - Verse 20 — the prophet who speaks presumptuously in Yahweh's name what Yahweh has not commanded, **or** who speaks in the name of other gods, shall die
+    - Two distinct capital offenses named:
+        - Speaking falsely in Yahweh's name
+        - Speaking in the name of other gods
+    - Verse 22 — the word that does not come to pass is identified as something Yahweh did not speak — the prophet has spoken presumptuously (_zadon_ — זָדוֹן) and Israel is told do not be afraid of him
+- **Offering or Ransom:**
+    - None prescribed
+    - Consistent with Deuteronomy 13:1-5 — false prophecy carries a capital sentence with no ransom or offering path provided
+    - The presumption (_zadon_ — זָדוֹן) language connects directly to Deuteronomy 17:12 — the same word used for defying the court of final appeal, which likewise carried no offering remedy
+
+ #05Deut #Deuteronomy18
+
 ## 12. Keep the Passover
 - **Scripture Reference**: Deuteronomy 16:1-2
 - **Scripture Text (WEB)**: “Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you out of Egypt by night. You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose to cause his name to dwell there.”
@@ -285,6 +410,40 @@ SORT file.name ASC
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition? 
 - **Note:** Seems pretty difficult to plant something and not know it. 
+
+## #LoveGod  No Occult Practices: [Deuteronomy 18:10-12](https://www.biblegateway.com/passage/?search=Deuteronomy+18:10-12&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:** *
+	- Do Not
+		- have anyone among you who #DoNot 
+			- makes his son or his daughter to pass through fire
+			- one who uses divination
+			- one who tells fortunes
+			- an enchanter
+			- a sorcerer
+			- a charmer
+			- consults with a familiar spirit
+			- wizard
+			- necromancer
+	- Because
+		- they are an [[Gate of Wisdom/Abomination/Abomination\|Abomination]] to YHWH
+			- YHWH drives them out from before you
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The immediate context frames the positive alternative — Yahweh will raise up a prophet like Moses (v.15-18) — obedience here is tied to listening to Yahweh's appointed voice rather than seeking unauthorized sources
+- **Penalty or Consequence:**
+    - Verse 12 — all who do these things are an abomination (_to'evah_ — תּוֹעֵבָה) to Yahweh
+	    - The _to'evah_ designation is among the strongest language in Deuteronomy — provoking Yahweh's active rejection (cf. Deut. 7:25; 12:31; 17:1; 23:18)
+    - No court-administered penalty is stated within the passage itself — the consequence named is Yahweh's own response
+- **Offering or Ransom:**
+    - None prescribed
+    - The _to'evah_ classification throughout Deuteronomy consistently appears without offering remedy — what Yahweh calls abomination is not redeemable through sacrifice
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>:
+    - Saul's consultation of the medium at En-dor (1 Sam. 28) — his death follows immediately with no path of restoration offered
+
+ #05Deut  #Deuteronomy18 
 
 ## 24. Execute a Rebellious Son
 - **Scripture Reference**: Deuteronomy 21:18-21
@@ -1673,3 +1832,31 @@ SORT file.name ASC
 - **Penalty or Consequence:** Not specified; covenant defilement implied.
 - **Offering or Ransom?:** Not applicable.
 
+# List in Leviticus
+
+## #LoveGod  #Leviticus19 Do Not Seek Mediums or Spiritists: [Leviticus 19:31](https://www.biblegateway.com/passage/?search=Leviticus+19%3A31&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* **Outline:**
+   * Do Not
+	   * turn to those who are 
+		   * mediums
+		   * wizards
+	   * seek them out
+	   * be defiled by them
+   * Because
+	   * I am YHWH your god
+
+* **Blessing:**
+   * No explicit blessing stated in the passage.
+
+* **Penalty or Consequence:**
+   * The verse itself does not state the penalty, but the immediate parallel passage in Leviticus 20:6 does — *"The person that turns to mediums and to spiritists, to play the prostitute after them, I will set my face against that person and will cut him off from among his people."* (WEB)
+   * Leviticus 20:27 extends the consequence further — a medium or spiritist found among the people is to be put to death by stoning.
+   * The act is framed as spiritual prostitution — a covenantal betrayal comparable to idolatry.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated in the passage or immediate context. The gravity of the command — closed with *"I am Yahweh your God"* — implies no substitution is available; the act itself is the violation of the covenant relationship.
+
+ #03Lev  

@@ -43,8 +43,3 @@ Word: [[Gate of Wisdom/Ruach/Fruit/Love\|Love]] — *ʾahav* (אָהַב)
 
 # Connections
 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

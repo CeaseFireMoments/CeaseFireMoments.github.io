@@ -26,9 +26,4 @@ to'evah (תּוֹעֵבָה)
 - Revelation 17:4–5; 21:27 – bdelygma describes Babylon’s impurities and exclusion from the city of God.
 
 # Connections
-- 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+

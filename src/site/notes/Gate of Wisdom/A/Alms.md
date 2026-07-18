@@ -21,14 +21,7 @@ C an be a verb (something done) or a noun (something given).
   
 
 # Connections
-- 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
 
-  
 
 ## Notes
 

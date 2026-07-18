@@ -26,9 +26,3 @@
 - Ezekiel 46:1, 3, 6
 - Amos 8:5
 - Colossians 2:16 (noumēnia)
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

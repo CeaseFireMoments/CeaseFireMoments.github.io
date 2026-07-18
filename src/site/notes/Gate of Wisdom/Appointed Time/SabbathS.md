@@ -26,9 +26,4 @@
 	- **8th Day after Tabernacles (Shemini Atzeret)** - 22nd day of the 7th month (Tishri 22)
 
 # Connections
-- 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+

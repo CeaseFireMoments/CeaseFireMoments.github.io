@@ -19,9 +19,3 @@
 - Romans 8:23 links firstfruits (aparche) of the Spirit to the revealing of the sons of God and redemption of the body.
 
 # Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

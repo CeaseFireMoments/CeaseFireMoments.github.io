@@ -23,15 +23,5 @@ The connection is implicit: just as Shavuot celebrated the covenant through the 
 
 [[Sacred Truces/What is the New Covenant\|What is the New Covenant]]
 
-# Connected Notes
+# Connections
 
-[[Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths\|Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths]]
-[[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
-[[Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
-
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```

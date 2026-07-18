@@ -30,12 +30,3 @@
 	- 8th day [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 - Firstfruits offering is part of the mo‘adim system but is not called a holy convocation (no public assembly, just the priest waves the sheaf).
 
-
-# Connections
-
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
-

@@ -197,18 +197,6 @@ Video:
 Source: Almond House Fellowship]
 
 ![Almond House Appointed Time.webp](/img/user/_Assets/attachments/Almond%20House%20Appointed%20Time.webp)
+
 # Connections
-- [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
-- [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
-- [[Gate of Wisdom/Appointed Time/First Fruits\|First Fruits]]
-- [[Zunpublished/Jubilee\|Jubilee]]
-- [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]
-- [[Gate of Wisdom/Appointed Time/Passover\|Passover]]
-- [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]
-- [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
-- [[Zunpublished/Seventh Year\|Seventh Year]]
-- [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
-- [[Zunpublished/Tabernacles\|Tabernacles]]
-- [[Zunpublished/Trumpets\|Trumpets]]
-- [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]
 

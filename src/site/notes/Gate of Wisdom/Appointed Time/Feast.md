@@ -29,9 +29,4 @@
     - Deuteronomy 16:16: “Three times in a year shall all thy males appear before the LORD thy God… in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles.”
 
 # Connections
-- 
-```dataview
-table without id file.inlinks
-where file.name = this.file.name
-SORT file.name ASC
-```
+
