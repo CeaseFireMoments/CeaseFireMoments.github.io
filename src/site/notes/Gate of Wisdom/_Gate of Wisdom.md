@@ -28,6 +28,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Abomination/Abomination of the Desolation\|Abomination of the Desolation]]                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]                                                                         |
 | [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]]                                                                                |
+| [[Gate of Wisdom/Covenant/Adamic\|Adamic]]                                                                                      |
 | [[Gate of Wisdom/A/Adultery\|Adultery]]                                                                                         |
 | [[Gate of Wisdom/Beings/Adversary\|Adversary]]                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]                                                                               |
@@ -203,7 +204,9 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Native-born\|Native-born]]                                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]                                                                       |
 | [[Gate of Wisdom/Beings/nekar\|nekar]]                                                                                          |
+| [[Gate of Wisdom/Covenant/New Covenant\|New Covenant]]                                                                          |
 | [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]                                                                            |
+| [[Gate of Wisdom/Covenant/Noahic\|Noahic]]                                                                                      |
 | [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]                                                             |
 | [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]                                                                         |
 | [[Gate of Wisdom/Offering/Offerings\|Offerings]]                                                                                |

@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/mosaic/","tags":["#GateWisdom","Covenant","nothome"],"dg-note-properties":{"tags":["#GateWisdom","Covenant","nothome"]}}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/mosaic/","tags":["#GateWisdom","Covenant","M"],"dg-note-properties":{"tags":["#GateWisdom","Covenant","M"]}}
 ---
 
 # Mosaic Covenant
+
+- The children of Israel after the Exodus from Egypt
+- To establish Israel as YHWH's covenant nation and give them his [[Gate of Wisdom/T/Torah\|Torah]] as the standard of [[Gate of Wisdom/H/Holy\|Holy]]/set apart living. 
+- Exodus 19-24
 
 ### COVENANT OF TREASURED PEOPLE
 

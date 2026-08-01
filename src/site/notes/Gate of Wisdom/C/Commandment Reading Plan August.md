@@ -47,7 +47,24 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # August
 
-**August 1**: Exodus 22:21 – “Do not mistreat or oppress a foreigner, for you were foreigners in Egypt.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+## **August 1**: Do Not Wrong the Sojourner: [Exodus 22:21](https://www.biblegateway.com/passage/?search=Exodus%2022:21&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- Do Not
+		- wrong a [[Gate of Wisdom/Beings/Stranger\|Stranger]] ([[Gate of Wisdom/G/ger\|ger]]) #DoNot 
+		- oppress a stranger #DoNot 
+	- Because
+		- you were aliens
+			- in the land of Egypt
+- **Blessing:**
+    - None specified here
+    - Yahweh's protection and blessing for those who show justice to the vulnerable.
+- **Penalty or Consequence:**
+    - None stated directly in this verse; contextually tied to Israel's own experience as sojourners (gerim) in the land of Egypt — Exodus 22:21
+    - Yahweh's wrath, death by the sword (Exodus 22:24).
+- **Offering or Ransom:**
+    - None specified 
 
 **August 2**: Deuteronomy 24:17-18 – “Do not deprive the foreigner or the fatherless of justice, or take the cloak of the widow as a pledge.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
 

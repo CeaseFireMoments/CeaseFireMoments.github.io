@@ -19,6 +19,7 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Gate of Wisdom/Covenant/New Covenant\|New Covenant]]                                                                                                                                                                                        |
 | [[Gate of Wisdom/C/Cursed\|Cursed]]                                                                                                                                                                                                           |
 | [[Gate of Wisdom/B/Blameless\|Blameless]]                                                                                                                                                                                                     |
 | [[Gate of Wisdom/Beings/Ger Toshav\|Ger Toshav]]                                                                                                                                                                                              |

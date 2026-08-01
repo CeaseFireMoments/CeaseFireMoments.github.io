@@ -187,7 +187,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 
 * **Offering or Ransom:**
    * No offering or ransom stated. As with Leviticus 19:2, the command is rooted in God's own character and action — *"I am Yahweh your God"* — making the call to holiness covenantal and relational rather than transactional.
-* **<mark style="background: #CD04BBA6;">Personal Obervations</mark>**
+* **<mark style="background: #CD04BBA6;">Personal Observations</mark>**
 	* hithqadashtem (הִתְקַדַּשְׁתֶּם) - consecrate yourselves - interesting how we are to take part in this - it isn't something being done to us. 
 	* In the next verse, meqadishkem (מְקַדִּשְׁכֶם) - Yah sanctifies
 	* John 17:17 - same word in the prayer from Jesus "Sanctify them in your truth."

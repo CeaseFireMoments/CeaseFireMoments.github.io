@@ -20,6 +20,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li></ul> |
 
 { .block-language-dataview}

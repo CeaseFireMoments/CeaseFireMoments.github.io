@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/davidic/","tags":["thebrain","GateWisdom","nothome","D","Covenant"],"dg-note-properties":{"tags":["thebrain","GateWisdom","nothome","D","Covenant"]}}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/davidic/","tags":["GateWisdom","D","Covenant"],"dg-note-properties":{"tags":["GateWisdom","D","Covenant"]}}
 ---
 
+
 # Davidic Covenant
+
+- King David and his royal descendants
+- To establish an everlasting kingdom through the promised [[Gate of Wisdom/Beings/Heavenly Beings/Messiah\|Messiah]].
+- 2 Samuel 7
 
 [[_The Scrolls/2. Neviim (Prophets)/10 - 2 Samuel/2 Sam-07\|2 Sam-07]]
 

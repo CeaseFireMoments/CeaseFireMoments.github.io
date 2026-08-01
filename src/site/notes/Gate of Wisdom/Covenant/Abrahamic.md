@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/abrahamic/","tags":["#GateWisdom","Covenant","A"],"dg-note-properties":{"tags":["#GateWisdom","Covenant","A"]}}
 ---
 
+- Abraham and his descendants
+- To establish Abraham's seed as a chosen people, promise them the land, raise up kings from hi lineage, declare that through Abraham all nations of the earth would be blessed.
+- Genesis 12, 15, 17
+
 Seed, semen = לְזַרְעֲךָ  -  Singular - not plural
 
 Genesis 12  (2091-2090 BC)

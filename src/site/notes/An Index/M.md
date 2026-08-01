@@ -56,6 +56,7 @@
 - [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]
 - [[Sacred Truces/More on Matthew 5 Salt\|More on Matthew 5 Salt]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Morning Star\|Morning Star]]
+- [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]]
 - [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]
 - [[Gate of Wisdom/M/mount\|mount]]
 - [[Gate of Wisdom/M/Mourn\|Mourn]]
