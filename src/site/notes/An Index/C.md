@@ -14,6 +14,7 @@
 - [[Gate of Wisdom/Beings/Children of God\|Children of God]]
 - [[Gate of Wisdom/C/chosen ones\|chosen ones]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Christ\|Christ]]
+- [[Gate of Wisdom/Beings/Human Beings/Christian\|Christian]]
 - [[Gate of Wisdom/C/Circumcision Party\|Circumcision Party]]
 - [[Gate of Wisdom/C/Clean\|Clean]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/cloud of witnesses\|cloud of witnesses]]

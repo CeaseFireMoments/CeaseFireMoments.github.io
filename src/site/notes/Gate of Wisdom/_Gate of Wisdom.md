@@ -81,6 +81,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Children of God\|Children of God]]                                                                      |
 | [[Gate of Wisdom/C/chosen ones\|chosen ones]]                                                                                   |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Christ\|Christ]]                                                                        |
+| [[Gate of Wisdom/Beings/Human Beings/Christian\|Christian]]                                                                     |
 | [[Gate of Wisdom/C/Circumcision Party\|Circumcision Party]]                                                                     |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]                                                 |
 | [[Gate of Wisdom/C/Clean\|Clean]]                                                                                               |
@@ -292,6 +293,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/D/The Dragons Prophecy\|The Dragons Prophecy]]                                                                 |
 | [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                                    |
 | [[Gate of Wisdom/The Unseen Realm\|The Unseen Realm]]                                                                           |
+| [[Gate of Wisdom/Beings/Human Beings/The Way\|The Way]]                                                                         |
 | [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]                                                    |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                                     |
 | [[Gate of Wisdom/W/The Word\|The Word]]                                                                                         |
