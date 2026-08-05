@@ -330,7 +330,7 @@
 - [[Zunpublished/Faith\|Faith]]
 - [[Gate of Wisdom/Ruach/Fruit/Love\|Love]]
 - [[hope\|hope]]
-- [[Zunpublished/Gospel\|Gospel]]
+- [[Gate of Wisdom/Good News/Gospel\|Gospel]]
 - body
 - [[death\|death]]
 - fullness

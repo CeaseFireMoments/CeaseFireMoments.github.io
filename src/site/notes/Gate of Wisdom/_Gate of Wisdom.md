@@ -132,6 +132,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/G/gleaning\|gleaning]]                                                                                         |
 | [[Gate of Wisdom/Beings/Divine Council/God\|God]]                                                                               |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]                  |
+| [[Gate of Wisdom/Good News/Gospel\|Gospel]]                                                                                     |
 | [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]                                                                           |
 | [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]]                                                                      |
 | [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]                                                                      |

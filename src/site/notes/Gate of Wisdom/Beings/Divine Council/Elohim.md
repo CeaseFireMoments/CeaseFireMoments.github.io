@@ -5,19 +5,9 @@
 
   
 
-G od = Elohim throughout Genesis 1
-
-  
-
-U sually used to refer to the god of Abraham, Issac, and Jacob/Israel
-
-## Word, Transliteration, Definition:
-
-[I AM](https://api.thebrain.com/AW6endE1G0OFIG5602D4zg/19dAjZsiSkCdjPRb_IYFPg/IAm?name=I%20%5Bam%5D) or [YHWH](https://api.thebrain.com/AW6endE1G0OFIG5602D4zg/aNaRxDd1UU-MdFQ-8Obpjw/Yhwh?name=YHWH) is THE God of Abraham, Issac, and Jacob. It is His personal name. Also see [YHWH (God)](https://api.thebrain.com/AW6endE1G0OFIG5602D4zg/-0Kc3HyUx0-ByGiQ8cIIcA/YhwhGod?name=YhwhGod)
-
-  
-
-E lohim general word for a divine being.
+God = Elohim throughout Genesis 1
+Usually used to refer to the god of Abraham, Issac, and Jacob/Israel
+Elohim general word for a divine being.
 
   
 
@@ -87,9 +77,6 @@ E lohim: Plural Noun
 
 This is not to say that an elohim could not interact with the human world. The Bible makes it clear that divine beings can (and did) assume physical human form, and even corporeal flesh, for interaction with people, but that is not their normal estate. Spiritual beings are “spirits” (1 Kgs 22:19–22; John 4:24; Heb 1:14; Rev 1:4).
 
-  
-
-  
 
 The biblical writers refer to a half-dozen different entities with the word elohim. By any religious accounting, the attributes of those entities are not equal.
 
@@ -100,7 +87,6 @@ The biblical writers refer to a half-dozen different entities with the word eloh
 5. The deceased Samuel (1 Sam 28:13)
 6. Angels or the Angel of Yahweh4 (Gen 35:7)
 
-  
 
 We saw earlier that the Hebrew Bible uses the term elohim to speak of any inhabitant of the spiritual world. The word itself provides no differentiation among beings within that realm, though hierarchy is certainly present. Yahweh, for example, is an elohim, but no other elohim is Yahweh. Nevertheless, the term elohim tells us very little about how an ancient reader would have parsed the pecking order of theunseenrealm. The same is true of certain Greek terms that are used in the New Testament.1
 
