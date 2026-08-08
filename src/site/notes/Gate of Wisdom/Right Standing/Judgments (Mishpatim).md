@@ -21,7 +21,7 @@ Mishpatim is plural
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li></ul> |
+| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
 
 { .block-language-dataview}
 ## It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
@@ -170,20 +170,44 @@ Mishpatim is plural
 - **Penalty or Consequence**: Death (for the underlying sin); body must be buried same day to avoid defiling the land.
 - **Offering or Ransom**: None specified; burial fulfills the command to avoid land defilement.
 
-## 8. Returning Lost Property
-- **Scripture Reference**: Deuteronomy 22:1-3
-- **Scripture Text (WEB)**: “You shall not see your brother’s ox or his sheep go astray and hide yourself from them. You shall surely bring them again to your brother. If your brother isn’t near to you, or if you don’t know him, then you shall bring it home to your house, and it shall be with you until your brother looks for it, and you shall restore it to him. So you shall do with his donkey, and so you shall do with his garment, and so you shall do with every lost thing of your brother’s, which he has lost and you have found. You shall not hide yourself.”
-- **Penalty or Consequence**: No explicit penalty, but failure risks covenant violation (Deut. 28:15-68).
-- **Offering or Ransom**: None; returning the property fulfills the command.
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
+## #LoveNeighbor Restore What Is Lost to Your Brother: [Deuteronomy 22:1-4](https://www.biblegateway.com/passage/?search=Deuteronomy+22:1-4&version=WEB;NET;OJB)
 
-## 9. Helping with Fallen Animals
-- **Scripture Reference**: Deuteronomy 22:4
-- **Scripture Text (WEB)**: “You shall not see your brother’s donkey or his ox fallen down by the way, and hide yourself from them. You shall surely help him to lift them up again.”
-- **Penalty or Consequence**: No explicit penalty, but failure risks covenant violation (Deut. 28:15-68).
-- **Offering or Ransom**: None; assisting fulfills the command.
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- Do Not
+		- hid yourself from #DoNot 
+			- a brothers <mark style="background: #CD04BBA6;">//covenant community member//</mark> 
+				- ox or sheep
+					- going astray
+				- garment or anything
+					- lost
+			- a brothers
+				- donkey or ox
+					- fallen down by the way
+	- Do
+		- bring them again #Dos 
+			- to your brother
+				- if the brother 
+					- isn't near
+					- or you don't know him
+				- then bring it to your home
+					- it will be with  you until your brother comes looking for it
+						- then you will restore it to him.
+		- lift them up again #Dos 
+- **Blessing:**
+    - None explicitly stated
+    - The implied blessing is **communal trust and social cohesion** — a community where lost property is returned and fallen animals are helped back up is one where neighbors bear genuine responsibility for one another
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The prohibition on **hiding yourself** (_hitalamta_ — הִתְעַלַּמְתָּ) from the need is the implied moral violation — v.1, v.3, and v.4 each repeat the phrase _"you shall not hide yourself"_ making willful neglect the named sin
+    - No court penalty is prescribed but the repeated prohibition implies Yahweh's awareness of the temptation to look away
+- **Offering or Ransom:**
+    - None prescribed
+    - The remedy is **embedded in the command itself** — restore it, help it up, take it home until claimed; restitution of action is the only path given
+
+ #Deuteronomy22 #05Deut 
+
 
 ## 11. Bird’s Nest Law
 - **Scripture Reference**: Deuteronomy 22:6-7
@@ -193,11 +217,30 @@ Mishpatim is plural
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## 12. Building a Parapet
-- **Scripture Reference**: Deuteronomy 22:8
-- **Scripture Text (WEB)**: “When you build a new house, then you shall make a railing around your roof, so that you don’t bring blood on your house if anyone falls from there.”
-- **Penalty or Consequence**: Bloodguilt if someone falls due to negligence.
-- **Offering or Ransom**: None specified; building the parapet prevents guilt.
+## #LoveNeighbor Build a Parapet for Your Roof: [Deuteronomy 22:8](https://www.biblegateway.com/passage/?search=Deuteronomy+22:8&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- When you build a new house
+	- Do
+		- make a railing around your roof #Dos 
+	- So that
+		- you don't bring blood on your house
+			- if someone falls from there
+- **Blessing:**
+    - None explicitly stated
+    - The implied blessing is protection of life — the command exists to prevent accidental death; a household that builds with care for others preserves life and avoids bloodguilt
+- **Penalty or Consequence:**
+    - Verse 8 — failure to build the parapet brings bloodguilt (_dam_ — דָּם) upon the house if someone falls
+    - The rationale is explicit — _"lest you bring the guilt of blood upon your house if anyone falls from it"_
+    - Bloodguilt (_dam_) throughout Torah is among the most serious categories of moral liability — it attaches to the household, not merely the individual, and is not easily expiated (cf. Num. 35:33 — blood pollutes the land)
+- **Offering or Ransom:**
+    - None prescribed within the verse
+    - Bloodguilt in Torah generally has no offering remedy when it results from negligence causing death — Numbers 35:33 states explicitly that blood can only be atoned for by the blood of the one who shed it
+    - The remedy here is **preventive** — build the parapet before anyone falls; once bloodguilt is incurred no sacrificial path is named
+
+ #Deuteronomy22 #05Deut 
 
 ## 13. Adultery with a Betrothed Woman
 - **Scripture Reference**: Deuteronomy 22:23-24
@@ -380,13 +423,27 @@ Mishpatim is plural
 	- None specified; limit ensures justice.
  #Deuteronomy25 #05Deut 
 
-## 27. Ox Not to Be Muzzled
-- **Scripture Reference**: Deuteronomy 25:4
-- **Scripture Text (WEB)**: “You shall not muzzle the ox when he treads out the grain.”
-- **Penalty or Consequence**: No explicit penalty, but risks covenant violation (Deut. 28:15-68).
-- **Offering or Ransom**: None; allowing the ox to eat fulfills the command.
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
+## #LoveNeighbor Do Not Muzzle the Ox: [Deuteronomy 25:4](https://www.biblegateway.com/passage/?search=Deuteronomy+25:4&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not
+		- muzzle ox #DoNot 
+			- when he treads out the grain
+- **Blessing:**
+    - None explicitly stated
+    - The implied blessing is productive labor — an ox permitted to eat while threshing works willingly and sustainably; the one who honors this principle benefits from the animal's full strength
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - No court-administered penalty is named — the command stands as a single sentence without elaboration
+- **Offering or Ransom:**
+    - None prescribed
+- **<mark style="background: #CD04BBA6;">Personal Observations</mark>**
+    - Paul applies this verse in 1 Corinthians 9:9-10 and 1 Timothy 5:18 as a principle extending to **human laborers and those who minister** — _"the laborer deserves his wages"_ — broadening the consequence of violation beyond the animal to the realm of human justice
+    - The connection to Deuteronomy 24:14-15 is direct — both protect those who labor from being deprived of what sustains them
+
+ #Deuteronomy25 #05Deut 
 
 ## 28. Levirate Marriage
 - **Scripture Reference**: Deuteronomy 25:5-10
@@ -480,6 +537,27 @@ Mishpatim is plural
     - The curse formula of Deuteronomy 27 does not attach offering remedies — the curses stand as covenant consequences without sacrificial path named
 - **<mark style="background: #CD04BBA6;">Personal Observations</mark>:**
 	- passive participle This means the curse is not contingent on being caught or tried — the act itself places the person in the _arur_ condition before Yahweh regardless of human knowledge or judicial process. 
+
+ #Deuteronomy27 #05Deut 
+
+## #LoveNeighbor Do Not Curse the Deaf or Trip the Blind: [Deuteronomy 27:18](https://www.biblegateway.com/passage/?search=Deuteronomy+27:18&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:** 
+	- Cursed is he who
+	- Do Not
+		- leads the blind astray on the road #DoNot 
+- **Blessing:**
+    - None explicitly stated
+    - The mirror blessing is implied — those who **guide the blind in the right way** walk in the spirit of Leviticus 19:14 which frames the prohibition positively as fearing Yahweh
+- **Penalty or Consequence:**
+    - Verse 18 — **cursed** (_arur_ — אָרוּר) is the one who makes the blind wander from the path
+    - The same _arur_ — qal passive participle — as Deuteronomy 27:16; the person enters and inhabits a state of curse before Yahweh confirmed by communal _amen_
+    - The act is particularly contemptible because it exploits someone who cannot see the threat or identify the perpetrator — the vulnerability of the victim amplifies the gravity
+- **Offering or Ransom:**
+    - None prescribed
+    - The curse formula of Deuteronomy 27 carries no attached offering remedy — consistent with all twelve _arur_ declarations in this chapter
 
  #Deuteronomy27 #05Deut 
 # Judgments (Mishpatim) in Exodus
@@ -745,12 +823,31 @@ Mishpatim is plural
 
 ---
 
-## 30. Return of an Enemy's Lost Animal
+## #LoveNeighbor  Return Your Enemy's Lost Animal: [Exodus 23:4-5](https://www.biblegateway.com/passage/?search=Exodus%2023:4-5&version=WEB;NET;OJB)
 
-- **Scripture Reference**: Exodus 23:4–5
-- **Scripture Text (WEB)**: "If you meet your enemy's ox or his donkey going astray, you shall surely bring it back to him again. If you see the donkey of him who hates you fallen down under his burden, don't leave him; you shall surely help him with it."
-- **Penalty or Consequence**: Not explicitly stated; obligation is moral and covenantal.
-- **Offering or Ransom**: None.
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- if you meet ... going astray
+		- your enemy's
+			- ox
+			- donkey
+	- Do
+		- bring it back to him again #Dos 
+	- if you see ... fallen down under his burden
+		- someone who hates you
+			- donkey
+	- Do Not
+		- leave him #DoNot 
+	- Do
+		- help him with it #Dos 
+- **Blessing:**
+    - None specified
+- **Penalty or Consequence:**
+    - None stated directly in this passage
+- **Offering or Ransom:**
+    - None specified
+
+ #02Exod #Exodus23 
 
 ---
 
@@ -844,6 +941,31 @@ Mishpatim is plural
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
  #03Lev 
 
+## #LoveNeighbor Do Not Curse the Deaf or Stumble the Blind: [Leviticus 19:14](https://www.biblegateway.com/passage/?search=Leviticus+19%3A14&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+* **Outline:**
+   * Do not
+	   * curse the deaf #DoNot 
+	   * put a stumbling block before the blind #DoNot 
+   * Do
+	   * Fear your [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
+   * Because
+	   * I am Yahweh
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * Deuteronomy 27:18 — *"Cursed is he who makes the blind to wander out of the way."* (WEB) — the stumbling of the blind carries a direct curse in the covenant renewal context.
+   * The closing phrase *"but you shall fear your God"* functions as the governing consequence — the one who would exploit the vulnerability of the deaf or blind must reckon with God himself as the witness and judge, since the victim cannot defend themselves or identify their attacker.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The fear of God is presented as the restraint — *"I am Yahweh"* closing the verse places the command under divine observation rather than human enforcement.
+
+ #Leviticus19 #03Lev 
 ## #LoveNeighbor #Leviticus19 Do Not Oppress the Stranger: [Leviticus 19:33-34](https://www.biblegateway.com/passage/?search=Leviticus+19%3A33-34&version=WEB;NET;OJB) 
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]

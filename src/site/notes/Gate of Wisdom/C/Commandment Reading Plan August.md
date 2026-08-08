@@ -66,21 +66,200 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Offering or Ransom:**
     - None specified 
 
-**August 2**: Deuteronomy 24:17-18 – “Do not deprive the foreigner or the fatherless of justice, or take the cloak of the widow as a pledge.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+# **August 2**: Justice for the Vulnerable [Deuteronomy 24:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&version=WEB;NET;OJB) 
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- The 
+		- [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] 
+		- fatherless
+	- Do not
+		- deprive foreigner of justice #DoNot 
+		- take widows clothing in pledge #DoNot 
 
-**August 3**: Leviticus 19:14 – “Do not curse the deaf or put a stumbling block in front of the blind, but fear your God. I am the LORD.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(protect vulnerable)  
+	- Do
+		- remember you were a slave in Egypt #Dos 
+		- remember YHWH redeemed you #Dos 
+- **Penalty or Consequence**: 
+	- No explicit penalty, but risks divine judgment (Deut. 28:15-68).
+- **Offering or Ransom**: 
+	- None; ensuring justice fulfills the command.
+- <mark style="background: #CD04BBA6;">**Personal Observations**</mark>
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-**August 4**: Deuteronomy 27:18 (general) – “Cursed is anyone who leads the blind astray on the road.” (inverse: help, do not mislead) - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+# **August 3**: Do Not Curse the Deaf or Stumble the Blind: [Leviticus 19:14](https://www.biblegateway.com/passage/?search=Leviticus+19%3A14&version=WEB;NET;OJB)
 
-**August 5**: Exodus 23:4-5 – “If you come across your enemy’s ox or donkey wandering off, be sure to return it to them... help them.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(return lost property / help enemy)  
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+* **Outline:**
+   * Do not
+	   * curse the deaf #DoNot 
+	   * put a stumbling block before the blind #DoNot 
+   * Do
+	   * Fear your [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
+   * Because
+	   * I am Yahweh
 
-**August 6**: Deuteronomy 22:1-4 – “If you see your fellow Israelite’s ox or sheep straying, do not ignore it but be sure to take it back to them...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+* **Blessing:**
+   * No explicit blessing stated in the verse.
 
-**August 7**: Deuteronomy 22:6-7 – “If you come across a bird’s nest... do not take the mother with the young. You may take the young, but be sure to let the mother go...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (compassion to animals)  
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * Deuteronomy 27:18 — *"Cursed is he who makes the blind to wander out of the way."* (WEB) — the stumbling of the blind carries a direct curse in the covenant renewal context.
+   * The closing phrase *"but you shall fear your God"* functions as the governing consequence — the one who would exploit the vulnerability of the deaf or blind must reckon with God himself as the witness and judge, since the victim cannot defend themselves or identify their attacker.
 
-**August 8**: Deuteronomy 25:4 – “Do not muzzle an ox while it is treading out the grain.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(fairness to animals)  
+* **Offering or Ransom:**
+   * No offering or ransom stated. The fear of God is presented as the restraint — *"I am Yahweh"* closing the verse places the command under divine observation rather than human enforcement.
 
-**August 9**: Deuteronomy 22:8 – “When you build a new house, make a parapet around your roof so that you may not bring the guilt of bloodshed on your house if someone falls from it.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(home safety)  
+# **August 4**: Do Not Curse the Deaf or Trip the Blind: [Deuteronomy 27:18](https://www.biblegateway.com/passage/?search=Deuteronomy+27:18&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:** 
+	- Cursed is he who
+	- Do Not
+		- leads the blind astray on the road #DoNot 
+- **Blessing:**
+    - None explicitly stated
+    - The mirror blessing is implied — those who **guide the blind in the right way** walk in the spirit of Leviticus 19:14 which frames the prohibition positively as fearing Yahweh
+- **Penalty or Consequence:**
+    - Verse 18 — **cursed** (_arur_ — אָרוּר) is the one who makes the blind wander from the path
+    - The same _arur_ — qal passive participle — as Deuteronomy 27:16; the person enters and inhabits a state of curse before Yahweh confirmed by communal _amen_
+    - The act is particularly contemptible because it exploits someone who cannot see the threat or identify the perpetrator — the vulnerability of the victim amplifies the gravity
+- **Offering or Ransom:**
+    - None prescribed
+    - The curse formula of Deuteronomy 27 carries no attached offering remedy — consistent with all twelve _arur_ declarations in this chapter
+
+# **August 5**: Return Your Enemy's Lost Animal: [Exodus 23:4-5](https://www.biblegateway.com/passage/?search=Exodus%2023:4-5&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- if you meet ... going astray
+		- your enemy's
+			- ox
+			- donkey
+	- Do
+		- bring it back to him again #Dos 
+	- if you see ... fallen down under his burden
+		- someone who hates you
+			- donkey
+	- Do Not
+		- leave him #DoNot 
+	- Do
+		- help him with it #Dos 
+- **Blessing:**
+    - None specified
+- **Penalty or Consequence:**
+    - None stated directly in this passage
+- **Offering or Ransom:**
+    - None specified
+
+# **August 6**: Restore What Is Lost to Your Brother: [Deuteronomy 22:1-4](https://www.biblegateway.com/passage/?search=Deuteronomy+22:1-4&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- Do Not
+		- hid yourself from #DoNot 
+			- a brothers <mark style="background: #CD04BBA6;">//covenant community member//</mark> 
+				- ox or sheep
+					- going astray
+				- garment or anything
+					- lost
+			- a brothers
+				- donkey or ox
+					- fallen down by the way
+	- Do
+		- bring them again #Dos 
+			- to your brother
+				- if the brother 
+					- isn't near
+					- or you don't know him
+				- then bring it to your home
+					- it will be with  you until your brother comes looking for it
+						- then you will restore it to him.
+		- lift them up again #Dos 
+- **Blessing:**
+    - None explicitly stated
+    - The implied blessing is **communal trust and social cohesion** — a community where lost property is returned and fallen animals are helped back up is one where neighbors bear genuine responsibility for one another
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The prohibition on **hiding yourself** (_hitalamta_ — הִתְעַלַּמְתָּ) from the need is the implied moral violation — v.1, v.3, and v.4 each repeat the phrase _"you shall not hide yourself"_ making willful neglect the named sin
+    - No court penalty is prescribed but the repeated prohibition implies Yahweh's awareness of the temptation to look away
+- **Offering or Ransom:**
+    - None prescribed
+    - The remedy is **embedded in the command itself** — restore it, help it up, take it home until claimed; restitution of action is the only path given
+
+# **August 7**: Do Not Take the Mother Bird with the Young: [Deuteronomy 22:6-7](https://www.biblegateway.com/passage/?search=Deuteronomy+22:6-7&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- If you come across a bird's next
+		- in a tree
+		- on a ground
+		- with young ones or eggs
+			- the hen sitting on the young or the eggs
+	- Do not
+		- take the hen with the young #DoNot 
+	- Do
+		- let the hen go #Dos 
+		- take the young for yourself #Dos 
+	- So that
+		- it may be well with you
+		- you may prolong your days. 
+- **Blessing:**
+    - Verse 7 — explicit and direct blessing stated within the passage — _"that it may be well with you and that you may prolong your days"_
+    - One of the relatively rare commands in Deuteronomy where the blessing is named within the command itself rather than in surrounding context
+    - Notably the same blessing formula attached to honoring father and mother (Deut. 5:16; Ex. 20:12) — long life tied to a command that preserves a source of life
+- **Penalty or Consequence:**
+    - None explicitly stated
+    - The structure of the passage is entirely positive — the blessing for compliance is named but no penalty for violation is given
+- **Offering or Ransom:**
+    - None prescribed
+
+# **August 8**: Do Not Muzzle the Ox: [Deuteronomy 25:4](https://www.biblegateway.com/passage/?search=Deuteronomy+25:4&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not
+		- muzzle ox #DoNot 
+			- when he treads out the grain
+- **Blessing:**
+    - None explicitly stated
+    - The implied blessing is productive labor — an ox permitted to eat while threshing works willingly and sustainably; the one who honors this principle benefits from the animal's full strength
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - No court-administered penalty is named — the command stands as a single sentence without elaboration
+- **Offering or Ransom:**
+    - None prescribed
+- **<mark style="background: #CD04BBA6;">Personal Observations</mark>**
+    - Paul applies this verse in 1 Corinthians 9:9-10 and 1 Timothy 5:18 as a principle extending to **human laborers and those who minister** — _"the laborer deserves his wages"_ — broadening the consequence of violation beyond the animal to the realm of human justice
+    - The connection to Deuteronomy 24:14-15 is direct — both protect those who labor from being deprived of what sustains them
+
+# **August 9**: Build a Parapet for Your Roof: [Deuteronomy 22:8](https://www.biblegateway.com/passage/?search=Deuteronomy+22:8&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- When you build a new house
+	- Do
+		- make a railing around your roof #Dos 
+	- So that
+		- you don't bring blood on your house
+			- if someone falls from there
+- **Blessing:**
+    - None explicitly stated
+    - The implied blessing is protection of life — the command exists to prevent accidental death; a household that builds with care for others preserves life and avoids bloodguilt
+- **Penalty or Consequence:**
+    - Verse 8 — failure to build the parapet brings bloodguilt (_dam_ — דָּם) upon the house if someone falls
+    - The rationale is explicit — _"lest you bring the guilt of blood upon your house if anyone falls from it"_
+    - Bloodguilt (_dam_) throughout Torah is among the most serious categories of moral liability — it attaches to the household, not merely the individual, and is not easily expiated (cf. Num. 35:33 — blood pollutes the land)
+- **Offering or Ransom:**
+    - None prescribed within the verse
+    - Bloodguilt in Torah generally has no offering remedy when it results from negligence causing death — Numbers 35:33 states explicitly that blood can only be atoned for by the blood of the one who shed it
+    - The remedy here is **preventive** — build the parapet before anyone falls; once bloodguilt is incurred no sacrificial path is **named**
 
 **August 10**: Deuteronomy 23:24-25 – “If you enter your neighbor’s vineyard, you may eat all the grapes you want, but do not put any in a basket. If you enter your neighbor’s grainfield, you may pick kernels with your hands...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(limited use of neighbor’s produce)  
 
