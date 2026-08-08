@@ -3357,7 +3357,7 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-05T23:28:38.485Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-08T19:20:19.439Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian print">
 <header>
 <h1 data-note-icon="">Commandment Reading Plan August</h1>
@@ -3446,14 +3446,419 @@ Starting March 20; 365 day</p>
 </ul>
 </li>
 </ul>
-<p><strong>August 2</strong>: Deuteronomy 24:17-18 – “Do not deprive the foreigner or the fatherless of justice, or take the cloak of the widow as a pledge.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>August 3</strong>: Leviticus 19:14 – “Do not curse the deaf or put a stumbling block in front of the blind, but fear your God. I am the LORD.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(protect vulnerable)</p>
-<p><strong>August 4</strong>: Deuteronomy 27:18 (general) – “Cursed is anyone who leads the blind astray on the road.” (inverse: help, do not mislead) - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>August 5</strong>: Exodus 23:4-5 – “If you come across your enemy’s ox or donkey wandering off, be sure to return it to them... help them.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(return lost property / help enemy)</p>
-<p><strong>August 6</strong>: Deuteronomy 22:1-4 – “If you see your fellow Israelite’s ox or sheep straying, do not ignore it but be sure to take it back to them...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>August 7</strong>: Deuteronomy 22:6-7 – “If you come across a bird’s nest... do not take the mother with the young. You may take the young, but be sure to let the mother go...” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> (compassion to animals)</p>
-<p><strong>August 8</strong>: Deuteronomy 25:4 – “Do not muzzle an ox while it is treading out the grain.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(fairness to animals)</p>
-<p><strong>August 9</strong>: Deuteronomy 22:8 – “When you build a new house, make a parapet around your roof so that you may not bring the guilt of bloodshed on your house if someone falls from it.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(home safety)</p>
+<h1 id="strong-august-2-strong-justice-for-the-vulnerable-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a17-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-17-18-a" tabindex="-1"><strong>August 2</strong>: Justice for the Vulnerable <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 24:17-18</a></h1>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>
+<p>The</p>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/foreigner/">Foreigner</a></li>
+<li>fatherless</li>
+</ul>
+</li>
+<li>
+<p>Do not</p>
+<ul>
+<li>deprive foreigner of justice <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>take widows clothing in pledge <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+</ul>
+</li>
+<li>
+<p>Do</p>
+<ul>
+<li>remember you were a slave in Egypt <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>remember YHWH redeemed you <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence</strong>:
+<ul>
+<li>No explicit penalty, but risks divine judgment (Deut. 28:15-68).</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom</strong>:
+<ul>
+<li>None; ensuring justice fulfills the command.</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6"><strong>Personal Observations</strong></mark>
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.</li>
+</ul>
+</li>
+</ul>
+<h1 id="strong-august-3-strong-do-not-curse-the-deaf-or-stumble-the-blind-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a14-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-14-a" tabindex="-1"><strong>August 3</strong>: Do Not Curse the Deaf or Stumble the Blind: <a href="https://www.biblegateway.com/passage/?search=Leviticus+19%3A14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:14</a></h1>
+<ul>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
+</li>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></p>
+</li>
+<li>
+<p><strong>Outline:</strong></p>
+<ul>
+<li>Do not
+<ul>
+<li>curse the deaf <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>put a stumbling block before the blind <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>Fear your <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/divine-council/elohim/">Elohim</a></li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>I am Yahweh</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Blessing:</strong></p>
+<ul>
+<li>No explicit blessing stated in the verse.</li>
+</ul>
+</li>
+<li>
+<p><strong>Penalty or Consequence:</strong></p>
+<ul>
+<li>No penalty stated directly in this verse.</li>
+<li>Deuteronomy 27:18 — <em>&quot;Cursed is he who makes the blind to wander out of the way.&quot;</em> (WEB) — the stumbling of the blind carries a direct curse in the covenant renewal context.</li>
+<li>The closing phrase <em>&quot;but you shall fear your God&quot;</em> functions as the governing consequence — the one who would exploit the vulnerability of the deaf or blind must reckon with God himself as the witness and judge, since the victim cannot defend themselves or identify their attacker.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offering or Ransom:</strong></p>
+<ul>
+<li>No offering or ransom stated. The fear of God is presented as the restraint — <em>&quot;I am Yahweh&quot;</em> closing the verse places the command under divine observation rather than human enforcement.</li>
+</ul>
+</li>
+</ul>
+<h1 id="strong-august-4-strong-do-not-curse-the-deaf-or-trip-the-blind-a-href-https-www-biblegateway-com-passage-search-deuteronomy-27-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-27-18-a" tabindex="-1"><strong>August 4</strong>: Do Not Curse the Deaf or Trip the Blind: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+27:18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 27:18</a></h1>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Cursed is he who</li>
+<li>Do Not
+<ul>
+<li>leads the blind astray on the road <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated</li>
+<li>The mirror blessing is implied — those who <strong>guide the blind in the right way</strong> walk in the spirit of Leviticus 19:14 which frames the prohibition positively as fearing Yahweh</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Verse 18 — <strong>cursed</strong> (<em>arur</em> — אָרוּר) is the one who makes the blind wander from the path</li>
+<li>The same <em>arur</em> — qal passive participle — as Deuteronomy 27:16; the person enters and inhabits a state of curse before Yahweh confirmed by communal <em>amen</em></li>
+<li>The act is particularly contemptible because it exploits someone who cannot see the threat or identify the perpetrator — the vulnerability of the victim amplifies the gravity</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>The curse formula of Deuteronomy 27 carries no attached offering remedy — consistent with all twelve <em>arur</em> declarations in this chapter</li>
+</ul>
+</li>
+</ul>
+<h1 id="strong-august-5-strong-return-your-enemy-s-lost-animal-a-href-https-www-biblegateway-com-passage-search-exodus-2023-4-5-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-23-4-5-a" tabindex="-1"><strong>August 5</strong>: Return Your Enemy's Lost Animal: <a href="https://www.biblegateway.com/passage/?search=Exodus%2023:4-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:4-5</a></h1>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>if you meet ... going astray
+<ul>
+<li>your enemy's
+<ul>
+<li>ox</li>
+<li>donkey</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>bring it back to him again <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+</ul>
+</li>
+<li>if you see ... fallen down under his burden
+<ul>
+<li>someone who hates you
+<ul>
+<li>donkey</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do Not
+<ul>
+<li>leave him <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>help him with it <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None specified</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None stated directly in this passage</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None specified</li>
+</ul>
+</li>
+</ul>
+<h1 id="strong-august-6-strong-restore-what-is-lost-to-your-brother-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-1-4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-1-4-a" tabindex="-1"><strong>August 6</strong>: Restore What Is Lost to Your Brother: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+22:1-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 22:1-4</a></h1>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><strong>Outline:</strong> *
+<ul>
+<li>Do Not
+<ul>
+<li>hid yourself from <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
+<ul>
+<li>a brothers <mark style="background:#cd04BBA6">//covenant community member//</mark>
+<ul>
+<li>ox or sheep
+<ul>
+<li>going astray</li>
+</ul>
+</li>
+<li>garment or anything
+<ul>
+<li>lost</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>a brothers
+<ul>
+<li>donkey or ox
+<ul>
+<li>fallen down by the way</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>bring them again <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>to your brother
+<ul>
+<li>if the brother
+<ul>
+<li>isn't near</li>
+<li>or you don't know him</li>
+</ul>
+</li>
+<li>then bring it to your home
+<ul>
+<li>it will be with you until your brother comes looking for it
+<ul>
+<li>then you will restore it to him.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>lift them up again <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated</li>
+<li>The implied blessing is <strong>communal trust and social cohesion</strong> — a community where lost property is returned and fallen animals are helped back up is one where neighbors bear genuine responsibility for one another</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None explicitly stated within the passage</li>
+<li>The prohibition on <strong>hiding yourself</strong> (<em>hitalamta</em> — הִתְעַלַּמְתָּ) from the need is the implied moral violation — v.1, v.3, and v.4 each repeat the phrase <em>&quot;you shall not hide yourself&quot;</em> making willful neglect the named sin</li>
+<li>No court penalty is prescribed but the repeated prohibition implies Yahweh's awareness of the temptation to look away</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>The remedy is <strong>embedded in the command itself</strong> — restore it, help it up, take it home until claimed; restitution of action is the only path given</li>
+</ul>
+</li>
+</ul>
+<h1 id="strong-august-7-strong-do-not-take-the-mother-bird-with-the-young-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-6-7-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-6-7-a" tabindex="-1"><strong>August 7</strong>: Do Not Take the Mother Bird with the Young: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+22:6-7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 22:6-7</a></h1>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>If you come across a bird's next
+<ul>
+<li>in a tree</li>
+<li>on a ground</li>
+<li>with young ones or eggs
+<ul>
+<li>the hen sitting on the young or the eggs</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do not
+<ul>
+<li>take the hen with the young <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li>let the hen go <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>take the young for yourself <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+</ul>
+</li>
+<li>So that
+<ul>
+<li>it may be well with you</li>
+<li>you may prolong your days.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>Verse 7 — explicit and direct blessing stated within the passage — <em>&quot;that it may be well with you and that you may prolong your days&quot;</em></li>
+<li>One of the relatively rare commands in Deuteronomy where the blessing is named within the command itself rather than in surrounding context</li>
+<li>Notably the same blessing formula attached to honoring father and mother (Deut. 5:16; Ex. 20:12) — long life tied to a command that preserves a source of life</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None explicitly stated</li>
+<li>The structure of the passage is entirely positive — the blessing for compliance is named but no penalty for violation is given</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+</ul>
+</li>
+</ul>
+<h1 id="strong-august-8-strong-do-not-muzzle-the-ox-a-href-https-www-biblegateway-com-passage-search-deuteronomy-25-4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-25-4-a" tabindex="-1"><strong>August 8</strong>: Do Not Muzzle the Ox: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+25:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 25:4</a></h1>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Do not
+<ul>
+<li>muzzle ox <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
+<ul>
+<li>when he treads out the grain</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated</li>
+<li>The implied blessing is productive labor — an ox permitted to eat while threshing works willingly and sustainably; the one who honors this principle benefits from the animal's full strength</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None explicitly stated within the verse</li>
+<li>No court-administered penalty is named — the command stands as a single sentence without elaboration</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+</ul>
+</li>
+<li><strong><mark style="background:#cd04BBA6">Personal Observations</mark></strong>
+<ul>
+<li>Paul applies this verse in 1 Corinthians 9:9-10 and 1 Timothy 5:18 as a principle extending to <strong>human laborers and those who minister</strong> — <em>&quot;the laborer deserves his wages&quot;</em> — broadening the consequence of violation beyond the animal to the realm of human justice</li>
+<li>The connection to Deuteronomy 24:14-15 is direct — both protect those who labor from being deprived of what sustains them</li>
+</ul>
+</li>
+</ul>
+<h1 id="strong-august-9-strong-build-a-parapet-for-your-roof-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-8-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-8-a" tabindex="-1"><strong>August 9</strong>: Build a Parapet for Your Roof: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+22:8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 22:8</a></h1>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>When you build a new house</li>
+<li>Do
+<ul>
+<li>make a railing around your roof <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+</ul>
+</li>
+<li>So that
+<ul>
+<li>you don't bring blood on your house
+<ul>
+<li>if someone falls from there</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated</li>
+<li>The implied blessing is protection of life — the command exists to prevent accidental death; a household that builds with care for others preserves life and avoids bloodguilt</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Verse 8 — failure to build the parapet brings bloodguilt (<em>dam</em> — דָּם) upon the house if someone falls</li>
+<li>The rationale is explicit — <em>&quot;lest you bring the guilt of blood upon your house if anyone falls from it&quot;</em></li>
+<li>Bloodguilt (<em>dam</em>) throughout Torah is among the most serious categories of moral liability — it attaches to the household, not merely the individual, and is not easily expiated (cf. Num. 35:33 — blood pollutes the land)</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed within the verse</li>
+<li>Bloodguilt in Torah generally has no offering remedy when it results from negligence causing death — Numbers 35:33 states explicitly that blood can only be atoned for by the blood of the one who shed it</li>
+<li>The remedy here is <strong>preventive</strong> — build the parapet before anyone falls; once bloodguilt is incurred no sacrificial path is <strong>named</strong></li>
+</ul>
+</li>
+</ul>
 <p><strong>August 10</strong>: Deuteronomy 23:24-25 – “If you enter your neighbor’s vineyard, you may eat all the grapes you want, but do not put any in a basket. If you enter your neighbor’s grainfield, you may pick kernels with your hands...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(limited use of neighbor’s produce)</p>
 <p><strong>August 11</strong>: Deuteronomy 24:6 – “Do not take a pair of millstones—not even the upper one—as security for a debt, because that would be taking a person’s livelihood as security.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(protect means of living)</p>
 <p><strong>August 12</strong>: Deuteronomy 24:10-13 – “When you make a loan of any kind to your neighbor, do not go into their house to get what is offered to you as a pledge. Stay outside...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong>(dignity in lending)</p>
@@ -3517,6 +3922,22 @@ Commandment Reading Plan August
 <li><a href="#strong-august-1-strong-do-not-wrong-the-sojourner-a-href-https-www-biblegateway-com-passage-search-exodus-2022-21-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-22-21-a">August 1: Do Not Wrong the Sojourner: Exodus 22:21</a>
 </li>
 </ol>
+</li>
+<li><a href="#strong-august-2-strong-justice-for-the-vulnerable-a-href-https-www-biblegateway-com-passage-search-deuteronomy-2024-3-a17-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-17-18-a">August 2: Justice for the Vulnerable Deuteronomy 24:17-18</a>
+</li>
+<li><a href="#strong-august-3-strong-do-not-curse-the-deaf-or-stumble-the-blind-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a14-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-14-a">August 3: Do Not Curse the Deaf or Stumble the Blind: Leviticus 19:14</a>
+</li>
+<li><a href="#strong-august-4-strong-do-not-curse-the-deaf-or-trip-the-blind-a-href-https-www-biblegateway-com-passage-search-deuteronomy-27-18-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-27-18-a">August 4: Do Not Curse the Deaf or Trip the Blind: Deuteronomy 27:18</a>
+</li>
+<li><a href="#strong-august-5-strong-return-your-enemy-s-lost-animal-a-href-https-www-biblegateway-com-passage-search-exodus-2023-4-5-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-23-4-5-a">August 5: Return Your Enemy's Lost Animal: Exodus 23:4-5</a>
+</li>
+<li><a href="#strong-august-6-strong-restore-what-is-lost-to-your-brother-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-1-4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-1-4-a">August 6: Restore What Is Lost to Your Brother: Deuteronomy 22:1-4</a>
+</li>
+<li><a href="#strong-august-7-strong-do-not-take-the-mother-bird-with-the-young-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-6-7-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-6-7-a">August 7: Do Not Take the Mother Bird with the Young: Deuteronomy 22:6-7</a>
+</li>
+<li><a href="#strong-august-8-strong-do-not-muzzle-the-ox-a-href-https-www-biblegateway-com-passage-search-deuteronomy-25-4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-25-4-a">August 8: Do Not Muzzle the Ox: Deuteronomy 25:4</a>
+</li>
+<li><a href="#strong-august-9-strong-build-a-parapet-for-your-roof-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-8-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-8-a">August 9: Build a Parapet for Your Roof: Deuteronomy 22:8</a>
 </li>
 </ol>
 </nav>
