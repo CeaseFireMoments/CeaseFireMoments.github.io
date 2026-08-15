@@ -3,49 +3,49 @@
 ---
 
 # Define
-- Torah ( תּוֹרָה)  = the law [[Gate of Wisdom/L/Law\|Law]]
+- Torah ( תּוֹרָה)  = the [[Gate of Wisdom/L/Law\|Law]]
 - Root Word: yārâ to teach or to throw (throw ball; shoot arrow; point finger; etc)
 - The Hebrew word means instruction or teaching.
 - When used as a name = first five books of the Bible, containing the “everlasting instruction” of YHWH for his people. 
-- The Law or Torah is not referring to the just “10 Commandments” 
+- The Law or Torah is not referring to the just “10 Commandments” [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]
 - Torah, which can mean teaching, paired with the Prophets, would have meant what we know as the entire Old Testament
 - Teaching, theory; Torah – Hebrew conjugation tables (https://www.pealim.com/dict/4994-tora/)
 
 ## Torah refers to:
 1. The Law of Moses, the First Five Books of the Scriptures  (Pentateuch  Chumash) Five Books of Moses (Chumash)   and all they contain.  
-2. The Written Torah : she-bi-khetav 
-3. The Oral Torah  she-be-al peh 
+2. The [[Zunpublished/Written Torah\|Written Torah]] : she-bi-khetav 
+3. The [[Zunpublished/Oral Torah\|Oral Torah]]  she-be-al peh 
 4. It can refer to a body of laws for a specific subject such as:
-	 Torah of Grain offerings (or meal)
-	 Torah of Guilt offerings  (or Trespass)
-	 Torah of Sin offerings 
-	 Torah of Burnt Offerings
-	 Torah of Peace Offerings
-	 Torah of Priests
-	 Torah of Feasts (Appointed Times )
+	 Torah of [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]] (or meal)
+	 Torah of [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]  (or Trespass)
+	 Torah of [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]] 
+	 Torah of [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
+	 Torah of [[Gate of Wisdom/Offering/Peace Offering\|Peace Offering]]
+	 Torah of [[Zunpublished/Priest\|Priest]]
+	 Torah of [[Gate of Wisdom/Appointed Time/Feast\|Feast]] ([[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]] )
 5. In Modern times it is used to incorporate all of Jewish laws and traditions
 # Related words
 - Also called The Teachings
 - Torah partitioned into Categories:
 	- Mishpatim (the judgments) [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 	- Chukot (The Statutes) [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
-	- Edut (The Testimonies) 
-	- Mitzvot (The Commands) [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]
+	- Edut (The Testimonies) [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]
+	- Mitzvot (The Commands) [[Gate of Wisdom/M/Mitzvot\|Mitzvot]] 
 	- Torot (The law/ codes)
 ## Common Translations:
 
-- The Law  or The Command  
+- The Law  or The Command  [[Zunpublished/The Command\|The Command]]
 	- The Written Torah 
 	- The Oral Torah 
 	- Book of the Law 
 	- Law of Moses 
 - Commandments  
 	- The Ten Commandments
-	- Tables of Stone  or Tablets
-	- The Testimony 
-	- The Witness 
+	- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]  or Tablets 
+	- The [[Gate of Wisdom/T/Testimony\|Testimony]]
+	- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]
 - Word of God 
-- Scriptures or Writings 
+- Scriptures or Writings
 
 # Additional Info
 - And this [is] the command , the statutes  and the judgments  which Jehovah your God hath commanded to teach you, to do in the land which ye are passing over thither to possess it,  -- Deuteronomy 6 
