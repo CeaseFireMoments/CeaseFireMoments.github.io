@@ -28,6 +28,6 @@ Signet ring; to set a seal upon, mark with a seal, to seal
 
 | file.inlinks                                                                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/Sign/Mark.md\\|Mark]]</li><li>[[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey.md\\|_Mark of the Beast Scripture Survey]]</li></ul> |
+| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/_Mark of the Beast Scripture Survey.md\\|_Mark of the Beast Scripture Survey]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/Sign/Mark.md\\|Mark]]</li></ul> |
 
 { .block-language-dataview}

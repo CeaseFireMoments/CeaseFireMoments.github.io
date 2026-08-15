@@ -6,6 +6,7 @@
 - [[Gate of Wisdom/A/ahav\|ahav]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Angel of the Lord\|Angel of the Lord]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
+- [[Gate of Wisdom/L/Law\|Law]]
 - [[Olive Branch Reconciliations/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
 - [[Gate of Wisdom/L/Lawlessness\|Lawlessness]]
 - [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]

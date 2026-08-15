@@ -174,6 +174,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]                                                  |
 | [[Gate of Wisdom/Good News/Kingdom of Heaven\|Kingdom of Heaven]]                                                               |
 | [[Gate of Wisdom/K/Kipper\|Kipper]]                                                                                             |
+| [[Gate of Wisdom/L/Law\|Law]]                                                                                                   |
 | [[Gate of Wisdom/L/Lawlessness\|Lawlessness]]                                                                                   |
 | [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]                                                                               |
 | [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                                              |

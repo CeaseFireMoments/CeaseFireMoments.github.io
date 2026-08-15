@@ -20,6 +20,6 @@ Hebrews 2
 - 
 | file.inlinks                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/A/Alms.md\\|Alms]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/A/Alms.md\\|Alms]]</li><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
 
 { .block-language-dataview}

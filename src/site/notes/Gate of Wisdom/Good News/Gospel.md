@@ -9,6 +9,8 @@
 		- Mark 1:1 it is the euangelion of Yeshua the Messiah
 		- Romans 1:1-4 Paul defines it as the message concerning God's Son, descended from David, declared Son of God by the resurrection
 		- 1 Corinthians 15:1-4 he defines it explicitly as the death, burial, and resurrection of Messiah according to the Scriptures.
+	- Was taught to Abraham in the Old Testament
+		- Galatians 3:8 The Scripture, foreseeing that God would justify the Gentiles by faith, preached the Good News beforehand to Abraham, saying, “In you all the nations will be blessed.” 9 So then, those who are of faith are blessed with the faithful Abraham.
 - Hebrew: besorah (בְּשׂוֹרָה) — from basar (בָּשַׂר), "to bring/announce news." 
 	- Isaiah 52:7 and Isaiah 61:1 define the content of the besorah as the reign of YHWH, salvation, and release — the same content Yeshua applies to himself in Luke 4:18-19.
 # Related Words
