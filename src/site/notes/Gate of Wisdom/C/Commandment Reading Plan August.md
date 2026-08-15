@@ -261,19 +261,168 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
     - Bloodguilt in Torah generally has no offering remedy when it results from negligence causing death — Numbers 35:33 states explicitly that blood can only be atoned for by the blood of the one who shed it
     - The remedy here is **preventive** — build the parapet before anyone falls; once bloodguilt is incurred no sacrificial path is **named**
 
-**August 10**: Deuteronomy 23:24-25 – “If you enter your neighbor’s vineyard, you may eat all the grapes you want, but do not put any in a basket. If you enter your neighbor’s grainfield, you may pick kernels with your hands...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(limited use of neighbor’s produce)  
+# **August 10**: Eating From Your Neighbor's Vineyard and Field: [Deuteronomy 23:24-25](https://www.biblegateway.com/passage/?search=Deuteronomy+23:24-25&version=WEB;NET;OJB)
 
-**August 11**: Deuteronomy 24:6 – “Do not take a pair of millstones—not even the upper one—as security for a debt, because that would be taking a person’s livelihood as security.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(protect means of living)  
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- When you come into your neighbor's
+		- vineyard
+		- standing grain
+	- Do
+		- eat your fill of grapes #Dos 
+			- at your own pleasure
+		- pluck the ears with your hand #Dos 
+			- with your hand
+	- Do Not
+		- put any in your container #DoNot 
+		- use a sickle on the standing grain #DoNot 
+- **Blessing:**
+    - None explicitly stated
+    - The implied blessing is **communal generosity with boundaries** — a neighbor's field and vineyard are accessible to the hungry passerby, reflecting the same spirit as the gleaning laws (Lev. 19:9-10; Deut. 24:19-21)
+- **Penalty or Consequence:**
+    - The passage itself draws the boundary — **you shall not put any in your vessel** (v.24) and **you shall not use a sickle** (v.25)
+    - The violation is not eating but **taking beyond immediate need** — converting a provision for hunger into a commercial harvest at the neighbor's expense 
+- **Offering or Ransom:**
+    - None prescribed
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The disciples of Yeshua are seen doing exactly this in Matthew 12:1; Mark 2:23; Luke 6:1
 
-**August 12**: Deuteronomy 24:10-13 – “When you make a loan of any kind to your neighbor, do not go into their house to get what is offered to you as a pledge. Stay outside...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(dignity in lending)  
+# **August 11**: Do Not Take a Mill or Millstone as Pledge: [Deuteronomy 24:6](https://www.biblegateway.com/passage/?search=Deuteronomy+24:6&version=WEB;NET;OJB)
 
-**August 13**: Deuteronomy 24:19-21 – “When you are harvesting in your field and you overlook a sheaf, do not go back to get it. Leave it for the foreigner, the fatherless and the widow...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(gleaning for poor)  
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not
+		- take the mill as a pledge #DoNot 
+		- take the millstone as a pledge #DoNot 
+	- Because
+		- he takes a life in pledge
+- **Blessing:**
+    - None explicitly stated
+    - The implied blessing is **preservation of life and livelihood** — a household that retains its millstone retains its ability to grind grain and feed itself; the community that honors this principle protects the most vulnerable from destitution
+- **Penalty or Consequence:**
+    - Verse 6 states the rationale directly — _"for he takes a life in pledge"_ (_ki nefesh hu chovel_ — כִּי־נֶפֶשׁ הוּא חֹבֵל)
+    - The millstone is not merely property — it is _nefesh_ (נֶפֶשׁ) — life itself; to take it is to take the person's means of sustaining life
+- **Offering or Ransom:**
+    - None prescribed
+    - The _nefesh_ framing connects this to the bloodguilt category — taking what sustains life is treated with the same gravity as threatening life itself; no sacrificial remedy is named
 
-**August 14**: Leviticus 19:9-10 – “When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings... Leave them for the poor and the foreigner...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+# **August 12**: Do Not Enter Your Neighbor's House to Take His Pledge: [Deuteronomy 24:10-13](https://www.biblegateway.com/passage/?search=Deuteronomy+24:10-13&version=WEB;NET;OJB)
 
-**August 15**: Leviticus 25:35-37 – “If any of your fellow Israelites become poor and are unable to support themselves among you, help them... Do not take interest or any profit from them...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(aid the poor)  
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- When you lend to your neighbor
+		- any kind of loan
+	- Do not
+		- go into his house #DoNot 
+			- to get his pledge
+		- if he is poor do not sleep with his pledge #DoNot 
+	- Do
+		- stand outside #Dos 
+			- the man to whom you lend
+				- will bring the pledge outside to you	
+		- if he is poor restore him to him the pledge
+			- when the sun goes down
+	- So
+		- he may sleep in his garment
+		- and bless you
+		- it will be [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]] to you before YHWH
+- **Blessing:**
+    - Verse 13 — **explicit blessing stated within the passage** — returning the garment before sunset means the debtor will bless you (_uverakha_ — וּבֵרַכְךָ) and **it will be righteousness** (_tsedaqah_ — צְדָקָה) **to you before Yahweh your God**
+    - The act of returning the pledge is credited as _tsedaqah_ — one of the most significant terms in Torah; righteousness not merely as moral standing but as **right relationship and right action** within the covenant community
+- **Penalty or Consequence:**
+    - None explicitly stated
+    - The implicit consequence mirrors Deuteronomy 24:15 — the poor man's cry reaching Yahweh directly if the garment is withheld through the night; Yahweh Himself becomes the court of appeal
+- **Offering or Ransom:**
+    - None prescribed
+    - Consistent with the surrounding passages on treatment of the poor — restitution of action is the only remedy; return the garment, restore the dignity
 
-**August 16**: Exodus 22:25 – “If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(no interest to poor)  
+# **August 13**: Leaving Gleanings for the Poor [Deuteronomy 24:19-22](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&version=WEB;NET;OJB) 
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- When 
+		- you reap your harvest in your fields
+		- have forgotten a sheaf in the field
+		- beat your olive tree
+		- harvest you vineyard
+	- Do not
+		- go again to get the sheaf #DoNot 
+		- go over the boughs again #DoNot 
+		- do not glean it after #DoNot 
+	- Do
+		- the sheaf, bough, fruit will be for #Dos 
+			- the [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]
+			- the fatherless
+			- the widow
+		- remember that you were a slave in the land of Egypt #Dos 
+	- So that
+		- YHWH may bless you in all the work of your hands
+- **Penalty or Consequence**: 
+	- No explicit penalty, but compliance brings blessing; violation risks curses (Deut. 28:15-68).
+- **Offering or Ransom**: 
+	- None; leaving gleanings fulfills the command.
+- **<mark style="background: #CD04BBA6;">Personal Observations:</mark>**
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
+
+# **August 14**: **Provision for the Poor and Foreigner [Leviticus 19:9-10](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A9-10&version=WEB;NET;OJB) [Leviticus 23:22](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A22&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- When you reap the harvest of your land ...
+
+	- Do Not
+		- wholly reap the corners of your field #DoNot
+		- gather the gleanings of your harvest #DoNot
+		- glean your vineyard #DoNot
+		- gather the fallen grapes from your vineyard #DoNot
+	- Do
+		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/Beings/Stranger\|Stranger]] #Dos 
+		- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger #Dos 
+		- leave //the fallen grapes// for the poor and the stranger #Dos 
+	- Because
+		- YHWH is your god
+- **Penalty or Consequence**: 
+	- Not explicitly stated; the closing declaration — I am Yahweh your God — functions as both authority and implied accountability.
+- **Offering or Ransom**: 
+	- None; the act of leaving the gleanings is itself the obligation.
+- <mark style="background: #CD04BBA6;">**Personal Observations**</mark>
+	- Ruth 2:2–7
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.** 
+
+# **August 15**:  [Exodus 22:25 / Leviticus 25:35-37](https://www.biblegateway.com/passage/?search=Exodus%2022%3A25%2C%20Leviticus%2025%3A35-37&version=WEB;NET;OJB) – Lend freely to the poor / do not take interest. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor #DoNot #Dos 
+
+To My //YHWH's// People who are Poor
+If you lend money
+Do Not
+- be as a creditor //extortioner//
+- charge him interest
+
+If your brother (ach = kinsman within the covenant community) 
+- becomes poor 
+- and his hand can't support himself among you
+
+Do
+- uphold him
+- he will live with you like
+	- an alien [[Gate of Wisdom/Beings/Stranger\|Stranger]]
+	- temporary resident [[Gate of Wisdom/Beings/Sojourner\|Sojourner]]
+	- among you
+
+Do Not
+- take no interest
+- take no profit
+- lend him money at interest
+- give him your food for profit
+
+Why?
+- fear your god
+
+NET Bible note: The lending to the poor was essentially a charity, and so not to be an opportunity to make money from another person’s misfortune. 
+
+**August 16**: Exodus 22:25: See previous day
 
 **August 17**: Deuteronomy 23:19-20 – “Do not charge a fellow Israelite interest... You may charge a foreigner interest, but not a fellow Israelite...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
 

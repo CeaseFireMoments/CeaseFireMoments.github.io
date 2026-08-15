@@ -546,7 +546,7 @@ If your brother (ach = kinsman within the covenant community)
 
 Do
 - uphold him
-- he will live with you like
+- he will live with you like<mark style="background: #CD04BBA6;"></mark>
 	- an alien [[Gate of Wisdom/Beings/Stranger\|Stranger]]
 	- temporary resident [[Gate of Wisdom/Beings/Sojourner\|Sojourner]]
 	- among you

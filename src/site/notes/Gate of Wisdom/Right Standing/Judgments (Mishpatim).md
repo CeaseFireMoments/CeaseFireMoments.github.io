@@ -21,7 +21,7 @@ Mishpatim is plural
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li></ul> |
+| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
 
 { .block-language-dataview}
 ## It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
@@ -276,6 +276,34 @@ Mishpatim is plural
 - **Penalty or Consequence**: If false, husband is fined 100 shekels, whipped, and cannot divorce her (22:19); if true, wife is stoned (22:21).
 - **Offering or Ransom**: For false accusation, 100 shekels paid to the father; no atonement for guilty wife. [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
+## #LoveNeighbor Eating From Your Neighbor's Vineyard and Field: [Deuteronomy 23:24-25](https://www.biblegateway.com/passage/?search=Deuteronomy+23:24-25&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- When you come into your neighbor's
+		- vineyard
+		- standing grain
+	- Do
+		- eat your fill of grapes #Dos 
+			- at your own pleasure
+		- pluck the ears with your hand #Dos 
+			- with your hand
+	- Do Not
+		- put any in your container #DoNot 
+		- use a sickle on the standing grain #DoNot 
+- **Blessing:**
+    - None explicitly stated
+    - The implied blessing is **communal generosity with boundaries** — a neighbor's field and vineyard are accessible to the hungry passerby, reflecting the same spirit as the gleaning laws (Lev. 19:9-10; Deut. 24:19-21)
+- **Penalty or Consequence:**
+    - The passage itself draws the boundary — **you shall not put any in your vessel** (v.24) and **you shall not use a sickle** (v.25)
+    - The violation is not eating but **taking beyond immediate need** — converting a provision for hunger into a commercial harvest at the neighbor's expense 
+- **Offering or Ransom:**
+    - None prescribed
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The disciples of Yeshua are seen doing exactly this in Matthew 12:1; Mark 2:23; Luke 6:1
+
+ #05Deut  #Deuteronomy23 
 ## 18. Divorce Regulations
 - **Scripture Reference**: Deuteronomy 24:1-4
 - **Scripture Text (WEB)**: “When a man takes a wife and marries her, then it shall be, if she finds no favor in his eyes because he has found some unseemly thing in her, that he shall write her a bill of divorce, give it in her hand, and send her out of his house. When she has departed out of his house, she may go and be another man’s wife. If the latter husband hates her, and writes her a bill of divorce… or if the latter husband dies… her former husband, who sent her away, may not take her again to be his wife after she is defiled; for that is an abomination to Yahweh.”
@@ -283,7 +311,27 @@ Mishpatim is plural
 - **Offering or Ransom**: None specified; divorce certificate regulates the process. 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
+## #LoveNeighbor Do Not Take a Mill or Millstone as Pledge: [Deuteronomy 24:6](https://www.biblegateway.com/passage/?search=Deuteronomy+24:6&version=WEB;NET;OJB)
 
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not
+		- take the mill as a pledge #DoNot 
+		- take the millstone as a pledge #DoNot 
+	- Because
+		- he takes a life in pledge
+- **Blessing:**
+    - None explicitly stated
+    - The implied blessing is **preservation of life and livelihood** — a household that retains its millstone retains its ability to grind grain and feed itself; the community that honors this principle protects the most vulnerable from destitution
+- **Penalty or Consequence:**
+    - Verse 6 states the rationale directly — _"for he takes a life in pledge"_ (_ki nefesh hu chovel_ — כִּי־נֶפֶשׁ הוּא חֹבֵל)
+    - The millstone is not merely property — it is _nefesh_ (נֶפֶשׁ) — life itself; to take it is to take the person's means of sustaining life
+- **Offering or Ransom:**
+    - None prescribed
+    - The _nefesh_ framing connects this to the bloodguilt category — taking what sustains life is treated with the same gravity as threatening life itself; no sacrificial remedy is named
+
+ #05Deut #Deuteronomy24 
 ## 19. Kidnapping
 - **Scripture Reference**: Deuteronomy 24:7
 - **Scripture Text (WEB)**: “If a man is found stealing any of his brothers of the children of Israel, and he deals with him as a slave, or sells him, then that thief shall die. So you shall remove the evil from among you.”
@@ -296,13 +344,38 @@ Mishpatim is plural
 - **Penalty or Consequence**: No explicit penalty, but Miriam’s leprosy (Num. 12:10) implies divine punishment for disobedience.
 - **Offering or Ransom**: None specified; priestly instructions (Lev. 13–14) include offerings for cleansing. 
 
-## 21. Pledges and Loans
-- **Scripture Reference**: Deuteronomy 24:10-13
-- **Scripture Text (WEB)**: “When you lend your neighbor any kind of loan, you shall not go into his house to get his pledge. You shall stand outside, and the man to whom you lend shall bring the pledge out to you. If he is a poor man, you shall not sleep with his pledge. You shall surely restore to him the pledge when the sun goes down, that he may sleep in his garment and bless you. It shall be righteousness to you before Yahweh your God.”
-- **Penalty or Consequence**: No explicit penalty, but failure risks divine disfavor (Deut. 28:15-68).
-- **Offering or Ransom**: None; returning the pledge fulfills righteousness. 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
+## #LoveNeighbor Do Not Enter Your Neighbor's House to Take His Pledge: [Deuteronomy 24:10-13](https://www.biblegateway.com/passage/?search=Deuteronomy+24:10-13&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- When you lend to your neighbor
+		- any kind of loan
+	- Do not
+		- go into his house #DoNot 
+			- to get his pledge
+		- if he is poor do not sleep with his pledge #DoNot 
+	- Do
+		- stand outside #Dos 
+			- the man to whom you lend
+				- will bring the pledge outside to you	
+		- if he is poor restore him to him the pledge
+			- when the sun goes down
+	- So
+		- he may sleep in his garment
+		- and bless you
+		- it will be [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]] to you before YHWH
+- **Blessing:**
+    - Verse 13 — **explicit blessing stated within the passage** — returning the garment before sunset means the debtor will bless you (_uverakha_ — וּבֵרַכְךָ) and **it will be righteousness** (_tsedaqah_ — צְדָקָה) **to you before Yahweh your God**
+    - The act of returning the pledge is credited as _tsedaqah_ — one of the most significant terms in Torah; righteousness not merely as moral standing but as **right relationship and right action** within the covenant community
+- **Penalty or Consequence:**
+    - None explicitly stated
+    - The implicit consequence mirrors Deuteronomy 24:15 — the poor man's cry reaching Yahweh directly if the garment is withheld through the night; Yahweh Himself becomes the court of appeal
+- **Offering or Ransom:**
+    - None prescribed
+    - Consistent with the surrounding passages on treatment of the poor — restitution of action is the only remedy; return the garment, restore the dignity
+
+ #05Deut #Deuteronomy24 
 
 ## #LoveNeighbor Payment of Wages [Deuteronomy 24:14-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&version=WEB;NET;OJB) 
 

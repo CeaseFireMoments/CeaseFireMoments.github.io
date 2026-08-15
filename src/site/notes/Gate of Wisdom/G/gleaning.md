@@ -20,8 +20,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
 
 { .block-language-dataview}
