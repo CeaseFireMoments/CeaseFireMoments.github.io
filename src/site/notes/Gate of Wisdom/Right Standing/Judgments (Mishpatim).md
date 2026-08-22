@@ -19,9 +19,9 @@ Mishpatim is plural
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
 
 { .block-language-dataview}
 ## It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
@@ -49,6 +49,44 @@ Mishpatim is plural
 - **Offering or Ransom**: None specified; debt release is the commanded action.
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
+
+## #LoveNeighbor Open Your Hand to Your Poor Brother: [Deuteronomy 15:7-9](https://www.biblegateway.com/passage/?search=Deuteronomy+15:7-9&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:** 
+	- If a poor man, one of your brothers //fellow covenant community member//
+		- is within any of your gates
+			- in your land
+				- which YHWH gives you
+	- Do not
+		- harden your heart #DoNot 
+		- shut your hand from him #DoNot 
+	- Do
+		- open your hand to him #Dos 
+		- lend him sufficient for his needs #Dos 
+			- which he lacks
+	- Beware
+		- Do not
+			- have a wicked thought in your heart in the seventh year #DoNot 
+			- an eye of evil against your poor brother #DoNot 
+				- and give him nothing
+	- Because
+		- he may cry to YHWH against you
+		- it will be sin to you
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - Verse 9 — the immediate consequence named is the poor man **crying to Yahweh against you** — _"and it will be sin to you"_
+- **Offering or Ransom:**
+    - None prescribed
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The immediate context of Deuteronomy 15:4-6 frames the broader blessing — **there shall be no poor among you** if Israel fully obeys Yahweh; the open hand is both a response to blessing already received and a condition for its continuation
+    - Verse 10 of the same chapter adds — _"Yahweh your God will bless you in all your work and in all that you put your hand to"_ — directly tied to giving generously
+    - The same dynamic as Deuteronomy 24:15 — the cry of the wronged reaching Yahweh directly constitutes the court of appeal with no human intermediary
+    - The hardened heart (_yiqsheh levavkha_ — יִקְשֶׁה לְבָבְךָ) and closed hand (_ta'atsor et yadkha_ — תַּאְצֹר אֶת־יָדְךָ) are named as the moral violations — not merely the failure to give but the **deliberate withholding**
+
+ #05Deut #Deuteronomy15
 
 ## 3. Lending to the Poor
 - **Scripture Reference**: Deuteronomy 15:7-11
@@ -276,6 +314,61 @@ Mishpatim is plural
 - **Penalty or Consequence**: If false, husband is fined 100 shekels, whipped, and cannot divorce her (22:19); if true, wife is stoned (22:21).
 - **Offering or Ransom**: For false accusation, 100 shekels paid to the father; no atonement for guilty wife. [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
+## #LoveNeighbor Do Not Return a Slave Who Has Escaped: [Deuteronomy 23:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy+23:15-16&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not
+		- deliver a servant who has escaped #DoNot 
+			- to his master
+		- oppress him #DoNot 
+	- Do
+		- he will dwell with you #Dos 
+			- among you
+			- in a place of his choose
+				- within your gates
+			- where it pleases him best
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - Verse 16 — the escaped servant **shall dwell with you, in your midst, in the place he chooses** — the consequence of violation would be returning one whom Yahweh has effectively granted refuge
+    - Verse 16 adds **you shall not oppress him** (_lo tonu_ — לֹא תוֹנֶנּוּ) — oppression of the refugee servant is a named prohibition carrying the same weight as oppression of the _ger_ throughout Torah (Ex. 22:21; Lev. 19:33)
+- **Offering or Ransom:**
+    - None prescribed
+    - The remedy is **embedded in the command** — let him dwell, let him choose his place, do not oppress; no sacrificial path is named
+
+ #Deuteronomy23 #05Deut 
+## #LoveNeighbor Do Not Charge Interest to Your Brother: [Deuteronomy 23:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+23:19-20&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not
+		- lend on interest to a brother //fellow covenant community member// #DoNot 
+			- interest of
+				- money
+				- food
+				- anything that is lent
+	- Do (you may)
+		- charge a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] interest #Dos 
+	- So that
+		- YHWH may bless you
+			- in all that you put your hand to
+				- in the land
+					- where you go in possess it
+- **Blessing:**
+    - Verse 20 — **explicit blessing stated within the passage** — _"that Yahweh your God may bless you in all that you put your hand to in the land where you are going in to possess it"_
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+- **Offering or Ransom:**
+    - None prescribed
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The broader Deuteronomic and prophetic framework applies — Ezekiel lists charging interest among the sins that bring judgment on Israel (Ezek. 18:8, 13, 17; 22:12)
+    - Nehemiah 5:1-13 records a direct confrontation over interest charged among brothers during the rebuilding of Jerusalem — Nehemiah calls it a reproach and demands restitution    - 
+    - Restitution is the implied remedy — Nehemiah 5 confirms this; the lenders are required to **restore** fields, vineyards, olive groves, houses, and the interest charged; no sacrificial path is named
+
+ #Deuteronomy23 #05Deut 
 ## #LoveNeighbor Eating From Your Neighbor's Vineyard and Field: [Deuteronomy 23:24-25](https://www.biblegateway.com/passage/?search=Deuteronomy+23:24-25&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]

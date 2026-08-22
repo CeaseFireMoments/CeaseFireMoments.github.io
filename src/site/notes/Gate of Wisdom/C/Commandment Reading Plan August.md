@@ -420,23 +420,211 @@ Do Not
 Why?
 - fear your god
 
-NET Bible note: The lending to the poor was essentially a charity, and so not to be an opportunity to make money from another person’s misfortune. 
+<mark style="background: #CD04BBA6;">NET Bible note</mark>: The lending to the poor was essentially a charity, and so not to be an opportunity to make money from another person’s misfortune. 
 
-**August 16**: Exodus 22:25: See previous day
+# **August 16**: Exodus 22:25: See previous day
 
-**August 17**: Deuteronomy 23:19-20 – “Do not charge a fellow Israelite interest... You may charge a foreigner interest, but not a fellow Israelite...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+# **August 17**: Do Not Charge Interest to Your Brother: [Deuteronomy 23:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+23:19-20&version=WEB;NET;OJB)
 
-**August 18**: Deuteronomy 15:7-8 – “If anyone is poor among your fellow Israelites... do not be hardhearted or tightfisted toward them. Rather, be openhanded and freely lend them whatever they need.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(generosity)  
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not
+		- lend on interest to a brother //fellow covenant community member// #DoNot 
+			- interest of
+				- money
+				- food
+				- anything that is lent
+	- Do (you may)
+		- charge a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] interest #Dos 
+	- So that
+		- YHWH may bless you
+			- in all that you put your hand to
+				- in the land
+					- where you go in possess it
+- **Blessing:**
+    - Verse 20 — **explicit blessing stated within the passage** — _"that Yahweh your God may bless you in all that you put your hand to in the land where you are going in to possess it"_
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+- **Offering or Ransom:**
+    - None prescribed
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The broader Deuteronomic and prophetic framework applies — Ezekiel lists charging interest among the sins that bring judgment on Israel (Ezek. 18:8, 13, 17; 22:12)
+    - Nehemiah 5:1-13 records a direct confrontation over interest charged among brothers during the rebuilding of Jerusalem — Nehemiah calls it a reproach and demands restitution    - 
+    - Restitution is the implied remedy — Nehemiah 5 confirms this; the lenders are required to **restore** fields, vineyards, olive groves, houses, and the interest charged; no sacrificial path is named
 
-**August 19**: Deuteronomy 15:1-2 – “At the end of every seven years you must cancel debts. This is how it is to be done: Every creditor shall cancel any loan they have made to a fellow Israelite.” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) (debt release)  
+# **August 18**: Open Your Hand to Your Poor Brother: [Deuteronomy 15:7-9](https://www.biblegateway.com/passage/?search=Deuteronomy+15:7-9&version=WEB;NET;OJB)
 
-**August 20**: Leviticus 25:10 (general Jubilee equity) – “Consecrate the fiftieth year and proclaim liberty throughout the land...” (non-Temple aspects of release). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / ordinance  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:** 
+	- If a poor man, one of your brothers //fellow covenant community member//
+		- is within any of your gates
+			- in your land
+				- which YHWH gives you
+	- Do not
+		- harden your heart #DoNot 
+		- shut your hand from him #DoNot 
+	- Do
+		- open your hand to him #Dos 
+		- lend him sufficient for his needs #Dos 
+			- which he lacks
+	- Beware
+		- Do not
+			- have a wicked thought in your heart in the seventh year #DoNot 
+			- an eye of evil against your poor brother #DoNot 
+				- and give him nothing
+	- Because
+		- he may cry to YHWH against you
+		- it will be sin to you
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - Verse 9 — the immediate consequence named is the poor man **crying to Yahweh against you** — _"and it will be sin to you"_
+- **Offering or Ransom:**
+    - None prescribed
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The immediate context of Deuteronomy 15:4-6 frames the broader blessing — **there shall be no poor among you** if Israel fully obeys Yahweh; the open hand is both a response to blessing already received and a condition for its continuation
+    - Verse 10 of the same chapter adds — _"Yahweh your God will bless you in all your work and in all that you put your hand to"_ — directly tied to giving generously
+    - The same dynamic as Deuteronomy 24:15 — the cry of the wronged reaching Yahweh directly constitutes the court of appeal with no human intermediary
+    - The hardened heart (_yiqsheh levavkha_ — יִקְשֶׁה לְבָבְךָ) and closed hand (_ta'atsor et yadkha_ — תַּאְצֹר אֶת־יָדְךָ) are named as the moral violations — not merely the failure to give but the **deliberate withholding**
 
-**August 21**: Deuteronomy 15:12-15 (general release principles) – “If any of your people... sell themselves to you and serve you six years, in the seventh year you must let them go free...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  
+# **August 19**: The Seventh Year Release: [Deuteronomy 15:1-2](https://www.biblegateway.com/passage/?search=Deuteronomy+15:1-2&version=WEB;NET;OJB)
 
-**August 22**: Deuteronomy 23:15-16 – “If a slave has taken refuge with you, do not hand them over to their master. Let them live among you wherever they like...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(protect the vulnerable)  
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:** 
+	- At the end of every seven years
+	- Do
+		- Cancel debts #Dos 
+			- every creditor shall release what he has lent 
+				- to his neighbor //those living among you//
+	- Do not
+		- require payment from #DoNot 
+			- neighbor //those living among you//
+			- brother //fellow covenant member//
+	- Because
+		- YHWH's release has been proclaimed
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+- **Offering or Ransom:**
+    - None prescribed
+    - The shemitah is a **fixed covenantal ordinance** — the land's rest and the debt release are not redeemable through sacrifice; the only compliance is observance
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The immediate context of Deuteronomy 15:4-6 ties the shemitah cycle to **no poverty among the people** and Yahweh blessing Israel abundantly — lending to nations rather than borrowing, ruling rather than being ruled
+	- Deuteronomy 15:9 names the consequence of hardening the heart against release — the poor man's cry reaching Yahweh and **it being sin** to the one who withheld
+    - 2 Chronicles 36:21 connects Israel's exile directly to the land **making up its missed shemitah years** — _"until the land had enjoyed its Sabbaths"_ — making the accumulated failure to observe release a contributing cause of national judgment
 
-**August 23**: Leviticus 19:29 – “Do not degrade your daughter by making her a prostitute, or the land will turn to prostitution...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(protect family moral purity)  
+# **August 20**: Proclaim Liberty Throughout the Land: [Leviticus 25:10](https://www.biblegateway.com/passage/?search=Leviticus+25%3A10&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+* **Outline:**
+   * Do
+	   * make the fiftieth year [[Gate of Wisdom/H/Holy\|Holy]] #Dos 
+	   * proclaim liberty throughout the land #Dos 
+		   * to all its inhabitants
+	   * it will be a [[Gate of Wisdom/Appointed Time/Jubilee\|Jubilee]] to you #Dos 
+		   * return to your own property
+		   * return to your family
+
+* **Blessing:**
+   * The Jubilee itself is framed as a blessing — land returns to its original owners, debts are released, and servants go free. The broader context of Leviticus 25 ties obedience in the Jubilee year to God's provision — *"I will command my blessing on you in the sixth year, and it shall bring forth produce for three years"* (Leviticus 25:21, WEB).
+   * Return to family and ancestral property restores the covenant land distribution established under Joshua.
+
+* **Penalty or Consequence:**
+   * No explicit penalty stated in this verse.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated in the verse itself.
+   * The Jubilee year begins on Yom Kippur — the Day of Atonement (v.9) — the one day in the year defined by atonement and the sending away of the scapegoat. The liberty proclaimed in v.10 is inseparable from the atonement that precedes it on the tenth day of the seventh month.
+* <mark style="background: #CD04BBA6;">Personal observations</mark>
+	* Leviticus 26:34-35 frames the broader consequence for failure to observe the land's appointed rests — the land will enjoy its Sabbaths during the exile of the people, implying that failure to keep Jubilee and Sabbath years results in removal from the land.
+	* Jeremiah 34:13-17 records a direct judgment connected to the failure to release servants as required — *"you have not obeyed me in proclaiming liberty, every one to his brother and every one to his neighbor. Behold, I proclaim to you a liberty, says Yahweh, to the sword, to the pestilence, and to the famine."* (WEB)
+
+# **August 21**: Release Your Hebrew Servant in the Seventh Year: [Deuteronomy 15:12-15](https://www.biblegateway.com/passage/?search=Deuteronomy+15:12-15&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:** 
+	- If your brother is sold to you and serves six years
+		- a Hebrew
+			- man
+			- woman
+	- Do
+		- In the seventh year let him go free #Dos 
+		- furnish him liberally out of your #DoNot 
+			- flock
+			- threshing floor
+			- wine press
+	- Do not
+		- let him go empty handed #DoNot 
+	- Because
+		- YHWH has blessed you
+			- you will give to him
+		- Remember you were a slave
+			- in the land of Egypt
+			- YHWH redeemed you
+		- I command you this thing today
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+- **Offering or Ransom:**
+    - None prescribed
+    - The remedy is **embedded in the command** — release and furnish liberally; no sacrificial path compensates for withholding freedom
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The rationale of v.15 — _"you shall remember that you were a slave in Egypt and Yahweh your God redeemed you"_ — frames the act of release as **living out received redemption**; the blessing is participation in the pattern of Yahweh's own liberating character
+	- The broader framework of Jeremiah 34:8-22 provides the most direct consequence on record — Israel made and then broke a covenant to release Hebrew servants; Yahweh's response was to **proclaim liberty to the sword, pestilence, and famine** against them and to hand Jerusalem to Nebuchadnezzar
+
+**August 22**: Do Not Return a Slave Who Has Escaped: [Deuteronomy 23:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy+23:15-16&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not
+		- deliver a servant who has escaped #DoNot 
+			- to his master
+		- oppress him #DoNot 
+	- Do
+		- he will dwell with you #Dos 
+			- among you
+			- in a place of his choose
+				- within your gates
+			- where it pleases him best
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - Verse 16 — the escaped servant **shall dwell with you, in your midst, in the place he chooses** — the consequence of violation would be returning one whom Yahweh has effectively granted refuge
+    - Verse 16 adds **you shall not oppress him** (_lo tonu_ — לֹא תוֹנֶנּוּ) — oppression of the refugee servant is a named prohibition carrying the same weight as oppression of the _ger_ throughout Torah (Ex. 22:21; Lev. 19:33)
+- **Offering or Ransom:**
+    - None prescribed
+    - The remedy is **embedded in the command** — let him dwell, let him choose his place, do not oppress; no sacrificial path is named
+
+# **August 23**: Do Not Profane Your Daughter by Making Her a Prostitute: [Leviticus 19:29](https://www.biblegateway.com/passage/?search=Leviticus+19%3A29&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* **Outline:**
+   * Do not
+	   * Profane your daughter #DoNot 
+		   * to make her a prostitute
+* Because
+	* the land fall to prostitution
+	* the land become full of wickedness
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse against the father.
+   * The consequence stated within the verse itself is communal and covenantal — *"lest the land fall into prostitution and the land become full of wickedness"* (v.29, WEB) — the sin of the individual corrupts the land itself, echoing the warning of Leviticus 18:24-28.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The framing is entirely covenantal — the land bears the consequence of the people's sexual sin, and no substitution is offered in its place.
 
 **August 24**: Leviticus 18:6 – “No one is to approach any close relative to have sexual relations. I am the LORD.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (forbidden relations – general summary)  
 

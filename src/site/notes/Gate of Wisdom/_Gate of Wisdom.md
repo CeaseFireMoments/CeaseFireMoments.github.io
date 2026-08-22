@@ -166,6 +166,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Jesus\|Jesus]]                                                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]                                                                                 |
 | [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]                                                 |
+| [[Gate of Wisdom/Appointed Time/Jubilee\|Jubilee]]                                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]                                                                             |
 | [[Gate of Wisdom/J/Judge\|Judge]]                                                                                               |
 | [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment\|Judgment]]                                              |

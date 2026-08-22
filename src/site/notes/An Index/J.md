@@ -13,6 +13,7 @@
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]
 - [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]
+- [[Gate of Wisdom/Appointed Time/Jubilee\|Jubilee]]
 - [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]
 - [[Gate of Wisdom/J/Judge\|Judge]]
 - [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment\|Judgment]]
