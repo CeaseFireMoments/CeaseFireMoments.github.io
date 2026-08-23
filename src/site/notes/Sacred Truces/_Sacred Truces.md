@@ -4,6 +4,7 @@
 
 | Table of Content                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sacred Truces/When The Kingdom of God Comes ...\|When The Kingdom of God Comes ...]]                                                                           |
 | [[Sacred Truces/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]                                                             |
 | [[_Assets/Clippings/Is Jesus Pre-trib, mid-trib, or post-trib\|Is Jesus Pre-trib, mid-trib, or post-trib]]                                                       |
 | [[Sacred Truces/Scripture Survey Christian Spring Holidays\|Scripture Survey Christian Spring Holidays]]                                                         |
@@ -63,7 +64,6 @@
 | [[Sacred Truces/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]                                                   |
 | [[Sacred Truces/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]                                                                                 |
 | [[Sacred Truces/Who May Dwell With God\|Who May Dwell With God]]                                                                                                 |
-| [[Sacred Truces/When The Kingdom of God Comes ...\|When The Kingdom of God Comes ...]]                                                                           |
 | [[Sacred Truces/Traditional Teaching vs Scripture - Isaiah 66\|Traditional Teaching vs Scripture - Isaiah 66]]                                                   |
 | [[Sacred Truces/Scripture Survey Shavuot Pentecost\|Scripture Survey Shavuot Pentecost]]                                                                         |
 | [[Sacred Truces/Know the Children of God How\|Know the Children of God How]]                                                                                     |

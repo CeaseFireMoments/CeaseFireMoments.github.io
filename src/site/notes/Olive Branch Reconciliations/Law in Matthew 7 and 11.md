@@ -3,7 +3,7 @@
 ---
 
 
-[[_My Bible/40 Matthew/Matthew 7\|Matthew 7]]:12 All things therefore whatsoever ye would that men should do unto you, even so do ye also unto them: for this is the **law** and the prophets.
+[[_TLV Version/40 Matthew/Matthew 7\|_TLV Version/40 Matthew/Matthew 7]]:12 All things therefore whatsoever ye would that men should do unto you, even so do ye also unto them: for this is the **law** and the prophets.
 
 - **Define**: the law and
     - Greek Word: νόμος (nomos)
@@ -21,7 +21,7 @@
 - **Why**: NA
 - **How**: NA
 
-[[_My Bible/40 Matthew/Matthew 11\|Matthew 11]]:11 I assure you _and_ most solemnly say to you, among those born of women there has not risen _anyone_ greater than John the Baptist; yet the one who is least in the kingdom of heaven is greater [in privilege] than he. 12 From the days of John the Baptist until now the kingdom of heaven suffers violent assault, and violent men seize it by force [as a precious prize]. 13 For all the prophets and the **Law** prophesied up until John. 14 And if you are willing to accept it, John himself is [the fulfillment of] Elijah [as the messenger] who was to come [before the kingdom]. 15 He who has ears to hear, let him hear _and_ heed My words.
+[[_TLV Version/40 Matthew/Matthew 11\|_TLV Version/40 Matthew/Matthew 11]]:11 I assure you _and_ most solemnly say to you, among those born of women there has not risen _anyone_ greater than John the Baptist; yet the one who is least in the kingdom of heaven is greater [in privilege] than he. 12 From the days of John the Baptist until now the kingdom of heaven suffers violent assault, and violent men seize it by force [as a precious prize]. 13 For all the prophets and the **Law** prophesied up until John. 14 And if you are willing to accept it, John himself is [the fulfillment of] Elijah [as the messenger] who was to come [before the kingdom]. 15 He who has ears to hear, let him hear _and_ heed My words.
 
 - **Define**: the law and
     - Greek Word: νόμος (nomos)

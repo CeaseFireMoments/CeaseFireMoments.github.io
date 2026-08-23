@@ -580,7 +580,7 @@ Why?
 	- The rationale of v.15 — _"you shall remember that you were a slave in Egypt and Yahweh your God redeemed you"_ — frames the act of release as **living out received redemption**; the blessing is participation in the pattern of Yahweh's own liberating character
 	- The broader framework of Jeremiah 34:8-22 provides the most direct consequence on record — Israel made and then broke a covenant to release Hebrew servants; Yahweh's response was to **proclaim liberty to the sword, pestilence, and famine** against them and to hand Jerusalem to Nebuchadnezzar
 
-**August 22**: Do Not Return a Slave Who Has Escaped: [Deuteronomy 23:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy+23:15-16&version=WEB;NET;OJB)
+# **August 22**: Do Not Return a Slave Who Has Escaped: [Deuteronomy 23:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy+23:15-16&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]

@@ -4,7 +4,7 @@
 
 It's interesting what you see when you set aside preconceived ideas and things you've been told without investigating yourself.
 
-[[Luke17\|Luke17]], Matthew, [[_My Bible/66 Revelation/Revelation 14\|Revelation 14]], [[_My Bible/05 Deuteronomy/Deuteronomy 6\|Deuteronomy 6]],
+[[Luke17\|Luke17]], Matthew, [[_TLV Version/66 Revelation/Revelation 14\|_TLV Version/66 Revelation/Revelation 14]], [[_TLV Version/05 Deuteronomy/Deuteronomy 6\|_TLV Version/05 Deuteronomy/Deuteronomy 6]],
 
 ![Marked Luke 17_20_37.png](/img/user/_Assets/attachments/Marked%20Luke%2017_20_37.png)
 
