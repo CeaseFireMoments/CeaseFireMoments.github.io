@@ -1,0 +1,98 @@
+---
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/feast-of-trumpets-survey/","tags":["F","T","AppointedTime"],"dg-note-properties":{"tags":["F","T","AppointedTime"],"Bible-References":null}}
+---
+
+# Direct References
+
+- Leviticus 23:23-25
+	- YHWH spoke to Moses
+		- Speak to the children of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] ([[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]])
+			- In the Seventh Month
+				- on the 1st day
+				- Solemn rest //[[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]//
+				- memorial of blowing of trumpets 
+				- [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
+				- Do no regular work //melekhet avodah ([[Gate of Wisdom/A/Avad\|Avad]])//
+				- offer an [[Gate of Wisdom/Offering/Offerings\|Offerings]] made by fire
+					- to YHWH
+	- Notes:
+		- loud blasts on the horn announced the coming of the new CIVIL year
+- Numbers 29:1
+	- In the seventh month
+		- on the first day
+		- have a [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
+		- do no regular work
+		- a day of Yom Teruah //sounding the shofar//
+- Numbers 29:1-6
+	- In the Seventh month
+		- on the first day
+		- have a [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
+		- do not regular work
+		- day of blowing of trumpets to you
+		- offer a [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
+			- for a pleasant aroma to YHWH
+			- [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]]
+		- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]
+			- to make [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]		- 
+- Nehemiah 8:2
+	- [[Gate of Wisdom/Beings/Human Beings/Ezra\|Ezra]], the [[Zunpublished/Priest\|Priest]] brought
+		- the [[Gate of Wisdom/L/Law\|Law]]
+			- before the [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]
+				- both men and women
+				- all who could hear with understanding
+		- in the seventh month
+			- on the first day
+	- Notes
+		- Ezra read and explained the Law publicly, causing the people to understand — Nehemiah 8:1-8
+		- Led the people in a covenant renewal and observance of the Feast of Tabernacles — Nehemiah 8:13-18
+
+# Related Scriptures
+— Theme of Trumpet Blowing / Shouting Before YHWH
+
+- Exodus 19:16
+- Exodus 19:19
+- Exodus 20:18
+- Leviticus 25:9
+- Numbers 10:1-9
+- Joshua 6:4-5
+- Joshua 6:20
+- Judges 7:16-22
+- 1 Samuel 13:3
+- 2 Samuel 6:15
+- 2 Samuel 15:10
+- 1 Kings 1:34
+- 1 Kings 1:39
+- 1 Chronicles 15:28
+- 2 Chronicles 13:12
+- 2 Chronicles 15:14
+- Ezra 3:10-13
+- Nehemiah 4:18-20
+- Psalm 47:5
+- Psalm 89:15
+- Psalm 98:6
+- Psalm 150:3
+- Isaiah 18:3
+- Isaiah 27:13
+- Jeremiah 4:5
+- Jeremiah 4:19
+- Jeremiah 4:21
+- Jeremiah 6:1
+- Jeremiah 51:27
+- Ezekiel 33:3-6
+- Joel 2:1
+- Joel 2:15
+- Amos 2:2
+- Amos 3:6
+- Zephaniah 1:14-16
+- Zechariah 9:14
+- Matthew 24:31
+- 1 Corinthians 14:8
+- 1 Corinthians 15:52
+- 1 Thessalonians 4:16
+- Revelation 1:10
+- Revelation 4:1
+- Revelation 8:2
+- Revelation 8:6-13
+- Revelation 9:1
+- Revelation 9:13
+- Revelation 11:15

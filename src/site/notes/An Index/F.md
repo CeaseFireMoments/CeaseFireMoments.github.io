@@ -13,6 +13,7 @@
 - [[Gate of Wisdom/Appointed Time/Feast\|Feast]]
 - [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 - [[Gate of Wisdom/Appointed Time/Feast of Trumpets\|Feast of Trumpets]]
+- [[Gate of Wisdom/Appointed Time/Feast of Trumpets Survey\|Feast of Trumpets Survey]]
 - [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
 - [[Gate of Wisdom/Appointed Time/Feast of Weeks\|Feast of Weeks]]
 - [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]

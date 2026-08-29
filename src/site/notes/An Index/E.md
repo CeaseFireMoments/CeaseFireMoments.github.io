@@ -13,6 +13,7 @@
 - [[Gate of Wisdom/E/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]
 - [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]
 - [[Gate of Wisdom/Beings/Human Beings/extortionist\|extortionist]]
+- [[Gate of Wisdom/Beings/Human Beings/Ezra\|Ezra]]
 - [[Gate of Wisdom/E/Ezrach\|Ezrach]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]

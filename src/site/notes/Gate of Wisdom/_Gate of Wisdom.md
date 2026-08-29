@@ -111,6 +111,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/E/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                                               |
 | [[Gate of Wisdom/Beings/Human Beings/extortionist\|extortionist]]                                                               |
+| [[Gate of Wisdom/Beings/Human Beings/Ezra\|Ezra]]                                                                               |
 | [[Gate of Wisdom/E/Ezrach\|Ezrach]]                                                                                             |
 | [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                                          |
 | [[Gate of Wisdom/F/Fast\|Fast]]                                                                                                 |

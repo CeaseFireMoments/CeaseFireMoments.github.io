@@ -10,6 +10,7 @@
 - [[Sacred Truces/Christianity and the Feast Of Trumpets\|Christianity and the Feast Of Trumpets]]
 - [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 - [[Gate of Wisdom/Appointed Time/Feast of Trumpets\|Feast of Trumpets]]
+- [[Gate of Wisdom/Appointed Time/Feast of Trumpets Survey\|Feast of Trumpets Survey]]
 - [[Gate of Wisdom/H/Hunger and Thirst\|Hunger and Thirst]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]
 - [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]
