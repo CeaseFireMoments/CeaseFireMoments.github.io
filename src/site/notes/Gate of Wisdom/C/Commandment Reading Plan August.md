@@ -648,7 +648,29 @@ Why?
    * No offering or ransom stated. Leviticus 18:29 states that anyone who does any of these abominations shall be cut off from among the people — the severity of the language suggests no substitution is available for these violations.
    * The closing formula *"I am Yahweh your God"* (v.6) grounds the prohibition in God's own character and covenant identity rather than in any transactional framework.
 
-**August 25**: Leviticus 20:10 (selected general) – “If a man commits adultery with another man’s wife...” (moral equity principle). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / judgment  
+# **August 25**: Do Not Commit Adultery: [Leviticus 20:10](https://www.biblegateway.com/passage/?search=Leviticus+20%3A10&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+* **Outline:**
+   * The man who
+	   * commits [[Gate of Wisdom/A/Adultery\|Adultery]] #DoNot 
+		   * with another man's wife
+		   * with a neighbor's wife
+	* the adulterer and the adulteress
+		* shall be put to death #Dos 
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+
+* **Penalty or Consequence:**
+   * Both the adulterer and the adulteress shall surely be put to death — stated explicitly within the verse itself: *"the adulterer and the adulteress shall surely be put to death."* (WEB)
+   * Deuteronomy 22:22 — *"both of them shall die, the man who lay with the woman and the woman."* (WEB) — confirming the double penalty applies to both parties equally.
+   * Proverbs 6:32-33 — *"he who commits adultery with a woman lacks understanding... he will get wounds and dishonor, and his disgrace will not be wiped away."* (WEB) — the consequence extends beyond legal penalty into permanent communal shame.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated.
+   * Proverbs 6:34-35 reinforces that no ransom is available in this case — *"He will not spare in the day of vengeance. He won't accept any ransom, neither will he rest content, though you give many gifts."* (WEB) — making adultery one of the few violations where the text explicitly closes the door on substitution.
 
 # **August 26**: The Proof of Virginity: [Deuteronomy 22:13-21](https://www.biblegateway.com/passage/?search=Deuteronomy+22:13-21&version=WEB;NET;OJB)
 

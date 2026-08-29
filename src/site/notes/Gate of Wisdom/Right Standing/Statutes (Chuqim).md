@@ -452,7 +452,7 @@
    * The closing formula *"I am Yahweh your God"* (v.6) grounds the prohibition in God's own character and covenant identity rather than in any transactional framework.
 
 
-## #LoveNeighbor Honor Your Mother and Father and Keep My Sabbaths: [Leviticus 19:3](https://www.biblegateway.com/passage/?search=Leviticus+19%3A3&version=WEB;NET;OJB)
+## #LoveNeighbor #Leviticus19 #03Lev  Honor Your Mother and Father and Keep My Sabbaths: [Leviticus 19:3](https://www.biblegateway.com/passage/?search=Leviticus+19%3A3&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -480,12 +480,17 @@
 
  
 
-## Do Not Commit Adultery: [Leviticus 20:10](https://www.biblegateway.com/passage/?search=Leviticus+20%3A10&version=WEB;NET;OJB)
+## #LoveNeighbor #03Lev #Leviticus20 Do Not Commit Adultery: [Leviticus 20:10](https://www.biblegateway.com/passage/?search=Leviticus+20%3A10&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 * **Outline:**
-   * 
+   * The man who
+	   * commits [[Gate of Wisdom/A/Adultery\|Adultery]] #DoNot 
+		   * with another man's wife
+		   * with a neighbor's wife
+	* the adulterer and the adulteress
+		* shall be put to death #Dos 
 
 * **Blessing:**
    * No explicit blessing stated in the verse.
@@ -501,7 +506,7 @@
 
 
 
-## #LoveNeighbor  Proclaim Liberty Throughout the Land: [Leviticus 25:10](https://www.biblegateway.com/passage/?search=Leviticus+25%3A10&version=WEB;NET;OJB)
+## #LoveNeighbor  #Leviticus25 #03Lev  Proclaim Liberty Throughout the Land: [Leviticus 25:10](https://www.biblegateway.com/passage/?search=Leviticus+25%3A10&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -529,4 +534,4 @@
 	* Leviticus 26:34-35 frames the broader consequence for failure to observe the land's appointed rests — the land will enjoy its Sabbaths during the exile of the people, implying that failure to keep Jubilee and Sabbath years results in removal from the land.
 	* Jeremiah 34:13-17 records a direct judgment connected to the failure to release servants as required — *"you have not obeyed me in proclaiming liberty, every one to his brother and every one to his neighbor. Behold, I proclaim to you a liberty, says Yahweh, to the sword, to the pestilence, and to the famine."* (WEB)
 
- #Leviticus25 #03Lev 
+ 
