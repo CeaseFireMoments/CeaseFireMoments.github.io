@@ -321,6 +321,11 @@
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/appointed-time/feast-of-trumpets/">Feast of Trumpets </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
 <a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/appointed-time/feast-of-unleavened-bread/">Feast of Unleavened Bread </a>
 </div>
 </div>
@@ -2685,7 +2690,17 @@
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/sacred-truces/celebrating-the-birth-of-a-god-in-december-part-5-4-feast-of-trumpets/">Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets) </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
 <a data-note-icon="" style="text-decoration:none" class="filename" href="/sacred-truces/celebrating-the-birth-of-a-god-in-december-part-5-5-day-of-atonement/">Celebrating the Birth of A God in December (Part 5.5 Day of Atonement) </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/sacred-truces/christianity-and-the-feast-of-trumpets/">Christianity and the Feast Of Trumpets </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -3367,7 +3382,7 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-23T19:58:13.686Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-29T17:05:24.953Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian print">
 <header>
 <h1 data-note-icon="">Commandment Reading Plan August</h1>
@@ -4619,14 +4634,357 @@ Do Not</p>
 </ul>
 </li>
 </ul>
-<p><strong>August 24</strong>: Leviticus 18:6 – “No one is to approach any close relative to have sexual relations. I am the LORD.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> (forbidden relations – general summary)</p>
+<h1 id="strong-august-24-strong-do-not-uncover-the-nakedness-of-your-own-flesh-a-href-https-www-biblegateway-com-passage-search-leviticus-18-3-a6-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-18-6-a" tabindex="-1"><strong>August 24</strong>: Do Not Uncover the Nakedness of Your Own Flesh: <a href="https://www.biblegateway.com/passage/?search=Leviticus+18%3A6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 18:6</a></h1>
+<ul>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
+</li>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></p>
+</li>
+<li>
+<p><strong>Outline:</strong></p>
+<ul>
+<li>Do not
+<ul>
+<li>approach any close relatives to uncover their nakedness</li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>I am YHWH</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Blessing:</strong></p>
+<ul>
+<li>No explicit blessing stated in the verse.</li>
+</ul>
+</li>
+<li>
+<p><strong>Penalty or Consequence:</strong></p>
+<ul>
+<li>No penalty stated directly in this verse; v.6 functions as the heading command over the detailed prohibitions that follow in vv.7-18.</li>
+<li>Leviticus 20:11-21 supplies the penalties for the specific violations listed in chapter 18 — ranging from death (vv.11-12) to being cut off (vv.17-18) to bearing iniquity (v.20) to dying childless (v.21).</li>
+<li>Leviticus 18:24-28 frames the overarching consequence — the land itself vomits out those who practice these things, as it vomited out the nations before Israel.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offering or Ransom:</strong></p>
+<ul>
+<li>No offering or ransom stated. Leviticus 18:29 states that anyone who does any of these abominations shall be cut off from among the people — the severity of the language suggests no substitution is available for these violations.</li>
+<li>The closing formula <em>&quot;I am Yahweh your God&quot;</em> (v.6) grounds the prohibition in God's own character and covenant identity rather than in any transactional framework.</li>
+</ul>
+</li>
+</ul>
 <p><strong>August 25</strong>: Leviticus 20:10 (selected general) – “If a man commits adultery with another man’s wife...” (moral equity principle). - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> / judgment</p>
-<p><strong>August 26</strong>: Deuteronomy 22:13-21 (general honesty in family matters) – Avoid false accusations regarding purity. - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>August 27</strong>: Deuteronomy 24:1-4 (equity in divorce) – “If a man marries a woman... and he writes her a certificate of divorce...” (general principles of fairness). - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>August 28</strong>: Deuteronomy 22:5 – “A woman must not wear men’s clothing, nor a man wear women’s clothing, for the LORD your God detests anyone who does this.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> (distinction in dress)</p>
-<p><strong>August 29</strong>: Deuteronomy 22:9-11 – “Do not plant your field with two kinds of seed. Do not plow with an ox and a donkey yoked together. Do not wear clothes of wool and linen woven together.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> (no mixing)</p>
-<p><strong>August 30</strong>: Leviticus 19:19 – “Keep my decrees. Do not mate different kinds of animals. Do not plant your field with two kinds of seed. Do not wear clothing woven of two kinds of material.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong></p>
-<p><strong>August 31</strong>: Leviticus 11 (summary) – “These are the regulations concerning animals... Of all the creatures... you may eat...” (applicable dietary distinctions for all). - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></strong> (clean/unclean foods)</p>
+<h1 id="strong-august-26-strong-the-proof-of-virginity-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-13-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-13-21-a" tabindex="-1"><strong>August 26</strong>: The Proof of Virginity: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+22:13-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 22:13-21</a></h1>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>If any man takes a wife
+<ul>
+<li>goes into her</li>
+<li>hates her</li>
+<li>accuses her of shameful things</li>
+<li>gives her a bad name</li>
+<li>and says &quot;I took this woman and when I came near to her I didn't find in her the tokens of virginity&quot;</li>
+</ul>
+</li>
+<li>Then the young lady's father and mother shall <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>take and bring the tokens
+<ul>
+<li>of the lady's virginity to the elders of the city gate</li>
+</ul>
+</li>
+<li>tell the elders &quot;I gave my daughter to this man as his wife and he hates her&quot;</li>
+<li>spread the cloth before the elders of the city</li>
+</ul>
+</li>
+<li>The elders of the city shall <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>If Not True
+<ul>
+<li>take the man and chastise him</li>
+<li>fine him one hundred shekels of silver
+<ul>
+<li>give them to the father of the lady</li>
+</ul>
+</li>
+<li>because he has given a bad name to a virgin of <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/israel/">Israel</a></li>
+</ul>
+</li>
+<li>If True
+<ul>
+<li>take her to the door of her father's house</li>
+<li>Stone her to death
+<ul>
+<li>Because she has done folly in Israel</li>
+<li>to play the prostitute in her father's house</li>
+<li>So you shall remove the evil from among you</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>If not true - The young lady shall <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>be his wife</li>
+<li>he may not put her away all his days -</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated within the passage</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li><strong>If the husband's accusation is false</strong> (v.18-19):
+<ul>
+<li>He is <strong>chastised</strong> (<em>yisseru</em> — יִסְּרוּ) by the elders</li>
+<li>Fined <strong>one hundred shekels of silver</strong> paid to the woman's father — double the bride price of Deuteronomy 22:29 — the financial penalty reflects the gravity of the false accusation</li>
+<li><strong>May never divorce her all his days</strong> — the marriage becomes permanently binding as consequence</li>
+</ul>
+</li>
+<li><strong>If the accusation is true</strong> (v.20-21):
+<ul>
+<li>The woman is brought to the door of her father's house</li>
+<li><strong>Stoned to death</strong> by the men of the city</li>
+<li>The rationale stated — <em>&quot;because she has done a disgraceful thing in Israel by playing the harlot in her father's house&quot;</em> — the offense is against both family and communal holiness</li>
+<li><em>&quot;So you shall put away the evil from among you&quot;</em> — the same communal purging formula as Deuteronomy 13:5; 17:7; 17:12; 19:19</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>Both outcomes are judicial — administered by elders at the gate; no sacrificial path is attached to either the false accusation or the confirmed offense</li>
+</ul>
+</li>
+</ul>
+<h1 id="strong-august-27-strong-the-certificate-of-divorce-a-href-https-www-biblegateway-com-passage-search-deuteronomy-24-1-4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-1-4-a" tabindex="-1"><strong>August 27</strong>: The Certificate of Divorce: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+24:1-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 24:1-4</a></h1>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>When a man takes a wife and marries her
+<ul>
+<li>if she finds no favor in his eyes
+<ul>
+<li>because he has found some unseemly thing in her</li>
+</ul>
+</li>
+<li>he shall write her a certificate of divorce
+<ul>
+<li>put it in her hand</li>
+</ul>
+</li>
+<li>Send her out of his house</li>
+<li>When she has departed out of his house
+<ul>
+<li>she may go and be another man's wife
+<ul>
+<li>if he hates her
+<ul>
+<li>he writes her a certificate of divorce
+<ul>
+<li>put it in her hand</li>
+</ul>
+</li>
+<li>sends her out of his house</li>
+</ul>
+</li>
+<li>or if he dies</li>
+</ul>
+</li>
+<li>her former husband may not take her again to be his wife
+<ul>
+<li>after she is defiled
+<ul>
+<li>that would be an abomination to YHWH</li>
+</ul>
+</li>
+<li>you shall not cause the land to sin <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
+<ul>
+<li>which YHWH your god gives you for an inheritance</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated within the passage</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Verse 4 — the <strong>primary prohibition</strong> of the passage — the first husband <strong>may not take her again</strong> after she has been married to another man</li>
+<li>The rationale stated explicitly — <em>&quot;for that is an abomination (<em>to'evah</em> — תּוֹעֵבָה) before Yahweh&quot;</em></li>
+<li>The land itself is named as affected — <em>&quot;and you shall not bring sin upon the land which Yahweh your God is giving you as an inheritance&quot;</em> — the violation is not merely personal but <strong>territorial and covenantal</strong>; the land bears the defilement</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>The <em>to'evah</em> classification — as consistently seen throughout Deuteronomy — carries no offering remedy; what defiles the land cannot be resolved through sacrifice but only through obedience to the prohibition itself</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6">Personal Observation</mark>
+<ul>
+<li>Jeremiah 3:1 applies this law directly to Yahweh's own relationship with Israel — having sent Israel away, the question is raised whether He can take her back; the passage treats the principle as binding even in the covenantal metaphor</li>
+</ul>
+</li>
+</ul>
+<h1 id="strong-august-28-strong-do-not-wear-the-garments-of-the-other-sex-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-5-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-5-a" tabindex="-1"><strong>August 28</strong>: Do Not Wear the Garments of the Other Sex: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+22:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 22:5</a></h1>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Do not
+<ul>
+<li>women shall not wear men's clothing <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>man shall not wear women's clothing <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+</ul>
+</li>
+<li>Who ever does these
+<ul>
+<li>is an abomination to YHWH</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Verse 5 — all who do these things are an <strong>abomination</strong> (<em>to'evah</em> — תּוֹעֵבָה) to Yahweh your God</li>
+<li>No judicial process is named — the consequence is <strong>Yahweh's own response</strong> to the violation</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>The <em>to'evah</em> designation is among the strongest language in Deuteronomy — Yahweh's active rejection rather than a court-administered penalty. Consistent with the <em>to'evah</em> pattern throughout Deuteronomy — what Yahweh calls abomination carries no offering remedy (cf. Deut. 7:25; 12:31; 17:1; 23:18)</li>
+</ul>
+</li>
+</ul>
+<h1 id="strong-august-29-strong-do-not-mix-seeds-animals-materials-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-9-11-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-9-11-a-and-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a19-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-19-a" tabindex="-1"><strong>August 29</strong>: Do Not Mix: Seeds, Animals, Materials <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+22:9-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 22:9-11</a> and <a href="https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:19</a></h1>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Do Not
+<ul>
+<li>sow vineyard with two kinds of seeds <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
+<ul>
+<li>all the fruit will be defiled</li>
+<li>all the seed will be defiled</li>
+<li>the increase of the vineyard will be defiled</li>
+</ul>
+</li>
+<li>plow with an ox and a donkey together <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>wear clothes of wool and linen woven together <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>cross-breed different animals <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>sow field with two kinds of seeds <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>wear a garment made of two kinds of material <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Verse 9 — if mixed seed is sown in a vineyard, the <strong>whole yield is forfeited</strong> — both the seed sown and the fruit of the vineyard become <em>qodesh</em> (set apart/dedicated), rendered unusable for common use</li>
+<li>The language &quot;lest the whole yield be forfeited&quot; (<em>pen tiqadash</em> — פֶּן־תִּקְדַּשׁ) implies the mixture itself becomes defiled/dedicated and is lost to the owner</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>The forfeiture of the yield appears to function as the consequence in itself — no redemption path is given for the mixed vineyard's produce</li>
+</ul>
+</li>
+<li>**<mark style="background:#cd04BBA6">Personal Observations:</mark>
+<ul>
+<li>Wool, Linen, Mixed Materials
+<ul>
+<li>Mixed stuff - fabric sha'atnez (שַׁעַטְנֵז) only found in these two verses</li>
+<li>etymology is debated</li>
+<li>Priest were prohibited from wearing wool in the inner court - only permitted to wear linen Ezekiel 44:17. This makes linen associated with <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/h/holy/">Holy</a> set apart place and wool with <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/c/common/">Common</a> place.</li>
+<li>Linen is strongly associated with the priests and being set apart. Priest garments, tabernacle curtains, messengers attire, the bride in Revelation 19:8</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h1 id="strong-august-30-strong-do-not-mix-kinds-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a19-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-19-a" tabindex="-1"><strong>August 30</strong>: Do Not Mix Kinds: <a href="https://www.biblegateway.com/passage/?search=Leviticus+19%3A19&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:19</a></h1>
+<ul>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></p>
+</li>
+<li>
+<p><strong>Outline:</strong></p>
+<ul>
+<li>Do
+<ul>
+<li>Keep my <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+</ul>
+</li>
+<li>Do Not
+<ul>
+<li>cross-breed different kinds of animals <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>sow your field with two kinds of seeds <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+<li>wear a garment made of two kinds of material <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Blessing:</strong></p>
+<ul>
+<li>No explicit blessing stated in the verse.</li>
+</ul>
+</li>
+<li>
+<p><strong>Penalty or Consequence:</strong></p>
+<ul>
+<li>No penalty stated directly in this verse.</li>
+<li>Deuteronomy 22:9 — sowing a vineyard with two kinds of seed results in the whole yield being forfeited — <em>&quot;lest the whole yield be forfeited, the seed which you have sown and the increase of the vineyard.&quot;</em> (WEB)</li>
+<li>Deuteronomy 22:11 — wearing mixed wool and linen (shatnez/שַׁעַטְנֵז) is prohibited without stated penalty, but the framing as a statute (chuqah) places it beyond the need for rationale.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offering or Ransom:</strong></p>
+<ul>
+<li>No offering or ransom stated. The three prohibitions in the verse — mixed breeding of animals, mixed sowing of fields, and mixed fabric (shatnez) — are presented as fixed boundaries with no mechanism for substitution. The command is grounded in the created order of kinds (min/מִין) established in Genesis 1, where each thing is created and kept according to its kind.</li>
+</ul>
+</li>
+</ul>
 </main>
 <aside>
 <div class="sidebar">
@@ -4712,6 +5070,18 @@ Commandment Reading Plan August
 <li><a href="#strong-august-22-strong-do-not-return-a-slave-who-has-escaped-a-href-https-www-biblegateway-com-passage-search-deuteronomy-23-15-16-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-23-15-16-a">August 22: Do Not Return a Slave Who Has Escaped: Deuteronomy 23:15-16</a>
 </li>
 <li><a href="#strong-august-23-strong-do-not-profane-your-daughter-by-making-her-a-prostitute-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a29-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-29-a">August 23: Do Not Profane Your Daughter by Making Her a Prostitute: Leviticus 19:29</a>
+</li>
+<li><a href="#strong-august-24-strong-do-not-uncover-the-nakedness-of-your-own-flesh-a-href-https-www-biblegateway-com-passage-search-leviticus-18-3-a6-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-18-6-a">August 24: Do Not Uncover the Nakedness of Your Own Flesh: Leviticus 18:6</a>
+</li>
+<li><a href="#strong-august-26-strong-the-proof-of-virginity-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-13-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-13-21-a">August 26: The Proof of Virginity: Deuteronomy 22:13-21</a>
+</li>
+<li><a href="#strong-august-27-strong-the-certificate-of-divorce-a-href-https-www-biblegateway-com-passage-search-deuteronomy-24-1-4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-24-1-4-a">August 27: The Certificate of Divorce: Deuteronomy 24:1-4</a>
+</li>
+<li><a href="#strong-august-28-strong-do-not-wear-the-garments-of-the-other-sex-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-5-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-5-a">August 28: Do Not Wear the Garments of the Other Sex: Deuteronomy 22:5</a>
+</li>
+<li><a href="#strong-august-29-strong-do-not-mix-seeds-animals-materials-a-href-https-www-biblegateway-com-passage-search-deuteronomy-22-9-11-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-22-9-11-a-and-a-href-https-www-biblegateway-com-passage-search-leviticus-2019-3-a19-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-19-a">August 29: Do Not Mix: Seeds, Animals, Materials Deuteronomy 22:9-11 and Leviticus 19:19</a>
+</li>
+<li><a href="#strong-august-30-strong-do-not-mix-kinds-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a19-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-19-a">August 30: Do Not Mix Kinds: Leviticus 19:19</a>
 </li>
 </ol>
 </nav>
