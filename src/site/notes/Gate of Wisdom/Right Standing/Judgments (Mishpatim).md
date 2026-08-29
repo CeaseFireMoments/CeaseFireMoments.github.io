@@ -19,9 +19,9 @@ Mishpatim is plural
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
 
 { .block-language-dataview}
 ## It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
@@ -50,7 +50,7 @@ Mishpatim is plural
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## #LoveNeighbor Open Your Hand to Your Poor Brother: [Deuteronomy 15:7-9](https://www.biblegateway.com/passage/?search=Deuteronomy+15:7-9&version=WEB;NET;OJB)
+## #LoveNeighbor #05Deut #Deuteronomy15  Open Your Hand to Your Poor Brother: [Deuteronomy 15:7-9](https://www.biblegateway.com/passage/?search=Deuteronomy+15:7-9&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
@@ -86,7 +86,7 @@ Mishpatim is plural
     - The same dynamic as Deuteronomy 24:15 — the cry of the wronged reaching Yahweh directly constitutes the court of appeal with no human intermediary
     - The hardened heart (_yiqsheh levavkha_ — יִקְשֶׁה לְבָבְךָ) and closed hand (_ta'atsor et yadkha_ — תַּאְצֹר אֶת־יָדְךָ) are named as the moral violations — not merely the failure to give but the **deliberate withholding**
 
- #05Deut #Deuteronomy15
+ 
 
 ## 3. Lending to the Poor
 - **Scripture Reference**: Deuteronomy 15:7-11
@@ -96,7 +96,7 @@ Mishpatim is plural
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## #LoveNeighbor Appoint Just Judges: [Deuteronomy 16:18-20](https://www.biblegateway.com/passage/?search=Deuteronomy+16:18-20&version=WEB;NET;OJB)
+## #LoveNeighbor #05Deut #Deuteronomy16  Appoint Just Judges: [Deuteronomy 16:18-20](https://www.biblegateway.com/passage/?search=Deuteronomy+16:18-20&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
@@ -132,9 +132,9 @@ Mishpatim is plural
 - <mark style="background: #CD04BBA6;">**Personal Observation**</mark>:
 	- Judges - gates - tribes - brings to mind [Revelation 21:12-13](https://www.biblegateway.com/passage/?search=Revelation%2021%3A12-13&version=WEB;NET;OJB)
 
- #05Deut #Deuteronomy16 
+ 
 
-## #LoveNeighbor  The Court of Final Appeal: [Deuteronomy 17:8-13](https://www.biblegateway.com/passage/?search=Deuteronomy+17:8-13&version=WEB;NET;OJB)
+## #LoveNeighbor  #05Deut #Deuteronomy17 The Court of Final Appeal: [Deuteronomy 17:8-13](https://www.biblegateway.com/passage/?search=Deuteronomy+17:8-13&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
@@ -184,7 +184,7 @@ Mishpatim is plural
 - <mark style="background: #CD04BBA6;">Personal Observation</mark>:
 	- Do all according to all they teach you - this is what Jesus said [Matthew 23:2-3](https://www.biblegateway.com/passage/?search=Matthew%2023%3A2-3&version=WEB;NET;OJB) 
 
- #05Deut #Deuteronomy17
+ 
 
 ## 4. Treatment of Female Captives
 - **Scripture Reference**: Deuteronomy 21:10-14
@@ -208,7 +208,7 @@ Mishpatim is plural
 - **Penalty or Consequence**: Death (for the underlying sin); body must be buried same day to avoid defiling the land.
 - **Offering or Ransom**: None specified; burial fulfills the command to avoid land defilement.
 
-## #LoveNeighbor Restore What Is Lost to Your Brother: [Deuteronomy 22:1-4](https://www.biblegateway.com/passage/?search=Deuteronomy+22:1-4&version=WEB;NET;OJB)
+## #LoveNeighbor #Deuteronomy22 #05Deut  Restore What Is Lost to Your Brother: [Deuteronomy 22:1-4](https://www.biblegateway.com/passage/?search=Deuteronomy+22:1-4&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -244,7 +244,7 @@ Mishpatim is plural
     - None prescribed
     - The remedy is **embedded in the command itself** — restore it, help it up, take it home until claimed; restitution of action is the only path given
 
- #Deuteronomy22 #05Deut 
+ 
 
 
 ## 11. Bird’s Nest Law
@@ -255,7 +255,7 @@ Mishpatim is plural
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## #LoveNeighbor Build a Parapet for Your Roof: [Deuteronomy 22:8](https://www.biblegateway.com/passage/?search=Deuteronomy+22:8&version=WEB;NET;OJB)
+## #LoveNeighbor #Deuteronomy22 #05Deut  Build a Parapet for Your Roof: [Deuteronomy 22:8](https://www.biblegateway.com/passage/?search=Deuteronomy+22:8&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -278,7 +278,55 @@ Mishpatim is plural
     - Bloodguilt in Torah generally has no offering remedy when it results from negligence causing death — Numbers 35:33 states explicitly that blood can only be atoned for by the blood of the one who shed it
     - The remedy here is **preventive** — build the parapet before anyone falls; once bloodguilt is incurred no sacrificial path is named
 
- #Deuteronomy22 #05Deut 
+ 
+
+## #LoveNeighbor #Deuteronomy22 #05Deut  The Proof of Virginity: [Deuteronomy 22:13-21](https://www.biblegateway.com/passage/?search=Deuteronomy+22:13-21&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:** 
+	- If any man takes a wife
+		- goes into her
+		- hates her
+		- accuses her of shameful things
+		- gives her a bad name
+		- and says "I took this woman and when I came near to her I didn't find in her the tokens of virginity"
+	- Then the young lady's father and mother shall #Dos 
+		- take and bring the tokens
+			- of the lady's virginity to the elders of the city gate
+		- tell the elders "I gave my daughter to this man as his wife and he hates her"
+		- spread the cloth before the elders of the city
+	- The elders of the city shall #Dos 
+		- If Not True
+			- take the man and chastise him
+			- fine him one hundred shekels of silver
+				- give them to the father of the lady
+			- because he has given a bad name to a virgin of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
+		- If True
+			- take her to the door of her father's house
+			- Stone her to death
+				- Because she has done folly in Israel
+				- to play the prostitute in her father's house
+				- So you shall remove the evil from among you
+	- If not true - The young lady shall #Dos 
+		- be his wife
+		- he may not put her away all his days		- 
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - **If the husband's accusation is false** (v.18-19):
+        - He is **chastised** (_yisseru_ — יִסְּרוּ) by the elders
+        - Fined **one hundred shekels of silver** paid to the woman's father — double the bride price of Deuteronomy 22:29 — the financial penalty reflects the gravity of the false accusation
+        - **May never divorce her all his days** — the marriage becomes permanently binding as consequence
+    - **If the accusation is true** (v.20-21):
+        - The woman is brought to the door of her father's house
+        - **Stoned to death** by the men of the city
+        - The rationale stated — _"because she has done a disgraceful thing in Israel by playing the harlot in her father's house"_ — the offense is against both family and communal holiness
+        - _"So you shall put away the evil from among you"_ — the same communal purging formula as Deuteronomy 13:5; 17:7; 17:12; 19:19
+- **Offering or Ransom:**
+    - None prescribed
+    - Both outcomes are judicial — administered by elders at the gate; no sacrificial path is attached to either the false accusation or the confirmed offense
+
 
 ## 13. Adultery with a Betrothed Woman
 - **Scripture Reference**: Deuteronomy 22:23-24
@@ -314,7 +362,7 @@ Mishpatim is plural
 - **Penalty or Consequence**: If false, husband is fined 100 shekels, whipped, and cannot divorce her (22:19); if true, wife is stoned (22:21).
 - **Offering or Ransom**: For false accusation, 100 shekels paid to the father; no atonement for guilty wife. [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
-## #LoveNeighbor Do Not Return a Slave Who Has Escaped: [Deuteronomy 23:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy+23:15-16&version=WEB;NET;OJB)
+## #LoveNeighbor #Deuteronomy23 #05Deut  Do Not Return a Slave Who Has Escaped: [Deuteronomy 23:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy+23:15-16&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -338,8 +386,8 @@ Mishpatim is plural
     - None prescribed
     - The remedy is **embedded in the command** — let him dwell, let him choose his place, do not oppress; no sacrificial path is named
 
- #Deuteronomy23 #05Deut 
-## #LoveNeighbor Do Not Charge Interest to Your Brother: [Deuteronomy 23:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+23:19-20&version=WEB;NET;OJB)
+ 
+## #LoveNeighbor #Deuteronomy23 #05Deut  Do Not Charge Interest to Your Brother: [Deuteronomy 23:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+23:19-20&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -368,8 +416,8 @@ Mishpatim is plural
     - Nehemiah 5:1-13 records a direct confrontation over interest charged among brothers during the rebuilding of Jerusalem — Nehemiah calls it a reproach and demands restitution    - 
     - Restitution is the implied remedy — Nehemiah 5 confirms this; the lenders are required to **restore** fields, vineyards, olive groves, houses, and the interest charged; no sacrificial path is named
 
- #Deuteronomy23 #05Deut 
-## #LoveNeighbor Eating From Your Neighbor's Vineyard and Field: [Deuteronomy 23:24-25](https://www.biblegateway.com/passage/?search=Deuteronomy+23:24-25&version=WEB;NET;OJB)
+ 
+## #LoveNeighbor #05Deut  #Deuteronomy23  Eating From Your Neighbor's Vineyard and Field: [Deuteronomy 23:24-25](https://www.biblegateway.com/passage/?search=Deuteronomy+23:24-25&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -396,7 +444,7 @@ Mishpatim is plural
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>
 	- The disciples of Yeshua are seen doing exactly this in Matthew 12:1; Mark 2:23; Luke 6:1
 
- #05Deut  #Deuteronomy23 
+ 
 ## 18. Divorce Regulations
 - **Scripture Reference**: Deuteronomy 24:1-4
 - **Scripture Text (WEB)**: “When a man takes a wife and marries her, then it shall be, if she finds no favor in his eyes because he has found some unseemly thing in her, that he shall write her a bill of divorce, give it in her hand, and send her out of his house. When she has departed out of his house, she may go and be another man’s wife. If the latter husband hates her, and writes her a bill of divorce… or if the latter husband dies… her former husband, who sent her away, may not take her again to be his wife after she is defiled; for that is an abomination to Yahweh.”
@@ -404,7 +452,44 @@ Mishpatim is plural
 - **Offering or Ransom**: None specified; divorce certificate regulates the process. 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
-## #LoveNeighbor Do Not Take a Mill or Millstone as Pledge: [Deuteronomy 24:6](https://www.biblegateway.com/passage/?search=Deuteronomy+24:6&version=WEB;NET;OJB)
+
+## #LoveNeighbor #05Deut #Deuteronomy24 The Certificate of Divorce: [Deuteronomy 24:1-4](https://www.biblegateway.com/passage/?search=Deuteronomy+24:1-4&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:** 
+	- When a man takes a wife and marries her
+		- if she finds no favor in his eyes
+			- because he has found some unseemly thing in her
+		- he shall write her a certificate of divorce
+			- put it in her hand
+		- Send her out of his house
+		- When she has departed out of his house
+			- she may go and be another man's wife
+				- if he hates her
+					- he writes her a certificate of divorce
+						- put it in her hand
+					- sends her out of his house
+				- or if he dies
+			- her former husband may not take her again to be his wife
+				- after she is defiled
+					- that would be an abomination to YHWH
+				- you shall not cause the land to sin #DoNot 
+					- which YHWH your god gives you for an inheritance
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - Verse 4 — the **primary prohibition** of the passage — the first husband **may not take her again** after she has been married to another man
+    - The rationale stated explicitly — _"for that is an abomination (_to'evah_ — תּוֹעֵבָה) before Yahweh"_
+    - The land itself is named as affected — _"and you shall not bring sin upon the land which Yahweh your God is giving you as an inheritance"_ — the violation is not merely personal but **territorial and covenantal**; the land bears the defilement
+- **Offering or Ransom:**
+    - None prescribed
+    - The _to'evah_ classification — as consistently seen throughout Deuteronomy — carries no offering remedy; what defiles the land cannot be resolved through sacrifice but only through obedience to the prohibition itself
+- <mark style="background: #CD04BBA6;">Personal Observation</mark>
+	- Jeremiah 3:1 applies this law directly to Yahweh's own relationship with Israel — having sent Israel away, the question is raised whether He can take her back; the passage treats the principle as binding even in the covenantal metaphor
+
+
+## #LoveNeighbor  #05Deut #Deuteronomy24  Do Not Take a Mill or Millstone as Pledge: [Deuteronomy 24:6](https://www.biblegateway.com/passage/?search=Deuteronomy+24:6&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -424,7 +509,7 @@ Mishpatim is plural
     - None prescribed
     - The _nefesh_ framing connects this to the bloodguilt category — taking what sustains life is treated with the same gravity as threatening life itself; no sacrificial remedy is named
 
- #05Deut #Deuteronomy24 
+
 ## 19. Kidnapping
 - **Scripture Reference**: Deuteronomy 24:7
 - **Scripture Text (WEB)**: “If a man is found stealing any of his brothers of the children of Israel, and he deals with him as a slave, or sells him, then that thief shall die. So you shall remove the evil from among you.”
@@ -437,7 +522,7 @@ Mishpatim is plural
 - **Penalty or Consequence**: No explicit penalty, but Miriam’s leprosy (Num. 12:10) implies divine punishment for disobedience.
 - **Offering or Ransom**: None specified; priestly instructions (Lev. 13–14) include offerings for cleansing. 
 
-## #LoveNeighbor Do Not Enter Your Neighbor's House to Take His Pledge: [Deuteronomy 24:10-13](https://www.biblegateway.com/passage/?search=Deuteronomy+24:10-13&version=WEB;NET;OJB)
+## #LoveNeighbor #05Deut #Deuteronomy24  Do Not Enter Your Neighbor's House to Take His Pledge: [Deuteronomy 24:10-13](https://www.biblegateway.com/passage/?search=Deuteronomy+24:10-13&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -468,9 +553,9 @@ Mishpatim is plural
     - None prescribed
     - Consistent with the surrounding passages on treatment of the poor — restitution of action is the only remedy; return the garment, restore the dignity
 
- #05Deut #Deuteronomy24 
+ 
 
-## #LoveNeighbor Payment of Wages [Deuteronomy 24:14-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&version=WEB;NET;OJB) 
+## #LoveNeighbor #Deuteronomy24 #05Deut Payment of Wages [Deuteronomy 24:14-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A14-15&version=WEB;NET;OJB) 
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
@@ -501,14 +586,14 @@ Mishpatim is plural
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
--  #Deuteronomy24 #05Deut 
+-   
 ## 23. Individual Responsibility for Sin
 - **Scripture Reference**: Deuteronomy 24:16
 - **Scripture Text (WEB)**: “The fathers shall not be put to death for the children, nor the children be put to death for the fathers. Every man shall be put to death for his own sin.”
 - **Penalty or Consequence**: Death only for the guilty individual’s sin.
 - **Offering or Ransom**: None specified; justice is the principle.
 
-## #LoveNeighbor Justice for the Vulnerable [Deuteronomy 24:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&version=WEB;NET;OJB) 
+## #LoveNeighbor #Deuteronomy24 #05Deu Justice for the Vulnerable [Deuteronomy 24:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-18&version=WEB;NET;OJB) 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- The 
@@ -528,9 +613,9 @@ Mishpatim is plural
 - <mark style="background: #CD04BBA6;">**Personal Observations**</mark>
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
- #Deuteronomy24 #05Deut 
+ t 
 
-## #LoveNeighbor Leaving Gleanings for the Poor [Deuteronomy 24:19-22](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&version=WEB;NET;OJB) 
+## #LoveNeighbor #Deuteronomy24 #05Deut Leaving Gleanings for the Poor [Deuteronomy 24:19-22](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&version=WEB;NET;OJB) 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- When 
@@ -557,9 +642,9 @@ Mishpatim is plural
 - **<mark style="background: #CD04BBA6;">Personal Observations:</mark>**
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-#Deuteronomy24 #05Deut  
+  
 
-## #LoveNeighbor Limit on Flogging [Deuteronomy 25:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&version=WEB;NET;OJB)
+## #LoveNeighbor #Deuteronomy25 #05Deut Limit on Flogging [Deuteronomy 25:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline**: 
 	- A controversy between men
@@ -587,9 +672,9 @@ Mishpatim is plural
 	- Up to 40 stripes; exceeding risks degrading the person.
 - **Offering or Ransom**: 
 	- None specified; limit ensures justice.
- #Deuteronomy25 #05Deut 
+  
 
-## #LoveNeighbor Do Not Muzzle the Ox: [Deuteronomy 25:4](https://www.biblegateway.com/passage/?search=Deuteronomy+25:4&version=WEB;NET;OJB)
+## #LoveNeighbor #Deuteronomy25 #05Deut  Do Not Muzzle the Ox: [Deuteronomy 25:4](https://www.biblegateway.com/passage/?search=Deuteronomy+25:4&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -609,7 +694,7 @@ Mishpatim is plural
     - Paul applies this verse in 1 Corinthians 9:9-10 and 1 Timothy 5:18 as a principle extending to **human laborers and those who minister** — _"the laborer deserves his wages"_ — broadening the consequence of violation beyond the animal to the realm of human justice
     - The connection to Deuteronomy 24:14-15 is direct — both protect those who labor from being deprived of what sustains them
 
- #Deuteronomy25 #05Deut 
+ 
 
 ## 28. Levirate Marriage
 - **Scripture Reference**: Deuteronomy 25:5-10
@@ -631,7 +716,7 @@ Mishpatim is plural
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## #LoveNeighbor Number of Witnesses Required/False Witness [Deuteronomy 19:15-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&version=WEB;NET;OJB)
+## #LoveNeighbor #05Deut #Deuteronomy19 Number of Witnesses Required/False Witness [Deuteronomy 19:15-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- When rising up against a man for 
@@ -681,9 +766,9 @@ Mishpatim is plural
 		- Take one or two others along - because you have to have two or three witnesses to establish guilt.
 		- Tell the assembly - because at this point, there has to be an investigation - not just into the person you are accusing - but into you as well to determine if your witness is truth.
 		- Treat them as an unbeliever - remove them from the assembly. If you are a false witness, you will be removed.
-#05Deut #Deuteronomy19 
+ 
 
-## #LoveNeighbor Do Not Dishonor Father or Mother: [Deuteronomy 27:16](https://www.biblegateway.com/passage/?search=Deuteronomy+27:16&version=WEB;NET;OJB)
+## #LoveNeighbor #Deuteronomy27 #05Deut  Do Not Dishonor Father or Mother: [Deuteronomy 27:16](https://www.biblegateway.com/passage/?search=Deuteronomy+27:16&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
@@ -704,9 +789,9 @@ Mishpatim is plural
 - **<mark style="background: #CD04BBA6;">Personal Observations</mark>:**
 	- passive participle This means the curse is not contingent on being caught or tried — the act itself places the person in the _arur_ condition before Yahweh regardless of human knowledge or judicial process. 
 
- #Deuteronomy27 #05Deut 
+ 
 
-## #LoveNeighbor Do Not Curse the Deaf or Trip the Blind: [Deuteronomy 27:18](https://www.biblegateway.com/passage/?search=Deuteronomy+27:18&version=WEB;NET;OJB)
+## #LoveNeighbor #Deuteronomy27 #05Deut Do Not Curse the Deaf or Trip the Blind: [Deuteronomy 27:18](https://www.biblegateway.com/passage/?search=Deuteronomy+27:18&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
@@ -725,7 +810,7 @@ Mishpatim is plural
     - None prescribed
     - The curse formula of Deuteronomy 27 carries no attached offering remedy — consistent with all twelve _arur_ declarations in this chapter
 
- #Deuteronomy27 #05Deut 
+  
 # Judgments (Mishpatim) in Exodus
 
 ## 1. Release of Hebrew Slaves
@@ -989,7 +1074,7 @@ Mishpatim is plural
 
 ---
 
-## #LoveNeighbor  Return Your Enemy's Lost Animal: [Exodus 23:4-5](https://www.biblegateway.com/passage/?search=Exodus%2023:4-5&version=WEB;NET;OJB)
+## #LoveNeighbor  #02Exod #Exodus23 Return Your Enemy's Lost Animal: [Exodus 23:4-5](https://www.biblegateway.com/passage/?search=Exodus%2023:4-5&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
@@ -1013,11 +1098,11 @@ Mishpatim is plural
 - **Offering or Ransom:**
     - None specified
 
- #02Exod #Exodus23 
+ 
 
 ---
 
-## #LoveNeighbor Justice for the Poor in Lawsuits [Exodus 23:6-9](https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&version=WEB;NET;OJB)
+## #LoveNeighbor#02Exod #Exodus23 Justice for the Poor in Lawsuits [Exodus 23:6-9](https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline**:
@@ -1038,7 +1123,7 @@ Mishpatim is plural
 	- Yahweh will not acquit the one who justifies the wicked; bribery perverts justice.
 - **Offering or Ransom**: 
 	- None; the prohibition is absolute.
-#02Exod #Exodus23 
+ 
 
 ---
 
@@ -1054,7 +1139,7 @@ Mishpatim is plural
 # Judgement (Mishpatim) in Leviticus
 
 
-## #LoveNeighbor #Leviticus19 Provision for the Poor and Foreigner [Leviticus 19:9-10](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A9-10&version=WEB;NET;OJB) [Leviticus 23:22](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A22&version=WEB;NET;OJB)
+## #LoveNeighbor #Leviticus19 #03Lev Provision for the Poor and Foreigner [Leviticus 19:9-10](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A9-10&version=WEB;NET;OJB) [Leviticus 23:22](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A22&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- When you reap the harvest of your land ...
@@ -1078,9 +1163,9 @@ Mishpatim is plural
 	- Ruth 2:2–7
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-  #03Lev  
+  
 
-##  #LoveNeighbor #Leviticus19  Slander, False Witness [Leviticus 19:16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&version=WEB;NET;OJB)
+##  #LoveNeighbor #Leviticus19 #03Lev  Slander, False Witness [Leviticus 19:16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A16&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
@@ -1105,9 +1190,9 @@ Mishpatim is plural
 	- **"stand against the blood"** — _la'amod al dam_ (לַעֲמֹד עַל דָּם) — carries judicial weight. It likely refers to bearing false witness in a capital case, withholding testimony that could save a life, or taking action that leads to another's death. The connection to **Deuteronomy 19:15–21** is direct — false witness there, endangering life here.
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
- #03Lev 
+  
 
-## #LoveNeighbor Do Not Curse the Deaf or Stumble the Blind: [Leviticus 19:14](https://www.biblegateway.com/passage/?search=Leviticus+19%3A14&version=WEB;NET;OJB)
+## #LoveNeighbor #Leviticus19 #03Lev  Do Not Curse the Deaf or Stumble the Blind: [Leviticus 19:14](https://www.biblegateway.com/passage/?search=Leviticus+19%3A14&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
@@ -1131,8 +1216,32 @@ Mishpatim is plural
 * **Offering or Ransom:**
    * No offering or ransom stated. The fear of God is presented as the restraint — *"I am Yahweh"* closing the verse places the command under divine observation rather than human enforcement.
 
- #Leviticus19 #03Lev 
-## #LoveNeighbor #Leviticus19 Do Not Oppress the Stranger: [Leviticus 19:33-34](https://www.biblegateway.com/passage/?search=Leviticus+19%3A33-34&version=WEB;NET;OJB) 
+ 
+
+## #LoveGod #03Lev #Leviticus19 Do Not Mix Kinds: [Leviticus 19:19](https://www.biblegateway.com/passage/?search=Leviticus+19%3A19&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* **Outline:**
+   * Do
+	   * Keep my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
+   * Do Not
+	   * cross-breed different kinds of animals #DoNot 
+	   * sow your field with two kinds of seeds #DoNot 
+	   * wear a garment made of two kinds of material #DoNot 
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * Deuteronomy 22:9 — sowing a vineyard with two kinds of seed results in the whole yield being forfeited — *"lest the whole yield be forfeited, the seed which you have sown and the increase of the vineyard."* (WEB)
+   * Deuteronomy 22:11 — wearing mixed wool and linen (shatnez/שַׁעַטְנֵז) is prohibited without stated penalty, but the framing as a statute (chuqah) places it beyond the need for rationale.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The three prohibitions in the verse — mixed breeding of animals, mixed sowing of fields, and mixed fabric (shatnez) — are presented as fixed boundaries with no mechanism for substitution. The command is grounded in the created order of kinds (min/מִין) established in Genesis 1, where each thing is created and kept according to its kind.
+
+
+## #LoveNeighbor #Leviticus19  #03Lev  Do Not Oppress the Stranger: [Leviticus 19:33-34](https://www.biblegateway.com/passage/?search=Leviticus+19%3A33-34&version=WEB;NET;OJB) 
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
@@ -1156,4 +1265,4 @@ Mishpatim is plural
 - **Offering or Ransom:**
     - No offering or ransom stated. The command is grounded instead in Israel's own history — _"for you were strangers in the land of Egypt"_ (v.34, WEB) — and sealed with _"I am Yahweh your God,"_ placing the weight of the command in covenantal obligation rather than legal consequence.
 
- #03Lev  
+ 

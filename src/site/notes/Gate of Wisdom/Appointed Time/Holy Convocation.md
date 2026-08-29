@@ -24,7 +24,7 @@
 	- 1st day [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]] [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-23#v5\|Lev-23#v5]]-8
 	- 7th day [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
 	- [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] / Feast of Weeks [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-23#v15\|Lev-23#v15]]-22
-	- [[Zunpublished/Feast of Trumpets\|Feast of Trumpets]] [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-23#v24\|Lev-23#v24]]-25
+	- [[Gate of Wisdom/Appointed Time/Feast of Trumpets\|Feast of Trumpets]] [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-23#v24\|Lev-23#v24]]-25
 	- [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]] (Sabbath of Sabbaths) [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-23#v27\|Lev-23#v27]]-32
 	- 1st day [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]] [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-23#v34\|Lev-23#v34]]-43
 	- 8th day [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]

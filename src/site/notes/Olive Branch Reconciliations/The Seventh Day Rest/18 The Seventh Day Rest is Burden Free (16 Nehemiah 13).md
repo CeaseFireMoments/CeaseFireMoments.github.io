@@ -39,7 +39,7 @@ I commanded the Levites that they should purify themselves, and that they should
 	- doors shut to merchants
 	- No burden's should be brought
 ## **When**:
-- On the 1st day of the Seventh Month ([[Zunpublished/Feast of Trumpets\|Feast of Trumpets]] (Yom Teru'ah)) they began reading the law. Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance. Nehemiah 08 
+- On the 1st day of the Seventh Month ([[Gate of Wisdom/Appointed Time/Feast of Trumpets\|Feast of Trumpets]] (Yom Teru'ah)) they began reading the law. Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance. Nehemiah 08 
 - On the twenty-fourth day of this month, they renew the covenant which includes this portion about the Sabbath (Seventh Day Rest).  Nehemiah 09 
 
 ## **Why**: 

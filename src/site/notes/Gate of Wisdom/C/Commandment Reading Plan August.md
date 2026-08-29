@@ -626,21 +626,182 @@ Why?
 * **Offering or Ransom:**
    * No offering or ransom stated. The framing is entirely covenantal — the land bears the consequence of the people's sexual sin, and no substitution is offered in its place.
 
-**August 24**: Leviticus 18:6 – “No one is to approach any close relative to have sexual relations. I am the LORD.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (forbidden relations – general summary)  
+# **August 24**: Do Not Uncover the Nakedness of Your Own Flesh: [Leviticus 18:6](https://www.biblegateway.com/passage/?search=Leviticus+18%3A6&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* **Outline:**
+   * Do not
+	   * approach any close relatives to uncover their nakedness
+   * Because
+	   * I am YHWH
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse; v.6 functions as the heading command over the detailed prohibitions that follow in vv.7-18.
+   * Leviticus 20:11-21 supplies the penalties for the specific violations listed in chapter 18 — ranging from death (vv.11-12) to being cut off (vv.17-18) to bearing iniquity (v.20) to dying childless (v.21).
+   * Leviticus 18:24-28 frames the overarching consequence — the land itself vomits out those who practice these things, as it vomited out the nations before Israel.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. Leviticus 18:29 states that anyone who does any of these abominations shall be cut off from among the people — the severity of the language suggests no substitution is available for these violations.
+   * The closing formula *"I am Yahweh your God"* (v.6) grounds the prohibition in God's own character and covenant identity rather than in any transactional framework.
 
 **August 25**: Leviticus 20:10 (selected general) – “If a man commits adultery with another man’s wife...” (moral equity principle). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / judgment  
 
-**August 26**: Deuteronomy 22:13-21 (general honesty in family matters) – Avoid false accusations regarding purity. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+# **August 26**: The Proof of Virginity: [Deuteronomy 22:13-21](https://www.biblegateway.com/passage/?search=Deuteronomy+22:13-21&version=WEB;NET;OJB)
 
-**August 27**: Deuteronomy 24:1-4 (equity in divorce) – “If a man marries a woman... and he writes her a certificate of divorce...” (general principles of fairness). - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:** 
+	- If any man takes a wife
+		- goes into her
+		- hates her
+		- accuses her of shameful things
+		- gives her a bad name
+		- and says "I took this woman and when I came near to her I didn't find in her the tokens of virginity"
+	- Then the young lady's father and mother shall #Dos 
+		- take and bring the tokens
+			- of the lady's virginity to the elders of the city gate
+		- tell the elders "I gave my daughter to this man as his wife and he hates her"
+		- spread the cloth before the elders of the city
+	- The elders of the city shall #Dos 
+		- If Not True
+			- take the man and chastise him
+			- fine him one hundred shekels of silver
+				- give them to the father of the lady
+			- because he has given a bad name to a virgin of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
+		- If True
+			- take her to the door of her father's house
+			- Stone her to death
+				- Because she has done folly in Israel
+				- to play the prostitute in her father's house
+				- So you shall remove the evil from among you
+	- If not true - The young lady shall #Dos 
+		- be his wife
+		- he may not put her away all his days		- 
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - **If the husband's accusation is false** (v.18-19):
+        - He is **chastised** (_yisseru_ — יִסְּרוּ) by the elders
+        - Fined **one hundred shekels of silver** paid to the woman's father — double the bride price of Deuteronomy 22:29 — the financial penalty reflects the gravity of the false accusation
+        - **May never divorce her all his days** — the marriage becomes permanently binding as consequence
+    - **If the accusation is true** (v.20-21):
+        - The woman is brought to the door of her father's house
+        - **Stoned to death** by the men of the city
+        - The rationale stated — _"because she has done a disgraceful thing in Israel by playing the harlot in her father's house"_ — the offense is against both family and communal holiness
+        - _"So you shall put away the evil from among you"_ — the same communal purging formula as Deuteronomy 13:5; 17:7; 17:12; 19:19
+- **Offering or Ransom:**
+    - None prescribed
+    - Both outcomes are judicial — administered by elders at the gate; no sacrificial path is attached to either the false accusation or the confirmed offense
 
-**August 28**: Deuteronomy 22:5 – “A woman must not wear men’s clothing, nor a man wear women’s clothing, for the LORD your God detests anyone who does this.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (distinction in dress)  
+# **August 27**: The Certificate of Divorce: [Deuteronomy 24:1-4](https://www.biblegateway.com/passage/?search=Deuteronomy+24:1-4&version=WEB;NET;OJB)
 
-**August 29**: Deuteronomy 22:9-11 – “Do not plant your field with two kinds of seed. Do not plow with an ox and a donkey yoked together. Do not wear clothes of wool and linen woven together.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (no mixing)  
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:** 
+	- When a man takes a wife and marries her
+		- if she finds no favor in his eyes
+			- because he has found some unseemly thing in her
+		- he shall write her a certificate of divorce
+			- put it in her hand
+		- Send her out of his house
+		- When she has departed out of his house
+			- she may go and be another man's wife
+				- if he hates her
+					- he writes her a certificate of divorce
+						- put it in her hand
+					- sends her out of his house
+				- or if he dies
+			- her former husband may not take her again to be his wife
+				- after she is defiled
+					- that would be an abomination to YHWH
+				- you shall not cause the land to sin #DoNot 
+					- which YHWH your god gives you for an inheritance
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - Verse 4 — the **primary prohibition** of the passage — the first husband **may not take her again** after she has been married to another man
+    - The rationale stated explicitly — _"for that is an abomination (_to'evah_ — תּוֹעֵבָה) before Yahweh"_
+    - The land itself is named as affected — _"and you shall not bring sin upon the land which Yahweh your God is giving you as an inheritance"_ — the violation is not merely personal but **territorial and covenantal**; the land bears the defilement
+- **Offering or Ransom:**
+    - None prescribed
+    - The _to'evah_ classification — as consistently seen throughout Deuteronomy — carries no offering remedy; what defiles the land cannot be resolved through sacrifice but only through obedience to the prohibition itself
+- <mark style="background: #CD04BBA6;">Personal Observation</mark>
+	- Jeremiah 3:1 applies this law directly to Yahweh's own relationship with Israel — having sent Israel away, the question is raised whether He can take her back; the passage treats the principle as binding even in the covenantal metaphor
 
-**August 30**: Leviticus 19:19 – “Keep my decrees. Do not mate different kinds of animals. Do not plant your field with two kinds of seed. Do not wear clothing woven of two kinds of material.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+# **August 28**: Do Not Wear the Garments of the Other Sex: [Deuteronomy 22:5](https://www.biblegateway.com/passage/?search=Deuteronomy+22:5&version=WEB;NET;OJB)
 
-**August 31**: Leviticus 11 (summary) – “These are the regulations concerning animals... Of all the creatures... you may eat...” (applicable dietary distinctions for all). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (clean/unclean foods)  
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not
+		- women shall not wear men's clothing #DoNot 
+		- man shall not wear women's clothing #DoNot 
+	- Who ever does these
+		- is an abomination to YHWH
+- **Blessing:**
+    - None explicitly stated
+- **Penalty or Consequence:**
+    - Verse 5 — all who do these things are an **abomination** (_to'evah_ — תּוֹעֵבָה) to Yahweh your God 
+    - No judicial process is named — the consequence is **Yahweh's own response** to the violation
+- **Offering or Ransom:**
+    - None prescribed
+    - The _to'evah_ designation is among the strongest language in Deuteronomy — Yahweh's active rejection rather than a court-administered penalty. Consistent with the _to'evah_ pattern throughout Deuteronomy — what Yahweh calls abomination carries no offering remedy (cf. Deut. 7:25; 12:31; 17:1; 23:18)
+
+# **August 29**: Do Not Mix: Seeds, Animals, Materials [Deuteronomy 22:9-11](https://www.biblegateway.com/passage/?search=Deuteronomy+22:9-11&version=WEB;NET;OJB) and [Leviticus 19:19](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:**
+	- Do Not
+		- sow vineyard with two kinds of seeds #DoNot 
+			- all the fruit will be defiled
+			- all the seed will be defiled
+			- the increase of the vineyard will be defiled
+		- plow with an ox and a donkey together #DoNot 
+		- wear clothes of wool and linen woven together #DoNot 
+		- cross-breed different animals #DoNot 
+		- sow field with two kinds of seeds #DoNot 
+		- wear a garment made of two kinds of material #DoNot 
+- **Blessing:**
+    - None explicitly stated
+- **Penalty or Consequence:**
+    - Verse 9 — if mixed seed is sown in a vineyard, the **whole yield is forfeited** — both the seed sown and the fruit of the vineyard become _qodesh_ (set apart/dedicated), rendered unusable for common use
+    - The language "lest the whole yield be forfeited" (_pen tiqadash_ — פֶּן־תִּקְדַּשׁ) implies the mixture itself becomes defiled/dedicated and is lost to the owner
+- **Offering or Ransom:**
+    - None prescribed
+    - The forfeiture of the yield appears to function as the consequence in itself — no redemption path is given for the mixed vineyard's produce
+- **<mark style="background: #CD04BBA6;">Personal Observations:</mark>
+	- Wool, Linen, Mixed Materials
+		- Mixed stuff - fabric sha'atnez (שַׁעַטְנֵז) only found in these two verses
+		- etymology is debated
+		- Priest were prohibited from wearing wool in the inner court - only permitted to wear linen Ezekiel 44:17. This makes linen associated with [[Gate of Wisdom/H/Holy\|Holy]] set apart place and wool with [[Gate of Wisdom/C/Common\|Common]] place.
+		- Linen is strongly associated with the priests and being set apart. Priest garments, tabernacle curtains, messengers attire, the bride in Revelation 19:8
+
+# **August 30**: Do Not Mix Kinds: [Leviticus 19:19](https://www.biblegateway.com/passage/?search=Leviticus+19%3A19&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* **Outline:**
+   * Do
+	   * Keep my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
+   * Do Not
+	   * cross-breed different kinds of animals #DoNot 
+	   * sow your field with two kinds of seeds #DoNot 
+	   * wear a garment made of two kinds of material #DoNot 
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * Deuteronomy 22:9 — sowing a vineyard with two kinds of seed results in the whole yield being forfeited — *"lest the whole yield be forfeited, the seed which you have sown and the increase of the vineyard."* (WEB)
+   * Deuteronomy 22:11 — wearing mixed wool and linen (shatnez/שַׁעַטְנֵז) is prohibited without stated penalty, but the framing as a statute (chuqah) places it beyond the need for rationale.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The three prohibitions in the verse — mixed breeding of animals, mixed sowing of fields, and mixed fabric (shatnez) — are presented as fixed boundaries with no mechanism for substitution. The command is grounded in the created order of kinds (min/מִין) established in Genesis 1, where each thing is created and kept according to its kind.
+
 
 
 

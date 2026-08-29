@@ -18,9 +18,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44).md\\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20).md\\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44).md\\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20).md\\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Trumpets.md\\|Feast of Trumpets]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -57,7 +57,28 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
-## #LoveNeighbor Do Not Take the Mother Bird with the Young: [Deuteronomy 22:6-7](https://www.biblegateway.com/passage/?search=Deuteronomy+22:6-7&version=WEB;NET;OJB)
+
+## #LoveGod #05Deut #Deuteronomy22 Do Not Wear the Garments of the Other Sex: [Deuteronomy 22:5](https://www.biblegateway.com/passage/?search=Deuteronomy+22:5&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not
+		- women shall not wear men's clothing #DoNot 
+		- man shall not wear women's clothing #DoNot 
+	- Who ever does these
+		- is an abomination to YHWH
+- **Blessing:**
+    - None explicitly stated
+- **Penalty or Consequence:**
+    - Verse 5 — all who do these things are an **abomination** (_to'evah_ — תּוֹעֵבָה) to Yahweh your God 
+    - No judicial process is named — the consequence is **Yahweh's own response** to the violation
+- **Offering or Ransom:**
+    - None prescribed
+    - The _to'evah_ designation is among the strongest language in Deuteronomy — Yahweh's active rejection rather than a court-administered penalty. Consistent with the _to'evah_ pattern throughout Deuteronomy — what Yahweh calls abomination carries no offering remedy (cf. Deut. 7:25; 12:31; 17:1; 23:18)
+
+
+## #LoveNeighbor #Deuteronomy22 #05Deut  Do Not Take the Mother Bird with the Young: [Deuteronomy 22:6-7](https://www.biblegateway.com/passage/?search=Deuteronomy+22:6-7&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -85,8 +106,8 @@
 - **Offering or Ransom:**
     - None prescribed
 
- #Deuteronomy22 #05Deut 
-## #LoveGod  ## Do Not Mix: Seeds, Animals, Materials [Deuteronomy 22:9-11](https://www.biblegateway.com/passage/?search=Deuteronomy+22:9-11&version=WEB;NET;OJB) and [Leviticus 19:19](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19&version=WEB;NET;OJB)
+ 
+## #LoveGod  #Deuteronomy22 #05Deut   Do Not Mix: Seeds, Animals, Materials [Deuteronomy 22:9-11](https://www.biblegateway.com/passage/?search=Deuteronomy+22:9-11&version=WEB;NET;OJB) and [Leviticus 19:19](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:**
@@ -115,9 +136,9 @@
 		- Priest were prohibited from wearing wool in the inner court - only permitted to wear linen Ezekiel 44:17. This makes linen associated with [[Gate of Wisdom/H/Holy\|Holy]] set apart place and wool with [[Gate of Wisdom/C/Common\|Common]] place.
 		- Linen is strongly associated with the priests and being set apart. Priest garments, tabernacle curtains, messengers attire, the bride in Revelation 19:8
 
- #Deuteronomy22 #05Deut 
+ 
 
-## #LoveGod #Leviticus19 Do Not Eat Blood or Practice Divination: [Leviticus 19:26](https://www.biblegateway.com/passage/?search=Leviticus+19%3A26&version=WEB;NET;OJB)
+## #LoveGod #Leviticus19 #03Lev Do Not Eat Blood or Practice Divination: [Leviticus 19:26](https://www.biblegateway.com/passage/?search=Leviticus+19%3A26&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -140,9 +161,9 @@
    * No offering or ransom stated in the passage or immediate context.
    * Both prohibitions in this verse — blood and divination — belong to the category of things set apart exclusively to God: blood belongs to Him as the seat of life and atonement (Leviticus 17:11); knowledge of hidden things belongs to Him alone (Deuteronomy 29:29 — *"The secret things belong to Yahweh our God."* WEB).
 
- #03Lev  
+   
 
-## #LoveNeighbor Do Not Profane Your Daughter by Making Her a Prostitute: [Leviticus 19:29](https://www.biblegateway.com/passage/?search=Leviticus+19%3A29&version=WEB;NET;OJB)
+## #LoveNeighbor #Leviticus19 #03Lev  Do Not Profane Your Daughter by Making Her a Prostitute: [Leviticus 19:29](https://www.biblegateway.com/passage/?search=Leviticus+19%3A29&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -164,7 +185,7 @@
 * **Offering or Ransom:**
    * No offering or ransom stated. The framing is entirely covenantal — the land bears the consequence of the people's sexual sin, and no substitution is offered in its place.
 
- #Leviticus19 #03Lev 
+ 
 ## 3. Worship and Sacrifice
 - **Scripture Reference:** Deuteronomy 12:2–31
    - **Scripture Text (WEB)**: "You shall surely destroy all the places in which the nations that you shall dispossess served their gods... You shall destroy their name out of that place. You shall not do so to Yahweh your God. But to the place which Yahweh your God shall choose out of all your tribes, to put his name there, you shall seek his habitation, and you shall come there. ... You shall not do all the things that we do here today, every man whatever is right in his own eyes; for you haven't yet come to the rest and to the inheritance which Yahweh your God gives you. But when you go over the Jordan and dwell in the land which Yahweh your God causes you to inherit, and he gives you rest from all your enemies around you, so that you dwell in safety, ... be careful that you are not ensnared to follow them after they are destroyed from before you, and that you not inquire after their gods, saying, "How do these nations serve their gods? I will do likewise." You shall not do so to Yahweh your God; for every abomination to Yahweh, which he hates, they have done to their gods; ... Whatever I command you, be careful to do it. You shall not add to it, nor take away from it." 
@@ -174,7 +195,7 @@
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
 
-## #LoveGod Clean and Unclean Foods: [Deuteronomy 14:3-21](https://www.biblegateway.com/passage/?search=Deuteronomy+14:3-21&version=WEB;NET;OJB)
+## #LoveGod #Deuteronomy14 #05Deut  Clean and Unclean Foods: [Deuteronomy 14:3-21](https://www.biblegateway.com/passage/?search=Deuteronomy+14:3-21&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -248,7 +269,7 @@
 	- Once one was "graphed" or "adopted" in and became followers of YHWH, they were known as an Israelite and identified with one of the tribes. Like [[Zunpublished/Caleb\|Caleb]] who was fully incorporated into Israel.
 		- Caleb is identified as a Kenizzite (Numbers 32:12; Joshua 14:6), suggesting possible non-Israelite ancestry absorbed into Judah — yet he is fully counted among the tribe of Judah and among the faithful
 
- #Deuteronomy14 #05Deut 
+ 
 
 ## 5.  Statutes for festivals: Passover, Weeks, Booths
 - **Scripture Reference**: Deuteronomy 16:1–17
@@ -275,7 +296,7 @@
 
 # List of Statutes (Chuqim) in Leviticus
 
-## #LoveGod Clean and Unclean Animals: [Leviticus 11](https://www.biblegateway.com/passage/?search=Leviticus+11&version=WEB;NET;OJB)
+## #LoveGod #Leviticus11 #03Lev Clean and Unclean Animals: [Leviticus 11](https://www.biblegateway.com/passage/?search=Leviticus+11&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -374,10 +395,10 @@
 	- In other texts there are ways something can be move from unclean, to common, to clean, to set apart. For example a cup can move between them based on outward things that happen to it. However, the unclean living beings are unclean by definition of characteristics which can not be changed. Thus they can not move between the categories. [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 	- Acts 10:14-15  [Acts 10:14-15 video](https://youtu.be/TgIwmRp4xec)
 
- #Leviticus11 #03Lev 
+ 
 
 
-## #LoveGod No Blood Shall Be Eaten: [Leviticus 17:10–14](https://www.biblegateway.com/passage/?search=Leviticus+17:10-14&version=WEB;NET;OJB) and [Deuteronomy 12:23-25](https://www.biblegateway.com/passage/?search=Deuteronomy%2012%3A23-25&version=WEB;NET;OJB)
+## #LoveGod #Leviticus17 #03Lev No Blood Shall Be Eaten: [Leviticus 17:10–14](https://www.biblegateway.com/passage/?search=Leviticus+17:10-14&version=WEB;NET;OJB) and [Deuteronomy 12:23-25](https://www.biblegateway.com/passage/?search=Deuteronomy%2012%3A23-25&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:** 
@@ -406,7 +427,29 @@
 - <mark style="background: #CD04BBA6;">Personal Observation</mark>:
 	- There is a distinction made in noting the hunting is of an animal that may be eaten.
 
- #Leviticus17 #03Lev 
+ 
+
+## #LoveNeighbor #03Lev #Leviticus18 Do Not Uncover the Nakedness of Your Own Flesh: [Leviticus 18:6](https://www.biblegateway.com/passage/?search=Leviticus+18%3A6&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* **Outline:**
+   * Do not
+	   * approach any close relatives to uncover their nakedness
+   * Because
+	   * I am YHWH
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse; v.6 functions as the heading command over the detailed prohibitions that follow in vv.7-18.
+   * Leviticus 20:11-21 supplies the penalties for the specific violations listed in chapter 18 — ranging from death (vv.11-12) to being cut off (vv.17-18) to bearing iniquity (v.20) to dying childless (v.21).
+   * Leviticus 18:24-28 frames the overarching consequence — the land itself vomits out those who practice these things, as it vomited out the nations before Israel.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. Leviticus 18:29 states that anyone who does any of these abominations shall be cut off from among the people — the severity of the language suggests no substitution is available for these violations.
+   * The closing formula *"I am Yahweh your God"* (v.6) grounds the prohibition in God's own character and covenant identity rather than in any transactional framework.
 
 
 ## #LoveNeighbor Honor Your Mother and Father and Keep My Sabbaths: [Leviticus 19:3](https://www.biblegateway.com/passage/?search=Leviticus+19%3A3&version=WEB;NET;OJB)
@@ -435,7 +478,28 @@
 * **Offering or Ransom:**
    * No offering or ransom stated. The verse closes with *"I am Yahweh your God"* — grounding both commands in covenantal identity rather than transaction.
 
- #Leviticus19 #03Lev 
+ 
+
+## Do Not Commit Adultery: [Leviticus 20:10](https://www.biblegateway.com/passage/?search=Leviticus+20%3A10&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+* **Outline:**
+   * 
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+
+* **Penalty or Consequence:**
+   * Both the adulterer and the adulteress shall surely be put to death — stated explicitly within the verse itself: *"the adulterer and the adulteress shall surely be put to death."* (WEB)
+   * Deuteronomy 22:22 — *"both of them shall die, the man who lay with the woman and the woman."* (WEB) — confirming the double penalty applies to both parties equally.
+   * Proverbs 6:32-33 — *"he who commits adultery with a woman lacks understanding... he will get wounds and dishonor, and his disgrace will not be wiped away."* (WEB) — the consequence extends beyond legal penalty into permanent communal shame.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated.
+   * Proverbs 6:34-35 reinforces that no ransom is available in this case — *"He will not spare in the day of vengeance. He won't accept any ransom, neither will he rest content, though you give many gifts."* (WEB) — making adultery one of the few violations where the text explicitly closes the door on substitution.
+
+
 
 ## #LoveNeighbor  Proclaim Liberty Throughout the Land: [Leviticus 25:10](https://www.biblegateway.com/passage/?search=Leviticus+25%3A10&version=WEB;NET;OJB)
 

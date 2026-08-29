@@ -10,7 +10,7 @@
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 - [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
 - [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]
-- [[Zunpublished/Feast of Trumpets\|Feast of Trumpets]]
+- [[Gate of Wisdom/Appointed Time/Feast of Trumpets\|Feast of Trumpets]]
 - [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
 - [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 

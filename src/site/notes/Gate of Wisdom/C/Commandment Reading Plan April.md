@@ -292,7 +292,7 @@ Do
 - See [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
 
 **April 21**: [Leviticus 23:24-25](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A24-25&version=WEB;NET;OJB) – Rest on Rosh Hashanah. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
-- See [[Zunpublished/Feast of Trumpets\|Feast of Trumpets]]
+- See [[Gate of Wisdom/Appointed Time/Feast of Trumpets\|Feast of Trumpets]]
 
 **April 22**: [Leviticus 23:27-32](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A27-32&version=WEB;NET;OJB) – Fast and rest on Yom Kippur. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
 - See [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]

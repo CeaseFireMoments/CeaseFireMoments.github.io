@@ -8,6 +8,7 @@
 - [[Gate of Wisdom/Dwelling Places/The Camp/Camp\|Camp]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Canaan\|Canaan]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs\|Cave of the Patriarchs]]
+- [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)\|Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)]]
 - [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]
 - [[Gate of Wisdom/Consequence/Disobedience/Chaos\|Chaos]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]

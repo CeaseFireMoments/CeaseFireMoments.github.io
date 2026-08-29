@@ -30,9 +30,9 @@
 - eternal kingdom and reign of the LORD (Micah 4:7); 
 - heavenly Jerusalem (Hebrews 12:22).
 
-| file.inlinks                                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/33 Micah-04 Yada Yada.md\\|33 Micah-04 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Yada Yada Pauses/33 Micah-04 Yada Yada.md\\|33 Micah-04 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Trumpets.md\\|Feast of Trumpets]]</li></ul> |
 
 { .block-language-dataview}
 
