@@ -314,6 +314,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/V/Vain\|Vain]]                                                                                                 |
 | [[Gate of Wisdom/W/Wash\|Wash]]                                                                                                 |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                                    |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/world\|world]]                                                                 |
 | [[Gate of Wisdom/W/Worship\|Worship]]                                                                                           |
 | [[Gate of Wisdom/Beings/Yahweh of Armies\|Yahweh of Armies]]                                                                    |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]                                                                    |

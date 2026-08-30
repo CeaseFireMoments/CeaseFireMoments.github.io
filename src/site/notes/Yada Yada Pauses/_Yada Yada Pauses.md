@@ -44,6 +44,7 @@ In Hebrew - Yada means "to know." These Ceasefire Moments are for deep explorati
 	- <mark style="background: #D7CD91A6;">YHWH or Yeshua/Jesus</mark>
 	- <mark style="background: #DDCC5EA6;">Seed</mark>
 	- <mark style="background: #BAAC50A6;">Tree</mark>
+	- <mark style="background: #E53E3E;">Adversary</mark>
 - <mark style="background: #04CD3EA6;">What</mark>
 	- <mark style="background: #94DEA9A6;">Consequence</mark>
 	- <mark style="background: #77C58DA6;">Good News</mark>
@@ -57,6 +58,7 @@ In Hebrew - Yada means "to know." These Ceasefire Moments are for deep explorati
 - <mark style="background: #4DA6EDA6;">Where</mark>
 	- <mark style="background: #397CB2A6;">Dwelling Place</mark>
 	- <mark style="background: #258FE5A6;">Tabernacle or Tabernacle Elements</mark>
+	- <mark style="background: #E68989;">Adversarial Place</mark>
 - Why
 	- <mark style="background: #E6852CA6;">Why Purpose</mark>
 	- <mark style="background: #EB9E57A6;">Why Reason</mark>

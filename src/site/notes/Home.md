@@ -19,6 +19,7 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/world\|world]]                                                                                                                                                                               |
 | [[Gate of Wisdom/Appointed Time/Feast of Trumpets Survey\|Feast of Trumpets Survey]]                                                                                                                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Ezra\|Ezra]]                                                                                                                                                                                             |
 | [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)\|Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)]]                                                                            |
