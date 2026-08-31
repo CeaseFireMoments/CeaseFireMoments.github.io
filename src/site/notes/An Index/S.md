@@ -52,6 +52,7 @@
 - [[Sacred Truces/More on Matthew 5 Salt\|More on Matthew 5 Salt]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Morning Star\|Morning Star]]
 - [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
+- [[Gate of Wisdom/S/NT Sins by Instruction or Consequence\|NT Sins by Instruction or Consequence]]
 - [[Sacred Truces/Please pass the salt\|Please pass the salt]]
 - [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Red Sea\|Red Sea]]

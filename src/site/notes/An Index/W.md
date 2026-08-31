@@ -17,6 +17,7 @@
 - [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]
 - [[Sacred Truces/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]
 - [[Sacred Truces/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]
+- [[Gate of Wisdom/W/Will\|Will]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/world\|world]]
 - [[Gate of Wisdom/W/Worship\|Worship]]
 

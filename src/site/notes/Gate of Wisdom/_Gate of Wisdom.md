@@ -214,6 +214,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]                                                                            |
 | [[Gate of Wisdom/Covenant/Noahic\|Noahic]]                                                                                      |
 | [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]                                                             |
+| [[Gate of Wisdom/S/NT Sins by Instruction or Consequence\|NT Sins by Instruction or Consequence]]                               |
 | [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]                                                                         |
 | [[Gate of Wisdom/Offering/Offerings\|Offerings]]                                                                                |
 | [[Gate of Wisdom/O/omer\|omer]]                                                                                                 |
@@ -314,6 +315,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/V/Vain\|Vain]]                                                                                                 |
 | [[Gate of Wisdom/W/Wash\|Wash]]                                                                                                 |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                                    |
+| [[Gate of Wisdom/W/Will\|Will]]                                                                                                 |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/world\|world]]                                                                 |
 | [[Gate of Wisdom/W/Worship\|Worship]]                                                                                           |
 | [[Gate of Wisdom/Beings/Yahweh of Armies\|Yahweh of Armies]]                                                                    |

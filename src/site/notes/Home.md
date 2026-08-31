@@ -19,6 +19,7 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Gate of Wisdom/W/Will\|Will]]                                                                                                                                                                                                               |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/world\|world]]                                                                                                                                                                               |
 | [[Gate of Wisdom/Appointed Time/Feast of Trumpets Survey\|Feast of Trumpets Survey]]                                                                                                                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Ezra\|Ezra]]                                                                                                                                                                                             |
