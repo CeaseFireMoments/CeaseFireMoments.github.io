@@ -3,8 +3,8 @@
 ---
 
 Grace vs Mercy = Gift vs Loyalty
-- Grace = A gift of kindness — unearned, spontaneous, no obligation. Like found treasure. No prior relationship, sometimes sparks a relationship. One time favor. A stranger sees a beggar and gives him bread (Gen 39:4 – Joseph finds chen with Potiphar)  “The law was given through Moses; grace and truth came through Jesus Christ.” (John 1:17)
-- Mercy = Loyal, covenant love — promised, enduring, relational duty. Always sustains an existing relationship.  A father promises his son: “I will never leave you” and keeps it for life (2 Sam 7:15 – “My chesed will not depart”). The promises were spoken to Abraham and to his seed… it says ‘seed’ (not ‘seeds’), meaning one person, who is Christ.” If you are Christ’s, then you are Abraham’s seed, heirs according to the promise.”(Galatians 3)
+- Grace = unearned favor, a gift of kindness — unearned, spontaneous, no obligation. Like found treasure. No prior relationship, sometimes sparks a relationship. One time favor. A stranger sees a beggar and gives him bread (Gen 39:4 – Joseph finds chen with Potiphar)  “The law was given through Moses; grace and truth came through Jesus Christ.” (John 1:17)
+- Mercy = compassionate relief from deserved consequenc, loyal, covenant love — promised, enduring, relational duty. Always sustains an existing relationship.  A father promises his son: “I will never leave you” and keeps it for life (2 Sam 7:15 – “My chesed will not depart”). The promises were spoken to Abraham and to his seed… it says ‘seed’ (not ‘seeds’), meaning one person, who is Christ.” If you are Christ’s, then you are Abraham’s seed, heirs according to the promise.”(Galatians 3)
 
 Ex 34:6 "Abounding in chesed and truth”. Hebrew text explicitly joins mercy (chesed) with justice (punishment) — not as opposites, but as inseparable parts of the same divine character. Mercy does not ignore justice. God refuses to pretend sin doesn’t matter. Strength that forgives, but refuses to enable evil.
 

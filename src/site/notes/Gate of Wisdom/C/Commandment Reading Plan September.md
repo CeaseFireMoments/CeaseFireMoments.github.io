@@ -46,23 +46,278 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # September
 
-**September 1**: Deuteronomy 14:3-21 (summary) – “Do not eat any detestable thing... These are the animals you may eat...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+## **September 1**: Clean and Unclean Foods: [Deuteronomy 14:3-21](https://www.biblegateway.com/passage/?search=Deuteronomy+14:3-21&version=WEB;NET;OJB)
 
-**September 2**: Leviticus 17:10-14 – “I will set my face against any Israelite or any foreigner... who eats blood... You must not eat the blood of any creature...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (no blood)  
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- Do not Eat #DoNot 
+		- any abominable ([[Gate of Wisdom/Abomination/Abomination\|Abomination]]) thing
+		- they are [[Gate of Wisdom/U/Unclean\|Unclean]]
+		- them that chew the cud, or of those who have the hoof split (because they do not have both)
+			- camel
+			- hare
+			- rabbit
+			- pig
+		- doesn’t have fins and scales
+		- unclean birds
+			- eagle
+			- vulture
+			- osprey
+			- the red kite, the kite of any kind
+			- the falcon
+			- every raven of any kind
+			- the ostrich
+			- the owl
+			- seagull
+			- hawk of any kind
+			- little owl, the great owl, the horned owl
+			- pelican
+			- vulture
+			- cormorant
+			- stork
+			- heron after its kind
+			- hoopoe
+			- bat
+		- All winged creeping things
+		- anything that dies of itself
+			- give it to the [[Gate of Wisdom/Beings/Stranger\|Stranger]] living among you who is within your gates
+			- sell it to a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]
+	- Do Eat #Dos 
+		- ox
+		- sheep
+		- goat
+		- deer
+		- gazelle
+		- roebuck
+		- wild goat
+		- ibex
+		- antelope
+		- chamois. 
+		- Every animal that parts the hoof, and has the hoof split in two and chews the cud
+		- whatever has fins and scales
+		- all clean birds
+	- Do not boil a goat in it's mother's milk
+	- Because
+		- you are a [[Gate of Wisdom/H/Holy\|Holy]] people to YHWH
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The immediate context frames Israel as _"a holy people to Yahweh your God"_ and _"a people for his own possession"_ (Deut. 14:2) — the dietary distinctions are tied directly to this identity and status as already-received blessing
+    - Distinction from the nations is itself the implied blessing — holiness as separation unto Yahweh
+- **Penalty or Consequence:**
+    - Eating unclean animals renders one ceremonially unclean (implied; cross-referenced in Leviticus 11:26–31). 
+    - The abomination language of v.3 (_to'evah_ — תּוֹעֵבָה) implies that eating what is forbidden is a violation of holy status before Yahweh — the same weight carried throughout Deuteronomy (cf. Deut. 7:25; 12:31; 17:1)
+    - The animal that dies of itself may be given to the foreigner or sold to a stranger but **not eaten by Israel** (v.21) — the distinction between Israel and the nations is the stated rationale
+    - No specific penalty in Deuteronomy; general covenant curses apply (Deuteronomy 28:15–68).
+- **Offering or Ransom:**
+    - None prescribed within the passage
+    - Uncleanness from carcass contact is resolved by washing and time per Leviticus 11 — Deuteronomy 14 does not elaborate a remedy here
+    - The animal that dies of itself (v.21) has a disposal path — give or sell to outsiders — but no ransom or offering for the Israelite who eats it is named
+- <mark style="background: #CD04BBA6;">**Personal Observation**</mark>:
+	- All through out scripture there is a distinction made between the stranger and foreigner. Neither are completely integrated as a part of the Israelites. Once one was "graphed" or "adopted" in and became followers of YHWH, they were known as an Israelite and identified with one of the tribes. Like [[Zunpublished/Caleb\|Caleb]].
+		- you can GIVE  it to a stranger - A resident alien/sojourner living **among** the Israelites, often integrated to some degree, protected by law, and included in provisions like gleanings (Leviticus 19:10), feasts, and equal justice.  
+		- you can SELL it to the foreigner - from another land or people who does not reside among Israel (more distant or temporary outsider)
+	- Once one was "graphed" or "adopted" in and became followers of YHWH, they were known as an Israelite and identified with one of the tribes. Like [[Zunpublished/Caleb\|Caleb]] who was fully incorporated into Israel.
+		- Caleb is identified as a Kenizzite (Numbers 32:12; Joshua 14:6), suggesting possible non-Israelite ancestry absorbed into Judah — yet he is fully counted among the tribe of Judah and among the faithful
 
-**September 3**: Deuteronomy 12:23-25 – “But be sure you do not eat the blood, because the blood is the life... You must not eat the blood...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+## **September 2**: No Blood Shall Be Eaten: [Leviticus 17:10–14](https://www.biblegateway.com/passage/?search=Leviticus+17:10-14&version=WEB;NET;OJB) and [Deuteronomy 12:23-25](https://www.biblegateway.com/passage/?search=Deuteronomy%2012%3A23-25&version=WEB;NET;OJB)
 
-**September 4**: Exodus 23:19 / Deuteronomy 14:21 – “Do not cook a young goat in its mother’s milk.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (separation)  
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:** 
+	- Any
+		- man of the [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
+		- any [[Gate of Wisdom/Beings/Stranger\|Stranger]] who lives among the men of the House of Israel
+		- no person among [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]
+	- Do Not
+		- eat any kind of blood #DoNot 
+			- I will set my face against that [[Gate of Wisdom/S/Soul\|Soul]]
+			- I will cut him off from among his people 
+	- Because
+		- life of the flesh is in the blood
+		- I have given you an altar to make [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]] for your souls
+			- for it is the blood that makes atonement by reason of the life
+	- Do
+		- When hunting any animal or bird that may be eaten #Dos 
+			- poor out its blood
+			- cover the blood with dust
+- **Blessing:**
+    - None explicitly stated in this passage
+- **Penalty or Consequence:**
+    - Any person of the house of Israel or stranger who eats blood — YHWH will set His face against that person and cut them off from among their people (Lev. 17:10)
+- **Offering or Ransom:**
+    - None explicitly stated in this passage.
+- <mark style="background: #CD04BBA6;">Personal Observation</mark>:
+	- There is a distinction made in noting the hunting is of an animal that may be eaten
 
-**September 5**: Leviticus 19:23-25 – “When you enter the land and plant any kind of fruit tree, regard its fruit as forbidden. For three years you are to consider it forbidden; it must not be eaten. In the fourth year all its fruit will be holy... But in the fifth year you may eat its fruit.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (fruit of trees)  
+**September 3**: See yesterday
 
-**September 6**: Deuteronomy 20:19-20 – “When you lay siege to a city... do not destroy its trees by putting an ax to them, because you can eat their fruit. Do not cut them down.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (preserve fruit trees)  
+**September 4**: See **September 1**
 
-**September 7**: Deuteronomy 25:1-3 – “When people have a dispute, they are to take it to court... The judge must decide... but he must not give more than forty lashes.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(fair punishment)  
+# **September 5**: Treat the Fruit of New Trees as Uncircumcised: [Leviticus 19:23-25](https://www.biblegateway.com/passage/?search=Leviticus+19%3A23-25&version=WEB;NET;OJB)
 
-**September 8**: Deuteronomy 19:15-21 – “One witness is not enough to convict anyone... A malicious witness...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(witness rules)  
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+* **Outline:**
+   * When you enter the land and plant any fruit tree
+	   * for three years
+		   * Do
+			   * consider it's fruit to be uncircumcised //[[Gate of Wisdom/Good News/Uncircumcised\|Uncircumcised]]// #Dos 
+		   * Do not
+			   * it will be forbidden to you #DoNot 
+			   * it must not be eaten #DoNot 
+	   * In the fourth year
+		   * all it's fruit will be
+			   * [[Gate of Wisdom/H/Holy\|Holy]] //set apart// #Dos 
+			   * praise offerings to YHWH #Dos 
+	   * In the fifth year
+		   * you shall eat its fruit #Dos 
+			   * that it may yield it's increase to you
+   * I am YHWH
+	   * your god
 
-**September 9**: Exodus 23:6-8 – “Do not deny justice to your poor people in their lawsuits... Do not accept a bribe, for a bribe blinds those who see...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(no bribery / impartial justice)  
+* **Blessing:**
+   * Explicitly stated in v.25 — *"that it may yield to you its fruit: I am Yahweh your God."* (WEB) — obedience in withholding the fruit for three years and consecrating the fourth year's harvest to Yahweh results in increased yield in the fifth year and beyond.
+   * The blessing is agricultural and covenantal — the land itself responds to the pattern of consecration.
+
+* **Penalty or Consequence:**
+   * No explicit penalty stated in the passage.
+   * The implied consequence is the inverse of the blessing — failure to observe the waiting period and consecration disrupts the covenantal relationship between the people, the land, and Yahweh that produces abundance.
+
+* **Offering or Ransom:**
+   * The fourth year's fruit is explicitly set apart as holy — a praise offering to Yahweh (v.24) — *"in the fourth year all its fruit shall be holy, for giving praise to Yahweh."* (WEB)
+* **<mark style="background: #CD04BBA6;">Personal Observations</mark>**
+   * The pattern mirrors the tithe and firstfruits structure — the first portion belongs to God before the rest may be enjoyed by the people.
+   * Uncircumcised = not set apart for use by Yah. Circumcised = set apart for use by Yah.
+   * The use of the term "uncircumcised" (arelim/עֲרֵלִים) for the fruit of the first three years connects the agricultural law to the covenant sign of circumcision.
+   * Deuteronomy 10:16, Jeremiah 4:4, Ezekiel 44:9
+
+## **September 6**: Do Not Destroy the Trees of a Besieged City: [Deuteronomy 20:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+20:19-20&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** 
+	- If you besiege a city
+		- for a long time
+			- while attempting to capture it
+	- Do not
+		- chop down it's trees #DoNot 
+			- a tree is not a human that you should besiege it
+	- Do
+		- eat fruit from them #Dos 
+		- chop down any tree not suitable for food #Dos 
+			- us it to build siege works against the city #Dos 
+				- until the city falls
+- **Blessing:**
+    - None explicitly stated
+    - The implied blessing is **sustained provision** — fruit trees preserved during siege become a resource for the conquering army and the land's future inhabitants; restraint in warfare yields long-term abundance
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The distinction drawn in v.20 — trees that do not bear fruit **may** be cut down for siege works — makes the protection of fruit trees deliberate and specific, not a general prohibition on using trees
+- **Offering or Ransom:**
+    - None prescribed
+    - The command functions as a **restraint on warfare** embedded in the rules of engagement; no sacrificial mechanism is attached
+
+## **September 7**: Limit on Flogging [Deuteronomy 25:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A1-3&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline**: 
+	- A controversy between men
+		- they come to judgment
+		- the judges judge them
+		
+	- Do
+		- justify the righteous #Dos 
+		- condemn the wicked #Dos 
+			- if worth to be beaten
+				- judge will 
+					- cause him to lie down
+						- to be beaten before his face
+						- according to his wickedness
+							- by number
+								- may sentence to no more than forty stripes
+		
+	- Do not
+		- give the wicked more than forty stripes #DoNot
+		
+	- Because
+		- if struck or beat more than forty stripes
+			- your brother <mark style="background: #CD04BBA6;">//the wicked one//</mark> will be degraded in your sight
+- **Penalty or Consequence**: 
+	- Up to 40 stripes; exceeding risks degrading the person.
+- **Offering or Ransom**: 
+	- None specified; limit ensures justice.
+
+## **September 8**: Number of Witnesses Required/False Witness [Deuteronomy 19:15-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2019%3A15-21&version=WEB;NET;OJB)
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline:**
+	- When rising up against a man for 
+		- any iniquity
+		- or any sin that he sins
+		
+	- Do
+		- establish the matter 
+			- at the mouth of 
+				- two witnesses #Dos 
+				- or three witnesses
+		- if an [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] witness testifies #Dos 
+			- against him of wrongdoing
+				- both the men (man accused of iniquity or sin and the unrighteous witness)
+					- stand before
+						- YHWH
+						- the [[Zunpublished/Priest\|Priest]]
+						- the judges
+					- the judges shall make diligent inquisition
+						- if the witness is a false witness
+							- has testified falsely against his brother (fellow member of his covenant community)
+							- do to him as he thought to do to his brother (the man accused of iniquity or sin)
+							- remove the evil from among you
+			- those who remain shall #Dos 
+				- hear
+				- fear
+				- never again commit any such evil (false witness) among you
+		
+	- Do not
+		- your eyes shall not pity: #DoNot 
+			- life for life 
+			- eye for eye
+			- tooth for tooth
+			- hand for hand
+			- foot for foot
+- **Penalty or Consequence:**
+	- A single witness testimony is insufficient to establish guilt; the matter cannot be legally confirmed.
+	- The investigation itself is the mechanism that exposes false witnesses; failure to investigate diligently enables injustice.
+	- Whatever punishment the false witness sought to bring upon the accused falls upon the false witness instead.
+- **Offering or Ransom:**
+	- None specified; the punishment is the ransom
+- Personal Obersvations
+	- remove evil from  = "you will burn out"
+	- life for life, eye for eye, etc = measure for measure - meaning the punishment should fit the crime not to be taken literally [^1]
+	- Matthew 18:15-17
+		- Go to them privately - because you can not make a public accusation without having at least one other person.
+		- Take one or two others along - because you have to have two or three witnesses to establish guilt.
+		- Tell the assembly - because at this point, there has to be an investigation - not just into the person you are accusing - but into you as well to determine if your witness is truth.
+		- Treat them as an unbeliever - remove them from the assembly. If you are a false witness, you will be removed.
+
+## **September 9**: Justice for the Poor in Lawsuits [Exodus 23:6-9](https://www.biblegateway.com/passage/?search=Exodus%2023%3A6-9&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- **Outline**:
+	- Do not
+		- deny justice to poor people in lawsuit #DoNot 
+		- kill the innocent and righteous #DoNot 
+			- Because YHWH will not justify the wicked
+		- take a bribe #DoNot 
+			- Because bribes 
+				- blind those who have sight
+				- perverts the words of the righteous
+		- oppress an [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] #DoNot 
+			- Because you know their heart since you were foreigners in the land of Egypt.
+		
+	- Do
+		- keep far from a false charge  #Dos 
+- **Penalty or Consequence**: 
+	- Yahweh will not acquit the one who justifies the wicked; bribery perverts justice.
+- **Offering or Ransom**: 
+	- None; the prohibition is absolute.
 
 **September 10**: Leviticus 19:15 – “Do not pervert justice; do not show partiality to the poor or favoritism to the great, but judge your neighbor fairly.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
 

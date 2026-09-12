@@ -30,9 +30,9 @@
 
 # Connections
 
-| file.inlinks                                                                                    |
-| ----------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li></ul> |
+| file.inlinks                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh.md\\|Nineveh]]</li></ul> |
 
 { .block-language-dataview}
 

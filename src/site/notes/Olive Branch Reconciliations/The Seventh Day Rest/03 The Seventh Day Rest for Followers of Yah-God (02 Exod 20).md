@@ -19,7 +19,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - [[Gate of Wisdom/H/Holy\|Holy]] - kadosh (קָדוֹשׁ), which means "set apart," "separate," or "consecrated" for a special purpose. 
 	- In Scriptures, it signifies something that is distinct from the common or profane, dedicated to God's service, or possessing a unique sanctity. 
 	- The concept of kadosh applies to Yah, people, places, things, and time, distinguishing them as unique and separate from ordinary things. 
-- "Commandments" - devarim דְּבָרִים (plural of דָּבָר, davar) means "words," "things," or "matters." 
+- "Commandments" - devarim דְּבָרִים (plural of דָּבָר, [[Zunpublished/davar\|davar]]) means "words," "things," or "matters." 
 	- The book known as "Deuteronomy" is more literally "Davarim".
 
 ## **Who**:

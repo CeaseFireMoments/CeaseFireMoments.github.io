@@ -4,7 +4,7 @@
 
 # Define
 - Hebrew: 
-	- ruach ra'ah (רוּחַ רָעָה) evil spirit
+	- ruach ra'ah (רוּחַ רָעָה) [[Gate of Wisdom/B/evil\|evil]] spirit
 	- pneumata akatharta (πνεύματα ἀκάθαρτα) unclean spirits
 - Greek: 
 	- pneuma akatharton (πνεῦμα ἀκάθαρτον) unclean spirit

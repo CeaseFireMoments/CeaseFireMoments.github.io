@@ -13,6 +13,7 @@
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]
 - [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]
+- [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]
 - [[Gate of Wisdom/Appointed Time/Jubilee\|Jubilee]]
 - [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]
 - [[Gate of Wisdom/J/Judge\|Judge]]
@@ -21,6 +22,7 @@
 - [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]
 - [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
 - [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
+- [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]
 - [[Sacred Truces/Scripture Survey – Jesus Said\|Scripture Survey – Jesus Said]]
 
 { .block-language-dataview}

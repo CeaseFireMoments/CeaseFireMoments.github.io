@@ -80,6 +80,7 @@
 - [[Sacred Truces/Shavuot Pentecost – a Divergence of Jewish and Christian Faiths\|Shavuot Pentecost – a Divergence of Jewish and Christian Faiths]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Shedim\|Shedim]]
 - [[Gate of Wisdom/S/Shem\|Shem]]
+- [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Sheol\|Sheol]]
 - [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]
 - [[Gate of Wisdom/Sign/Sign\|Sign]]
 - [[Gate of Wisdom/S/Sin\|Sin]]

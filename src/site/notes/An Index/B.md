@@ -25,6 +25,7 @@
 - [[Gate of Wisdom/B/Burden\|Burden]]
 - [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
 - [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]
+- [[Gate of Wisdom/B/evil\|evil]]
 - [[Sacred Truces/Matthew 28 v19 Baptizing in the Name\|Matthew 28 v19 Baptizing in the Name]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 1-2 Beatitudes\|Matthew 5 Sermon on the Mount v 1-2 Beatitudes]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]

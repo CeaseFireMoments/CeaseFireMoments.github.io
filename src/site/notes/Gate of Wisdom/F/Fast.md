@@ -48,8 +48,8 @@ Isaiah 58 tzom
 
 # Connections
 - 
-| file.inlinks                                                                 |
-| ---------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+| file.inlinks                                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah-03 H.md\\|Jonah-03 H]]</li></ul> |
 
 { .block-language-dataview}

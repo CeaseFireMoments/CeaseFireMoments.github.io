@@ -21,6 +21,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Numbers/08\|08]]                                                                                               |
 | [[Gate of Wisdom/Numbers/09\|09]]                                                                                               |
 | [[Gate of Wisdom/Numbers/10\|10]]                                                                                               |
+| [[Gate of Wisdom/Numbers/40\|40]]                                                                                               |
 | [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]]                                                                             |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Aarons Staff\|Aarons Staff]]                                   |
 | [[Gate of Wisdom/Beings/Human Beings/Abimelech\|Abimelech]]                                                                     |
@@ -110,6 +111,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]                                                                         |
 | [[Gate of Wisdom/E/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                                               |
+| [[Gate of Wisdom/B/evil\|evil]]                                                                                                 |
 | [[Gate of Wisdom/Beings/Human Beings/extortionist\|extortionist]]                                                               |
 | [[Gate of Wisdom/Beings/Human Beings/Ezra\|Ezra]]                                                                               |
 | [[Gate of Wisdom/E/Ezrach\|Ezrach]]                                                                                             |
@@ -168,6 +170,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Jesus\|Jesus]]                                                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]                                                                                 |
 | [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]                                                 |
+| [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]                                                                             |
 | [[Gate of Wisdom/Appointed Time/Jubilee\|Jubilee]]                                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]                                                                             |
 | [[Gate of Wisdom/J/Judge\|Judge]]                                                                                               |
@@ -212,6 +215,8 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/nekar\|nekar]]                                                                                          |
 | [[Gate of Wisdom/Covenant/New Covenant\|New Covenant]]                                                                          |
 | [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]                                                                            |
+| [[Gate of Wisdom/Beings/Human Beings/Nimrod\|Nimrod]]                                                                           |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]]                                                             |
 | [[Gate of Wisdom/Covenant/Noahic\|Noahic]]                                                                                      |
 | [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]                                                             |
 | [[Gate of Wisdom/S/NT Sins by Instruction or Consequence\|NT Sins by Instruction or Consequence]]                               |
@@ -243,6 +248,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]                                                                         |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Red Sea\|Red Sea]]                                                             |
 | [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]                                                              |
+| [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]                                                                   |
 | [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]                                                                 |
 | [[Gate of Wisdom/C/Return of the Gods\|Return of the Gods]]                                                                     |
 | [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]                                                         |
@@ -268,6 +274,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]                                                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Shedim\|Shedim]]                                                                        |
 | [[Gate of Wisdom/S/Shem\|Shem]]                                                                                                 |
+| [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Sheol\|Sheol]]                                                    |
 | [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]                                                                 |
 | [[Gate of Wisdom/Sign/Sign\|Sign]]                                                                                              |
 | [[Gate of Wisdom/S/Sin\|Sin]]                                                                                                   |
@@ -308,6 +315,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Toshav\|Toshav]]                                                                                        |
 | [[Gate of Wisdom/T/Transgression\|Transgression]]                                                                               |
 | [[Gate of Wisdom/T/tribulation\|tribulation]]                                                                                   |
+| [[Gate of Wisdom/Good News/Uncircumcised\|Uncircumcised]]                                                                       |
 | [[Gate of Wisdom/U/Unclean\|Unclean]]                                                                                           |
 | [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                                 |
 | [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]                                                                      |
@@ -316,6 +324,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/W/Wash\|Wash]]                                                                                                 |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                                    |
 | [[Gate of Wisdom/W/Will\|Will]]                                                                                                 |
+| [[Gate of Wisdom/W/works\|works]]                                                                                               |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/world\|world]]                                                                 |
 | [[Gate of Wisdom/W/Worship\|Worship]]                                                                                           |
 | [[Gate of Wisdom/Beings/Yahweh of Armies\|Yahweh of Armies]]                                                                    |
