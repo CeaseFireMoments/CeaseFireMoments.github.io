@@ -27,6 +27,7 @@
 
 - Commanded by YHWH to go to [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]] (Jonah 1:1-2)
 - Fled instead toward Tarshish, boarding a ship at Joppa (Jonah 1:3)
+	- Jonah flees to Tarshish just as all biblical characters attempt some kind of “return to Eden” by their own power and scheming.
 - Cast into the sea during the storm and swallowed by a great fish (Jonah 1:15-17)
 - Vomited onto dry land after three days and three nights in the fish (Jonah 2:10)
 - Went to Nineveh after a second call from YHWH (Jonah 3:1-4)
@@ -88,6 +89,22 @@
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]]
 - Exodus 34:6-7 — the character formula both Nineveh's fate and Jonah's own complaint are measured against
 - Matthew 12:41 — Yeshua's own use of this contrast, holding up Nineveh's repentance as a standard exceeding "this generation"
+- Hyperlinks from the book of Jonah
+	- Nineveh that great city ... 
+		- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-03\|Gen-03]]:24-[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-04\|Gen-04]]:24 
+			- Cain became angry/hot - heat up
+			- If you do good - sin won't get you
+			- The blood of Abel is crying out to Yah
+			- Cain's descendant Lemek spilled blood in the city Cain built. 
+		- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-06\|Gen-06]]:1-4 - out of the spiritual beings and women was the might ones of old. YHWH saw that man was wicked [[Gate of Wisdom/B/evil\|evil]]
+		- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-10\|Gen-10]]:8-12 - Nimrod mighty one, mighty hunger - first king -  built the second city after king, also built Nineveh
+	- [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-34\|Exod-34]]:6-7
+	- [[_The Scrolls/2. Neviim (Prophets)/11 - 1 Kings/1 Kings-19\|1 Kings-19]] Elijah confronts Jezebel
+		- Jonah and Elijah both flee but for different reasons
+		- both walk one day
+		- both would rather die
+		- both lay down on the ship, Elijah sleep under a tree
+		- 
 # Righteousness
 
 - Delivered YHWH's message of judgment to Nineveh after his call, resulting in citywide repentance from the king to the least (Jonah 3:4-9)
@@ -112,6 +129,8 @@
 - The sign of Jonah is applied by Yeshua both to His resurrection (Matthew 12:39-40) and to His generation's need for repentance (Luke 11:29-30)
 - YHWH's closing question to Jonah — concern over a plant versus concern over Nineveh's people and animals — ends the book unanswered (Jonah 4:10-11)
 - Jonah's prior prophetic role, as recorded in 2 Kings 14:25, was one of pronouncing good news for Israel — territorial restoration and national expansion under Jeroboam II.
+	- Jeroboam really bad guy. Jeroboam I caused Israel to split, and then put golden calves in the temple. 
+	- Jonah prophesied favorable for him. So later, he would be known as the prophet who prophesied favorably for a terrible king. 
 
 # Contemporaries
 - Jonah's main contemporary prophets were Amos and Hosea, who also ministered to the northern kingdom of Israel during the 8th century BC.
@@ -155,6 +174,7 @@
 ### Reluctant or Resistant Response
 
 - Amos describes his own reluctant call to prophesy despite being "a herdsman, and a farmer of sycamore figs" — "Yahweh took me from following the flock, and Yahweh said to me, 'Go, prophesy to my people Israel'" (Amos 7:14-15, WEB)
+	- It’s crucially important to note that Jeroboam’s border restoration and Jonah’s prophecy are intentionally reversed by an oracle from the prophet Amos. So whatever positive associations we had in 2 Kings 14 must be tempered by the eventual reversal of Jonah’s prophecy brought on by Israel’s apostasy.
 
 ## Connections
 

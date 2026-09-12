@@ -19,13 +19,18 @@ In The Prodigal Prophet, pastor and New York Times bestselling author Timothy Ke
 
 Jonah’s journey also doesn’t end when he is freed from the belly of the fish. There is an entire second half to his story–but it is left unresolved within the text of the Bible. Why does the book of Jonah end on what is essentially a cliffhanger? In these pages, Timothy Keller provides an answer to the extraordinary conclusion of this biblical parable–and shares the powerful Christian message at the heart of Jonah’s story.
 
-
+![Prodigal Son.png\|334](/img/user/Assets/attachments/Prodigal%20Son.png)
 # Personal Observations and Notes
 
 ## Chapter 1
 - "relates to people who are racially and religiously different from him." 
 	- They were NOT racially different - they both trace back to Noah
 	- The DIFFERENCE IS **covenantal** not racial - Israel is called "a holy nation" (goy qadosh, Exodus 19:6) set apart by covenant relationship with YHWH; all other nations (goyim) stand outside that specific covenant relationship, regardless of shared ancestry through Noah.
+		- The Bible itself frequently presents a fundamental distinction between:
+			- Israel — God's covenant people
+			- The nations — the other peoples/Gentiles
+		- So Jonah's apparent problem becomes much more precise:
+			- “I can understand YHWH showing mercy to His covenant people, and I can understand a foreigner who comes into the covenant community receiving mercy. But you're showing mercy to Nineveh while they are still a foreign nation.”
 	- Jonah 4:2 reveal that his objection was rooted specifically in his prior knowledge of YHWH's revealed character from Sinai ("I knew that you are a gracious God, and merciful...") — meaning the text itself locates his resistance in theological knowledge already possessed, not in an unrecorded personal grievance.
 	- The book's own explanation for Jonah's flight and anger is entirely theological, stated in his own words (Jonah 4:2) — not racial, political, tribal, or biographical.
 	- The Bible never categorizes by race - it categorizes peoples by lineage/nation, most explicitly in the Table of Nations (Genesis 10)

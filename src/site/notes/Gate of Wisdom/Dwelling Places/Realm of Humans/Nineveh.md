@@ -5,8 +5,10 @@
 ![Nineveh.png\|457](/img/user/Assets/attachments/Nineveh.png)
 # Location
 
-- **Biblical**: A great city on the Tigris River, in the land of Assyria (Genesis 10:11; Jonah 1:2; Jonah 3:3)
-- **Modern Location**: Ruins located across the Tigris River from modern Mosul, Iraq
+- **Biblical**: A great city on the Tigris River, in the land of Assyria (Genesis 10:11; Jonah 1:2; Jonah 3:3). 
+	- It is 7 miles.
+	- "That great city" only appears twice in the Bible and both times it is referring to Nineveh.
+- **Modern Location**: Ruins located across the Tigris River from modern Mosul, Iraq 
 
 # Significance
 
@@ -27,6 +29,8 @@
 - The king of Nineveh — leads the city in repentance, rising from his throne and covering himself with sackcloth (Jonah 3:6-9)
 - [[Gate of Wisdom/Beings/Human Beings/Nimrod\|Nimrod]] — associated with the founding of Nineveh and other cities in Genesis 10:8-12
 - Sennacherib — king of Assyria who ruled from Nineveh, later slain by his own sons "in the house of Nisroch his god" (2 Kings 19:36-37; Isaiah 37:37-38)
+- Assyrian royal texts occasionally mention rituals of national humiliation or appeasement (_šēpu lequ_, meaning "to humble the feet") to pacify angry gods.
+- Eventually, the empire's extreme violence provoked a coalition of Babylonians and Medes, leading to the total destruction and burning of Nineveh in 612 BC—an end later mirrored in the biblical Book of Nahum.
 
 # Connections
 
@@ -34,3 +38,6 @@
 - [[Gate of Wisdom/Beings/Human Beings/Nahum\|Nahum]]
 - [[_The Scrolls/2. Neviim (Prophets)/36 - Zephaniah/Zephaniah\|Zephaniah]]
 - Contrasted with Jerusalem and Israel as a Gentile city that responded to prophetic warning (Matthew 12:41; Luke 11:32) — Yeshua declares "the men of Nineveh will stand up in the judgment with this generation, and will condemn it, for they repented at the proclamation of Jonah"
+
+# Extra Biblical
+- The [Assyrian Eponym Canon](https://biblehub.com/q/Evidence_for_Nineveh_s_mass_repentance.htm) records a turbulent window in the mid-8th century BC (around the time traditionally associated with Jonah). It lists events like plagues (765 BC and 759 BC), internal revolts, and a total solar eclipse over Nineveh on June 15, 763 BC.

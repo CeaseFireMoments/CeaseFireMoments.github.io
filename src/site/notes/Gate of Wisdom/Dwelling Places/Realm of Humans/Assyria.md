@@ -30,9 +30,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh.md\\|Nineveh]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh.md\\|Nineveh]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah-01 H.md\\|Jonah-01 H]]</li></ul> |
 
 { .block-language-dataview}
 
