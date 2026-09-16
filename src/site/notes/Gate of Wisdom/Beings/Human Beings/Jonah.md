@@ -28,6 +28,7 @@
 - Commanded by YHWH to go to [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]] (Jonah 1:1-2)
 - Fled instead toward Tarshish, boarding a ship at Joppa (Jonah 1:3)
 	- Jonah flees to Tarshish just as all biblical characters attempt some kind of “return to Eden” by their own power and scheming.
+	- Other resistant prophets in the Hebrew Bible, like Moses, Elijah, and Jeremiah
 - Cast into the sea during the storm and swallowed by a great fish (Jonah 1:15-17)
 - Vomited onto dry land after three days and three nights in the fish (Jonah 2:10)
 - Went to Nineveh after a second call from YHWH (Jonah 3:1-4)

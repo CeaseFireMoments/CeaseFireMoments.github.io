@@ -17,7 +17,7 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
+| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Yada Yada Pauses/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li></ul> |
 
 { .block-language-dataview}
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free.  Jesus became our Passover Lamb offering.
@@ -176,22 +176,33 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-## 6. Bind God’s Words as a Sign
-- **Scripture Reference**: Deuteronomy 6:8
-- **Scripture Text (WEB)**: “You shall bind them for a sign on your hand, and they shall be for frontlets between your eyes.”
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: General curses (Deuteronomy 28:15-68).
-- **Offering or Ransom?**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-- **Notes:** Hand represents actions, eyes represent thought or intent. 
+## #LoveGod #05Deut #Deuteronomy06 Write These Words on Your Heart and Home: [Deuteronomy 6:6-9](https://www.biblegateway.com/passage/?search=Deuteronomy+6:6-9&version=WEB;NET;OJB)
 
-## 7. Write God’s Words on Doorposts and Gates
-- **Scripture Reference**: Deuteronomy 6:9
-- **Scripture Text (WEB)**: “You shall write them on the door posts of your house and on your gates.”
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: General curses (Deuteronomy 28:15-68).
-- **Offering or Ransom?**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:**  
+	- These words which I command you today
+	- Do
+		- will be on your heart #Dos 
+		- teach them diligently to your children #Dos 
+		- talk of them when you #Dos 
+			- sit in your house
+			- walk by the way
+			- lie down
+			- rise up
+		- bind them for a [[Gate of Wisdom/Sign/Sign\|Sign]] on your hand #Dos 
+		- will be frontlets between your eyes #Dos 
+		- write them on the door posts of your #Dos 
+			- house
+			- gates
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+- **Offering or Ransom:**
+    - None prescribed
+
+
 
 ## 8. Do Not Test Yahweh Your God
 - **Scripture Reference**: Deuteronomy 6:16
@@ -250,7 +261,42 @@
 
  #Deuteronomy08 #05Deut 
 
-## #LoveGod  Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
+## Bind These Words as a Sign: [Deuteronomy 11:18-21](https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:**  
+	- Do
+		- Lay up these words of mine in your heart and in your soul #Dos 
+		- Bind them for a sign on your hand #Dos 
+		- they shall be frontlets between your eyes #Dos 
+		- teach them to your children #Dos 
+		- talk of them when you  #Dos 
+			- sit in the house
+			- walk by the way
+			- lie down
+			- rise up
+		- write them on the door posts of your #Dos 
+			- house
+			- gates
+			- so that your days and your childrens day may be multiplied
+				- in the land which YHWH swore to your fathers
+					- as the days of the heavens above the earth
+- **Blessing:**
+    - Verse 21 — **explicit blessing stated within the passage** — _"that your days and the days of your children may be multiplied in the land which Yahweh swore to your fathers to give them, as the days of the heavens above the earth"_
+    - The blessing is **generational and cosmic in scope** — days multiplied as the days of heaven above the earth is among the most expansive blessing formulas in all of Deuteronomy
+    - The transmission of Torah to children is the direct condition — the blessing extends as far as the words are faithfully passed on
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is **formational and household** in nature — binding, writing, teaching at home and on the road, rising and lying down; no sacrificial mechanism is attached
+- <mark style="background: #CD04BBA6;">Personal Observation</mark>
+    - The near-parallel to Deuteronomy 6:6-9 is direct — the same four-fold placement of the words (hand, eyes, doorpost, gate) repeated here with the **explicit generational blessing** made more prominent
+    - The broader context of Deuteronomy 11:16-17 provides the immediate consequence of departure — heart turned away, serving other gods, heaven shut, no rain, ground yields nothing, perishing from the good land
+
+
+## #LoveGod #05Deut #Deuteronomy13  Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -296,9 +342,9 @@
     - None prescribed
     - False prophecy leading Israel after other gods is a capital offense with no ransom path — the gravity mirrors Deuteronomy 17:12 where defying Yahweh's appointed authority likewise carries no offering remedy
 
- #05Deut #Deuteronomy13
+ 
 
-## #LoveGod  The Test of a True Prophet: [Deuteronomy 18:20-22](https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&version=WEB;NET;OJB)
+## #LoveGod  #05Deut #Deuteronomy18 The Test of a True Prophet: [Deuteronomy 18:20-22](https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -330,7 +376,7 @@
     - Consistent with Deuteronomy 13:1-5 — false prophecy carries a capital sentence with no ransom or offering path provided
     - The presumption (_zadon_ — זָדוֹן) language connects directly to Deuteronomy 17:12 — the same word used for defying the court of final appeal, which likewise carried no offering remedy
 
- #05Deut #Deuteronomy18
+ 
 
 ## 12. Keep the Passover
 - **Scripture Reference**: Deuteronomy 16:1-2
@@ -635,6 +681,31 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
+
+## #LoveGod #05Deut #Deuteronomy32 Set Your Heart on These Words: [Deuteronomy 32:46-47](https://www.biblegateway.com/passage/?search=Deuteronomy+32:46-47&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- Do
+		- Set your heart on all the words #Dos 
+			- which I testify to you today
+			- which you shall command your children to observe to do
+			- all the words of this law
+	- Because
+		- it is no vain thing for you
+			- it is your life
+			- through this think you shall prolong your days in the land
+			- where you go over the Jordan to possess it
+- **Blessing:**
+    - Verse 47 — **explicit blessing stated within the passage** — _"for it is your life, and through this word you shall live long in the land"_
+    - The words of Torah identified as **life itself** (_chayyim_ — חַיִּים); length of days in the land is tied directly to setting the heart on them and commanding them to the children
+- **Penalty or Consequence:**
+    - None explicitly stated as a judicial penalty
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is **covenantal and formational** — setting the heart and commanding the children; no sacrificial mechanism is attached or implied
+
 
 
 # Commands (Mitzvot) in Exodus

@@ -319,21 +319,272 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Offering or Ransom**: 
 	- None; the prohibition is absolute.
 
-**September 10**: Leviticus 19:15 – “Do not pervert justice; do not show partiality to the poor or favoritism to the great, but judge your neighbor fairly.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+## **September 10**:  Do Not Pervert Justice: [Leviticus 19:15](https://www.biblegateway.com/passage/?search=Leviticus+19%3A15&version=WEB;NET;OJB)
 
-**September 11**: Deuteronomy 16:18-20 – “Appoint judges and officials... Judge the people fairly. Do not pervert justice or show partiality...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(establish just courts)  
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+* **Outline:**
+   * Do not
+	   * do injustice in judgment #DoNot 
+	   * be partial to the poor #DoNot 
+	   * show favoritism to the great #DoNot 
+   * Do
+	   * judge your neighbor in [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]] #Dos 
 
-**September 12**: Deuteronomy 17:8-13 (general difficult cases) – Bring hard cases to proper judgment. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+* **Blessing:**
+   * No explicit blessing stated in the verse.
 
-**September 13**: Deuteronomy 13:1-5 – “If a prophet... says, ‘Let us follow other gods’... you must not listen to the words of that prophet...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (reject false prophets)  
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
 
-**September 14**: Deuteronomy 18:20-22 – “But a prophet who presumes to speak in my name anything I have not commanded... that prophet must be put to death.” (Test by fulfillment.) - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (discern true prophecy)  
+* **Offering or Ransom:**
+   * No offering or ransom stated. The verse closes with the charge to judge righteously — *"in righteousness shall you judge your neighbor"* (WEB) — grounding the command in the character of justice itself rather than in any transactional remedy.
 
-**September 15**: Deuteronomy 6:6-9 – “These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home...” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (teach God’s words)  
+- <mark style="background: #CD04BBA6;">Personal Notes</mark>
+	- Deuteronomy 16:20 — *"You shall follow justice and only justice, that you may live and inherit the land which Yahweh your God gives you."* (WEB) — life and inheritance in the land tied directly to the pursuit of just judgment.
+	- Deuteronomy 27:19 — *"Cursed is he who perverts justice for the foreigner, fatherless, and widow."* (WEB)
+	- Amos 5:12-15 — those who pervert justice at the gate are addressed directly in prophetic judgment.
 
-**September 16**: Deuteronomy 31:12 – “Assemble the people... so they can listen and learn to fear the LORD your God and follow carefully all the words of this law.” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (public teaching)  
+## **September 11**: Appoint Just Judges: [Deuteronomy 16:18-20](https://www.biblegateway.com/passage/?search=Deuteronomy+16:18-20&version=WEB;NET;OJB)
 
-**September 17**: Deuteronomy 32:46-47 – “Take to heart all the words I have solemnly declared to you this day... They are your life...” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (heed the law)  
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** *
+	- Do
+		- Make judges and officers #Dos 
+			- in all your gates
+				- which YHWH gives you
+				- according to your tribes
+			- they shall [[Gate of Wisdom/J/Judge\|Judge]] the people with [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] Judgement
+		- Follow that which is altogether just #Dos 
+
+	- Do Not
+		- pervert justice #DoNot 
+		- show partiality #DoNot 
+		- take a bribe #DoNot 
+			- because a bribe
+				- blinds the eyes of the wise
+				- perverts the words of the righteous
+
+	- So
+		- you may live and inherit the land which YHWH gives you
+- **Blessing:**
+    - Verse 20 — life and possession of the land tied directly to pursuing justice — _"that you may live and inherit the land which Yahweh your God gives you"_
+    - Justice pursued faithfully is framed as the condition for remaining in the land — one of the most significant covenant blessings in Deuteronomy
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The broader Deuteronomic framework implies that perversion of justice is among the conditions that lead to exile and loss of the land (cf. Deut. 28:15ff)
+    - Bribery is singled out — _"a bribe blinds the eyes of the wise and perverts the words of the righteous"_ (v.19) — the consequence named is corruption of perception and speech in the judge himself
+- **Offering or Ransom:**
+    - None prescribed
+    - No sacrificial remedy is given for corrupt judgment — the corruption of justice falls into the category of sin against persons and community for which Torah provides no offering path
+- <mark style="background: #CD04BBA6;">**Personal Observation**</mark>:
+	- Judges - gates - tribes - brings to mind [Revelation 21:12-13](https://www.biblegateway.com/passage/?search=Revelation%2021%3A12-13&version=WEB;NET;OJB)
+
+
+## **September 12**: The Court of Final Appeal: [Deuteronomy 17:8-13](https://www.biblegateway.com/passage/?search=Deuteronomy+17:8-13&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** *
+	- If a matter too hard for you to judge arises between:
+		- blood and blood
+		- plea and plea
+		- stroke and stroke
+		- matters of controversy within your gates
+	- Do
+		- go to the place which YHWH chooses #Dos 
+			- come to the priests
+				- who are Levites
+			- and to the judge
+				- who shall be in those days
+		- inquire and they will give you a verdict #Dos 
+			- do according to their decision
+			- observe to do according to all that they shall teach you
+				- according to the decisions of the law
+					- which they shall teach you
+				- according to the judgement
+					- which they shall tell you
+	- Do Not
+		- turn away from the sentence which they announce to you #DoNot 
+			- neither to the right hand nor to the left
+	- Because
+		- the man who does presumptuously in not listening
+			- to the priest who stands to minister there
+				- before YHWH
+			- or the judge
+			- shall die
+				- put away the evil
+				- all the people shall 
+					- hear and fear
+					- and do no more presumptuously
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The implied blessing is communal order and unity — a single court of final appeal prevents fracturing of justice across tribal lines
+- **Penalty or Consequence:**
+    - Verse 12 — the man who acts presumptuously (_zadon_ — זָדוֹן) by refusing to heed the priest or judge who stands to minister before Yahweh shall die
+    - The death penalty is explicit and non-negotiable — _"that man shall die and you shall put away the evil from Israel"_
+    - Verse 13 — the public nature of the consequence is intentional — _"all the people shall hear and fear and not act presumptuously again"_ — deterrence is a stated purpose
+- **Offering or Ransom:**
+    - None prescribed
+    - The presumptuous rejection of the court of final appeal is treated as a capital offense — no ransom or offering path is provided
+    - The severity reflects that defying this court is not merely a legal violation but a rejection of Yahweh's own judicial authority vested in the priests and judges (v.12 — _"who stands to minister there before Yahweh your God"_)
+- <mark style="background: #CD04BBA6;">Personal Observation</mark>:
+	- Do all according to all they teach you - this is what Jesus said [Matthew 23:2-3](https://www.biblegateway.com/passage/?search=Matthew%2023%3A2-3&version=WEB;NET;OJB) 
+
+
+## **September 13**: Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:** 
+	- If a prophet or dreamer of dreams arises
+		- and he gives you a sign or a wonder
+			- and that sign or wonder comes to pass
+		- he says Let's 
+			- go after other gods
+				- which you have not known
+			- serve other gods
+	- Do not
+		- listen to the words of the prophet or dreamer #DoNot 
+	- Because
+		- YHWH is testing you
+			- to know whether you love him
+				- with all your heart
+				- with all your soul
+	- Do
+		- walk after YHWH #Dos 
+			- fear him
+			- keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
+			- obey his voice
+			- serve him
+			- cling to him
+		- Put that prophet or dreamer of dreams to death
+			- because he has spoken rebellion against YHWH
+				- who brought you out of Egype
+				- redeemed you out of the house of bondage
+					- to draw you aside out of the way
+						- which YHWH commanded you to walk
+			- so you shall remove the evil from among you
+- **Blessing:**
+    - None explicitly stated
+    - Obedience to this command is framed as love for Yahweh — v.3 states that the false prophet is a test (_nasah_ — נָסָה) from Yahweh to know whether Israel loves Him with all heart and soul
+    - Faithfulness here is itself the expression of covenant loyalty — the implied blessing is remaining in right standing with Yahweh
+- **Penalty or Consequence:**
+    - Verse 5 — the false prophet or dreamer of dreams shall be put to death
+    - The rationale is stated explicitly — _"because he has spoken rebellion against Yahweh your God who brought you out of the land of Egypt and redeemed you out of the house of bondage"_
+    - The second stated rationale — _"to put away the evil from among you"_ — frames execution as communal purging, consistent with Deuteronomy's repeated use of this phrase (cf. Deut. 17:7; 17:12; 19:19; 21:21; 22:21)
+    - The sign or wonder coming to pass does not validate the prophet — v.3 makes clear that a fulfilled sign can still be a test; the content of the message is the measure, not the miracle
+- **Offering or Ransom:**
+    - None prescribed
+    - False prophecy leading Israel after other gods is a capital offense with no ransom path — the gravity mirrors Deuteronomy 17:12 where defying Yahweh's appointed authority likewise carries no offering remedy
+
+## **September 14**: The Test of a True Prophet: [Deuteronomy 18:20-22](https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- If a prophet
+		- speaks a word presumptuously in my name
+		- which I have not commanded to speak
+		- who speaks in the name of other gods
+	- Do
+		- He shall die
+	- If you say in your heart
+		- how shall we know the word which YHWH has not spoke
+			- if that thing doesn't follow nor happen
+				- that is the thing which YHWH has not spoken
+				- the prophet has spoken it presumptuously
+	- Do Not
+		- be afraid of him
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The implied blessing is discernment and protection from false prophets
+- **Penalty or Consequence:**
+    - Verse 20 — the prophet who speaks presumptuously in Yahweh's name what Yahweh has not commanded, **or** who speaks in the name of other gods, shall die
+    - Two distinct capital offenses named:
+        - Speaking falsely in Yahweh's name
+        - Speaking in the name of other gods
+    - Verse 22 — the word that does not come to pass is identified as something Yahweh did not speak — the prophet has spoken presumptuously (_zadon_ — זָדוֹן) and Israel is told do not be afraid of him
+- **Offering or Ransom:**
+    - None prescribed
+    - Consistent with Deuteronomy 13:1-5 — false prophecy carries a capital sentence with no ransom or offering path provided
+    - The presumption (_zadon_ — זָדוֹן) language connects directly to Deuteronomy 17:12 — the same word used for defying the court of final appeal, which likewise carried no offering remedy 
+
+## **September 15**: Write These Words on Your Heart and Home: [Deuteronomy 6:6-9](https://www.biblegateway.com/passage/?search=Deuteronomy+6:6-9&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:**  
+	- These words which I command you today
+	- Do
+		- will be on your heart #Dos 
+		- teach them diligently to your children #Dos 
+		- talk of them when you #Dos 
+			- sit in your house
+			- walk by the way
+			- lie down
+			- rise up
+		- bind them for a [[Gate of Wisdom/Sign/Sign\|Sign]] on your hand #Dos 
+		- will be frontlets between your eyes #Dos 
+		- write them on the door posts of your #Dos 
+			- house
+			- gates
+- **Blessing:**
+    - None explicitly stated within the passage
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+- **Offering or Ransom:**
+    - None prescribed
+
+## **September 16**: Assemble the People to Hear and Learn: [Deuteronomy 31:12](https://www.biblegateway.com/passage/?search=Deuteronomy+31:12&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- Do
+		- Assemble the people #Dos 
+			- men
+			- women
+			- little ones
+			- [[Gate of Wisdom/Beings/Stranger\|Stranger]] who are within your gates
+			- that they may
+				- hear
+				- learn
+				- fear YHWH
+				- observe to do all the words of this law
+- **Blessing:**
+    - None explicitly stated within the verse
+    - The purpose clause within the verse itself carries the implied blessing — _"that they may hear and that they may learn and fear Yahweh your God and observe to do all the words of this Torah"
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is **assembly and formation** in nature — gathering the people around Torah; no sacrificial mechanism is attached
+
+## **September 17**: Set Your Heart on These Words: [Deuteronomy 32:46-47](https://www.biblegateway.com/passage/?search=Deuteronomy+32:46-47&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- Do
+		- Set your heart on all the words #Dos 
+			- which I testify to you today
+			- which you shall command your children to observe to do
+			- all the words of this law
+	- Because
+		- it is no vain thing for you
+			- it is your life
+			- through this think you shall prolong your days in the land
+			- where you go over the Jordan to possess it
+- **Blessing:**
+    - Verse 47 — **explicit blessing stated within the passage** — _"for it is your life, and through this word you shall live long in the land"_
+    - The words of Torah identified as **life itself** (_chayyim_ — חַיִּים); length of days in the land is tied directly to setting the heart on them and commanding them to the children
+- **Penalty or Consequence:**
+    - None explicitly stated as a judicial penalty
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is **covenantal and formational** — setting the heart and commanding the children; no sacrificial mechanism is attached or implied  
 
 **September 18**: Deuteronomy 11:18-21 – “Fix these words of mine in your hearts and minds... Teach them to your children...” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (internalize and teach)  
 
