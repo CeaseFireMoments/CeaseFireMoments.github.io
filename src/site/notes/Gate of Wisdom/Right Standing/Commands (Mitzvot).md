@@ -40,6 +40,39 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
+## #LoveGod #05Deut #Deuteronomy04 Know and Take It to Heart: [Deuteronomy 4:39-40](https://www.biblegateway.com/passage/?search=Deuteronomy+4:39-40&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- Know therefore today
+		- take it to heart
+			- that YHWH himself is god
+				- in heaven above
+				- earth beneath
+			- there is no on else
+	- Do
+		- keep his [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #Dos 
+			- which I command you today
+			- that it may go well with
+				- you
+				- and your children after you
+			- that you may prolong your days
+				- in the land
+					- which YHWH gives you for all time
+- **Blessing:**
+    - Verse 40 — **explicit blessing stated within the passage** — _"that it may go well with you and with your children after you, and that you may prolong your days in the land which Yahweh your God gives you forever"_
+    - The blessing is **generational and permanent** in scope — _forever_ (_kol hayamim_ — כָּל הַיָּמִים, all the days) attached to land possession is among the strongest covenant blessing formulas in Deuteronomy
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The immediate context of Deuteronomy 4:25-28 provides the consequence of departure — doing evil, provoking Yahweh, perishing quickly from the land, being scattered among the nations, serving gods of wood and stone
+    - The declaration of v.39 — _"Yahweh is God in heaven above and on the earth beneath; there is no other"_ — frames any turning to other gods as a denial of **demonstrated reality**, not merely a rule violation
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is **cognitive and covenantal** in nature — know, take to heart, keep; the response called for is internal disposition expressed in obedience; no sacrificial mechanism is attached
+
+
+
 ## 2. Destroy Idolatrous Places of Worship
 - **Scripture Reference**: Deuteronomy 12:2-3
 - **Scripture Text (WEB)**: “You shall surely destroy all the places in which the nations that you shall dispossess served their gods: on the high mountains, and on the hills, and under every green tree. You shall break down their altars, dash their pillars in pieces, and burn their Asherim with fire. You shall cut down the engraved images of their gods. You shall destroy their name out of that place.”
@@ -261,7 +294,7 @@
 
  #Deuteronomy08 #05Deut 
 
-## Bind These Words as a Sign: [Deuteronomy 11:18-21](https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&version=WEB;NET;OJB)
+## #LoveGod #05Deut #Deuteronomy11 Bind These Words as a Sign: [Deuteronomy 11:18-21](https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
@@ -681,6 +714,47 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
+
+## #LoveGod #05Deut #Deuteronomy30 Choose Life: [Deuteronomy 30:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+30:19-20&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- I [[Gate of Wisdom/Beings/Divine Council/YHWH\|YHWH]] call heaven and earth to witness
+		- against you today
+		- I have set before you 
+			- life and death
+			- the blessing and the curse
+		- therefore
+			- chose life #Dos 
+				- that you may life
+					- you 
+					- your descendants
+			- to love YHWH #Dos 
+			- to obey his voice #Dos 
+			- to cling to him #Dos 
+			- because
+				- he is your
+					- life
+					- the length of your days
+				- that it may dwell in the land
+					- which YHWH swore to give to your fathers
+						- [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]
+						- [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]
+						- [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
+- **Blessing:**
+    - Verse 19-20 — **explicit and comprehensive blessing stated within the passage**:
+        - **Life** (_chayyim_ — חַיִּים) — the choice itself yields life
+        - **Length of days** — long life in the land
+        - **Dwelling in the land** Yahweh swore to Abraham, Isaac, and Jacob — possession and continuity in the promised inheritance
+    - The blessing is tied to three actions named in v.20 — **loving Yahweh, obeying His voice, holding fast to Him** — each building on the other as expressions of choosing life
+- **Penalty or Consequence:**
+    - Verse 19 — **death and evil** are set before Israel as the alternative — the consequence is not a judicial penalty but a **covenantal reality**; choosing death is the path of curse already laid out in Deuteronomy 28:15ff
+    - Heaven and earth are called as **witnesses** (_edim_ — עֵדִים) against Israel — the cosmos itself testifies to the choice made; cf. Deuteronomy 31:28 and the Song of Moses (Deut. 32) where heaven and earth serve the same witness function
+- **Offering or Ransom:**
+    - None prescribed
+    - The passage is the **culminating covenantal appeal** of Moses — the choice between life and death, blessing and curse, is set before the whole people; no sacrificial mechanism mediates the choice; it is volitional and covenantal at its core
+
 
 ## #LoveGod #05Deut #Deuteronomy32 Set Your Heart on These Words: [Deuteronomy 32:46-47](https://www.biblegateway.com/passage/?search=Deuteronomy+32:46-47&version=WEB;NET;OJB)
 
@@ -1570,7 +1644,7 @@
 - **Penalty or Consequence:** Leaving them becomes a snare (Exodus 23:33; Judges 2:3).
 - **Offering or Ransom?:** Not applicable.
 
-## #LoveGod  Serve Yahweh Alone: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023:25&version=WEB;NET;OJB)
+## #LoveGod  #02Exod #Exodus23 Serve Yahweh Alone: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023:25&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
@@ -1590,7 +1664,7 @@
 - **Offering or Ransom:**
     - None specified
 
- #Exodus23 #02Exod 
+ 
 
 ---
 

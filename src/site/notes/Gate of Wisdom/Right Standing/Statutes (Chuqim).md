@@ -545,6 +545,37 @@
 
 
 
+## #LoveGod #03Lev #Levitcus23 Keep the Sabbath as a Holy Convocation: [Leviticus 23:3](https://www.biblegateway.com/passage/?search=Leviticus+23%3A3&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+* **Outline:**
+   * Do
+	   * six days shall work be done #Dos 
+	   * the seventh day is 
+		   * a [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] of solemn rest #Dos 
+		   * a [[Gate of Wisdom/H/Holy\|Holy]] convocation #Dos 
+   * Do not
+	   * on the seventh day do no kind of work #DoNot 
+   * Because
+	   * it is a Sabbath to YHWH
+		   * in all your dwellings
+
+* **Blessing:**
+   * No explicit blessing stated in this verse.
+   * Isaiah 58:13-14 — *"If you turn away your foot from the Sabbath, from doing your pleasure on my holy day... then you shall delight yourself in Yahweh, and I will make you to ride on the high places of the earth."* (WEB) — delight and inheritance tied directly to Sabbath keeping.
+   * Exodus 31:13 — the Sabbath is a sign between Yahweh and Israel that He is the one who sanctifies them — the blessing being the covenant identity it confers.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * Exodus 31:14-15 — *"Everyone who profanes it shall surely be put to death... whoever does any work on the Sabbath day shall surely be put to death."* (WEB)
+
+* **Offering or Ransom:**
+   * No offering or ransom stated in the verse.
+   * Numbers 28:9-10 — specific offerings are appointed for the Sabbath day itself — two lambs, grain offering, and drink offering — presented in addition to the regular daily offering. The Sabbath has its own sacrificial pattern, but these are worship offerings rather than atonement for violation.
+
+
 ## #LoveNeighbor  #Leviticus25 #03Lev  Proclaim Liberty Throughout the Land: [Leviticus 25:10](https://www.biblegateway.com/passage/?search=Leviticus+25%3A10&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]

@@ -586,13 +586,140 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
     - None prescribed
     - The command is **covenantal and formational** — setting the heart and commanding the children; no sacrificial mechanism is attached or implied  
 
-**September 18**: Deuteronomy 11:18-21 – “Fix these words of mine in your hearts and minds... Teach them to your children...” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (internalize and teach)  
+## **September 18**: Bind These Words as a Sign: [Deuteronomy 11:18-21](https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&version=WEB;NET;OJB)
 
-**September 19**: Deuteronomy 30:19-20 – “This day I call the heavens and the earth as witnesses against you that I have set before you life and death... Now choose life...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (choose life/obedience)  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:**  
+	- Do
+		- Lay up these words of mine in your heart and in your soul #Dos 
+		- Bind them for a sign on your hand #Dos 
+		- they shall be frontlets between your eyes #Dos 
+		- teach them to your children #Dos 
+		- talk of them when you  #Dos 
+			- sit in the house
+			- walk by the way
+			- lie down
+			- rise up
+		- write them on the door posts of your #Dos 
+			- house
+			- gates
+			- so that your days and your childrens day may be multiplied
+				- in the land which YHWH swore to your fathers
+					- as the days of the heavens above the earth
+- **Blessing:**
+    - Verse 21 — **explicit blessing stated within the passage** — _"that your days and the days of your children may be multiplied in the land which Yahweh swore to your fathers to give them, as the days of the heavens above the earth"_
+    - The blessing is **generational and cosmic in scope** — days multiplied as the days of heaven above the earth is among the most expansive blessing formulas in all of Deuteronomy
+    - The transmission of Torah to children is the direct condition — the blessing extends as far as the words are faithfully passed on
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is **formational and household** in nature — binding, writing, teaching at home and on the road, rising and lying down; no sacrificial mechanism is attached
+- <mark style="background: #CD04BBA6;">Personal Observation</mark>
+    - The near-parallel to Deuteronomy 6:6-9 is direct — the same four-fold placement of the words (hand, eyes, doorpost, gate) repeated here with the **explicit generational blessing** made more prominent
+    - The broader context of Deuteronomy 11:16-17 provides the immediate consequence of departure — heart turned away, serving other gods, heaven shut, no rain, ground yields nothing, perishing from the good land
 
-**September 20**: Deuteronomy 4:39-40 – “Acknowledge and take to heart this day that the LORD is God in heaven above and on the earth below. There is no other. Keep his decrees and commands...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+## **September 19**: Choose Life: [Deuteronomy 30:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+30:19-20&version=WEB;NET;OJB)
 
-**September 21**: Leviticus 23:3 – “There are six days when you may work, but the seventh day is a day of sabbath rest, a day of sacred assembly. You are not to do any work...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) (Sabbath)  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- I [[Gate of Wisdom/Beings/Divine Council/YHWH\|YHWH]] call heaven and earth to witness
+		- against you today
+		- I have set before you 
+			- life and death
+			- the blessing and the curse
+		- therefore
+			- chose life #Dos 
+				- that you may life
+					- you 
+					- your descendants
+			- to love YHWH #Dos 
+			- to obey his voice #Dos 
+			- to cling to him #Dos 
+			- because
+				- he is your
+					- life
+					- the length of your days
+				- that it may dwell in the land
+					- which YHWH swore to give to your fathers
+						- [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]
+						- [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]
+						- [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
+- **Blessing:**
+    - Verse 19-20 — **explicit and comprehensive blessing stated within the passage**:
+        - **Life** (_chayyim_ — חַיִּים) — the choice itself yields life
+        - **Length of days** — long life in the land
+        - **Dwelling in the land** Yahweh swore to Abraham, Isaac, and Jacob — possession and continuity in the promised inheritance
+    - The blessing is tied to three actions named in v.20 — **loving Yahweh, obeying His voice, holding fast to Him** — each building on the other as expressions of choosing life
+- **Penalty or Consequence:**
+    - Verse 19 — **death and evil** are set before Israel as the alternative — the consequence is not a judicial penalty but a **covenantal reality**; choosing death is the path of curse already laid out in Deuteronomy 28:15ff
+    - Heaven and earth are called as **witnesses** (_edim_ — עֵדִים) against Israel — the cosmos itself testifies to the choice made; cf. Deuteronomy 31:28 and the Song of Moses (Deut. 32) where heaven and earth serve the same witness function
+- **Offering or Ransom:**
+    - None prescribed
+    - The passage is the **culminating covenantal appeal** of Moses — the choice between life and death, blessing and curse, is set before the whole people; no sacrificial mechanism mediates the choice; it is volitional and covenantal at its core
+
+## **September 20**: Know and Take It to Heart: [Deuteronomy 4:39-40](https://www.biblegateway.com/passage/?search=Deuteronomy+4:39-40&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- Know therefore today
+		- take it to heart
+			- that YHWH himself is god
+				- in heaven above
+				- earth beneath
+			- there is no on else
+	- Do
+		- keep his [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #Dos 
+			- which I command you today
+			- that it may go well with
+				- you
+				- and your children after you
+			- that you may prolong your days
+				- in the land
+					- which YHWH gives you for all time
+- **Blessing:**
+    - Verse 40 — **explicit blessing stated within the passage** — _"that it may go well with you and with your children after you, and that you may prolong your days in the land which Yahweh your God gives you forever"_
+    - The blessing is **generational and permanent** in scope — _forever_ (_kol hayamim_ — כָּל הַיָּמִים, all the days) attached to land possession is among the strongest covenant blessing formulas in Deuteronomy
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The immediate context of Deuteronomy 4:25-28 provides the consequence of departure — doing evil, provoking Yahweh, perishing quickly from the land, being scattered among the nations, serving gods of wood and stone
+    - The declaration of v.39 — _"Yahweh is God in heaven above and on the earth beneath; there is no other"_ — frames any turning to other gods as a denial of **demonstrated reality**, not merely a rule violation
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is **cognitive and covenantal** in nature — know, take to heart, keep; the response called for is internal disposition expressed in obedience; no sacrificial mechanism is attached
+
+## **September 21**: Keep the Sabbath as a Holy Convocation: [Leviticus 23:3](https://www.biblegateway.com/passage/?search=Leviticus+23%3A3&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+* **Outline:**
+   * Do
+	   * six days shall work be done #Dos 
+	   * the seventh day is 
+		   * a [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] of solemn rest #Dos 
+		   * a [[Gate of Wisdom/H/Holy\|Holy]] convocation #Dos 
+   * Do not
+	   * on the seventh day do no kind of work #DoNot 
+   * Because
+	   * it is a Sabbath to YHWH
+		   * in all your dwellings
+
+* **Blessing:**
+   * No explicit blessing stated in this verse.
+   * Isaiah 58:13-14 — *"If you turn away your foot from the Sabbath, from doing your pleasure on my holy day... then you shall delight yourself in Yahweh, and I will make you to ride on the high places of the earth."* (WEB) — delight and inheritance tied directly to Sabbath keeping.
+   * Exodus 31:13 — the Sabbath is a sign between Yahweh and Israel that He is the one who sanctifies them — the blessing being the covenant identity it confers.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * Exodus 31:14-15 — *"Everyone who profanes it shall surely be put to death... whoever does any work on the Sabbath day shall surely be put to death."* (WEB)
+
+* **Offering or Ransom:**
+   * No offering or ransom stated in the verse.
+   * Numbers 28:9-10 — specific offerings are appointed for the Sabbath day itself — two lambs, grain offering, and drink offering — presented in addition to the regular daily offering. The Sabbath has its own sacrificial pattern, but these are worship offerings rather than atonement for violation.
 
 **September 22**: Exodus 23:12 – “Six days do your work, but on the seventh day do not work, so that your ox and your donkey may rest...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  
 
