@@ -23,26 +23,33 @@ Jonah’s journey also doesn’t end when he is freed from the belly of the fish
 # Personal Observations and Notes
 
 ## Chapter 1
-- "relates to people who are racially and religiously different from him." 
-	- They were NOT racially different - they both trace back to Noah
-	- The DIFFERENCE IS **covenantal** not racial - Israel is called "a holy nation" (goy qadosh, Exodus 19:6) set apart by covenant relationship with YHWH; all other nations (goyim) stand outside that specific covenant relationship, regardless of shared ancestry through Noah.
-		- The Bible itself frequently presents a fundamental distinction between:
-			- Israel — God's covenant people
-			- The nations — the other peoples/Gentiles
-		- So Jonah's apparent problem becomes much more precise:
+## Both episodes show how Jonah, a staunch religious believer, regards and relates to people who are racially and religiously different from him. 
+
+### It isn't about race - could be categorized more about religious differences. Basically the bottom line is the same for Jonah as it is for many throughout the bible. They want to decide what is tov and ra (good and bad) instead of letting Yah decided. They want to decide when it's tov to eat the fruit and when it is ra to eat it. When mercy is tov and when mercy is ra. The message of Jonah is the same as everywhere else in Scripture.
+- They were NOT racially different - they both trace back to Noah
+- **==The DIFFERENCE IS covenantal not racial==** - Israel is called "a holy nation" (goy qadosh, Exodus 19:6) set apart by covenant relationship with YHWH; all other nations ([[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]s/goyim) stand outside that specific covenant relationship, regardless of shared ancestry through Noah.
+	- The Bible itself frequently presents a fundamental distinction between:
+	- Israel — God's covenant people (this includes native born and converts)
+	- The nations — the other peoples/Gentiles (this includes native born Israelites who were non covenant peoples)
+		- He is standing in the exact spot the religious leaders at Jesus's time were. The "Jews" who were leaders of Judaism. A native born "Jew" who was not a part of Judaism was called a gentile. And a non native born "Jew" could convert to Judaism and would be called a Jew. 
+		- Jonah's apparent problem becomes much more precise:
 			- “I can understand YHWH showing mercy to His covenant people, and I can understand a foreigner who comes into the covenant community receiving mercy. But you're showing mercy to Nineveh while they are still a foreign nation.”
 	- Jonah 4:2 reveal that his objection was rooted specifically in his prior knowledge of YHWH's revealed character from Sinai ("I knew that you are a gracious God, and merciful...") — meaning the text itself locates his resistance in theological knowledge already possessed, not in an unrecorded personal grievance.
+		- Chus (חוּס) — "to pity, look upon with compassion, spare" — used twice in the closing verses: "you have had pity (chastah) on the vine... shouldn't I have pity (achus) on Nineveh" (Jonah 4:10-11) — this is the term YHWH uses to frame the entire controversy, and it is a term of sparing/compassion, not the specific vocabulary of "forgiveness" (which in Hebrew would typically be salach, סָלַח, "to forgive, pardon" — not used anywhere in Jonah)
 	- The book's own explanation for Jonah's flight and anger is entirely theological, stated in his own words (Jonah 4:2) — not racial, political, tribal, or biographical.
 	- The Bible never categorizes by race - it categorizes peoples by lineage/nation, most explicitly in the Table of Nations (Genesis 10)
-	- Jonah is a Hebrew (Jonah 1:9), of the tribe of Zebulun, from Gath Hepher (2 Kings 14:25; Joshua 19:10-13)
-		- Hebrews/Israelites trace lineage through Shem, son of Noah — "the children of Shem" (Genesis 10:21-31
-	- The Ninevites trace lineage through Ham ("Cush became the father of Nimrod... out of that land he went out into Assyria, and built Nineveh" (Genesis 10:8-11, WEB)
-	- Nineveh was captial of the Assyrian empire. Asshur (Assyria's namesake) is separately listed as a son of Shem: "the children of Shem: Elam, Asshur, Arpachshad, Lud, and Aram" (Genesis 10:22, WEB) By the time of the historical Assyrian empire (including Jonah's Nineveh), Assyrians are generally regarded as a Semitic-language people in extrabiblical/linguistic terms, consistent with the Shemitic listing in Genesis 10:22 Assyria was one of the cruelest and most violent empires of ancient times.
+		- Jonah is a Hebrew (Jonah 1:9), of the tribe of Zebulun, from Gath Hepher (2 Kings 14:25; Joshua 19:10-13)
+			- Hebrews/Israelites trace lineage through Shem, son of Noah — "the children of Shem" (Genesis 10:21-31
+		- The Ninevites trace lineage through Ham ("Cush became the father of Nimrod... out of that land he went out into Assyria, and built Nineveh" (Genesis 10:8-11, WEB)
+		- Nineveh was captial of the Assyrian empire. Asshur (Assyria's namesake) is separately listed as a son of Shem: "the children of Shem: Elam, Asshur, Arpachshad, Lud, and Aram" (Genesis 10:22, WEB) By the time of the historical Assyrian empire (including Jonah's Nineveh), Assyrians are generally regarded as a Semitic-language people in extrabiblical/linguistic terms, consistent with the Shemitic listing in Genesis 10:22 Assyria was one of the cruelest and most violent empires of ancient times.
 	- Israel's own relationship to YHWH's chesed and rachum is grounded in an established covenant (Exodus 34 is itself part of a covenant-renewal scene, following the golden calf). Nineveh has no such standing. So Jonah's resistance functions, in effect, as an argument that grace/mercy of this kind properly belongs within the covenant relationship, and applying it to a Gentile nation extends something Jonah viewed as belonging to Israel specifically.
 		- Israel's own covenant standing is itself explicitly described as undeserved in the Torah: "Yahweh didn't set his love on you, nor choose you, because you were more in number than any people... but because Yahweh loves you" (Deuteronomy 7:7-8, WEB); "not for your righteousness, or for the uprightness of your heart, do you go in to possess their land... but for the wickedness of these nations Yahweh your God does drive them out" (Deuteronomy 9:5, WEB)
 		- if Israel's own covenant grace was never based on merit to begin with, Jonah's implicit objection — that Nineveh, lacking covenant standing, hasn't earned the same treatment — applies a standard of "earning" that the Torah itself says never applied to Israel's own relationship with YHWH either
-- The book of Jonah yields many insights about God’s love for societies and people beyond the community of believers; about his opposition to toxic nationalism and disdain for other races;
-	- What? God's opposition to toxic nationalism and disdain for other races? RACES? How did races get into this? What race does God disdain?
+
+# The book of Jonah yields many insights about God’s love for societies and people beyond the community of believers; about his opposition to toxic nationalism and disdain for other races;
+#### Yah requires separation of his people on several occasions. But he is very open to anyone joining HIS people if they are willing to follow his rules. If they don't want to follow his rules - then they need to be put out. Because a little yeast ruins the whole batch.
+- So basically Jonah is a racist and a toxic nationalist? And God is opposed to that? 
+	- Toxic nationalism = an extreme and exclusionary form of national loyalty that prioritizes one group over others and divides people into opposing "us versus them" categories 
 - Jonah wants a God of his own making, a God who simply smites the bad people,
 	- God does consistently just smite "bad" people. 
 	- And eventually Yah destroys them. The prophet Nahum specifically prophesied Nineveh's destruction. “He will make an utter end of the place thereof.” — Nahum 1:8 “She is empty, and void, and waste.” — Nahum 2:10. Nineveh ultimately fell to the Babylonians and Medes in 612 BC.
@@ -84,6 +91,10 @@ Jonah’s journey also doesn’t end when he is freed from the belly of the fish
 	- 28 We know that all things work together for good for those who love God, for those who are called according to his purpose.
 - He did not know how God would come into the world to save us.
 	- He knew a god that actually DID save his people - he was a Hebrew.
+- The specific sin named in the text is chamas (חָמָס) — "violence": "let them turn everyone from his evil way, and from the violence (chamas) that is in his hands" (Jonah 3:8, WEB).  Nineveh's general condition is called ra'ah (רָעָה) — "wickedness" (Jonah 1:2) — a broad term, but chamas is the one concrete named behavior.
+	- "The earth was corrupt before God, and the earth was filled with violence (chamas)... God said to Noah, 'the end of all flesh has come before me, for the earth is filled with violence (chamas) through them. Behold, I will destroy them with the earth'" (Genesis 6:11, 13, WEB)
+	- Torah does articulate a standard for how YHWH deals with Gentile nations under prolonged sin: "it is not for your righteousness... but for the wickedness of these nations Yahweh your God does drive them out from before you" (Deuteronomy 9:5, WEB) — establishing that Gentile nations are held accountable for wickedness even without a Sinai covenant, and that expulsion/destruction is the consequence.
+	- Torah does not prescribe a covenant-based leniency for Gentile nations — if anything, Deuteronomy 9:5 and Leviticus 18:24-25 establish that Gentile nations are held to the same accountability standard for grave sin (violence, immorality) as Israel is held to for covenant violation, and the recorded consequence in both precedent cases (Flood, Sodom) is destruction
 # Chapter 3
-
+- 
   
