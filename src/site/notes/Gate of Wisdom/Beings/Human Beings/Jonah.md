@@ -86,7 +86,7 @@
 
 ## Connections
 
-- [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]
+- [[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah\|Jonah]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]]
 - Exodus 34:6-7 — the character formula both Nineveh's fate and Jonah's own complaint are measured against
 - Matthew 12:41 — Yeshua's own use of this contrast, holding up Nineveh's repentance as a standard exceeding "this generation"
