@@ -9,7 +9,7 @@
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
 
 # Additional Info
-- [[_The Scrolls/4. The Gospels and The Apostles/56 - Titus/Titus-03#v5\|Titus-03:5]] speaks of “the washing of rebirth and renewal by the [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]],” 
+- [[_The Scrolls/4. The Gospels and The Apostles/56 - Titus/Titus-03#v5\|Titus-03:5]] speaks of “the washing of rebirth and renewal by the [[Gate of Wisdom/F/Holy Spirit - Filling\|Holy Spirit - Filling]],” 
 - [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-05#v26\|Ephes-05:26]] refers to Christ cleansing the church “by the washing with water through the word.”
 
 - Washing Clothes

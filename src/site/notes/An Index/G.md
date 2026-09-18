@@ -30,5 +30,6 @@
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]
 - [[Gate of Wisdom/C/Return of the Gods\|Return of the Gods]]
 - [[Gate of Wisdom/G/Sea of Galilee\|Sea of Galilee]]
+- [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]
 
 { .block-language-dataview}

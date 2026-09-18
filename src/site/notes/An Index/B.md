@@ -12,6 +12,7 @@
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Beer Lahai Roi\|Beer Lahai Roi]]
 - [[Gate of Wisdom/B/Bekah\|Bekah]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Bel\|Bel]]
+- [[Gate of Wisdom/B/believes\|believes]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Beney Elohim\|Beney Elohim]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]]
 - [[Gate of Wisdom/B/Birthright\|Birthright]]

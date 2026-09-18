@@ -16,6 +16,7 @@
 - [[Gate of Wisdom/C/Commandment Reading Plan October\|Commandment Reading Plan October]]
 - [[Gate of Wisdom/C/Commandment Reading Plan September\|Commandment Reading Plan September]]
 - [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]
+- [[Gate of Wisdom/H/Holy Spirit Receive\|Holy Spirit Receive]]
 - [[Sacred Truces/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness\|Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness]]

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/b/baptize/","tags":["#GateWisdom","B"],"dg-note-properties":{"tags":["#GateWisdom","B"],"Bible-References":null}}
 ---
 
-Using only the bible as a reference. do not do a deep dive or give explanations for how you have come up with the answers. Hebrew and Greek transliteration first, then the original script in parentheses ie chayyah (חַיָּה). Fill in the following form returning only the items you have a response. Baptize ie matthew 28 baptizing them
 # Define
 - Hebrew: 
 	- ṭābal or tabal (טָבַל) - To dip, immerse, or plunge something into a liquid (water, blood, dye, etc.). 

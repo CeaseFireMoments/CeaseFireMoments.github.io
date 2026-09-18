@@ -60,6 +60,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Beer Lahai Roi\|Beer Lahai Roi]]                                               |
 | [[Gate of Wisdom/B/Bekah\|Bekah]]                                                                                               |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Bel\|Bel]]                                                                              |
+| [[Gate of Wisdom/B/believes\|believes]]                                                                                         |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Beney Elohim\|Beney Elohim]]                                                            |
 | [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]                                                                       |
 | [[Gate of Wisdom/Beings/Human Beings/Benoni\|Benoni]]                                                                           |
@@ -151,6 +152,11 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/H/Holy\|Holy]]                                                                                                 |
 | [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]                                                            |
 | [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]]                                                                               |
+| [[Gate of Wisdom/H/Holy Spirit -  Speak\|Holy Spirit -  Speak]]                                                                 |
+| [[Gate of Wisdom/F/Holy Spirit - Filling\|Holy Spirit - Filling]]                                                               |
+| [[Gate of Wisdom/H/Holy Spirit - Pray\|Holy Spirit - Pray]]                                                                     |
+| [[Gate of Wisdom/H/Holy Spirit Receive\|Holy Spirit Receive]]                                                                   |
+| [[Gate of Wisdom/H/Holy Spirit Upon\|Holy Spirit Upon]]                                                                         |
 | [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]                                                         |
 | [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]                                                           |
 | [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]                                                           |
@@ -265,6 +271,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]                                                                             |
 | [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                          |
 | [[Gate of Wisdom/S/Save\|Save]]                                                                                                 |
+| [[Gate of Wisdom/S/saved\|saved]]                                                                                               |
 | [[Gate of Wisdom/Beings/Saviors\|Saviors]]                                                                                      |
 | [[Gate of Wisdom/G/Sea of Galilee\|Sea of Galilee]]                                                                             |
 | [[Gate of Wisdom/Sign/Seal\|Seal]]                                                                                              |
@@ -287,8 +294,11 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Son of Man\|Son of Man]]                                                                |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Sons of God\|Sons of God]]                                                              |
 | [[Gate of Wisdom/S/Soul\|Soul]]                                                                                                 |
+| [[Yada Yada Pauses/Speaking in Tongues\|Speaking in Tongues]]                                                                   |
+| [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]                                                                           |
 | [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]                                                          |
 | [[Gate of Wisdom/Beings/Stranger\|Stranger]]                                                                                    |
+| [[Gate of Wisdom/S/Study Sheets\|Study Sheets]]                                                                                 |
 | [[Gate of Wisdom/S/Subjecting\|Subjecting]]                                                                                     |
 | [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]                                                                                |
 | [[Gate of Wisdom/S/Synagogue\|Synagogue]]                                                                                       |
@@ -312,6 +322,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                                     |
 | [[Gate of Wisdom/W/The Word\|The Word]]                                                                                         |
 | [[Gate of Wisdom/S/Timeline\|Timeline]]                                                                                         |
+| [[Gate of Wisdom/T/tongues\|tongues]]                                                                                           |
 | [[Gate of Wisdom/T/Torah\|Torah]]                                                                                               |
 | [[Gate of Wisdom/T/Torment\|Torment]]                                                                                           |
 | [[Gate of Wisdom/Beings/Toshav\|Toshav]]                                                                                        |
