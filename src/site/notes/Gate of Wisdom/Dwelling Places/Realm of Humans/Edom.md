@@ -39,7 +39,7 @@
 
 | file.inlinks                                                                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/31 Obad-01 Yada Yada.md\\|31 Obad-01 Yada Yada]]</li><li>[[Yada Yada Pauses/01 Gen-32 Yada Yada.md\\|01 Gen-32 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01.md\\|Obad-01]]</li></ul> |
+| <ul><li>[[Yada Yada Pauses/01 Gen-32 Yada Yada.md\\|01 Gen-32 Yada Yada]]</li><li>[[Yada Yada Pauses/31 Obad-01 Yada Yada.md\\|31 Obad-01 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01.md\\|Obad-01]]</li></ul> |
 
 { .block-language-dataview}
 
