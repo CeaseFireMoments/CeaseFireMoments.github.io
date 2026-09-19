@@ -301,6 +301,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/S/Study Sheets\|Study Sheets]]                                                                                 |
 | [[Gate of Wisdom/S/Subjecting\|Subjecting]]                                                                                     |
 | [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]                                                                                |
+| [[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]                                                                     |
 | [[Gate of Wisdom/S/Synagogue\|Synagogue]]                                                                                       |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]                                                            |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Table of Showbread\|Table of Showbread]]                            |

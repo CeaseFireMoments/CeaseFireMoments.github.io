@@ -100,8 +100,6 @@ Another “new truth” that I encountered is speaking in tongues from the pulpi
 
 So someone MUST interpret or else the speaker should keep quiet. I find it interesting that the people who believe the untruth of speaking in tongues is the evidence of the baptism of the Holy Ghost are the very ones who also ignore this scripture.
 
-I also have what I call [[Gate of Wisdom/W/Word Flow Charts\|Word Flow Charts]] that are great for working through topics like this one. As well as [[Gate of Wisdom/S/Study Sheets\|Study Sheets]] . These are just a collection of some studies I've worked on. Some may even be incomplete. You won't find "answers" in them, just some notes or observations I've made on various words I've decided to look up. There are very few conclusions stated on these sheets. I've only posted them to aid in someone else's studies. They may be able to give a starting point when knowing where to start is difficult. There is no particular order. I am trying to gather my study information and put it into some kind of uniform format, so it may take some time. Just check back from time to time and see what's been added.
-
 Just for those who are curious. What are the other places that the Holy Ghost and tongues (glossa) are referenced together?
 
 [Acts 10:44-46](https://www.biblegateway.com/passage/?search=%2AActs%2010%3A44-46&version=WEB;NET;OJB) - 44 While Peter was still speaking these words, the Holy Spirit came on all who heard the message. 45 The circumcised believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on the Gentiles. 46 For they heard them speaking in tongues <sup>[<a title="See footnote a" href="http://www.biblegateway.com/passage/?search=Acts+10:44-48#fen-NIV-27294a"><span>a</span></a>]</sup> and praising God.
@@ -112,3 +110,9 @@ Just for those who are curious. What are the other places that the Holy Ghost an
 
 In I Corinthians tongues is referred to as one of the [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]. It does not specifically say anything in reference to being filled by the Holy Ghost, but I included it because these are referred to as the Gifts of the Spirit. Be sure to read 1 Corinthians 14 to find out more about the gift of tongues.
 
+# Connections
+
+I also have what I call [[Gate of Wisdom/W/Word Flow Charts\|Word Flow Charts]] that are great for working through topics like this one. As well as [[Gate of Wisdom/S/Study Sheets\|Study Sheets]] . These are just a collection of some studies I've worked on. Some may even be incomplete. You won't find "answers" in them, just some notes or observations I've made on various words I've decided to look up. There are very few conclusions stated on these sheets. I've only posted them to aid in someone else's studies. They may be able to give a starting point when knowing where to start is difficult. There is no particular order. I am trying to gather my study information and put it into some kind of uniform format, so it may take some time. Just check back from time to time and see what's been added.
+
+[[Gate of Wisdom/T/tongues\|tongues]]
+[[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]

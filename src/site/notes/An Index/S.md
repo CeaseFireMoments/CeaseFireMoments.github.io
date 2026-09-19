@@ -104,6 +104,7 @@
 - [[Gate of Wisdom/S/Study Sheets\|Study Sheets]]
 - [[Gate of Wisdom/S/Subjecting\|Subjecting]]
 - [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]
+- [[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]
 - [[Gate of Wisdom/S/Synagogue\|Synagogue]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]
 - [[Gate of Wisdom/S/Timeline\|Timeline]]

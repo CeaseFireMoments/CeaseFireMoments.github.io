@@ -15,6 +15,7 @@
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]
 - [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]
 - [[Yada Yada Pauses/Speaking in Tongues\|Speaking in Tongues]]
+- [[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]
