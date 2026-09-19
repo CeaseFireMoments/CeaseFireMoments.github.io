@@ -325,6 +325,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/S/Timeline\|Timeline]]                                                                                         |
 | [[Gate of Wisdom/T/tongues\|tongues]]                                                                                           |
 | [[Gate of Wisdom/T/Torah\|Torah]]                                                                                               |
+| [[Gate of Wisdom/Torah Class\|Torah Class]]                                                                                     |
 | [[Gate of Wisdom/T/Torment\|Torment]]                                                                                           |
 | [[Gate of Wisdom/Beings/Toshav\|Toshav]]                                                                                        |
 | [[Gate of Wisdom/T/Transgression\|Transgression]]                                                                               |

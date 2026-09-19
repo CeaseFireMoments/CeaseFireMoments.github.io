@@ -19,6 +19,8 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                           |
 | ---------------------------------------------------------------------- |
+| [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]       |
+| [[Gate of Wisdom/Torah Class\|Torah Class]]                         |
 | [[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]         |
 | [[Gate of Wisdom/T/tongues\|tongues]]                               |
 | [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]               |
@@ -30,7 +32,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/S/Study Sheets\|Study Sheets]]                     |
 | [[Gate of Wisdom/S/saved\|saved]]                                   |
 | [[Gate of Wisdom/B/believes\|believes]]                             |
-| [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]       |
 | [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]                 |
 | [[Gate of Wisdom/G/good\|good]]                                     |
 | [[Gate of Wisdom/B/bad\|bad]]                                       |
@@ -38,7 +39,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/B/evil\|evil]]                                     |
 | [[Gate of Wisdom/W/works\|works]]                                   |
 | [[Gate of Wisdom/Numbers/40\|40]]                                   |
-| [[Gate of Wisdom/Beings/Human Beings/Nimrod\|Nimrod]]               |
 
 { .block-language-dataview}
 
