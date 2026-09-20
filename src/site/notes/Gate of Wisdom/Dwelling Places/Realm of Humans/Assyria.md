@@ -27,12 +27,21 @@
 - Rabshakeh (רַבְשָׁקֵה) (Assyrian commander who taunted Jerusalem)
 - Esarhaddon (אֵסַרְחַדּוֹן) (mentioned in context of Assyrian kings, 2 Kings 19:37)
 
+# Extra Biblical Information
+
+According to the [Assyrian Eponym Chronicle](https://biblehub.com/q/Evidence_for_Jonah_s_events.htm) (an ancient timeline written by Assyrian scribes), Assyria was struck by a series of massive disasters during the reign of King Ashur-dan III. Ancient Mesopotamian texts show that when these events occurred, the king and his people would dress in sackcloth, fast, and declare emergency acts of penitence to appease the gods
+
+- **765 BC:** A massive **plague** sweeps through the empire.
+- **763 BC (June 15):** A famous **total solar eclipse** (the _Bur-Sagale eclipse_) blanks out the sky directly over Nineveh.
+- **762 BC:** Widespread **civil revolts** erupt across major Assyrian cities.
+- **759 BC:** A **second deadly plague** hits the population.
+
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh.md\\|Nineveh]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah-01 H.md\\|Jonah-01 H]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh.md\\|Nineveh]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah-01 H.md\\|Jonah-01 H]]</li><li>[[Gate of Wisdom/J/Rediscovering Jonah.md\\|Rediscovering Jonah]]</li></ul> |
 
 { .block-language-dataview}
 

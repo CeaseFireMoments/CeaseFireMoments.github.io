@@ -35,6 +35,7 @@
 - [[Sacred Truces/Scripture Survey Shavuot Pentecost\|Scripture Survey Shavuot Pentecost]]
 - [[Sacred Truces/Shavuot Pentecost – a Convergence of Jewish and Christian Faiths\|Shavuot Pentecost – a Convergence of Jewish and Christian Faiths]]
 - [[Sacred Truces/Shavuot Pentecost – a Divergence of Jewish and Christian Faiths\|Shavuot Pentecost – a Divergence of Jewish and Christian Faiths]]
+- [[Sacred Truces/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]
 - [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]
 - [[Sacred Truces/Video Scripture Survey Passover\|Video Scripture Survey Passover]]
 

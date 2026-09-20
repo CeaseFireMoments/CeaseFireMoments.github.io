@@ -6,7 +6,7 @@
 
 - **Timeframe**: Reign of Jeroboam II of Israel (2 Kings 14:23–25), placing his ministry in the 8th century BCE
 - **Place**: Gath Hepher (2 Kings 14:25; Jonah 1:1)
-- **Father**: Amittai (2 Kings 14:25; Jonah 1:1)
+- **Father**: Amittai (2 Kings 14:25; Jonah 1:1), Amittai — "faithful"
 - **Mother**: Not named in Scripture
 - **Sibling(s)**: Not named in Scripture
 - **Hebrew Meaning of Name**: Yonah (יוֹנָה) — "dove"
@@ -22,6 +22,7 @@
 ## Dwelling Places
 
 - Gath Hepher, a town in Zebulun (2 Kings 14:25; Joshua 19:10-13)
+	- Descendants from the tribe of Zebula, one of the children of [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]], [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]], [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
 
 ## Journeys
 
@@ -37,6 +38,7 @@
 # Occupation and Military
 
 - Identified as a prophet of YHWH (2 Kings 14:25; Jonah 1:1)
+	- He prophesies to King [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]], son of Joash - he was an evil king
 - Prophesied and saw fulfilled the restoration of Israel's border from Lebo-hamath to the Sea of the Arabah, during Jeroboam II's reign (2 Kings 14:25)
 
 # Medical and Death
@@ -50,7 +52,7 @@
 ## Differences
 
 - **Covenant standing**: 
-	- Jonah is explicitly "a Hebrew" who "fear Yahweh, the God of heaven" (Jonah 1:9, WEB) — an insider to YHWH's covenant with Israel; 
+	- Jonah is explicitly "a Hebrew" who "fear Yahweh, the God of heaven" (Jonah 1:9) — an insider to YHWH's covenant with Israel; 
 	- the Ninevites are [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]s with no prior covenant relationship to YHWH, addressed only because their "wickedness has come up before" Him (Jonah 1:2)
 - **Response to YHWH's word**: 
 	- Jonah receives a direct, personal commission and flees from it (Jonah 1:3); 
@@ -193,4 +195,4 @@ Book of [[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah\|Jonah]]
 
 # Personal Observations
 - Jonah's attitude toward the Ninivites sound very similar to the attitude of the Leaders of Judaism at the time of Jesus toward those outside Judaism. 
-- Jonah's own resistance to YHWH's mercy toward Nineveh (Jonah 4:1-3) forms a striking contrast to Hosea and Amos, both of whom plead for or model compassion toward the guilty (Hosea 11:8; Amos 7:2-3) — the prophet in Jonah becomes a foil rather than a model
+- Jonah's own resistance to YHWH's mercy toward Nineveh (Jonah 4:1-3) forms a striking contrast to Hosea and Amos, both of whom plead for or model compassion toward the guilty (Hosea 11:8; Amos 7:2-3)

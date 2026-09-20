@@ -9,7 +9,8 @@
 4. The house of Israel followed Saul's son Ish-bosheath (Towns of Gilead, Asher, Jezreel, Ephraim, Benjamin) [[_The Scrolls/2. Neviim (Prophets)/10 - 2 Samuel/2 Sam-02\|2 Sam-02]]. Came under David later [[_The Scrolls/2. Neviim (Prophets)/10 - 2 Samuel/2 Sam-05\|2 Sam-05]].
 5. Then after the death of Solomon, referred to the **Northern Kingdom**, which was made up of ten tribes: Reuben, Simeon, Dan, Naphtali, Gad, Asher, Issachar, Zebulun, Manasseh, and Ephraim. They followed Jeroboam, a Servant who rebelled against Solomon. They were captured by Babylonia.
 6. "Northern Tribes of Israel (the country); Northern Tribes ended in mid 700s BC Term “Israelite” faded out became known as ""Lost Sheep"" (Matthew 10). 
-7. Eventually, the term "[[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]" diminishes in reference to the northern kingdom as a distinct entity. The term "[[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]," derived from "Judah," becomes more prominent.  
+7. Also known as Ephraim or Ephriam Israel
+8. Eventually, the term "[[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]" diminishes in reference to the northern kingdom as a distinct entity. The term "[[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]," derived from "Judah," becomes more prominent.  
 
 # Related words
 - [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]

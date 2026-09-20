@@ -174,6 +174,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]                                                                   |
 | [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]                                                                             |
 | [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]]                                                                                  |
+| [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]                                                                 |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]                                                         |
 | [[Gate of Wisdom/Beings/Jesus\|Jesus]]                                                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]                                                                                 |
@@ -220,6 +221,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]                                                                           |
 | [[Gate of Wisdom/Beings/Native-born\|Native-born]]                                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]                                                                       |
+| [[Gate of Wisdom/N/Neighbor\|Neighbor]]                                                                                         |
 | [[Gate of Wisdom/Beings/nekar\|nekar]]                                                                                          |
 | [[Gate of Wisdom/Covenant/New Covenant\|New Covenant]]                                                                          |
 | [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]                                                                            |

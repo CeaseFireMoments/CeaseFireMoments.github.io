@@ -19,5 +19,6 @@
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]
 - [[Sacred Truces/Passover and Unleavened Bread the UnEaster\|Passover and Unleavened Bread the UnEaster]]
+- [[Sacred Truces/The Exodus and Jonah\|The Exodus and Jonah]]
 
 { .block-language-dataview}

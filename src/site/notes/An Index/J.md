@@ -8,12 +8,14 @@
 - [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
 - [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
 - [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]]
+- [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]
 - [[Gate of Wisdom/Beings/Jesus\|Jesus]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]
 - [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]
 - [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]
+- [[Sacred Truces/Jonah and The Disciples\|Jonah and The Disciples]]
 - [[Gate of Wisdom/Appointed Time/Jubilee\|Jubilee]]
 - [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]
 - [[Gate of Wisdom/J/Judge\|Judge]]
@@ -24,5 +26,7 @@
 - [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
 - [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]
 - [[Sacred Truces/Scripture Survey – Jesus Said\|Scripture Survey – Jesus Said]]
+- [[Sacred Truces/The Exodus and Jonah\|The Exodus and Jonah]]
+- [[Sacred Truces/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]
 
 { .block-language-dataview}

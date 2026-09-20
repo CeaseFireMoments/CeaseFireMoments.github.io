@@ -4,6 +4,9 @@
 
 | Table of Content                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sacred Truces/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]                                                                                           |
+| [[Sacred Truces/Jonah and The Disciples\|Jonah and The Disciples]]                                                                                                 |
+| [[Sacred Truces/The Exodus and Jonah\|The Exodus and Jonah]]                                                                                                       |
 | [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)\|Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)]] |
 | [[Sacred Truces/Christianity and the Feast Of Trumpets\|Christianity and the Feast Of Trumpets]]                                                                   |
 | [[Sacred Truces/When The Kingdom of God Comes ...\|When The Kingdom of God Comes ...]]                                                                             |

@@ -17,28 +17,28 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 If you follow us on [our word press site](https://calltoceasefire.wordpress.com/), you'll receive notification via email of new content. Or follow us on [X](https://x.com/CalltoCeaseFire) or [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/) for new content in your feed. 
 
 
-| Latest Drops                                                           |
-| ---------------------------------------------------------------------- |
-| [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]       |
-| [[Gate of Wisdom/Torah Class\|Torah Class]]                         |
-| [[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]         |
-| [[Gate of Wisdom/T/tongues\|tongues]]                               |
-| [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]               |
-| [[Gate of Wisdom/H/Holy Spirit Receive\|Holy Spirit Receive]]       |
-| [[Gate of Wisdom/H/Holy Spirit -  Speak\|Holy Spirit -  Speak]]     |
-| [[Gate of Wisdom/H/Holy Spirit - Pray\|Holy Spirit - Pray]]         |
-| [[Gate of Wisdom/F/Holy Spirit - Filling\|Holy Spirit - Filling]]   |
-| [[Gate of Wisdom/H/Holy Spirit Upon\|Holy Spirit Upon]]             |
-| [[Gate of Wisdom/S/Study Sheets\|Study Sheets]]                     |
-| [[Gate of Wisdom/S/saved\|saved]]                                   |
-| [[Gate of Wisdom/B/believes\|believes]]                             |
-| [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]                 |
-| [[Gate of Wisdom/G/good\|good]]                                     |
-| [[Gate of Wisdom/B/bad\|bad]]                                       |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]] |
-| [[Gate of Wisdom/B/evil\|evil]]                                     |
-| [[Gate of Wisdom/W/works\|works]]                                   |
-| [[Gate of Wisdom/Numbers/40\|40]]                                   |
+| Latest Drops                                                                |
+| --------------------------------------------------------------------------- |
+| [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]            |
+| [[Gate of Wisdom/N/Neighbor\|Neighbor]]                                  |
+| [[Sacred Truces/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]] |
+| [[Sacred Truces/Jonah and The Disciples\|Jonah and The Disciples]]       |
+| [[Sacred Truces/The Exodus and Jonah\|The Exodus and Jonah]]             |
+| [[Yada Yada Pauses/The Scroll of Jonah\|The Scroll of Jonah]]            |
+| [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]          |
+| [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]                      |
+| [[Gate of Wisdom/Torah Class\|Torah Class]]                              |
+| [[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]              |
+| [[Gate of Wisdom/T/tongues\|tongues]]                                    |
+| [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]                    |
+| [[Gate of Wisdom/H/Holy Spirit Receive\|Holy Spirit Receive]]            |
+| [[Gate of Wisdom/H/Holy Spirit -  Speak\|Holy Spirit -  Speak]]          |
+| [[Gate of Wisdom/H/Holy Spirit - Pray\|Holy Spirit - Pray]]              |
+| [[Gate of Wisdom/F/Holy Spirit - Filling\|Holy Spirit - Filling]]        |
+| [[Gate of Wisdom/H/Holy Spirit Upon\|Holy Spirit Upon]]                  |
+| [[Gate of Wisdom/S/Study Sheets\|Study Sheets]]                          |
+| [[Gate of Wisdom/S/saved\|saved]]                                        |
+| [[Gate of Wisdom/B/believes\|believes]]                                  |
 
 { .block-language-dataview}
 

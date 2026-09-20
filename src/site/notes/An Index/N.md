@@ -21,6 +21,7 @@
 - [[Gate of Wisdom/N/Name\|Name]]
 - [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]
 - [[Gate of Wisdom/Beings/Native-born\|Native-born]]
+- [[Gate of Wisdom/N/Neighbor\|Neighbor]]
 - [[Gate of Wisdom/Beings/nekar\|nekar]]
 - [[Gate of Wisdom/Covenant/New Covenant\|New Covenant]]
 - [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
