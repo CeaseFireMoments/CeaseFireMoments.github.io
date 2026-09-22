@@ -15,6 +15,7 @@
 - **First Mention**: Genesis 10:11 — built by Nimrod (or, in some renderings, Asshur), part of the founding of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Assyria\|Assyria]]n civilization
 - **Last Mention**: Zephaniah 2:13-15 — pronounced desolate and a ruin, a resting place for flocks and wild creatures
 - **Symbolic**: Represents a great Gentile city under YHWH's judgment yet capable of repentance (Jonah 3:5-10); later becomes a symbol of pride and coming desolation (Nahum 1-3; Zephaniah 2:13-15)
+- **Meaning**: House of the Fish
 - **Major Events**:
     - Founded as part of Nimrod's kingdom-building (Genesis 10:8-12)
     - Jonah sent by YHWH to proclaim judgment against it; described as "an exceedingly great city, three days' journey across" (Jonah 3:2-3, WEB)

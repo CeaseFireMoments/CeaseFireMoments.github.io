@@ -3,7 +3,9 @@
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RUI3JXzCgw4?si=LqHOztQ6kyQgdX4z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ePKcrVfEmKQ?si=XJ0hBij6b8li5iz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 
 Welcome to Cease Fire where we explore topics of contentions and study the Bible. Sometimes we are learning in public - right along with you - exploring the facts of a topic. 
@@ -19,6 +21,7 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 
 | Latest Drops                                                                |
 | --------------------------------------------------------------------------- |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]]      |
 | [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]            |
 | [[Gate of Wisdom/N/Neighbor\|Neighbor]]                                  |
 | [[Sacred Truces/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]] |
@@ -38,7 +41,6 @@ If you follow us on [our word press site](https://calltoceasefire.wordpress.com/
 | [[Gate of Wisdom/H/Holy Spirit Upon\|Holy Spirit Upon]]                  |
 | [[Gate of Wisdom/S/Study Sheets\|Study Sheets]]                          |
 | [[Gate of Wisdom/S/saved\|saved]]                                        |
-| [[Gate of Wisdom/B/believes\|believes]]                                  |
 
 { .block-language-dataview}
 
