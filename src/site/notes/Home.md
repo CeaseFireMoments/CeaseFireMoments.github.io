@@ -8,16 +8,24 @@
 
 
 
-Welcome to Cease Fire where we explore topics of contentions and study the Bible. Sometimes we are learning in public - right along with you - exploring the facts of a topic. 
+Welcome to TruthUnsold where we explore topics of contentions and study the Bible.
 
-Take a Cease Fire moment with us to seek knowledge and gain wisdom. We’ll share the cold hard facts so you can always be ready to give an answer to everyone asking you a reason. 
+Proverbs 23:23: Buy the truth, and don’t sell it. Get wisdom, discipline, and understanding.
 
-Have an open mind and be willing to learn, even if you just can’t bring yourself to agree. 
+We’ll share the cold hard facts so you can always be ready to give an answer to everyone asking you a reason.
 
-Thank you for joining us on these CeaseFire Moments, we hope you learn something.
+Have an open mind and be willing to learn, even if you just can’t bring yourself to agree.
 
-If you follow us on [our word press site](https://calltoceasefire.wordpress.com/), you'll receive notification via email of new content. Or follow us on [X](https://x.com/CalltoCeaseFire) or [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/) for new content in your feed. 
+Thank you for sharing in this space. Until next time, Stand firm in the truth, and keep it unsold.”
 
+You found our most active content we hope you will discover truth to buy, wisdom to hold, discipline to implement, and understanding!
+
+[Youtube](https://www.youtube.com/@TruthUnsold)
+
+Buy the truth, and don’t sell it.  
+    Get wisdom, discipline, and understanding.
+
+*Proverbs 23:23*
 
 | Latest Drops                                                                |
 | --------------------------------------------------------------------------- |
