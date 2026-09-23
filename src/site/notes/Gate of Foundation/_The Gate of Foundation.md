@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/gate-of-foundation/the-gate-of-foundation/","tags":["#home","#OliveBranch","GateFoundation"],"dg-note-properties":{"tags":["#home","#OliveBranch","GateFoundation"]}}
 ---
 
-**Truth** — emet (אֱמֶת) / Greek (LXX): aletheia (ἀλήθεια)
-- firmness, faithfulness, reliability; that which is stable and trustworthy enough to stand on. Rooted in the same root as "amen," carrying the sense of something confirmed and unshakeable — not merely factual accuracy but covenantal dependability.
-- that which is unhidden or unconcealed,
+**Wisdom** — chokmah (חָכְמָה) / Greek (LXX): sophia (σοφία)
+- application of knowledge to life, the ability to navigate reality according to how it was made to function.
+- wisdom, skill
 
 In these Truth Unsold Moments facts will be gathered and presented. How they are utilized and interpreted will be up to each individual. Verify and check out the resources as well as the information. Comparing references. But keep in mind, it's a time to seek common ground. 
 
+Like a sudden flash of lightning in a pitch-black, tangled room these provide the instant, overarching vision or breakthrough idea that completely alters how you see the entire situation.
+
 | Table of Content                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/L/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]                                                                                                                                                               |
 | [[Gate of Foundation/_The Gate of Foundation\|_The Gate of Foundation]]                                                                                                                                                             |
-| [[Gate of Wisdom/A/Antifa and the 1940 US Army\|Antifa and the 1940 US Army]]                                                                                                                                                       |
 | [[Gate of Foundation/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]                                                            |
 | [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                                                  |
 | [[Gate of Foundation/The Seventh Day Rest/45 The Seventh Day is for Ways of God not of Man (43 John)\|45 The Seventh Day is for Ways of God not of Man (43 John)]]                                                                  |
@@ -65,7 +65,6 @@ In these Truth Unsold Moments facts will be gathered and presented. How they are
 | [[Gate of Foundation/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]                                                          |
 | [[Gate of Foundation/The Seventh Day Rest/02 The Seventh Day Rest was for Them (02 Exod 16)\|02 The Seventh Day Rest was for Them (02 Exod 16)]]                                                                                    |
 | [[Gate of Foundation/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]                                                                                        |
-| [[Gate of Foundation/Scripture Surveys\|Scripture Surveys]]                                                                                                                                                                         |
 
 { .block-language-dataview}
 

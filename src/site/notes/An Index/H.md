@@ -3,12 +3,12 @@
 ---
 
 
-- [[Gate of Wisdom/H/58 Heb-12 Yada\|58 Heb-12 Yada]]
+- [[Gate of Discernment/58 Heb-12 Yada\|58 Heb-12 Yada]]
 - [[Gate of Wisdom/H/hardened\|hardened]]
 - [[Gate of Wisdom/H/Hear\|Hear]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]
 - [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]
-- [[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]
+- [[Gate of Discernment/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]
 - [[Gate of Wisdom/H/Highlight Legend\|Highlight Legend]]
 - [[Gate of Wisdom/H/Holy\|Holy]]
 - [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
@@ -24,11 +24,11 @@
 - [[Gate of Wisdom/H/Humble in Spirit\|Humble in Spirit]]
 - [[Gate of Wisdom/H/Hunger and Thirst\|Hunger and Thirst]]
 - [[Gate of Wisdom/Good News/Kingdom of Heaven\|Kingdom of Heaven]]
-- [[Gate of Wisdom/E/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]
-- [[Gate of Wisdom/H/Matthew 5 Sermon on the Mount v 3 Humble of Spirit\|Matthew 5 Sermon on the Mount v 3 Humble of Spirit]]
-- [[Gate of Wisdom/H/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]
-- [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
+- [[Gate of Correction/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]
+- [[Gate of Correction/Matthew 5 Sermon on the Mount v 3 Humble of Spirit\|Matthew 5 Sermon on the Mount v 3 Humble of Spirit]]
+- [[Gate of Correction/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]
+- [[Gate of Discernment/New Heart and New Spirit\|New Heart and New Spirit]]
 - [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]
-- [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+- [[Gate of Correction/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 
 { .block-language-dataview}

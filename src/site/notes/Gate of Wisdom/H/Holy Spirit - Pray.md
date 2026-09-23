@@ -11,9 +11,9 @@
 
 # Connections
 
-| file.inlinks                                                          |
-| --------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/S/Study Sheets.md\\|Study Sheets]]</li></ul> |
+| file.inlinks                                                             |
+| ------------------------------------------------------------------------ |
+| <ul><li>[[Gate of Discernment/Study Sheets.md\\|Study Sheets]]</li></ul> |
 
 { .block-language-dataview}ly Spirit – Pray
 

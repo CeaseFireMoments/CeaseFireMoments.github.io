@@ -19,15 +19,15 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 ## **Define**: 
 - the man - any human being
 - does this - keeps the Sabbath without profaning it and keeps from doing evil
-- profaning - to profane, defile, desecrate, treat as common (treat it as an ordinary day instead of a set-apart day) [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+- profaning - to profane, defile, desecrate, treat as common (treat it as an ordinary day instead of a set-apart day) [[Gate of Correction/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 - evil - bad, wicked, displeasing, harmful, any act contrary to what God says is good.
-- [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] - literally “son of a foreigner”
+- [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] - literally “son of a foreigner”
 	- A Foreigner was someone who was not a native born Israelite who wanted to follow Yahweh / God. In the New Testament these would be Gentiles who wanted to follow Jesus.
 - Eunuch - The most common definition of a eunuch in the Bible is a man who has been physically castrated, impotent or was born that way. Deut-23 
 - [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] - Singular referring to the Seventh Day Rest in verses 2 and 6. The Sabbath Day is a covenant sign.
 - [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]] - Plural in vs 4 [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 - [[Zunpublished/Covenant\|Covenant]] - YHWH's covenant with [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]], given at [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mount Sinai\|Mount Sinai]]. Revealed in Moses [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]], promised to Abraham [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]], and renewed in the Servant (Isa 42:6; 49:8).
-	- [[Gate of Wisdom/N/What is the New Covenant\|What is the New Covenant]] Fulfillment Heb-08, Eph 02 
+	- [[Gate of Discernment/What is the New Covenant\|What is the New Covenant]] Fulfillment Heb-08, Eph 02 
 - [[Gate of Wisdom/M/Memorial\|Memorial]] - permanent remembrance or enduring name in God’s house.
 - [[Gate of Wisdom/N/Name\|Name]] name, reputation, fame, memorial, renown, identity. To have a name with God is to have recognition, covenant belonging, and honor.
 

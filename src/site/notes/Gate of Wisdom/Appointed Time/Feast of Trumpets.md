@@ -36,7 +36,7 @@
 - Joel 2:1, 2:15 — trumpet blown in [[Gate of Wisdom/Z/Zion\|Zion]] as an alarm calling for a solemn assembly and repentance, thematically tied to the shofar-blast day
 - 1 Corinthians 15:52 and 1 Thessalonians 4:16 reference a trumpet sounding in connection with resurrection and gathering — inferred connection to Yom Teruah's trumpet theme, not stated directly in the text
 - Revelation 8:2, 8:6 — seven trumpets sounded in judgment sequence — inferred thematic connection, not a direct textual link
-- [[Gate of Wisdom/F/Christianity and the Feast Of Trumpets\|Christianity and the Feast Of Trumpets]]
+- [[Gate of Correction/Christianity and the Feast Of Trumpets\|Christianity and the Feast Of Trumpets]]
 - [[Gate of Wisdom/C/Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)\|Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)]]
 
 [^1]: [[Gate of Wisdom/Numbers/01\|01]] First day

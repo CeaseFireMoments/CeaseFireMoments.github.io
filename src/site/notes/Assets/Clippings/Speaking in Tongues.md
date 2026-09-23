@@ -112,7 +112,7 @@ In I Corinthians tongues is referred to as one of the [[Gate of Wisdom/G/Spiritu
 
 # Connections
 
-I also have what I call [[Gate of Wisdom/W/Word Flow Charts\|Word Flow Charts]] that are great for working through topics like this one. As well as [[Gate of Wisdom/S/Study Sheets\|Study Sheets]] . These are just a collection of some studies I've worked on. Some may even be incomplete. You won't find "answers" in them, just some notes or observations I've made on various words I've decided to look up. There are very few conclusions stated on these sheets. I've only posted them to aid in someone else's studies. They may be able to give a starting point when knowing where to start is difficult. There is no particular order. I am trying to gather my study information and put it into some kind of uniform format, so it may take some time. Just check back from time to time and see what's been added.
+I also have what I call [[Gate of Discernment/Word Flow Charts\|Word Flow Charts]] that are great for working through topics like this one. As well as [[Gate of Discernment/Study Sheets\|Study Sheets]] . These are just a collection of some studies I've worked on. Some may even be incomplete. You won't find "answers" in them, just some notes or observations I've made on various words I've decided to look up. There are very few conclusions stated on these sheets. I've only posted them to aid in someone else's studies. They may be able to give a starting point when knowing where to start is difficult. There is no particular order. I am trying to gather my study information and put it into some kind of uniform format, so it may take some time. Just check back from time to time and see what's been added.
 
 [[Gate of Wisdom/T/tongues\|tongues]]
-[[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]
+[[Gate of Correction/Summary of Tongues\|Summary of Tongues]]

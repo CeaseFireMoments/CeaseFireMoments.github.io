@@ -28,8 +28,8 @@
 * James 4:7 — submit to God
 * 1 Samuel 7:13 — Philistines *kana* before Israel
 * Psalm 18:47 — peoples *kana* under David
-* [[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]
-* [[Gate of Wisdom/E/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]
+* [[Gate of Discernment/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]
+* [[Gate of Correction/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]
 
 # Scripture
 
@@ -95,8 +95,8 @@ Those who have have devoted themselves in service to the kedoshim = holy (set ap
 
 
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/H/Hierarchical Relationships Addressed by God or Jesus.md\\|Hierarchical Relationships Addressed by God or Jesus]]</li><li>[[Gate of Wisdom/E/Equality Addressed by God or Jesus.md\\|Equality Addressed by God or Jesus]]</li><li>[[Gate of Wisdom/E/49 Ephes-05 Yada Yada.md\\|49 Ephes-05 Yada Yada]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Discernment/49 Ephes-05 Yada Yada.md\\|49 Ephes-05 Yada Yada]]</li><li>[[Gate of Discernment/Hierarchical Relationships Addressed by God or Jesus.md\\|Hierarchical Relationships Addressed by God or Jesus]]</li><li>[[Gate of Correction/Equality Addressed by God or Jesus.md\\|Equality Addressed by God or Jesus]]</li></ul> |
 
 { .block-language-dataview}

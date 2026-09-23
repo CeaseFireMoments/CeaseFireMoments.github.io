@@ -23,7 +23,7 @@ Part 5 – [Why Celebrate the Birth of Jesus Differently?](https://calltoceasefi
 
 [Part 5.4 Feast of Trumpets](https://calltoceasefire.wordpress.com/2023/12/30/celebrating-the-birth-of-a-god-in-december-part-5-4-feast-of-trumpets/)
 
-[[Gate of Wisdom/B/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]
+[[Gate of Correction/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]
 
 [Part 5.6 Feast of Tabernacles](https://calltoceasefire.wordpress.com/2023/12/30/celebrating-the-birth-of-a-god-in-december-part-5-6-feast-of-tabernacles/)
 

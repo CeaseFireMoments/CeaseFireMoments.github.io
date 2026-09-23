@@ -26,11 +26,11 @@
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
 - [[Gate of Wisdom/B/Burden\|Burden]]
 - [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
-- [[Gate of Wisdom/B/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]
+- [[Gate of Correction/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]
 - [[Gate of Wisdom/B/evil\|evil]]
-- [[Gate of Wisdom/B/Matthew 28 v19 Baptizing in the Name\|Matthew 28 v19 Baptizing in the Name]]
-- [[Gate of Wisdom/B/Matthew 5 Sermon on the Mount v 1-2 Beatitudes\|Matthew 5 Sermon on the Mount v 1-2 Beatitudes]]
-- [[Gate of Wisdom/B/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]
-- [[Gate of Wisdom/B/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]
+- [[Gate of Correction/Matthew 28 v19 Baptizing in the Name\|Matthew 28 v19 Baptizing in the Name]]
+- [[Gate of Correction/Matthew 5 Sermon on the Mount v 1-2 Beatitudes\|Matthew 5 Sermon on the Mount v 1-2 Beatitudes]]
+- [[Gate of Correction/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]
+- [[Gate of Correction/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]
 
 { .block-language-dataview}

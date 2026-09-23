@@ -11,7 +11,7 @@ Greek: ptochos (πτωχός) poor, beggar, destitute
 
 # Related words
 
-- ger (גֵּר) [[Gate of Wisdom/Beings/Stranger\|Stranger]]/sojourner (often paired in the verse) 
+- ger (גֵּר) [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]]/sojourner (often paired in the verse) 
 
 # Additional Info
 
@@ -54,9 +54,9 @@ Greek: ptochos (πτωχός) poor, beggar, destitute
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/M/40 Matt-05 Yada.md\\|40 Matt-05 Yada]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Discernment/40 Matt-05 Yada.md\\|40 Matt-05 Yada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
 
 { .block-language-dataview}
 

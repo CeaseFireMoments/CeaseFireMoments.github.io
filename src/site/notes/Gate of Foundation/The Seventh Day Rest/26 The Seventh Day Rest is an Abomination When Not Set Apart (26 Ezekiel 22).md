@@ -27,7 +27,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - [[Gate of Wisdom/U/Unclean\|Unclean]] = Ritually impure; defiling; must be kept away from the sanctuary and holy things until purified
 - Profane = ḥillēl (חָלַל) literally to make common/ordinary something that is holy
 - [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]] - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
-- [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+- [[Gate of Correction/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 - Law = [[Gate of Wisdom/T/Torah\|Torah]] instruction or teaching
 
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:

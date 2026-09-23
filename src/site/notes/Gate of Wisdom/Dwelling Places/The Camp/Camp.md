@@ -24,9 +24,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/G/01 Gen-32 Yada.md\\|01 Gen-32 Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/28 - Hosea/Hos-12.md\\|Hos-12]]</li></ul> |
+| file.inlinks                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/28 - Hosea/Hos-12.md\\|Hos-12]]</li><li>[[Gate of Discernment/01 Gen-32 Yada.md\\|01 Gen-32 Yada]]</li></ul> |
 
 { .block-language-dataview}
 - 

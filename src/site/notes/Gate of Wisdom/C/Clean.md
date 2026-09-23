@@ -14,7 +14,7 @@
 - [[Gate of Wisdom/U/Unclean\|Unclean]]
 
 # Additional Info
-- [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+- [[Gate of Correction/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 - Clean animals (Gen 7:2; Lev 11; Deut 14)
 - Clean people may eat from sacrifices (Lev 7:19–20)
 - Cleansing rituals (water of purification, time, washing, sacrifice)

@@ -37,9 +37,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/O/31 Obad-01 Yada Yada.md\\|31 Obad-01 Yada Yada]]</li><li>[[Gate of Wisdom/G/01 Gen-32 Yada.md\\|01 Gen-32 Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01.md\\|Obad-01]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Discernment/01 Gen-32 Yada.md\\|01 Gen-32 Yada]]</li><li>[[Gate of Discernment/31 Obad-01 Yada Yada.md\\|31 Obad-01 Yada Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/31 - Obadiah/Obad-01.md\\|Obad-01]]</li></ul> |
 
 { .block-language-dataview}
 

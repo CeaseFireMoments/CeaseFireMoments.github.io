@@ -11,9 +11,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Gate of Wisdom/W/Wash.md\\|Wash]]</li><li>[[Gate of Wisdom/S/Study Sheets.md\\|Study Sheets]]</li><li>[[Gate of Wisdom/H/Holy.md\\|Holy]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Gate of Wisdom/W/Wash.md\\|Wash]]</li><li>[[Gate of Wisdom/H/Holy.md\\|Holy]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Gate of Discernment/Study Sheets.md\\|Study Sheets]]</li></ul> |
 
 { .block-language-dataview}## Holy Spirit Filling
 

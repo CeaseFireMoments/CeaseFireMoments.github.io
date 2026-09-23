@@ -58,6 +58,6 @@ Six days shall work be done, but on the seventh day is a Sabbath of solemn rest,
 - Not yet.
 
 ## Other Notes:
-- There are only a few transgressions which carry a death penalty. [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
+- There are only a few transgressions which carry a death penalty. [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
 # [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

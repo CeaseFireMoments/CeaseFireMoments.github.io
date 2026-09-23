@@ -5,11 +5,11 @@
 
 - [[Gate of Wisdom/Beings/Heavenly Beings/cloud of witnesses\|cloud of witnesses]]
 - [[Gate of Wisdom/Appointed Time/Feast of Weeks\|Feast of Weeks]]
-- [[Gate of Wisdom/M/Matthew 5 Sermon on the Mount vs 4 The Weeping\|Matthew 5 Sermon on the Mount vs 4 The Weeping]]
+- [[Gate of Correction/Matthew 5 Sermon on the Mount vs 4 The Weeping\|Matthew 5 Sermon on the Mount vs 4 The Weeping]]
 - [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]
 - [[Gate of Wisdom/T/Ten Words\|Ten Words]]
 - [[Gate of Wisdom/Beings/Human Beings/The Way\|The Way]]
-- [[Gate of Wisdom/W/The Way – Convergence of Jewish and Christian Faiths\|The Way – Convergence of Jewish and Christian Faiths]]
+- [[Gate of Correction/The Way – Convergence of Jewish and Christian Faiths\|The Way – Convergence of Jewish and Christian Faiths]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]
 - [[Gate of Wisdom/W/The Word\|The Word]]
 - [[Gate of Wisdom/S/Timeline\|Timeline]]

@@ -23,8 +23,8 @@ Eli the priest later foolishly sent the ark of the covenant out to battle, and i
 
 
 
-| file.inlinks                                                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Zunpublished/06.06.26 Shabbat Reading.md\\|06.06.26 Shabbat Reading]]</li><li>[[Gate of Correction/62 1 John-03 Yada.md\\|62 1 John-03 Yada]]</li><li>[[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm.md\\|The Unseen Realm]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Zunpublished/06.06.26 Shabbat Reading.md\\|06.06.26 Shabbat Reading]]</li><li>[[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm.md\\|The Unseen Realm]]</li><li>[[Gate of Discernment/62 1 John-03 Yada.md\\|62 1 John-03 Yada]]</li></ul> |
 
 { .block-language-dataview}

@@ -8,7 +8,7 @@
 # Related words
 - [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
-- [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
+- [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
 # Additional Info
 - Torah framework: Deut 27:15–26 – twelve אָרוּר (arur) curses for specific violations; Deut 28:15–68 – comprehensive national curses for covenant breach.

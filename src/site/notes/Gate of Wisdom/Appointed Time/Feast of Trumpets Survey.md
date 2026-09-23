@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/feast-of-trumpets-survey/","tags":["F","T","AppointedTime"],"dg-note-properties":{"tags":["F","T","AppointedTime"],"Bible-References":null}}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/feast-of-trumpets-survey/","tags":["F","T","AppointedTime","GateCorrection"],"dg-note-properties":{"tags":["F","T","AppointedTime","GateCorrection"],"Bible-References":null}}
 ---
 
 # Direct References

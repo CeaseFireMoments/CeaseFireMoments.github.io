@@ -70,4 +70,4 @@ The connection is implicit: just as Shavuot celebrated the covenant through the 
 
 # Connections
 
-[[Gate of Wisdom/N/What is the New Covenant\|What is the New Covenant]]
+[[Gate of Discernment/What is the New Covenant\|What is the New Covenant]]
