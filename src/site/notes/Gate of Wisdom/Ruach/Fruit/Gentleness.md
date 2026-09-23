@@ -20,8 +20,8 @@ Galations 5
 
 # Connections
 
-| file.inlinks                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.04.24 Shabbat Reading.md\\|2026.04.24 Shabbat Reading]]</li><li>[[Gate of Wisdom/J/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li></ul> |
+| file.inlinks                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.04.24 Shabbat Reading.md\\|2026.04.24 Shabbat Reading]]</li><li>[[Gate of Discernment/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li></ul> |
 
 { .block-language-dataview}

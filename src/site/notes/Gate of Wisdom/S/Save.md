@@ -28,9 +28,9 @@ Ps 111:9 “He sent redemption (פְּדוּת) unto his people… Holy and reve
 - Ps 51:14 – “Deliver me from bloodguiltiness… my tongue shall sing of thy righteousness”
 
 
-| file.inlinks                                                                                                                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/S/Save.md\\|Save]]</li><li>[[Gate of Wisdom/R/Ransom.md\\|Ransom]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Redemption.md\\|Redemption]]</li><li>[[Gate of Correction/59 James-01 Yada.md\\|59 James-01 Yada]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/S/Save.md\\|Save]]</li><li>[[Gate of Wisdom/R/Ransom.md\\|Ransom]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Redemption.md\\|Redemption]]</li><li>[[Gate of Discernment/59 James-01 Yada.md\\|59 James-01 Yada]]</li></ul> |
 
 { .block-language-dataview}
 

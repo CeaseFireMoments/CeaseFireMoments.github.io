@@ -9,4 +9,4 @@
 
 
 # Connections
-- [[Gate of Wisdom/N/What is the New Covenant\|What is the New Covenant]]
+- [[Gate of Discernment/What is the New Covenant\|What is the New Covenant]]

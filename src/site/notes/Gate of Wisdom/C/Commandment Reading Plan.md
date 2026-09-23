@@ -5,17 +5,17 @@
 **One-Year FEMALE Reading Plan for All Applicable Biblical [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]**  
 Starting March 20; 365 day
 
-[[Gate of Wisdom/C/Commandment Reading Plan March\|Commandment Reading Plan March]]
-[[Gate of Wisdom/C/Commandment Reading Plan April\|Commandment Reading Plan April]]
-[[Gate of Wisdom/C/Commandment Reading Plan May\|Commandment Reading Plan May]]
-[[Gate of Wisdom/C/Commandment Reading Plan June\|Commandment Reading Plan June]]
-[[Gate of Wisdom/C/Commandment Reading Plan July\|Commandment Reading Plan July]]
-[[Gate of Wisdom/C/Commandment Reading Plan August\|Commandment Reading Plan August]]
-[[Gate of Wisdom/C/Commandment Reading Plan September\|Commandment Reading Plan September]]
-[[Gate of Wisdom/C/Commandment Reading Plan October\|Commandment Reading Plan October]]
-[[Gate of Wisdom/C/Commandment Reading Plan November\|Commandment Reading Plan November]]
-[[Gate of Wisdom/C/Commandment Reading Plan December\|Commandment Reading Plan December]]
-[[Gate of Wisdom/C/Commandment Reading Plan January\|Commandment Reading Plan January]]
+[[Gate of Correction/Commandment Reading Plan March\|Commandment Reading Plan March]]
+[[Gate of Correction/Commandment Reading Plan April\|Commandment Reading Plan April]]
+[[Gate of Correction/Commandment Reading Plan May\|Commandment Reading Plan May]]
+[[Gate of Correction/Commandment Reading Plan June\|Commandment Reading Plan June]]
+[[Gate of Correction/Commandment Reading Plan July\|Commandment Reading Plan July]]
+[[Gate of Correction/Commandment Reading Plan August\|Commandment Reading Plan August]]
+[[Gate of Correction/Commandment Reading Plan September\|Commandment Reading Plan September]]
+[[Gate of Correction/Commandment Reading Plan October\|Commandment Reading Plan October]]
+[[Gate of Correction/Commandment Reading Plan November\|Commandment Reading Plan November]]
+[[Gate of Correction/Commandment Reading Plan December\|Commandment Reading Plan December]]
+[[Gate of Correction/Commandment Reading Plan January\|Commandment Reading Plan January]]
 [[Gate of Wisdom/C/Commandment Reading Plan#**January 21 to March 19, 2027 (Review Period)**\|Commandment Reading Plan#**January 21 to March 19, 2027 (Review Period)**]]
 
 Commands, statutes (chuqim), ordinances/charges (mishmerot/tsavah), judgments (mishpatim), precepts (pikkudim), or general mitzvash that applies to all people is included. 
@@ -37,7 +37,7 @@ Commands, statutes (chuqim), ordinances/charges (mishmerot/tsavah), judgments (m
 
 ## Why?
 
-One law shall be to him who is born at home, and to the stranger who lives as a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] among you. - Exodus 12:49 
+One law shall be to him who is born at home, and to the stranger who lives as a [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] among you. - Exodus 12:49 
 
 ... what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul, to keep Yahweh’s [[Gate of Wisdom/Right Standing/Commandments\|Commandments]] and [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]], which I command you today for your good? Behold, to Yahweh your God belongs heaven, the [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]] of heavens, and the earth, with all that is therein. - Deuteronomy 10:12-14
 

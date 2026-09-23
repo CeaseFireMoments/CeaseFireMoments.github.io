@@ -13,17 +13,17 @@ Greek Proseuchē (προσευχῇ) — translated as "prayer." This is the mos
 
 
 # Connections
-- [[Gate of Wisdom/J/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
+- [[Gate of Correction/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
 - [[Gate of Wisdom/P/Pray\|Pray]]
 - [[Gate of Wisdom/T/Tefillos\|Tefillos]]
-- [[Gate of Wisdom/J/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
-- [[Gate of Wisdom/J/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
+- [[Gate of Correction/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
+- [[Gate of Correction/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
 
 
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.04.24 Shabbat Reading.md\\|2026.04.24 Shabbat Reading]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/P/Pray.md\\|Pray]]</li><li>[[Gate of Wisdom/L/Matthew 6 vs09-15 The Lord’s Prayer.md\\|Matthew 6 vs09-15 The Lord’s Prayer]]</li><li>[[Gate of Wisdom/J/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Gate of Wisdom/J/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.04.24 Shabbat Reading.md\\|2026.04.24 Shabbat Reading]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/P/Pray.md\\|Pray]]</li><li>[[Gate of Correction/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Gate of Correction/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li><li>[[Gate of Correction/Matthew 6 vs09-15 The Lord’s Prayer.md\\|Matthew 6 vs09-15 The Lord’s Prayer]]</li></ul> |
 
 { .block-language-dataview}
 

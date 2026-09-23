@@ -5,16 +5,16 @@
 # Define
 
 - Greek: plesion (πλησίον) — "the one near/close by," used as a substantive meaning "neighbor"; in this saying it directly echoes and quotes Leviticus 19:18, carrying the full weight of the Torah command into the Greek text.
-- Hebrew: rea (רֵעַ) — "neighbor, companion, fellow, associate"; in the Hebrew mindset this term does not require kinship or even nationality — it denotes anyone one is in relationship or proximity with, extending to the [[Gate of Wisdom/Beings/Stranger\|Stranger]] dwelling among Israel (Leviticus 19:34 uses the same command applied to the ger, גֵּר,.
+- Hebrew: rea (רֵעַ) — "neighbor, companion, fellow, associate"; in the Hebrew mindset this term does not require kinship or even nationality — it denotes anyone one is in relationship or proximity with, extending to the [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] dwelling among Israel (Leviticus 19:34 uses the same command applied to the ger, גֵּר,.
 
 # Related Words
 
-- Ger (גֵּר) — "sojourner/[[Gate of Wisdom/Beings/Stranger\|Stranger]]," to whom the same love-command is explicitly extended in Leviticus 19:34
+- Ger (גֵּר) — "sojourner/[[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]]," to whom the same love-command is explicitly extended in Leviticus 19:34
 - Ahav (אָהַב) / agapao (ἀγαπάω) — "to love," the verb paired with rea/plesion in both the Hebrew and Greek forms of the command
 - Torah (תּוֹרָה) — the body of instruction from which Yeshua quotes this command directly
-- [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]
-- [[Gate of Discernment/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
-- [[Gate of Wisdom/Beings/Sojourner\|Sojourner]]
+- [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]]
+- [[Gate of Correction/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
+- [[Gate of Wisdom/Beings/Human Beings/Sojourner\|Sojourner]]
 
 # Additional Information
 

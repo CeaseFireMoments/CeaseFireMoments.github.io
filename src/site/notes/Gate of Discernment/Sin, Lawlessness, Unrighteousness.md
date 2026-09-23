@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/gate-of-discernment/sin-lawlessness-unrighteousness/","tags":["#Hebrews10","#1John3","#Righteousness","#Sins","#Lawlessness","#Writer/Unknown","#Writer/John","#NewCovenant","#HolySpirt","#Ruach","#Jeremiah31","#Shavuot","#Pentecost","#lawlessness","#Social","S","L","U","GateDiscernment"],"dg-note-properties":{"tags":["#Hebrews10","#1John3","#Righteousness","#Sins","#Lawlessness","#Writer/Unknown","#Writer/John","#NewCovenant","#HolySpirt","#Ruach","#Jeremiah31","#Shavuot","#Pentecost","#lawlessness","#Social","S","L","U","GateDiscernment"]}}
+---
+
+
+
+[[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]], [[Gate of Wisdom/L/Lawlessness\|Lawlessness]], [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]] is defined in the Old Testament. 
+
+The [[Gate of Wisdom/L/Law\|Law]], [[Gate of Wisdom/T/Torah\|Torah]], is found in the Old Testament because the New Testament didn't exist at the time of these writings.
+
+![Marked Hebrews 10_26-31.png](/img/user/_Assets/attachments/Marked%20Hebrews%2010_26-31.png)
+
+
+![Marked 1 John 3_4-9.png](/img/user/_Assets/attachments/Marked%201%20John%203_4-9.png)
+
+
+# Connections
+[[Gate of Discernment/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
+[[Sacred Truces/The Law in Matthew 5\|Sacred Truces/The Law in Matthew 5]]
+
+
+# Connections
+
+| file.inlinks |
+| ------------ |
+| <ul></ul>    |
+
+{ .block-language-dataview}

@@ -14,12 +14,12 @@
     - Luke 11:2–4 (response to disciple’s request; shorter, no doxology or “Your will be done”).
 
 # Connections
-- [[Gate of Wisdom/L/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]
+- [[Gate of Correction/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]
 
 - 
-| file.inlinks                                                                                                                                                                                                |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/L/Matthew 6 vs09-15 The Lord’s Prayer.md\\|Matthew 6 vs09-15 The Lord’s Prayer]]</li><li>[[Gate of Wisdom/J/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Correction/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li><li>[[Gate of Correction/Matthew 6 vs09-15 The Lord’s Prayer.md\\|Matthew 6 vs09-15 The Lord’s Prayer]]</li></ul> |
 
 { .block-language-dataview}
 

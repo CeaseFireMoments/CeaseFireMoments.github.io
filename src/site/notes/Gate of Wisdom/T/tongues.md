@@ -25,4 +25,4 @@
 - Acts 10:46, Acts 19:6 — later occurrences of speaking in tongues (glōssais) among Gentile and Ephesian believers
 - 1 Corinthians 12:10, 1 Corinthians 12:28, 1 Corinthians 14:1-40 — Paul's extended teaching on glōssai as a spiritual gift, including interpretation
 - [[Assets/Clippings/Speaking in Tongues\|Speaking in Tongues]]
-- [[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]
+- [[Gate of Correction/Summary of Tongues\|Summary of Tongues]]

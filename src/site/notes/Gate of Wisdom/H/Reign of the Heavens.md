@@ -57,9 +57,9 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/P/Poor.md\\|Poor]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven.md\\|Heaven]]</li><li>[[Gate of Wisdom/M/40 Matt-05 Yada.md\\|40 Matt-05 Yada]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God.md\\|Kingdom of God]]</li><li>[[Gate of Wisdom/Good News/Kingdom of Heaven.md\\|Kingdom of Heaven]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Gate of Wisdom/P/Poor.md\\|Poor]]</li><li>[[Gate of Wisdom/Good News/Kingdom of Heaven.md\\|Kingdom of Heaven]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God.md\\|Kingdom of God]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven.md\\|Heaven]]</li><li>[[Gate of Discernment/40 Matt-05 Yada.md\\|40 Matt-05 Yada]]</li></ul> |
 
 { .block-language-dataview}
 

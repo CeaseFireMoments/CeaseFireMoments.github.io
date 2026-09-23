@@ -28,6 +28,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12.md\\|Heb-12]]</li><li>[[Gate of Discernment/59 James-01 Yada.md\\|59 James-01 Yada]]</li><li>[[Gate of Discernment/58 Heb-12 Yada.md\\|58 Heb-12 Yada]]</li></ul> |
+| <ul><li>[[Gate of Discernment/58 Heb-12 Yada.md\\|58 Heb-12 Yada]]</li><li>[[Gate of Discernment/59 James-01 Yada.md\\|59 James-01 Yada]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12.md\\|Heb-12]]</li></ul> |
 
 { .block-language-dataview}

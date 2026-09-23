@@ -19,9 +19,9 @@ Mishpatim is plural
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Discernment/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -351,13 +351,13 @@ Mishpatim is plural
 - **Scripture Reference**: Deuteronomy 22:23-24
 - **Scripture Text (WEB)**: “If there is a young lady who is a virgin pledged to be married to a husband, and a man finds her in the city, and lies with her, then you shall bring them both out to the gate of that city, and you shall stone them to death with stones: the young lady, because she didn’t cry, being in the city; and the man, because he has humbled his neighbor’s wife. So you shall remove the evil from among you.”
 - **Penalty or Consequence**: Death by stoning for both.
-- **Offering or Ransom**: None specified; no atonement provided. [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
+- **Offering or Ransom**: None specified; no atonement provided. [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
 ## 14. Rape of a Betrothed Woman in the Country
 - **Scripture Reference**: Deuteronomy 22:25-27
 - **Scripture Text (WEB)**: “But if the man finds the lady who is pledged to be married in the field, and the man forces her and lies with her, then only the man who lay with her shall die; but to the young lady you shall do nothing. There is in the young lady no sin worthy of death; for as when a man rises against his neighbor and kills him, even so is this matter; for he found her in the field, the pledged to be married lady cried, and there was no one to save her.”
 - **Penalty or Consequence**: Death for the man; woman is innocent.
-- **Offering or Ransom**: None specified. [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
+- **Offering or Ransom**: None specified. [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
 ## 15. Rape of an Unbetrothed Virgin
 - **Scripture Reference**: Deuteronomy 22:28-29
@@ -379,7 +379,7 @@ Mishpatim is plural
 - **Scripture Reference**: Deuteronomy 22:13-19
 - **Scripture Text (WEB)**: “If any man takes a wife, and goes in to her, hates her, and accuses her of shameful things, saying, ‘I took this woman, and when I came near to her, I didn’t find in her the tokens of virginity,’ then the young lady’s father and mother shall take and bring the tokens of the young lady’s virginity to the elders of the city in the gate… If this thing is true, that the tokens of virginity were not found in the young lady, then they shall bring out the young lady to the door of her father’s house, and the men of her city shall stone her to death with stones, because she has done folly in Israel, to play the prostitute in her father’s house. So you shall remove the evil from among you.”
 - **Penalty or Consequence**: If false, husband is fined 100 shekels, whipped, and cannot divorce her (22:19); if true, wife is stoned (22:21).
-- **Offering or Ransom**: For false accusation, 100 shekels paid to the father; no atonement for guilty wife. [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
+- **Offering or Ransom**: For false accusation, 100 shekels paid to the father; no atonement for guilty wife. [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
 ## #LoveNeighbor #Deuteronomy23 #05Deut  Do Not Return a Slave Who Has Escaped: [Deuteronomy 23:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy+23:15-16&version=WEB;NET;OJB)
 
@@ -418,7 +418,7 @@ Mishpatim is plural
 				- food
 				- anything that is lent
 	- Do (you may)
-		- charge a [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] interest #Dos 
+		- charge a [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] interest #Dos 
 	- So that
 		- YHWH may bless you
 			- in all that you put your hand to
@@ -533,7 +533,7 @@ Mishpatim is plural
 - **Scripture Reference**: Deuteronomy 24:7
 - **Scripture Text (WEB)**: “If a man is found stealing any of his brothers of the children of Israel, and he deals with him as a slave, or sells him, then that thief shall die. So you shall remove the evil from among you.”
 - **Penalty or Consequence**: Death.
-- **Offering or Ransom**: None specified; no atonement provided. [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
+- **Offering or Ransom**: None specified; no atonement provided. [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
 ## 20. Fair Treatment of Lepers
 - **Scripture Reference**: Deuteronomy 24:8-9
@@ -580,7 +580,7 @@ Mishpatim is plural
 - **Outline:**
 	- A poor and needy hired servant
 		- one of your brothers (member of your covenant community)
-		- one of the [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]s who are in your land within your gates
+		- one of the [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]]s who are in your land within your gates
 		
 	- Do not
 		- oppress #DoNot 
@@ -616,7 +616,7 @@ Mishpatim is plural
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:**
 	- The 
-		- [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] 
+		- [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] 
 		- fatherless
 	- Do not
 		- deprive foreigner of justice #DoNot 
@@ -648,7 +648,7 @@ Mishpatim is plural
 		- do not glean it after #DoNot 
 	- Do
 		- the sheaf, bough, fruit will be for #Dos 
-			- the [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]
+			- the [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]]
 			- the fatherless
 			- the widow
 		- remember that you were a slave in the land of Egypt #Dos 
@@ -1133,7 +1133,7 @@ Mishpatim is plural
 			- Because bribes 
 				- blind those who have sight
 				- perverts the words of the righteous
-		- oppress an [[Gate of Wisdom/Beings/Foreigner\|Foreigner]] #DoNot 
+		- oppress an [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] #DoNot 
 			- Because you know their heart since you were foreigners in the land of Egypt.
 		
 	- Do
@@ -1169,7 +1169,7 @@ Mishpatim is plural
 		- glean your vineyard #DoNot
 		- gather the fallen grapes from your vineyard #DoNot
 	- Do
-		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/Beings/Stranger\|Stranger]] #Dos 
+		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] #Dos 
 		- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger #Dos 
 		- leave //the fallen grapes// for the poor and the stranger #Dos 
 	- Because
@@ -1205,7 +1205,7 @@ Mishpatim is plural
 - Proverbs 18:21 — _"Death and life are in the power of the tongue"_ — reflects the same understanding. 
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>
 	- slandering is treated as something that could cost a life
-		- False Witness which endangers a life - Death [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
+		- False Witness which endangers a life - Death [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 	- **"stand against the blood"** — _la'amod al dam_ (לַעֲמֹד עַל דָּם) — carries judicial weight. It likely refers to bearing false witness in a capital case, withholding testimony that could save a life, or taking action that leads to another's death. The connection to **Deuteronomy 19:15–21** is direct — false witness there, endangering life here.
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
@@ -1293,13 +1293,13 @@ Mishpatim is plural
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:** *
-	- if a [[Gate of Wisdom/Beings/Stranger\|Stranger]] lives
+	- if a [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] lives
 		- as a foreigner //lives as a stranger//
 			- in your land
 	- Do Not
 		- do him wrong #DoNot 
 	- Do
-		- he shall be as a [[Gate of Wisdom/Beings/Native-born\|Native-born]]
+		- he shall be as a [[Gate of Wisdom/Beings/Human Beings/Native-born\|Native-born]]
 		- love him as yourself
 	- Because
 		- you lived as a foreigner in the land of Egypt

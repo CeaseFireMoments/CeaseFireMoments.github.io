@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/beings/zar/","tags":["#GateWisdom","Z","Being"],"dg-note-properties":{"tags":["#GateWisdom","Z","Being"],"Bible-References":null}}
 ---
 
-See [[Gate of Wisdom/Beings/Outsider\|Outsider]]
+See [[Gate of Wisdom/Beings/Human Beings/Outsider\|Outsider]]
 
 
 

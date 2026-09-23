@@ -50,6 +50,6 @@ Isaiah 58 tzom
 - 
 | file.inlinks                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah-03 H.md\\|Jonah-03 H]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah-03 H.md\\|Jonah-03 H]]</li></ul> |
 
 { .block-language-dataview}

@@ -29,7 +29,7 @@ Things to explore before diving into this book.
 - [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]  
 	- From the [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
 		- In the time frame of this story - Israel is prosperous and Nineveh is not. Assyria had suffered a series of military defeats and they were also dealing with famine additionally during the same time a major earthquake happened as did a solar eclipse.
-	- [[Gate of Correction/The Scroll of Jonah\|The Scroll of Jonah]]
+	- [[Gate of Discernment/The Scroll of Jonah\|The Scroll of Jonah]]
 - [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]
 	- Anyone who is not in covenant with YHWH, even if they are a native born Israelite.
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Assyria\|Assyria]] and [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]] (House of the Fish)
@@ -49,9 +49,9 @@ Things to explore before diving into this book.
 			- In Amos 6:13-14, Amos confronts the nation for gloating over territorial victories. Amos specifically declares that God will raise up a nation (Assyria) to crush Israel from Lebo-hamath to the valley of the Arabah (the Dead Sea area).
 		- Hosea undid the false sense of divine endorsement that Jonah’s military prophecy helped create.
 			- Hosea is screaming at God's chosen people to repent. Hosea explicitly warns that because Israel refuses to repent, they will be conquered and exiled by Assyria (Hosea 9:3; 11:5)
-- [[Gate of Wisdom/E/The Exodus and Jonah\|The Exodus and Jonah]]
-- [[Gate of Wisdom/D/Jonah and The Disciples\|Jonah and The Disciples]]
-- [[Gate of Wisdom/J/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]
+- [[Gate of Discernment/The Exodus and Jonah\|The Exodus and Jonah]]
+- [[Gate of Correction/Jonah and The Disciples\|Jonah and The Disciples]]
+- [[Gate of Discernment/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]
 
 # Chapter: Prodigal Prophet
 

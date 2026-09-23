@@ -6,7 +6,7 @@
 - [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
 
 # Connections
-- [[Gate of Wisdom/D/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
+- [[Gate of Correction/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 
 
 - 

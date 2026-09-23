@@ -1,0 +1,94 @@
+---
+{"dg-publish":true,"permalink":"/gate-of-correction/women-teaching/","tags":["W","T","GateCorrection"],"dg-note-properties":{"tags":["W","T","GateCorrection"],"Bible-References":null}}
+---
+
+Response to a facebook post about women TEACHING. 
+
+This is just sitting across the table  - reasoning out scripture. Trying to listen to understand, not to agree. Not trying to prove any specific point, just bringing up relevant scriptures to think and ponder on. This is called PERCEIVING scripture. We don't want to find ourselves being a part of Isaiah 6:9, Matthew 13:14, Mark 4:12, or Acts 28:26. 
+
+"You will be ever hearing but never understanding; you will be ever seeing but never **perceiving**."
+
+- THREAD #1 OF 7 Statement: "Not a single woman mentioned was an elder."
+	- "A woman in that day would have never had the right to function in such a way - they were lower than livestock at that time." But let's take a quick little look at "elder" as the people at the time of the Second Writings would have seen them, not as modern day churchianity does.
+		- In 1 Timothy 5 it is (presbyteros (πρεσβύτερος))  
+			- It literally means "elder" like "older than" and carries the function of mature oversight. The older members of an assembly of people.
+				- In this definition a younger male would be less qualified than an older woman because she would be an elder in many gatherings in relation to other women in attendance. Where as he would rarely qualify in many gatherings of men.
+			- It is also used in regard to an official religious and civic leader within Judaism.
+				- No one who attends a Christian Church today would have been allowed to function as an elder at the time of the Second Writings.
+				- A younger male is just as unqualified to function in this role as an older woman. 
+		- 1 Timothy 3  is episkopos (ἐπίσκοπος) 
+			- more accurately called an overseer or guardian, the function of watching over, shepherding, and caring for people in the assembly
+			- by Paul's instruction many men functioning as an elder today are not qualified - but churchianity is happy to bend the rules when it wants to.
+			- If you believe Paul never had a wife, he himself is not qualified. Neither would John by tradition. If we stick strictly to Paul's outline - even Jesus doesn't qualify. None of them were "faithful to his wife," didn't "manage his own family," and didn't have children. 
+	- It is true, not a single women mentioned (in the Second Writings/NT) was an "elder" by Paul's definition. We will take a look at elder again.
+- THREAD #2 OF 7 Statement: "Not a single woman mentioned was a teacher" 
+	- We can grant this statement if talking in modern day terms as in up on a stage speaking to a mixed audience. Since we know women are specifically told to teach - which would imply they would be a teacher.  So it appears to be more about the context of where and who is being taught more so than the function of instructing - is this correct?
+	- διδάσκω (didaskō or didasko) - to teach, to instruct, to impart knowledge.
+	- Many brush off Priscilla, Aquilla, and Apollos too easily. I'm not sure you get the weight of the situation as it would have been in the Second Writings time. 
+		- Apollos - he speaking and teaching, he was mighty in The Scriptures (OT), ACCURATELY concerning Jesus. But he only knew about the baptism of John - of repentance. This is a very knowledge man, not some new convert. 
+		- So Priscilla and Aquila took him and taught him
+			- Priscilla being listed first is significant - she most likely took the lead. It is VERY unusual to have a woman named before a man at that time. She is listed first, three times, the repetition is intentional and observable.
+			- Priscilla taught Apollos. You could say - yes but there was another man present - fine. If a man is teaching a woman, there should be another woman present as well. 
+			- You can also say, it wasn't public, it was private. That is factual and could mean something.
+			- Priscilla is counted as a faither CO-worker - συνεργός (synergos) - one who works together with another. The idea is shared labor toward the same goal, not subordination or assistance in a minor sense. Paul refers to Timothy, Epaphroditus, Philemon with the same word. The word specifically carries the idea of equal in the work. 
+	- Therefore, the statement of not a single woman mentioned was a teacher is not accurate as Priscilla was clearly a didaskalos (διδάσκαλος) /teacher, and she is specifically mentioned in the context of διδάσκω (didaskō or didasko)/teaching a male, and is considered an equal worker with all the men listed. 
+	- Statement: Priscilla and Aquila are not taking the role of elder, taking the office of what we call pastor, and teaching a congregation of men and women together. Priscilla and Aquila were missionaries included by Paul. They were not teachers over men.
+		- This is making a big assumption. We have an example of Priscilla and Aquila teaching a male. 
+		- Why do some call them missionaries? Again, there isn't a Greek word for Missionary. They were co-workers with Paul. They could have been called Apostles or Evangelist. We'll cover Apostle later. 
+		- And there is nothing in our Bibles which would look like modern day pastors. The word commonly translated as Pastor in our English translation is the word for Shepherd - one who feeds, guards, leads, and cares for a flock. Most "Pastors" today do not do all those. However, Priscilla and Aquila had a congregation which met in their house.
+	- How/Why do we discount Priscilla being a teacher? Is it specifically because it was in a private setting? Because she taught a male with her husband beside her? Those may be good reasons. We will take a look at teaching again.
+- THREAD #3 OF 7 Statement: "Now what does the entire New Testament say about the qualifications of elders 
+	- Why only The Second Writings/NT? And quite frankly, why only what Paul taught? Paul said, "All Scripture is inspired by God and useful for teaching, for reproof, for restoration, and for training in righteousness, so that the person belonging to God may be capable, fully equipped for every good deed."
+		- Scripture - the only "Scripture" at the time of any of the Second Writings/NT was found in The Scriptures/OT. The Second Writings are made up of letters and historical accounts. Back then, some of it would be viewed in the same way we view commentaries. It's reasoning out a path forward in the context of the risen Messiah. It is proving out how to confirm Yeshua of Nazareth IS THE Messiah. 
+		- Elder (presbyteros (πρεσβύτερος) found in 1 Timothy 5 traces back to the Hebrew zaqen (זָקֵן). It referred to the official leaders of Israel and to elders who governed, judged, and shepherded the people. 
+			- Elders were always understood to be older, seasoned men, with experience and standing. 
+			- They were typically:
+				- Heads of households (Exod 12:21)
+				- Clan or tribal leaders (Num 1:16)
+				- Men with established reputation and authority (Deut 19:12; Ruth 4:2)
+			- They would have:
+				- Governed (Deut 21:2)
+				- Judged disputes (Deut 22:15)
+				- Represented the people (Exod 24:1, 9)
+				- Sat in the gate (Ruth 4:2)
+		- Elder (episkopos (ἐπίσκοπος)) in the context of 1 Timothy 3 - has no direct equivalent in The Scriptures/OT. But we might default to thinking of a shepherd. 
+		- Elders from 1 Timothy 5 and Overseers from 1 Timothy 3 are overlapping which tends be closest in concept to a shofet (שֹׁפֵט)/judge in The Scriptures/OT. 
+			- A Shofet/Judge:
+				- Governed Israel
+				- Delivered and protected the people
+				- Exercised authority
+				- They oversaw the people, not just in courts, they provided oversight, leadership, moral accountability, and they cared for the people. 
+			- Top three most well known judges: Samson (most don't know he was a judge), Gideon (again many don't realize he was a judge) and hold on to your britches here -- Deborah. What were her functions:
+				- Wife of Lappidoth (Judges 4)
+				- Prophetess (Exod 15:20; 2 Kings 22:14) - we'll talk more about Prophetesses later. - The people of Israel (which included the males) came to her for divine instructions and warnings.
+				- Judge (Judges 4) - The people of Israel (which included the males), came up to her for judgment.
+					- She held public judicial authority (Judges 4) meaning she conducted these functions in the public arena. 
+				- Messenger of YHWH's Military Commands (Judges 4)
+				- Worship Leader (Judges 5)
+- THREAD #4 OF 7 Statement: Notice, Paul does not say, just in this church or at this time, he says, “all the churches” because it is not a woman’s authority to teach over a man. The word Paul uses is “lawful.”
+	- First let us make note there is no such thing as a "church" in the Second Writings, they are all assemblies. 
+	- Second, we could maybe say, PAUL doesn't give woman an authority to teach over a man. But clearly YHWH does. 
+		- Because of the inconsistently, we would be lead to the conclusion there is a reason he is saying this at this time and place. Interestingly enough - the whole chapter is about order. Imagine that? Let everything be done decently and in order.
+		- We also have to look at this logically. If we have a class of 15 years old, and a 10 year old comes in - wouldn't it be better for the 10 year old to remain quiet? Most of these women didn't know how to read, some hadn't even been given access to The Scriptures before this. And it seems like maybe there were some asking questions so Paul says, listen, let's ask those questions at home so we don't disrupt the assembly? Do you think that is possible? Or do you want to try to explain away the inconsistency between what Yah says and Paul says?
+	- Third, lawful? That word isn't there, the word is Torah - which means teaching not law. He says, as the Torah says. We also have to understand "law" wasn't always in reference to the Law of God, there was the Laws of the various sects of Judaism as well. Let's look at this:
+		- No verse in the Torah explicitly commands women to be silent in assemblies. None. If you find it, share it please.
+			- HOWEVER, there was such "laws" in Second Temple Judaism. 
+		- Paul also says that anyone male or female who "speaks in a tongue" should be silent if there is no interpreter - that rule is tossed aside all the time in churchianity now isn't it?
+		- Paul also says, back in 11 that a woman praying and PROPHESYING ... If she is being silent how would anyone know she was praying or prophesying? And why would she prophesy only to herself? Make this make sense?
+- THREAD #5 OF 7 Statement: Teaching and exercising authority is given to the man only because that’s our God given responsibility, that’s what we were created to do.
+	- Please provide Scripture which states males were created by God to be responsible to teach? And males were created by God to be responsible to exercise authority?
+		- Gen 2 states why man's purpose: took the man and gave him rest in the Garden of Eden in order to cultivate and watch over it.
+		- Then God said It is not good for the man to be alone. Let Me make a well-matched Ezer/helper for him.  Ever study that word?
+	- God told Levites (Lev 10:11; Deut 33:10); Priests (Deut 31:12–13); Kings (Deut 17:18–19, indirectly); and Prophets (Jer 18:18, etc.) to teach his ways. Does that mean men who are not those shouldn't? Let's not forget there were women Prophets. Yes, you can say they couldn't "teach" males but you won't find Yah saying that. 
+- THREAD #6 OF 7 Statement: "Now what does the entire New Testament say about the qualifications of teachers? "
+	- Again, why only The Second Writings/NT? And quite frankly, why only what Paul taught? Paul said, "All Scripture is inspired by God and useful for teaching, for reproof, for restoration, and for training in righteousness, so that the person belonging to God may be capable, fully equipped for every good deed."		- 
+		- Teacher (moreh (מֹרֶה) means "teacher/instructor") - someone who teaches people ABOUT God. Prophets speak FOR God. A prophet may act as a teacher, but a teacher is never called a prophet unless God directly commissions them.
+		- Huldah - a female prophet who functioned in the role of teacher (2 Kings 22). She interpreted the written Torah, explained the meaning, and taught about the consequences. Who did she teach? Hilkiah, Ahikam, Achobr, Shaphan and Asaiah - all males. 
+		- Your quote:  "There are no Scriptures that state that women functioned as apostles" 
+			- Junia (Romans 16) was listed by Paul as an apostle. Apostle apostolos (ἀπόστολος) — one sent, messenger, delegate, emmissary. How can one be a messenger and not speak or teach? 
+				- There isn't any distinction made in regard to her. With the way Paul writes, surely he would have stated, Junia, apostle to the women, or something like that. 
+				- Jesus sent out apostles "to preach" (Mark 3) and "give testimony" (Acts 4) Using biblical text, can you show where this was all done in private?
+- THREAD #7 OF 7 Statement: "In the qualifications of overseers that Paul writes in 1 Timothy 3, in a time when women were accepted in the commonplace of the early church, Paul only says “he and his.” “The husband of one wife, managing his household well.” Not the wife of one husband managing her household well. You can’t just add or edit it in a way you want it to sound."
+	- Let's follow your reasoning here. In vs 12 - Paul states a deaon must be "faithful to his wife", "his children" and "his household." Thus by your reasoning, ONLY a "his" could be a decon. 
+	- Deacon diakonos (διάκονος) - servant, minister, one who serves or attends to the needs of others. 
+	- Romans 16:1 - Paul commends Phoebe - a DECON - there is no such word as DECONESS - there is one word - gender neutral in Greek. How in the world can she be a Deacon if she has a "her husband," "her" children," and "her household" instead of a "his"? YOU can't just edit in a way you want it to sound. 

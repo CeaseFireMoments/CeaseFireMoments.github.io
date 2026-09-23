@@ -29,11 +29,15 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Gate of Correction/The Scroll of Jonah\|The Scroll of Jonah]]                                                                                                       |
-| [[Gate of Wisdom/J/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]                                                                                           |
-| [[Gate of Wisdom/E/The Exodus and Jonah\|The Exodus and Jonah]]                                                                                                       |
-| [[Gate of Wisdom/D/Jonah and The Disciples\|Jonah and The Disciples]]                                                                                                 |
-| [[Gate of Wisdom/F/Christianity and the Feast Of Trumpets\|Christianity and the Feast Of Trumpets]]                                                                   |
+| [[Gate of Discernment/Study Sheets\|Study Sheets]]                                                                                                                    |
+| [[Gate of Correction/Summary of Tongues\|Summary of Tongues]]                                                                                                         |
+| [[Gate of Wisdom/F/Holy Spirit - Filling\|Holy Spirit - Filling]]                                                                                                     |
+| [[Gate of Correction/Christianity and the Feast Of Trumpets\|Christianity and the Feast Of Trumpets]]                                                                 |
+| [[Gate of Correction/Jonah and The Disciples\|Jonah and The Disciples]]                                                                                               |
+| [[Gate of Wisdom/Appointed Time/Feast of Trumpets Survey\|Feast of Trumpets Survey]]                                                                                  |
+| [[Gate of Discernment/The Scroll of Jonah\|The Scroll of Jonah]]                                                                                                      |
+| [[Gate of Discernment/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]                                                                                        |
+| [[Gate of Discernment/The Exodus and Jonah\|The Exodus and Jonah]]                                                                                                    |
 | [[Gate of Wisdom/C/Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)\|Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)]] |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]]                                                                                                   |
 | [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]                                                                                                         |
@@ -41,54 +45,56 @@ Buy the truth, and don’t sell it.
 | [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]                                                                                                       |
 | [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]                                                                                                                   |
 | [[Gate of Wisdom/Sources/Torah Class\|Torah Class]]                                                                                                                   |
-| [[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]                                                                                                           |
 | [[Gate of Wisdom/T/tongues\|tongues]]                                                                                                                                 |
 | [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]                                                                                                                 |
 | [[Gate of Wisdom/H/Holy Spirit Receive\|Holy Spirit Receive]]                                                                                                         |
 | [[Gate of Wisdom/H/Holy Spirit -  Speak\|Holy Spirit -  Speak]]                                                                                                       |
-| [[Gate of Wisdom/H/Holy Spirit - Pray\|Holy Spirit - Pray]]                                                                                                           |
-| [[Gate of Wisdom/F/Holy Spirit - Filling\|Holy Spirit - Filling]]                                                                                                     |
-| [[Gate of Wisdom/H/Holy Spirit Upon\|Holy Spirit Upon]]                                                                                                               |
 
 { .block-language-dataview}
 
 
 # Folder Content Descriptions:
 ---
-
-## The [[Gate of Discernment/_Gate of Discernment\|_Gate of Discernment]]
-
-**Understanding/Discernment** — binah (בִּינָה) / Greek (LXX): synesis (σύνεσις)
-- discernment, the capacity to distinguish between things and perceive their inner meaning or relationship to one another
-- comprehension, discernment
-
-The Truth Unsold Moments are meant to be a time of learning about new concepts or ideas which may not be previously known. Its a time to take time to listen, not to agree, but to understand.
-
 ## The [[Gate of Correction/_Gate of Correction\|_Gate of Correction]]
 
 **Discipline/Correction** — musar (מוּסָר) / Greek (LXX): paideia (παιδεία)
 - correction, chastening, instruction that shapes character through discipline, often through consequence.
 - training, instruction, discipline of a child 
 
-In Hebrew - Yada means "to know." These Truth Unsold Moments are for deep exploration of the subject at hand. Gathering information. Pausing to consider what is discovered. It may mean dumping something you've been holding onto for a long time. It's a time to be open to learning.
+These Truth Unsold Moments are for deep exploration of the subject at hand. Gathering information. Pausing to consider what is discovered. It may mean dumping something you've been holding onto for a long time. It might mean you've taken it out of context in the past. It's a time to be open to learning.
+
+When your actions, habits, or environment feel chaotic, these provide the daily alignment needed to actually walk the path. Its a refining fire to bring balance to your life.
+## The [[Gate of Discernment/_Gate of Discernment\|_Gate of Discernment]]
+
+**Understanding/Discernment** — binah (בִּינָה) / Greek (LXX): synesis (σύνεσις)
+- discernment, the capacity to distinguish between things and perceive their inner meaning or relationship to one another
+- comprehension, discernment
+
+In Hebrew - Yada means "to know." These Truth Unsold Moments are meant to be a time of learning about new concepts or ideas which may not be previously known. Its a time to take time to listen, to seek to understand.
+
+These Unsold Truths brings order to our chaos by turning noise into a clear understanding. Take that raw spark, holds it, and develop it into a complete, usable framework.
 
 ## The [[Gate of Foundation/_The Gate of Foundation\|_The Gate of Foundation]]
-
-**Truth** — emet (אֱמֶת) / Greek (LXX): aletheia (ἀλήθεια)
-- firmness, faithfulness, reliability; that which is stable and trustworthy enough to stand on. Rooted in the same root as "amen," carrying the sense of something confirmed and unshakeable — not merely factual accuracy but covenantal dependability.
-- that which is unhidden or unconcealed,
-
-In these Truth Unsold Moments facts will be gathered and presented. How they are utilized and interpreted will be up to each individual. Verify and check out the resources as well as the information. Comparing references. But keep in mind, it's a time to seek common ground. 
-
-[[Gate of Foundation/Scripture Surveys\|Scripture Surveys]]
-
-## [[Gate of Wisdom/_Gate of Wisdom\|_Gate of Wisdom]]
 
 **Wisdom** — chokmah (חָכְמָה) / Greek (LXX): sophia (σοφία)
 - application of knowledge to life, the ability to navigate reality according to how it was made to function.
 - wisdom, skill
 
+In these Truth Unsold Moments facts will be gathered and presented. How they are utilized and interpreted will be up to each individual. Verify and check out the resources as well as the information. Comparing references. But keep in mind, it's a time to seek common ground. 
+
+Like a sudden flash of lightning in a pitch-black, tangled room these provide the instant, overarching vision or breakthrough idea that completely alters how you see the entire situation.
+
+[[Gate of Correction/Scripture Surveys\|Scripture Surveys]]
+
+## [[Gate of Wisdom/_Gate of Wisdom\|_Gate of Wisdom]]
+
+**Truth** — emet (אֱמֶת) / Greek (LXX): aletheia (ἀλήθεια)
+- firmness, faithfulness, reliability; that which is stable and trustworthy enough to stand on. Rooted in the same root as "amen," carrying the sense of something confirmed and unshakeable — not merely factual accuracy but covenantal dependability.
+- that which is unhidden or unconcealed,
+
 Behind the Gate of Wisdom you'll find general information about various topics. Think Wiki pages.  A variety of Source and Resource listings. Definitions, background information, indexes, etc. 
+
+These cut through the illusion, denial, and confusion entirely. They reveal reality exactly as it is, providing a solid foundation upon which you can actually rebuild. It is a lasting flame which is enduring, permanent, and fundamentally real.
 
 ## [[Potluck/_Potluck\|_Potluck]]
 

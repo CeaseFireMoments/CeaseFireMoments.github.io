@@ -21,6 +21,6 @@
 
 | file.inlinks                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah-02 H.md\\|Jonah-02 H]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li></ul> |
+| <ul><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah-02 H.md\\|Jonah-02 H]]</li></ul> |
 
 { .block-language-dataview}

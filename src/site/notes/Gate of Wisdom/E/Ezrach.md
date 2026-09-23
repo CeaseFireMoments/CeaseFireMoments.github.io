@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/e/ezrach/","tags":["#GateWisdom","E"],"dg-note-properties":{"tags":["#GateWisdom","E"],"Bible-References":null}}
 ---
 
-See [[Gate of Wisdom/Beings/Native-born\|Native-born]]
+See [[Gate of Wisdom/Beings/Human Beings/Native-born\|Native-born]]
 
 
 # Connections

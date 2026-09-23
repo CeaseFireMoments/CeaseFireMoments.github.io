@@ -13,9 +13,9 @@ From [G4314](https://www.blueletterbible.org/lexicon/g4314/kjv/tr/0-1/) and [G21
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/P/Prayer.md\\|Prayer]]</li><li>[[Gate of Wisdom/J/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Gate of Wisdom/J/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Gate of Wisdom/T/Tefillos.md\\|Tefillos]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/P/Prayer.md\\|Prayer]]</li><li>[[Gate of Correction/Matthew 6 vs05-8 Jesus on Prayer.md\\|Matthew 6 vs05-8 Jesus on Prayer]]</li><li>[[Gate of Correction/Matthew 6 Jesus and Prayer.md\\|Matthew 6 Jesus and Prayer]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -94,7 +94,7 @@ John 11 - I said this for the benefit of the people standing her that they may b
 
 
 # Connections
-- [[Gate of Wisdom/J/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
-- [[Gate of Wisdom/J/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
+- [[Gate of Correction/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
+- [[Gate of Correction/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
 - [[Gate of Wisdom/P/Prayer\|Prayer]]
 - [[Gate of Wisdom/T/Tefillos\|Tefillos]]

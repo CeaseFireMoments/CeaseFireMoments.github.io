@@ -30,8 +30,8 @@ Isaac came from the way of Beer Lahai Roi, for he lived in the land of the South
 - [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] lived here
 
 
-| file.inlinks                                                              |
-| ------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/G/01 Gen-25 Yada.md\\|01 Gen-25 Yada]]</li></ul> |
+| file.inlinks                                                                 |
+| ---------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Discernment/01 Gen-25 Yada.md\\|01 Gen-25 Yada]]</li></ul> |
 
 { .block-language-dataview}

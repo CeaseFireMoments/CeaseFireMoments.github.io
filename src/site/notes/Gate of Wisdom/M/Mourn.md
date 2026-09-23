@@ -46,9 +46,9 @@ Same word most often translated to beg or begging in Matthew, not mourn.
 
 # Connections
 - 
-| file.inlinks                                                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/M/40 Matt-05 Yada.md\\|40 Matt-05 Yada]]</li></ul> |
+| file.inlinks                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Discernment/40 Matt-05 Yada.md\\|40 Matt-05 Yada]]</li></ul> |
 
 { .block-language-dataview}
 
