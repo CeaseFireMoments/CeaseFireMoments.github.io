@@ -1,0 +1,63 @@
+---
+{"dg-publish":true,"permalink":"/gate-of-foundation/the-seventh-day-rest/12-the-seventh-day-rest-carries-a-penalty-of-death-04-num-15/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"dg-note-properties":{"tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"],"Bible-References":["[[Num-15]]","[[Exod-31]]"]}}
+---
+
+
+The Seventh-Day rest—a call to cease—remains one of the Bible’s most disputed and divisive themes. In a world—and a assembly of believers —accustomed to constant striving, the seventh day still asks a disruptive question: What does it mean to stop because YHWH/God said to?
+
+The Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] or Shabbat), sits at the crossroads of devotion, doctrine, and dispute. For some, it is a creation-rooted rhythm meant for all humanity; for others, a covenant sign given uniquely to Israel; for many Christians, a shadow fulfilled and set aside in Christ. Pastors, theologians, rabbis, historians, and everyday believers often speak past one another, each convinced the matter is settled—yet rarely at peace about it.
+
+This series approaches the Seventh Day Rest as a ceasefire moment: a pause not only from labor, but from inherited assumptions and theological hostilities. Rather than beginning with denominational conclusions, we begin where Scripture begins—listening carefully from Genesis to Revelation. The aim is not to win an argument, but to quiet the noise long enough to let the biblical text speak for itself, and to see whether the call to rest has always been less about identity markers and more about trusting YHWH’s word, submitting to His authority, remembering His works, and entering the rest He Himself sanctified..
+# Scripture: [Numbers 15](https://www.biblegateway.com/passage/?search=Numbers%2015&version=WEB;TLV;OJB):32-36 
+
+32 <mark style="background: #D2B3FFA6;">While</mark> the <mark style="background: #B2A23AA6;">children of Israel</mark> were <mark style="background: #4DA6EDA6;">in the wilderness</mark>, <mark style="background: #B2A23AA6;">they</mark> found <mark style="background: #E0CC4BA6;">a man</mark> <mark style="background: #04CD3EA6;">gathering sticks</mark> <mark style="background: #D2B3FFA6;">on the Sabbath day</mark>. 33 <mark style="background: #B2A23AA6;">Those who found him</mark> <mark style="background: #04CD3EA6;">gathering sticks</mark> <mark style="background: #04CD3EA6;">brought him</mark> to <mark style="background: #A4A089A6;">Moses and Aaron</mark>, and to <mark style="background: #B2A23AA6;">all the congregation</mark>. 34 <mark style="background: #B2A23AA6;">They</mark> put <mark style="background: #E0CC4BA6;">him</mark> <mark style="background: #4DA6EDA6;">in custody</mark>, <mark style="background: #EB9E57A6;">because it had not been declared what should be done</mark> to him.
+
+35 <mark style="background: #A4A089A6;">Yahweh</mark> said to <mark style="background: #E0CC4BA6;">Moses</mark>, “<mark style="background: #E0CC4BA6;">The man</mark> <mark style="background: #04CD3EA6;">shall surely be put to death</mark>. <mark style="background: #B2A23AA6;">All the congregation</mark> shall <mark style="background: #04CD3EA6;">stone him with stones</mark> <mark style="background: #4DA6EDA6;">outside of the camp</mark>.” 36 <mark style="background: #B2A23AA6;">All the congregation</mark> <mark style="background: #04CD3EA6;">brought him</mark> <mark style="background: #4DA6EDA6;">outside of the camp</mark>, and <mark style="background: #04CD3EA6;">stoned him to death with stones</mark>, as <mark style="background: #A4A089A6;">Yahweh</mark> commanded <mark style="background: #A4A089A6;">Moses</mark>.
+
+## **Define**: 
+- 
+## **Who**:
+- Some of the children (congregation) of Israel found a man.
+- A man gathering sticks
+- [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]
+- [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]]
+- [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]: Congregation ēḏāh (עֵדָה); Church ekklesia (ἐκκλησία)
+- [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]: All the people, both Hebrew and foreigners, who came out of Egypt.
+
+## **What**: 
+- Kept him in custody because it had not been declared what should be done with him
+- Gathering sticks on the Sabbath
+	- work is not permitted on the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
+- Death with Stones
+	- the penalty of working on the Sabbath is death.
+## **When**:
+- While in the wilderness
+- On a Sabbath day - Rest Day.
+
+## **Why**: 
+- Exodus 31:15 
+	- 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v15 
+Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, holy to Yahweh. Whoever does any work on the Sabbath day shall surely be put to death. 
+
+
+</div></div>
+
+
+# Findings
+
+## The Sabbath is not for a "Christian":
+- Christians do not exist yet.
+## It is a Jewish thing: 
+-  Jews do not exist yet.
+## Jesus replaced the Sabbath:
+- Not yet.
+
+## Other Notes:
+- There are only a few transgressions which carry a death penalty. [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
+
+# [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

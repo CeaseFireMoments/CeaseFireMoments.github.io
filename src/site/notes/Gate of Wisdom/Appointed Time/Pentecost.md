@@ -70,4 +70,4 @@ The connection is implicit: just as Shavuot celebrated the covenant through the 
 
 # Connections
 
-[[Sacred Truces/What is the New Covenant\|What is the New Covenant]]
+[[Gate of Wisdom/N/What is the New Covenant\|What is the New Covenant]]

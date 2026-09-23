@@ -24,5 +24,5 @@
 - Genesis 11:1-9 — Babel, where one lashon (tongue) was confused into many; Some see Acts 2 as a reversal picture, where many tongues are now understood as one message. This is a debated topic.
 - Acts 10:46, Acts 19:6 — later occurrences of speaking in tongues (glōssais) among Gentile and Ephesian believers
 - 1 Corinthians 12:10, 1 Corinthians 12:28, 1 Corinthians 14:1-40 — Paul's extended teaching on glōssai as a spiritual gift, including interpretation
-- [[Yada Yada Pauses/Speaking in Tongues\|Speaking in Tongues]]
+- [[Assets/Clippings/Speaking in Tongues\|Speaking in Tongues]]
 - [[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]

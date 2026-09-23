@@ -20,8 +20,8 @@ The region of Aram Naharaim was home to West Semitic tribes, including the Arame
 
 # Connections
 
-| file.inlinks                                                                                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-24 Yada Yada.md\\|01 Gen-24 Yada Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24.md\\|Gen-24]]</li></ul> |
+| file.inlinks                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/G/01 Gen-24 Yada.md\\|01 Gen-24 Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24.md\\|Gen-24]]</li></ul> |
 
 { .block-language-dataview}

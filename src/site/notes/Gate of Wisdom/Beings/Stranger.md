@@ -22,7 +22,7 @@
 - Septuagint: ...τῷ πτωχῷ καὶ τῷ προσηλύτῳ... (to ptocho kai to proseluto)
 
 # Personal Notes
-[[Sacred Truces/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
+[[Gate of Discernment/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
 - In English this appears as “”as one of you”, “as the native among you” or just “stranger” who then qualifies for full rights. See passages such as Exodus 12:48. This usually appears as proselyte, stranger, sojourner, and foreigner in the New Testament. See Mathew 23:15, Acts 2:10, 6:5, 13:43.
 - These people lived fully AMONG the Israelites. Originally they were a part of the “mixed multitude” that came out of Egypt. They have full rights, nearly identical to native-born citizens. They fully participated in the feasts and tithes. They could for the most part own property and as poor, they were treated similar to an Israelite as far as support. (Lev 19, Exod 12, 20, Deut 14)
 - These people received the same benefits, privileges, love and status as a native born Israelite. They are under the exact same law as the Israelite. All the other status have exceptions and restricted from participation in some feasts and rituals. (Exod 12, Lev 24, Num 15)

@@ -15,8 +15,8 @@
 - [[Gate of Wisdom/Numbers/10\|10]]
 - [[Gate of Wisdom/Numbers/40\|40]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]
-- [[Sacred Truces/Happy New Year! In April\|Happy New Year! In April]]
-- [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]
+- [[Gate of Wisdom/N/Happy New Year! In April\|Happy New Year! In April]]
+- [[Gate of Wisdom/E/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]
 - [[Gate of Wisdom/N/Name\|Name]]
 - [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]
@@ -30,8 +30,8 @@
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]]
 - [[Gate of Wisdom/Covenant/Noahic\|Noahic]]
 - [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]
-- [[Sacred Truces/Old, New, and Renewed\|Old, New, and Renewed]]
+- [[Gate of Wisdom/N/Old, New, and Renewed\|Old, New, and Renewed]]
 - [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]
-- [[Sacred Truces/What is the New Covenant\|What is the New Covenant]]
+- [[Gate of Wisdom/N/What is the New Covenant\|What is the New Covenant]]
 
 { .block-language-dataview}

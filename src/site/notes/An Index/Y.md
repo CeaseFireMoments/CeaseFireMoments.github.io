@@ -4,9 +4,9 @@
 
 
 - [[Gate of Wisdom/Beings/Heavenly Beings/Angel of Yahweh\|Angel of Yahweh]]
-- [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
-- [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
-- [[Sacred Truces/Scripture Survey – YHWH Said\|Scripture Survey – YHWH Said]]
+- [[Gate of Wisdom/D/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
+- [[Gate of Wisdom/J/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
+- [[Gate of Wisdom/S/Scripture Survey – YHWH Said\|Scripture Survey – YHWH Said]]
 - [[Gate of Wisdom/Beings/Yahweh of Armies\|Yahweh of Armies]]
 - [[Gate of Wisdom/Y/Yehoshua\|Yehoshua]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]

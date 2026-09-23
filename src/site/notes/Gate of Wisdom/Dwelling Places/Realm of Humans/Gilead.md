@@ -35,8 +35,8 @@
 
 # Connections
 
-| file.inlinks                                                                        |
-| ----------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-31 Yada Yada.md\\|01 Gen-31 Yada Yada]]</li></ul> |
+| file.inlinks                                                              |
+| ------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/G/01 Gen-31 Yada.md\\|01 Gen-31 Yada]]</li></ul> |
 
 { .block-language-dataview}

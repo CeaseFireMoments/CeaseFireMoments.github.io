@@ -6,13 +6,13 @@
 - [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
 
 # Connections
-- [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
+- [[Gate of Wisdom/D/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 
 
 - 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke).md\\|42 The Seventh Day is for Healing (42 Luke)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35).md\\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]</li><li>[[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31).md\\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Gate of Foundation/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke).md\\|42 The Seventh Day is for Healing (42 Luke)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35).md\\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31).md\\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]</li></ul> |
 
 { .block-language-dataview}
 

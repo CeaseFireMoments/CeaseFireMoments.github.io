@@ -20,7 +20,7 @@
 - [[Gate of Wisdom/Beings/Heavenly Beings/Angel of the Lord\|Angel of the Lord]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Angel of Yahweh\|Angel of Yahweh]]
 - [[Gate of Wisdom/Beings/Antichrist\|Antichrist]]
-- [[Olive Branch Reconciliations/Antifa and the 1940 US Army\|Antifa and the 1940 US Army]]
+- [[Gate of Wisdom/A/Antifa and the 1940 US Army\|Antifa and the 1940 US Army]]
 - [[Gate of Wisdom/A/Anxious\|Anxious]]
 - [[Gate of Wisdom/Beings/Human Beings/apostle\|apostle]]
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
@@ -33,10 +33,10 @@
 - [[Gate of Wisdom/A/Avad\|Avad]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]
 - [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
-- [[Sacred Truces/Day of Atonement for Christians\|Day of Atonement for Christians]]
+- [[Gate of Wisdom/A/Day of Atonement for Christians\|Day of Atonement for Christians]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]
-- [[Sacred Truces/Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger\|Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger]]
-- [[Sacred Truces/Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire\|Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire]]
+- [[Gate of Wisdom/A/Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger\|Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger]]
+- [[Gate of Wisdom/A/Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire\|Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire]]
 - [[Gate of Wisdom/Beings/Yahweh of Armies\|Yahweh of Armies]]
 
 { .block-language-dataview}

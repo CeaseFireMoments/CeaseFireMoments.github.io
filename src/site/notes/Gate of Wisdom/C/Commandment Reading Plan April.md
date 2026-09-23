@@ -271,25 +271,25 @@ Do
 
 **April 17**: [Exodus 23:12](https://www.biblegateway.com/passage/?search=Exodus%2023%3A12&version=WEB;NET;OJB) – “Six days do your work, but on the seventh day do not work...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  #LoveNeighbor #LoveGod #DoNot #Dos #OrdinanceMishmerot 
 
-- See [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
-- See [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
+- See [[Gate of Foundation/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
+- See [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
 
 
 **April 18**: [Leviticus 23:3](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A3&version=WEB;NET;OJB) – “There are six days when you may work, but the seventh day is a day of sabbath rest...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / ordinance (Sabbath)  #LoveGod #Dos #DoNot 
 
-- See [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
-- See [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
+- See [[Gate of Foundation/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
+- See [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
 
 **April 19**: [Exodus 12:14-20 / Leviticus 23:5-8](https://www.biblegateway.com/passage/?search=Exodus%2012%3A14-20%2C%20Leviticus%2023%3A5-8&version=WEB;NET;OJB) – Observe Passover / eat matzah / rest on holy days (non-sacrifice aspects only). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
 - See [[Gate of Wisdom/Appointed Time/Passover\|Passover]]
-- See [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
-- See [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
+- See [[Gate of Foundation/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
+- See [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
 
 **April 20**: [Leviticus 23:15-16, 21](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A15-16%2C%2021&version=WEB;NET;OJB) – Count the Omer / rest on Shavuot. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** #LoveGod #Dos #DoNot #StatuesChuqim 
 
 - See [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
-- See [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
-- See [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
+- See [[Gate of Foundation/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
+- See [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
 
 **April 21**: [Leviticus 23:24-25](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A24-25&version=WEB;NET;OJB) – Rest on Rosh Hashanah. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
 - See [[Gate of Wisdom/Appointed Time/Feast of Trumpets\|Feast of Trumpets]]

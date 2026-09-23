@@ -4,9 +4,11 @@
 
 Check out the Index Pages for quicker navigation.
 
-Behind the Gate of Wisdom you'll find general information about various topics. Think Wiki pages.  A variety of Source and Resource listings. Definitions, background information, indexes, etc. 
+**Wisdom** — chokmah (חָכְמָה) / Greek (LXX): sophia (σοφία)
+- application of knowledge to life, the ability to navigate reality according to how it was made to function.
+- wisdom, skill
 
-![Asset Gate of Wisdom.png](/img/user/_Assets/attachments/Asset%20Gate%20of%20Wisdom.png)
+Behind the Gate of Wisdom you'll find general information about various topics. Think Wiki pages.  A variety of Source and Resource listings. Definitions, background information, indexes, etc. 
 
 | Table of Content                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -296,7 +298,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Son of Man\|Son of Man]]                                                                |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Sons of God\|Sons of God]]                                                              |
 | [[Gate of Wisdom/S/Soul\|Soul]]                                                                                                 |
-| [[Yada Yada Pauses/Speaking in Tongues\|Speaking in Tongues]]                                                                   |
+| [[Assets/Clippings/Speaking in Tongues\|Speaking in Tongues]]                                                                   |
 | [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]                                                                           |
 | [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]                                                          |
 | [[Gate of Wisdom/Beings/Stranger\|Stranger]]                                                                                    |

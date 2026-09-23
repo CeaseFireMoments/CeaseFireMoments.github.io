@@ -24,9 +24,9 @@
 - Matthew 6:13 (“lead us not into peirasmos”) → 
 
 - 
-| file.inlinks                                                                            |
-| --------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li></ul> |
+| file.inlinks                                                                    |
+| ------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Correction/59 James-01 Yada.md\\|59 James-01 Yada]]</li></ul> |
 
 { .block-language-dataview}
 

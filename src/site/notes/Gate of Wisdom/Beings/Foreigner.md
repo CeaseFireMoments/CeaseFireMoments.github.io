@@ -30,7 +30,7 @@
 
 # Personal Notes
 
-[[Sacred Truces/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
+[[Gate of Discernment/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
 - Using the WEB version of the Bible, this would appear as foreigner. In the New testament the term stranger and foreigner. See Matthew 25:35, Ephesians 2:19, Hebrews 11:13.
 - The Foreigner was someone who lived OUTSIDE the Israelites camp. There “permanent resident” was in their own nations which were not in the immediate area of the Israelites. They could remain only temporarily and had very limited rights. Think of these people as those here on vacation or on a B1 or B2 visa. They were a temporary or non-resident alien.
 - These people were allowed to participate in a temporary manner such as going to the market and eat things the Israelites could not eat. The Israelites could lend to them with interest. Although Yah provides general blessings to all people, the foreigner was not entitled to the covenantal blessings. (Deut 14, 23)

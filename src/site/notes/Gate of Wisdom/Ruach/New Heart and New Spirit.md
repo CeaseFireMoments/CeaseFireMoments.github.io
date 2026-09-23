@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/new-heart-and-new-spirit/","tags":["#heart","#HolySpirt","#Ruach","#Ezekiel11","#Torah","#Law","SacredTruces","S","N","H"],"dg-note-properties":{"tags":["#heart","#HolySpirt","#Ruach","#Ezekiel11","#Torah","#Law","SacredTruces","S","N","H"]}}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/new-heart-and-new-spirit/","tags":["#heart","#HolySpirt","#Ruach","#Ezekiel11","#Torah","#Law","S","N","H","GateDiscernment"],"dg-note-properties":{"tags":["#heart","#HolySpirt","#Ruach","#Ezekiel11","#Torah","#Law","S","N","H","GateDiscernment"]}}
 ---
 
 # Ezekiel 11

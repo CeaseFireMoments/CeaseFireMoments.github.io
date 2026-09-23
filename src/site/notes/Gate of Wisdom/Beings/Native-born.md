@@ -31,7 +31,7 @@
 
 # Personal Notes
 
-[[Sacred Truces/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
+[[Gate of Discernment/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
 - In English this appears as “native-born”, “homeborn,” and “native of the land”. Someone born into the people of Israel.
 - There were two ways to be deemed native-born:
 	- Through the father’s line. So if the father was descendant from Jacob/Israel, he was a native born.
@@ -40,8 +40,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Sacred Truces/Foreigner, Sojourner, Stranger Among You.md\\|Foreigner, Sojourner, Stranger Among You]]</li><li>[[Gate of Wisdom/E/Ezrach.md\\|Ezrach]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/Beings/Sojourner.md\\|Sojourner]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Gate of Wisdom/E/Ezrach.md\\|Ezrach]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Wisdom/Beings/Sojourner.md\\|Sojourner]]</li><li>[[Gate of Discernment/Foreigner, Sojourner, Stranger Among You.md\\|Foreigner, Sojourner, Stranger Among You]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li></ul> |
 
 { .block-language-dataview}

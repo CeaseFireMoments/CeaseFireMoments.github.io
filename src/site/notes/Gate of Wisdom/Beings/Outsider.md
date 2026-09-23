@@ -26,7 +26,7 @@
 
 ## Personal Notes
 
-[[Sacred Truces/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
+[[Gate of Discernment/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
 - In regard to the Tabernacle, the dwelling place of Yah, if an outsider or unauthorized person even approached or came near the border, they were put to death. (Numbers 1, 3, 18).
 - There aren’t verses about the Outsider or someone who is just passing through, even just through the outer edges of the camp. There were strict boundaries around the camp or city, and an unpermitted person would be stopped. Every single person had to have permission to enter the camp. If they did not have permission to be there, you were driven out.
 - Justice was not allowed to be perverted or altered just because of someone’s status of any kind. If someone broke a law, they weren’t given any special privilege because they were a passing through or a temporary resident. They also could not be treated unjustly. Yah is very clear when applying the law, there is to be no partiality to the poor or the great. (Isaiah 1, Deut 16, James 2). Even though the foreigner has no intention of staying in the community, while there, they were required to keep every law as if they were native-born. This meant, if they broke the law, they would face the same penalties which included being put out of the community, barred from return, and even death. (Exod 12; Lev 20, 24; Deut 17). Once inside the land, no one could openly defy Yah god’s law or treat set apart (holy) things as common.

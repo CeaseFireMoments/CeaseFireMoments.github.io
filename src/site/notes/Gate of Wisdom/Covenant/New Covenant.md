@@ -9,4 +9,4 @@
 
 
 # Connections
-- [[Sacred Truces/What is the New Covenant\|What is the New Covenant]]
+- [[Gate of Wisdom/N/What is the New Covenant\|What is the New Covenant]]

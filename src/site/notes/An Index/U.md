@@ -5,9 +5,9 @@
 
 - [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
 - [[Gate of Wisdom/H/Holy Spirit Upon\|Holy Spirit Upon]]
-- [[Sacred Truces/Passover and Unleavened Bread the UnEaster\|Passover and Unleavened Bread the UnEaster]]
+- [[Gate of Wisdom/E/Passover and Unleavened Bread the UnEaster\|Passover and Unleavened Bread the UnEaster]]
 - [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]
-- [[Sacred Truces/The Last Day of Unleavened Bread\|The Last Day of Unleavened Bread]]
+- [[Gate of Wisdom/Appointed Time/The Last Day of Unleavened Bread\|The Last Day of Unleavened Bread]]
 - [[Gate of Wisdom/Good News/Uncircumcised\|Uncircumcised]]
 - [[Gate of Wisdom/U/Unclean\|Unclean]]
 - [[Gate of Wisdom/C/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
