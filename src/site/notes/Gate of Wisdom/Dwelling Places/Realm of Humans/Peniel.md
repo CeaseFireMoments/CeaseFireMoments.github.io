@@ -22,8 +22,8 @@
 - 1 Kings 12:25
 
 
-| file.inlinks                                                                                                                                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/01 Gen-33 YadaYada.md\\|01 Gen-33 YadaYada]]</li><li>[[Yada Yada Pauses/01 Gen-32 Yada Yada.md\\|01 Gen-32 Yada Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33.md\\|Gen-33]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/G/01 Gen-32 Yada.md\\|01 Gen-32 Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33.md\\|Gen-33]]</li><li>[[Potluck/01 Gen-33 Yada.md\\|01 Gen-33 Yada]]</li></ul> |
 
 { .block-language-dataview}

@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/gate-of-wisdom/e/the-exodus-and-jonah/","tags":["E","J","GateDiscernment"],"dg-note-properties":{"tags":["E","J","GateDiscernment"],"Bible-References":null}}
+---
+
+# Exodus and Jonah — Side-by-Side Comparison
+
+| Element                                        | Exodus                                                                                                                          | Jonah                                                                                                                                               |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Commissioned figure                            | Moses                                                                                                                           | Jonah                                                                                                                                               |
+| Initial response to call                       | Resistance — "who am I, that I should go?" (Exodus 3:11); "I am not eloquent" (4:10)                                            | Resistance — flees "from the presence of Yahweh" (Jonah 1:3)                                                                                        |
+| Destination of resistance                      | Stays and argues with God directly                                                                                              | Physically flees by ship toward Tarshish                                                                                                            |
+| Sent to                                        | Pharaoh, a Gentile ruler, on behalf of Israel                                                                                   | Nineveh, a Gentile city, on behalf of no one — a direct warning to them                                                                             |
+| Central body of water                          | The Red Sea — parted for Israel to pass through, then closes on Egypt's army (Exodus 14:21-28)                                  | The Mediterranean Sea — stirred up against Jonah, calmed once he is cast in (Jonah 1:4, 15)                                                         |
+| Descent into water/danger                      | Egypt's army sinks "like a stone" into the depths (Exodus 15:5)                                                                 | Jonah sinks toward "the bottom of the mountains," describing himself in "the belly of Sheol" (Jonah 2:2, 6)                                         |
+| Divine deliverance vehicle                     | Waters held back by "a strong east wind" (Exodus 14:21)                                                                         | "Yahweh prepared a great fish" (Jonah 1:17)                                                                                                         |
+| Song/prayer of deliverance                     | The Song of the Sea (Exodus 15:1-18)                                                                                            | Jonah's prayer from the fish (Jonah 2:1-9)                                                                                                          |
+| Refrain in that song/prayer                    | "Yahweh is my strength and song. He has become my salvation (yeshuah)" (Exodus 15:2)                                            | "Salvation (yeshuah) belongs to Yahweh" (Jonah 2:9)                                                                                                 |
+| Gentile response to YHWH's power               | Pharaoh hardens his heart repeatedly; Egypt is judged (Exodus 7-14)                                                             | Nineveh believes and repents immediately (Jonah 3:5-9)                                                                                              |
+| Outcome for the Gentile nation                 | Destroyed (Pharaoh's army)                                                                                                      | Spared (Nineveh)                                                                                                                                    |
+| Time marker used                               | Ten plagues, escalating over time; forty years of subsequent wilderness wandering (Numbers 14:33-34)                            | "Yet forty days, and Nineveh will be overthrown" (Jonah 3:4)                                                                                        |
+| Israel's own complaint against YHWH's mercy    | Golden calf episode — Israel sins, Moses intercedes, YHWH relents from destroying them (Exodus 32:9-14)                         | Jonah complains that YHWH relented from destroying Nineveh (Jonah 4:1-2)                                                                            |
+| Character formula invoked                      | First given at Sinai after the golden calf: "merciful and gracious... slow to anger, abundant in loving kindness" (Exodus 34:6) | Quoted directly by Jonah as his reason for fleeing (Jonah 4:2)                                                                                      |
+| Resolution for the reluctant/complaining party | Moses's intercession is honored; Israel is spared (Exodus 32:14)                                                                | Left unresolved — YHWH's closing question to Jonah goes unanswered (Jonah 4:9-11)                                                                   |
+| Final outcome                                  | Ultimate collapse and deportation of the Northern Kingdom of Israel by the Assyrian Empire in 722 BC (2 Kings 17:6-23)          | Turned away from God roughly 150 years after Jonah, the prophet Nahum was sent to declare the absolute, irreversible destruction of Nineveh (Nahum) |
+
+## Connections
+
+- [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]
+- Exodus 14-15; 32:9-14; 34:6-7
+- [[Gate of Correction/The Scroll of Jonah\|The Scroll of Jonah]]
+
+# Personal Observations
+- Both narratives use a sea-crossing/sea-danger scene as the hinge between deliverance and a declaration of YHWH's salvation in nearly identical language (yeshuah).
+- Both pair a Gentile power's confrontation with YHWH against Israel's own struggle to accept His mercy toward the undeserving — Israel at the golden calf, Jonah at Nineveh's repentance.
+- Jonah directly quotes YHWH's description of himself given at Mt. Sinai.

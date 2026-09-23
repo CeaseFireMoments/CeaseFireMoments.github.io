@@ -13,7 +13,7 @@
 - Ahav (אָהַב) / agapao (ἀγαπάω) — "to love," the verb paired with rea/plesion in both the Hebrew and Greek forms of the command
 - Torah (תּוֹרָה) — the body of instruction from which Yeshua quotes this command directly
 - [[Gate of Wisdom/Beings/Foreigner\|Foreigner]]
-- [[Sacred Truces/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
+- [[Gate of Discernment/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
 - [[Gate of Wisdom/Beings/Sojourner\|Sojourner]]
 
 # Additional Information

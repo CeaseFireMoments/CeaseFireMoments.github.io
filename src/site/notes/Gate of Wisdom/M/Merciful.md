@@ -36,8 +36,8 @@ Hebrews 2
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/A/Alms.md\\|Alms]]</li><li>[[Gate of Wisdom/J/Rediscovering Jonah.md\\|Rediscovering Jonah]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/A/Alms.md\\|Alms]]</li><li>[[Gate of Wisdom/J/Rediscovering Jonah.md\\|Rediscovering Jonah]]</li><li>[[Gate of Wisdom/M/40 Matt-05 Yada.md\\|40 Matt-05 Yada]]</li></ul> |
 
 { .block-language-dataview}

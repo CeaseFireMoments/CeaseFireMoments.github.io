@@ -15,7 +15,7 @@ The [[Gate of Wisdom/L/Law\|Law]], [[Gate of Wisdom/T/Torah\|Torah]], is found i
 
 
 # Connections
-[[Gate of Foundation/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
+[[Gate of Wisdom/L/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
 [[Sacred Truces/The Law in Matthew 5\|Sacred Truces/The Law in Matthew 5]]
 
 

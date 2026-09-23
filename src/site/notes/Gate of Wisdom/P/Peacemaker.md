@@ -17,8 +17,8 @@ Only time this complete phrase is used in scripture - Matthew 5
 
 # Connections
 - 
-| file.inlinks                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+| file.inlinks                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Wisdom/M/40 Matt-05 Yada.md\\|40 Matt-05 Yada]]</li></ul> |
 
 { .block-language-dataview}

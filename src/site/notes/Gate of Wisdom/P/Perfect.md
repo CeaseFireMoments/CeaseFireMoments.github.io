@@ -23,9 +23,9 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li><li>[[Yada Yada Pauses/58 Heb-12 YadaYada.md\\|58 Heb-12 YadaYada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Correction/59 James-01 Yada.md\\|59 James-01 Yada]]</li><li>[[Gate of Wisdom/H/58 Heb-12 Yada.md\\|58 Heb-12 Yada]]</li></ul> |
 
 { .block-language-dataview}
 

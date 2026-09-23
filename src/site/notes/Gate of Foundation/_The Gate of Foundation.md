@@ -10,8 +10,8 @@ In these Truth Unsold Moments facts will be gathered and presented. How they are
 
 | Table of Content                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/L/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]                                                                                                                                                               |
 | [[Gate of Foundation/_The Gate of Foundation\|_The Gate of Foundation]]                                                                                                                                                             |
-| [[Gate of Foundation/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]                                                                                                                                                             |
 | [[Gate of Wisdom/A/Antifa and the 1940 US Army\|Antifa and the 1940 US Army]]                                                                                                                                                       |
 | [[Gate of Foundation/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]                                                            |
 | [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                                                                  |
@@ -66,7 +66,6 @@ In these Truth Unsold Moments facts will be gathered and presented. How they are
 | [[Gate of Foundation/The Seventh Day Rest/02 The Seventh Day Rest was for Them (02 Exod 16)\|02 The Seventh Day Rest was for Them (02 Exod 16)]]                                                                                    |
 | [[Gate of Foundation/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]                                                                                        |
 | [[Gate of Foundation/Scripture Surveys\|Scripture Surveys]]                                                                                                                                                                         |
-| [[Gate of Foundation/The Law in Matthew 5\|The Law in Matthew 5]]                                                                                                                                                                   |
 
 { .block-language-dataview}
 

@@ -16,8 +16,8 @@ Using only the bible as a reference. do not do a deep dive or give explanations 
 
 # Connections
 
-| file.inlinks                                                                        |
-| ----------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/23 Isa-01 Yada Yada.md\\|23 Isa-01 Yada Yada]]</li></ul> |
+| file.inlinks                                                              |
+| ------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/I/23 Isa-01 Yada.md\\|23 Isa-01 Yada]]</li></ul> |
 
 { .block-language-dataview}

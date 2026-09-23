@@ -32,9 +32,9 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/59 James-01 Yada Yada.md\\|59 James-01 Yada Yada]]</li><li>[[Gate of Wisdom/Right Standing/Unrighteous.md\\|Unrighteous]]</li></ul> |
+| file.inlinks                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>[[Gate of Wisdom/Right Standing/Unrighteous.md\\|Unrighteous]]</li><li>[[Gate of Correction/59 James-01 Yada.md\\|59 James-01 Yada]]</li></ul> |
 
 { .block-language-dataview}
 

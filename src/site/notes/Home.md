@@ -40,7 +40,7 @@ Buy the truth, and don’t sell it.
 | [[Gate of Wisdom/N/Neighbor\|Neighbor]]                                                                                                                               |
 | [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]                                                                                                       |
 | [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]                                                                                                                   |
-| [[Gate of Wisdom/Torah Class\|Torah Class]]                                                                                                                           |
+| [[Gate of Wisdom/Sources/Torah Class\|Torah Class]]                                                                                                                   |
 | [[Gate of Wisdom/S/Summary of Tongues\|Summary of Tongues]]                                                                                                           |
 | [[Gate of Wisdom/T/tongues\|tongues]]                                                                                                                                 |
 | [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]                                                                                                                 |
@@ -90,13 +90,9 @@ In these Truth Unsold Moments facts will be gathered and presented. How they are
 
 Behind the Gate of Wisdom you'll find general information about various topics. Think Wiki pages.  A variety of Source and Resource listings. Definitions, background information, indexes, etc. 
 
-## [[Fireside Chats/_Fireside Chats\|_Fireside Chats]]
+## [[Potluck/_Potluck\|_Potluck]]
 
 In these Truth Unsold moments it's just like a potluck banquet, you never know what you are going to find. The adventure awaits!
-
-## The Scrolls Section 
-
-The Scrolls are originally in the World English Bible (WEB) because it is a public domain Bible. However, we do study and edit the text so it may be altered in some areas and is no longer considered the WEB Bible per their Copyright request. When changes are made, they will be obvious, highlighted, or noted. Be sure to look in the [[Gate of Correction/_Gate of Correction\|_Gate of Correction]] Section to see if we have an in depth study of the chapter. 
 
 # Like and Follow:
 ---

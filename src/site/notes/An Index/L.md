@@ -7,7 +7,7 @@
 - [[Gate of Wisdom/Beings/Heavenly Beings/Angel of the Lord\|Angel of the Lord]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
 - [[Gate of Wisdom/L/Law\|Law]]
-- [[Gate of Foundation/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
+- [[Gate of Wisdom/L/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
 - [[Gate of Wisdom/L/Lawlessness\|Lawlessness]]
 - [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]
 - [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]]
@@ -20,7 +20,7 @@
 - [[Gate of Wisdom/L/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]
 - [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]
 - [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]
-- [[Gate of Foundation/The Law in Matthew 5\|The Law in Matthew 5]]
+- [[Gate of Wisdom/L/The Law in Matthew 5\|The Law in Matthew 5]]
 - [[Gate of Wisdom/L/The Life – Convergence of Jewish and Christian Faiths\|The Life – Convergence of Jewish and Christian Faiths]]
 
 { .block-language-dataview}

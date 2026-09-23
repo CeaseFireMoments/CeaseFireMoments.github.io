@@ -7,7 +7,7 @@
 - [[Gate of Wisdom/F/Christianity and the Feast Of Trumpets\|Christianity and the Feast Of Trumpets]]
 - [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
 - [[Gate of Wisdom/F/Fascism\|Fascism]]
-- [[Fireside Chats/Fascism\|Fascism]]
+- [[Potluck/Fascism\|Fascism]]
 - [[Gate of Wisdom/F/Fast\|Fast]]
 - [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]
 - [[Gate of Wisdom/Appointed Time/Feast\|Feast]]

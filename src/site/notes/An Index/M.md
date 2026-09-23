@@ -14,7 +14,7 @@
 - [[Gate of Wisdom/M/40 Matt-05 Yada\|40 Matt-05 Yada]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
-- [[Gate of Foundation/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
+- [[Gate of Wisdom/L/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Manna\|Manna]]
 - [[Gate of Wisdom/Sign/Mark\|Mark]]
@@ -64,6 +64,6 @@
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - [[Gate of Wisdom/B/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]
 - [[Gate of Wisdom/M/Sermon on the Mount\|Sermon on the Mount]]
-- [[Gate of Foundation/The Law in Matthew 5\|The Law in Matthew 5]]
+- [[Gate of Wisdom/L/The Law in Matthew 5\|The Law in Matthew 5]]
 
 { .block-language-dataview}

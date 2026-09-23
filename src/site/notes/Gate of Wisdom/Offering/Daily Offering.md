@@ -43,9 +43,9 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28).md\\|13 The Seventh Day Rest is for Offering (04-Num 28)]]</li></ul> |
+| file.inlinks                                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Foundation/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28).md\\|13 The Seventh Day Rest is for Offering (04-Num 28)]]</li></ul> |
 
 { .block-language-dataview}
 

@@ -5,9 +5,9 @@
 
 # Connections
 - 
-| file.inlinks                                                                        |
-| ----------------------------------------------------------------------------------- |
-| <ul><li>[[Yada Yada Pauses/40 Matt-05 YadaYada.md\\|40 Matt-05 YadaYada]]</li></ul> |
+| file.inlinks                                                                |
+| --------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/M/40 Matt-05 Yada.md\\|40 Matt-05 Yada]]</li></ul> |
 
 { .block-language-dataview}
 

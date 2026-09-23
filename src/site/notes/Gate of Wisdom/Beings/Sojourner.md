@@ -19,7 +19,7 @@
 
 # Personal Notes
 
-[[Sacred Truces/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
+[[Gate of Discernment/Foreigner, Sojourner, Stranger Among You\|Foreigner, Sojourner, Stranger Among You]]
 - **Toshav**
 	- In English translations you might see “Non-Israelite living in the land,” “temporary resident”, “resident alien”, “foreigner”, “sojourner”. See passages such as Exodus 12:14, 45; Leviticus 25:6, 23. It is often pared with Ger to become “stranger and sojourner”. This is translated as alien, sojourner, foreigner, exile in the New Testament, see Acts 7:9, 1 Peter 2:11, Ephesians 2:19.
 	- These people live WITHIN the land of Israel, but were less integrated. They can legally live and work in the community but have limited benefits. They might be a hired worker, tenant, or short-term settler. Their stay intent is more on a temporary basis. They accept the “moral” laws and reside under the Israelite authorities. They were a resident alien in more of an economic way.

@@ -48,7 +48,7 @@
 
 ## NOTES:
 
-### Heiser, Michael S.. [[Gate of Wisdom/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible. Lexham Press. Kindle Edition.
+### Heiser, Michael S.. [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible. Lexham Press. Kindle Edition.
 
 Yahweh is at the top. 
 	His family-household (“ sons of God ”) are next in hierarchy. 

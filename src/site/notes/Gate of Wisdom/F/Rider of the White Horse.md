@@ -30,9 +30,9 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Olive Branch Reconciliations/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19).md\\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]</li></ul> |
+| file.inlinks                                                                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Foundation/Mark of the Beast/04 Mark of the Beast is Allegiance to the Beast (66 Rev-19).md\\|04 Mark of the Beast is Allegiance to the Beast (66 Rev-19)]]</li></ul> |
 
 { .block-language-dataview}
 

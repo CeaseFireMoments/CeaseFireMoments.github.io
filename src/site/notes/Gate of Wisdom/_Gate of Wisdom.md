@@ -321,7 +321,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/T/Thanksgiving\|Thanksgiving]]                                                                                 |
 | [[Gate of Wisdom/D/The Dragons Prophecy\|The Dragons Prophecy]]                                                                 |
 | [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]                                                                                    |
-| [[Gate of Wisdom/The Unseen Realm\|The Unseen Realm]]                                                                           |
+| [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]                                                 |
 | [[Gate of Wisdom/Beings/Human Beings/The Way\|The Way]]                                                                         |
 | [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]                                                    |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                                     |
@@ -329,7 +329,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/S/Timeline\|Timeline]]                                                                                         |
 | [[Gate of Wisdom/T/tongues\|tongues]]                                                                                           |
 | [[Gate of Wisdom/T/Torah\|Torah]]                                                                                               |
-| [[Gate of Wisdom/Torah Class\|Torah Class]]                                                                                     |
+| [[Gate of Wisdom/Sources/Torah Class\|Torah Class]]                                                                             |
 | [[Gate of Wisdom/T/Torment\|Torment]]                                                                                           |
 | [[Gate of Wisdom/Beings/Toshav\|Toshav]]                                                                                        |
 | [[Gate of Wisdom/T/Transgression\|Transgression]]                                                                               |
