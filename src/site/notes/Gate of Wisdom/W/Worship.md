@@ -21,7 +21,7 @@
 - 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Foundation/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13).md\\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]</li><li>[[Gate of Foundation/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14).md\\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]</li></ul> |
+| <ul><li>[[Gate of Foundation/Mark of the Beast/02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14).md\\|02 Mark of the Beast is Related to Worship of the Beast (66 Rev-14)]]</li><li>[[Gate of Foundation/Mark of the Beast/01 Mark of the Beast is Given by the Second Beast (66 Rev 13).md\\|01 Mark of the Beast is Given by the Second Beast (66 Rev 13)]]</li></ul> |
 
 { .block-language-dataview}
 

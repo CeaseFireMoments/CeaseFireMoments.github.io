@@ -29,6 +29,7 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Gate of Correction/The Great Commission\|The Great Commission]]                                                                                                     |
 | [[Gate of Discernment/Study Sheets\|Study Sheets]]                                                                                                                    |
 | [[Gate of Correction/Summary of Tongues\|Summary of Tongues]]                                                                                                         |
 | [[Gate of Wisdom/F/Holy Spirit - Filling\|Holy Spirit - Filling]]                                                                                                     |
@@ -48,7 +49,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Wisdom/T/tongues\|tongues]]                                                                                                                                 |
 | [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]                                                                                                                 |
 | [[Gate of Wisdom/H/Holy Spirit Receive\|Holy Spirit Receive]]                                                                                                         |
-| [[Gate of Wisdom/H/Holy Spirit -  Speak\|Holy Spirit -  Speak]]                                                                                                       |
 
 { .block-language-dataview}
 

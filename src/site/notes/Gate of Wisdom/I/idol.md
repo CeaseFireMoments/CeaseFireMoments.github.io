@@ -20,6 +20,6 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li></ul> |
+| <ul><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li></ul> |
 
 { .block-language-dataview}

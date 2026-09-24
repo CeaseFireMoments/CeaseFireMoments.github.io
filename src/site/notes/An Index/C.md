@@ -45,6 +45,7 @@
 - [[Gate of Wisdom/C/Return of the Gods\|Return of the Gods]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
+- [[Gate of Correction/The Great Commission\|The Great Commission]]
 - [[Gate of Correction/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 
 { .block-language-dataview}

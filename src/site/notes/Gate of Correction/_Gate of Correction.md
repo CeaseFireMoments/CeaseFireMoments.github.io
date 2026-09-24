@@ -47,10 +47,10 @@ When your actions, habits, or environment feel chaotic, these provide the daily 
 | [[Gate of Correction/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]                                                       |
 | [[Gate of Correction/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]                                                                                 |
 | [[Gate of Correction/Jonah and The Disciples\|Jonah and The Disciples]]                                                                                               |
-| [[Gate of Correction/Matthew 28 v19 Baptizing in the Name\|Matthew 28 v19 Baptizing in the Name]]                                                                     |
-| [[Gate of Correction/Matthew 28 v19 Go and Teach\|Matthew 28 v19 Go and Teach]]                                                                                       |
-| [[Gate of Correction/Matthew 28 v19 Into All the World\|Matthew 28 v19 Into All the World]]                                                                           |
-| [[Gate of Correction/Matthew 28 v19 Teaching to …\|Matthew 28 v19 Teaching to …]]                                                                                     |
+| [[Gate of Correction/Matthew 28 v19-20 Baptizing in the Name\|Matthew 28 v19-20 Baptizing in the Name]]                                                               |
+| [[Gate of Correction/Matthew 28 v19-20 Go and Teach\|Matthew 28 v19-20 Go and Teach]]                                                                                 |
+| [[Gate of Correction/Matthew 28 v19-20 Into All the World\|Matthew 28 v19-20 Into All the World]]                                                                     |
+| [[Gate of Correction/Matthew 28 v19-20 Teaching to …\|Matthew 28 v19-20 Teaching to …]]                                                                               |
 | [[Gate of Correction/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]                                                         |
 | [[Gate of Correction/Matthew 5 Sermon on the Mount v 1-2 Beatitudes\|Matthew 5 Sermon on the Mount v 1-2 Beatitudes]]                                                 |
 | [[Gate of Correction/Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness\|Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness]]         |
@@ -86,6 +86,7 @@ When your actions, habits, or environment feel chaotic, these provide the daily 
 | [[Gate of Correction/Scripture Surveys\|Scripture Surveys]]                                                                                                           |
 | [[Gate of Correction/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]                                                                 |
 | [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]                                                                         |
+| [[Gate of Correction/The Great Commission\|The Great Commission]]                                                                                                     |
 | [[Gate of Correction/The Life – Convergence of Jewish and Christian Faiths\|The Life – Convergence of Jewish and Christian Faiths]]                                   |
 | [[Gate of Correction/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]                                 |
 | [[Gate of Correction/The Way – Convergence of Jewish and Christian Faiths\|The Way – Convergence of Jewish and Christian Faiths]]                                     |
