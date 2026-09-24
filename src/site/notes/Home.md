@@ -10,7 +10,9 @@
 
 Welcome to Truth Unsold where we explore topics of contentions and study the Bible.
 
-Proverbs 23:23: Buy the truth, and don’t sell it. Get wisdom, discipline, and understanding.
+> He //Jesus// ... will baptize you in the Holy Spirit and fire. ... Truly, truly, I //Jesus// say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. ... Your righteousness is an everlasting righteousness. Your law is truth. ... Buy the truth, and don’t sell it. Get wisdom, discipline, and understanding. 
+
+- *Luke 3:16, John 3:5, Proverbs 119:142, Proverbs 23:23*
 
 We’ll share the cold hard facts so you can always be ready to give an answer to everyone asking you a reason.
 

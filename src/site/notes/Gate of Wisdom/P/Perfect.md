@@ -25,7 +25,7 @@
 - 
 | file.inlinks                                                                                                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li><li>[[Gate of Discernment/59 James-01 Yada.md\\|59 James-01 Yada]]</li><li>[[Gate of Discernment/58 Heb-12 Yada.md\\|58 Heb-12 Yada]]</li></ul> |
+| <ul><li>[[Gate of Discernment/59 James-01 Yada.md\\|59 James-01 Yada]]</li><li>[[Gate of Discernment/58 Heb-12 Yada.md\\|58 Heb-12 Yada]]</li><li>[[Gate of Wisdom/Right Standing/Righteous.md\\|Righteous]]</li></ul> |
 
 { .block-language-dataview}
 

@@ -32,7 +32,7 @@
 
 | file.inlinks                                                                                                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Appointed Time/Feast of Trumpets.md\\|Feast of Trumpets]]</li><li>[[Gate of Discernment/33 Micah-04 Yada.md\\|33 Micah-04 Yada]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li></ul> |
+| <ul><li>[[Gate of Discernment/33 Micah-04 Yada.md\\|33 Micah-04 Yada]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Trumpets.md\\|Feast of Trumpets]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-04.md\\|Micah-04]]</li></ul> |
 
 { .block-language-dataview}
 

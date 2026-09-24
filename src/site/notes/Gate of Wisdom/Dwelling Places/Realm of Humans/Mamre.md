@@ -19,7 +19,7 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Beings/Human Beings/Leah.md\\|Leah]]</li><li>[[Gate of Discernment/01 Gen-35 Yada.md\\|01 Gen-35 Yada]]</li><li>[[Gate of Discernment/01 Gen-25 Yada.md\\|01 Gen-25 Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35.md\\|Gen-35]]</li></ul> |
+| <ul><li>[[Gate of Discernment/01 Gen-35 Yada.md\\|01 Gen-35 Yada]]</li><li>[[Gate of Discernment/01 Gen-25 Yada.md\\|01 Gen-25 Yada]]</li><li>[[Gate of Wisdom/Beings/Human Beings/Leah.md\\|Leah]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35.md\\|Gen-35]]</li></ul> |
 
 { .block-language-dataview}
 
