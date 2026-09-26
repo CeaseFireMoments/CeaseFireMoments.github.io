@@ -24,7 +24,7 @@
 - [[Gate of Correction/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]
 - [[Gate of Correction/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
 - [[Gate of Correction/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
-- [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]
+- [[Potluck/Rediscovering Jonah\|Rediscovering Jonah]]
 - [[Gate of Correction/Scripture Survey – Jesus Said\|Scripture Survey – Jesus Said]]
 - [[Gate of Discernment/The Exodus and Jonah\|The Exodus and Jonah]]
 - [[Gate of Discernment/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]

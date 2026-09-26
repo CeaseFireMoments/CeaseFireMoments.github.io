@@ -58,7 +58,7 @@ The Person: [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]
 
 # Resources
 - [Bible Project Overview Video](youtube.com/watch?v=dLIabZc0O4c%5C&t=1s%5C&list=PLH0Szn1yYNeeVFodkI9J%5C_WEATHQCwRZ0u%5C&index=21)
-- [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]
+- [[Potluck/Rediscovering Jonah\|Rediscovering Jonah]]
 
 # Personal Notes:
 - Jonah is written as Satire. Jonah is representative of Yah's covenant people.

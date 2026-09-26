@@ -260,7 +260,6 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]                                                        |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Red Sea\|Red Sea]]                                            |
 | [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]                                             |
-| [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]                                                  |
 | [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]                                                |
 | [[Gate of Wisdom/F/Rider of the White Horse\|Rider of the White Horse]]                                        |
 | [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]                                                         |

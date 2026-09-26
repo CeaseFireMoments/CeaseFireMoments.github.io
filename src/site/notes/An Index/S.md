@@ -103,6 +103,7 @@
 - [[Gate of Discernment/Study Sheets\|Study Sheets]]
 - [[Gate of Wisdom/S/Subjecting\|Subjecting]]
 - [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]
+- [[Gate of Wisdom/Appointed Time/Sukkot Old Testament through the New Testament into the time of Revelation\|Sukkot Old Testament through the New Testament into the time of Revelation]]
 - [[Gate of Correction/Summary of Tongues\|Summary of Tongues]]
 - [[Gate of Wisdom/S/Synagogue\|Synagogue]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]

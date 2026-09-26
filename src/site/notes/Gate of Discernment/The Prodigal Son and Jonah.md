@@ -29,6 +29,6 @@
 - [[Gate of Discernment/The Scroll of Jonah\|The Scroll of Jonah]]
 - [[Gate of Discernment/The Exodus and Jonah\|The Exodus and Jonah]]
 - [[Gate of Correction/Jonah and The Disciples\|Jonah and The Disciples]]
-- [[Gate of Wisdom/J/Rediscovering Jonah\|Rediscovering Jonah]]
+- [[Potluck/Rediscovering Jonah\|Rediscovering Jonah]]
 - Luke 15:11-32
 - Jonah 4:1-11

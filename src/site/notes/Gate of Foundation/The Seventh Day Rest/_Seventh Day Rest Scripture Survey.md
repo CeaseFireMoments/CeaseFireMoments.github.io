@@ -45,7 +45,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Hosea 2:11 [[Gate of Foundation/The Seventh Day Rest/30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)\|30 The Seventh Day Rest is Ceased When Not Legitimate (28 Hosea 2)]]
 - 1 Kings 12:32–33   [[Gate of Foundation/The Seventh Day Rest/31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)\|31 The Seventh Day Rest is Set by YHWH not by Man (14 1 Kings 12)]]
 - Psalm 104:19  [[Gate of Foundation/The Seventh Day Rest/32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)\|32 The Seventh Day Rest had the Moon Made for It (19 Psalm 104)]]
-- 1 Chronicles 23:31 / 2 Chronicles 2:4 / 2 Chronicles 8:13 / Ezra 3:5 [[Gate of Foundation/The Seventh Day Rest/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]
+- 1 Chronicles 23:31 / 2 Chronicles 2:4 / 2 Chronicles 8:13 / Ezra 3:5 [[Gate of Foundation/33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)\|33 The Seventh Day Rest Is a Day for Offerings (13-14 Chronicles 15 Ezra)]]
 - Amos 8:5     [[Gate of Foundation/The Seventh Day Rest/35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)\|35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)]]
 
 [[Gate of Foundation/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]

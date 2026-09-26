@@ -24,6 +24,6 @@
 
 | file.inlinks                                                                                                                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Discernment/01 Gen-33 Yada.md\\|01 Gen-33 Yada]]</li><li>[[Gate of Discernment/01 Gen-32 Yada.md\\|01 Gen-32 Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33.md\\|Gen-33]]</li></ul> |
+| <ul><li>[[Gate of Discernment/01 Gen-32 Yada.md\\|01 Gen-32 Yada]]</li><li>[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33.md\\|Gen-33]]</li><li>[[Gate of Discernment/01 Gen-33 Yada.md\\|01 Gen-33 Yada]]</li></ul> |
 
 { .block-language-dataview}

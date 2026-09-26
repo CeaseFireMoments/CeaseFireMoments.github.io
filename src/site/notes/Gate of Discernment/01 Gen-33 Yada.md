@@ -134,7 +134,7 @@ For reading purposes [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\
 		- So Esau returned <mark style="background: #D2B3FFA6;">that day</mark> 
 			- on his way to Seir. 
 - Jacob traveled 
-	- to Succoth, <mark style="background: #CD04BBA6;">//plural of</mark> [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]// 
+	- to Succoth, <mark style="background: #CD04BBA6;">//plural of</mark> [[Gate of Wisdom/Appointed Time/Sukkot\|Gate of Wisdom/Appointed Time/Sukkot]]// 
 		- built himself a house <mark style="background: #CD04BBA6;">//</mark>Sukkot<mark style="background: #CD04BBA6;">//</mark>, 
 		- and made shelters <mark style="background: #CD04BBA6;">//</mark>Sukkot<mark style="background: #CD04BBA6;">//</mark> for his livestock. 
 	- Therefore the name of the place is called Succoth. 

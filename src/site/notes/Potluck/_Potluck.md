@@ -6,6 +6,7 @@ In these Truth Unsold moments it's just like a potluck banquet, you never know w
 
 | Table of Content                                                                                       |
 | ------------------------------------------------------------------------------------------------------ |
+| [[Potluck/Rediscovering Jonah\|Rediscovering Jonah]]                                                |
 | [[Potluck/Antifa and the 1940 US Army\|Antifa and the 1940 US Army]]                                |
 | [[Potluck/Not the Typical Nativity - Day 1\|Not the Typical Nativity - Day 1]]                      |
 | [[Assets/Clippings/Free2Live – Politically Correct\|Free2Live – Politically Correct]]               |
