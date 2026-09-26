@@ -14,11 +14,11 @@ Welcome to Truth Unsold where we explore topics of contentions and study the Bib
 
 - *Luke 3:16, John 3:5, Proverbs 119:142, Proverbs 23:23*
 
-We’ll share the cold hard facts so you can always be ready to give an answer to everyone asking you a reason.
+We are looking into things where the truth has been untold, compromised, or distorted. We’ll share the cold hard facts so you can always be ready to give an answer to everyone asking you a reason.
 
 Have an open mind and be willing to learn, even if you just can’t bring yourself to agree.
 
-Thank you for sharing in this space. Until next time, Stand firm in the truth, and keep it unsold.”
+It's time we reclaim the truth, and then hold onto it - collecting truth unsold. Thank you for sharing in this space. Until next time, stand firm in the truth, and keep it unsold.
 
 You found our most active content we hope you will discover truth to buy, wisdom to hold, discipline to implement, and understanding!
 
